@@ -1,128 +1,128 @@
 Ailments:
-  Ailment 01: Unconscious
-  Ailment 02: Diamondized
-  Ailment 03: Paralyzed
-  Ailment 04: Nauseated
-  Ailment 05: Poisoned
-  Ailment 06: Sunstroke
-  Ailment 07: Sniffling
-  Ailment 08: Mushroomized
-  Ailment 09: Possessed
-  Ailment 10: Homesick
+  Ailment 01: Senkoncia
+  Ailment 02: Diamantigxinta
+  Ailment 03: Paralizigxinta
+  Ailment 04: Nauxzigxinta
+  Ailment 05: Venenigxinta
+  Ailment 06: Sunfrapo
+  Ailment 07: Malvarmumo
+  Ailment 08: Fungigxinto?
+  Ailment 09: Posedigxinta
+  Ailment 10: Hejmsopiro
 Battle Menu:
-  Auto Fight: Auto Fight
-  Bash: Bash
-  Defend: Defend
-  Do Nothing: Do Nothing
-  Goods: Goods
-  Mirror: Mirror
+  Auto Fight: Auxtomata Batalo
+  Bash: Bati
+  Defend: Defendi
+  Do Nothing: Fari Nenio
+  Goods: Varoj
+  Mirror: Spegulo
   PSI: PSI
-  Pray: Pray
-  Run Away: Run Away
-  Shoot: Shoot
-  Spy: Spy
+  Pray: Pregxi
+  Run Away: Fugxi
+  Shoot: Pafi
+  Spy: Spioni
 Equip Menu:
-  Arms: '     Arms'
-  Arms Window Title: Arms
-  Body: '      Body'
-  Body Window Title: Body
-  Defense: Defense
-  No Equip: (Nothing)
-  Offense: Offense
-  Other: '     Other'
-  Other Window Title: Others
-  To: To
-  Unequip: None
-  Weapon: '  Weapon'
-  Weapon Window Title: Weapons
+  Arms: '     Brakoj'
+  Arms Window Title: Brakoj
+  Body: '      Korpo'
+  Body Window Title: Korpo
+  Defense: Defendo
+  No Equip: (Nenio)
+  Offense: Ataka
+  Other: '     Alia'
+  Other Window Title: Aliaj
+  To: Al
+  Unequip: Neniu
+  Weapon: '  Armilo'
+  Weapon Window Title: Armiloj
 Item Menu:
-  Drop: Drop
-  Give: Give
-  Help: Help!
-  Use: Use
+  Drop: Forigi
+  Give: Doni
+  Help: Helpu!
+  Use: Uzi
 Menu Action Targets:
-  Where: Where?
-  Where 2: Where?
-  Which: Which?
-  Who: Who?
-  Whom: Whom?
+  Where: Kie?
+  Where 2: Kie?
+  Which: Kiu?
+  Who: Kiu?
+  Whom: De kiu?
 Other:
   Lumine Hall Text: I'm ....  It's been a long road getting here...  Soon, I'll be...  Soon,
     I'll be...  Soon, I'll be...  What will happen to us?  W...what's happening?  My
-    thoughts are being written out on the wall...  or are they?
-  Player Name Prompt: Register your name, please
+    thoughts are being written out on la wall...  or are they?
+  Player Name Prompt: Registri vian nomon, bonvolu
 Out of Battle Menu:
-  Check: Check
-  Equip: Equip
-  Goods: Goods
+  Check: Rigardi
+  Equip: Ekipi
+  Goods: Varoj
   PSI: PSI
-  Status: Status
-  Talk to: Talk to
+  Status: Statuso
+  Talk to: Parolu al
 PSI Menu:
-  PP Cost: PP Cost
-  Row Back: the Back Row
-  Row Front: the Front Row
-  Row To: 'To '
-  To all enemies: To all enemies
-  To all of us: To all of us
-  To all of us 2: To all of us
-  To enemy: To enemy
-  To one enemy: To one enemy
-  To one enemy 2: to One Enemy
-  To one of us: To one of us
-  To one of us 2: to One Friend
-  To row of foes: To row of foes
-  himself: himself
+  PP Cost: PP Kosto
+  Row Back: la Malantauxa Vico
+  Row Front: la Antauxa Vico
+  Row To: 'Al '
+  To all enemies: Al cxuij malamikoj
+  To all of us: Al cxuij da ni
+  To all of us 2: Al cxuij da ni
+  To enemy: Al malamikoj
+  To one enemy: Al unu malamiko
+  To one enemy 2: al Unu Malamiko
+  To one of us: Al unu da ni
+  To one of us 2: al Unu Amiko
+  To row of foes: Al vico da malamik/'
+  himself: sin
 PSI Types:
-  Assist: Assist
-  Offense: Offense
-  Other: Other
-  Recover: Recover
+  Assist: Asisit
+  Offense: Ataka
+  Other: Alia
+  Recover: Resanigxi
 Starting Text:
-  Ask Name 1: Please name him.
-  Ask Name 2: Name her, too.
-  Ask Name 3: Name your friend.
-  Ask Name 4: Name another friend.
-  Ask Name Food: Favorite homemade food?
-  Ask Name PSI: What's your favorite thing?
-  Ask Name Pet: Name your pet.
-  Confirm All: Are you sure?
-  Confirm All No: Nope
-  Confirm All Yes: Yep
-  Confirm Delete: Are you sure you want to delete?
-  Confirm Delete No: 'No'
-  Confirm Delete Yes: 'Yes'
-  Confirm Food: 'Favorite food:'
-  Confirm PSI: 'Coolest thing:'
-  Continue: Continue
-  Copy: Copy
-  Copy to where?: Copy to where?
-  Delete: Delete
-  Select Sound: Please select sound setting.
-  Select Sound Mono: Mono
-  Select Sound Stereo: Stereo
-  Select Speed: Please select text speed.
-  Select Style: Which style of windows do you prefer?
-  Set Up: Set Up
-  Start New Game: Start New Game
-  Text Speed: 'Text Speed:'
-  Text Speed Fast: Fast
-  Text Speed Medium: Medium
-  Text Speed Slow: Slow
+  Ask Name 1: Bonvolu nomu lin.
+  Ask Name 2: Nomu sxin, ankaux.
+  Ask Name 3: Nomu via amiko.
+  Ask Name 4: Nomu plia amiko.
+  Ask Name Food: Favorata memfarita mangxajxo?
+  Ask Name PSI: Kion via faratas ajxo?
+  Ask Name Pet: Nomu via hejmbesto.
+  Confirm All: Cxu vi certas?
+  Confirm All No: Ne
+  Confirm All Yes: Jes
+  Confirm Delete: Cxu vi certas vi volas forvisxi?
+  Confirm Delete No: 'Ne'
+  Confirm Delete Yes: 'Jes'
+  Confirm Food: 'Favorata mangxajxo:'
+  Confirm PSI: 'Plej mojosa ajxo:'
+  Continue: Dauxrigi
+  Copy: Kopii
+  Copy to where?: Kopii al kien?
+  Delete: Visxi
+  Select Sound: Bonvolu elekti agordon de sono.
+  Select Sound Mono: Monofonio
+  Select Sound Stereo: Stereofonio
+  Select Speed: Bonvolu elekti rapidon de teksto.
+  Select Style: De kiu stilo de montrofenestro vi preferas?
+  Set Up: Agordi
+  Start New Game: Eksalti Nova Ludo
+  Text Speed: 'Rapido de Teksto:'
+  Text Speed Fast: Rapida
+  Text Speed Medium: Meza
+  Text Speed Slow: Malrapida
 Status Window:
-  Defense: 'Defense:'
-  Exp. for next level: Exp. for next level.
-  Experience Points: 'Experience Points:'
-  Guts: 'Guts:'
-  Hit Points: 'Hit Points:'
+  Defense: 'Defendo:'
+  Exp. for next level: Sperta por sekva nivelo.
+  Experience Points: 'Sperta Poentoj:'
+  Guts: 'Auxdaco:'
+  Hit Points: 'Batita Poentoj:'
   IQ: 'IQ:'
-  Level: 'Level:'
-  Luck: 'Luck:'
-  Offense: 'Offense:'
-  PSI Prompt: '@Press the -A- Button for PSI info.'
-  Psychic Points: 'Psychic Points:'
-  Speed: 'Speed:'
-  Vitality: 'Vitality:'
+  Level: 'Nivelo:'
+  Luck: 'Sxanco:'
+  Offense: 'Ataka:'
+  PSI Prompt: '@Premi la -A- Butono por PSI informi.'
+  Psychic Points: 'Psika Poentoj:'
+  Speed: 'Rapido:'
+  Vitality: 'Vigleco:'
 Window Titles:
-  Escargo Express Window Title: Stored Goods
-  Phone Window Title: Call
+  Escargo Express Window Title: Stokintaj Varoj
+  Phone Window Title: Voki
