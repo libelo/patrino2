@@ -76,10 +76,10 @@ l_0xc7c57d:
     call(data_49.l_0xc915f4) "{sound(37)}{pause(90)}" eob
 
 l_0xc7c588:
-    "[06 94 02 {e(data_25.l_0xc6bef9)}]@Who are you talking to?" end
+    "[06 94 02 {e(data_25.l_0xc6bef9)}]@Al kiu vi parolas?" end
 
 l_0xc7c59e:
-    "[06 B0 01 {e(data_09.l_0xc58ebb)}]@No problem here." end
+    "[06 B0 01 {e(data_09.l_0xc58ebb)}]@Neniu problemo cxi tie." end
 
 l_0xc7c5b0:
     "[19 19 00 00]{store_registers}" call(data_36.l_0xc7dc85) "{load_registers}{swap}" eob
@@ -88,13 +88,13 @@ l_0xc7c5c0:
     "{load_registers}{swap}" eob
 
 l_0xc7c5c5:
-    "himself." end
+    "sin." end
 
 l_0xc7c5cd:
     "{store_registers}" call(data_36.l_0xc7dc85) "[1B 03 {e(l_0xc7c5e4)}]{load_registers}{swap}[1C 02 00].[03]" eob
 
 l_0xc7c5e4:
-    "{load_registers}{swap}[1C 02 00]'s belongings.[03]" eob
+    "{load_registers}{swap}[1C 02 00] de apartenajxoj.[03]" eob
 
 l_0xc7c5f7:
     "{swap}[1C 02 00] ###failed.[03]" end
@@ -104,7 +104,7 @@ l_0xc7c609:
     "  the {swap}[1C 05 00]." end
 
 l_0xc7c655:
-    "@You shouldn't throw the [1C 05 00] away." end
+    "@Vi ne devus forjxeti la [1C 05 00]." end
 
 l_0xc7c669:
     "@Don't spit your gum out. " next
@@ -112,26 +112,26 @@ l_0xc7c669:
 
 l_0xc7c693:
     "{load_registers}{swap}@" call(data_37.l_0xc7e74e) linebreak
-    "  got rid of" linebreak
+    "  forjxetita" linebreak
     "  [1C 02 00]'s {swap}[1C 05 00]." end
 
 l_0xc7c6b6:
-    "[19 1F]{swap}@You can't use" linebreak
-    "  the [1C 05 00]." end
+    "[19 1F]{swap}@Vi ne povas uzi" linebreak
+    "  la [1C 05 00]." end
 
 l_0xc7c6c9:
-    "[19 19 00 00]{swap}@[1C 02 00] is the only one who should carry" linebreak
-    "  the {swap}[1C 05 00]." end
+    "[19 19 00 00]{swap}@[1C 02 00] estas la nur homo kiu devus porti" linebreak
+    "  la {swap}[1C 05 00]." end
 
 l_0xc7c6f1:
-    "[19 1F]{swap}@The [1C 05 00] can't be used here." end
+    "[19 1F]{swap}@La [1C 05 00] ne povas uzi cxi tie." end
 
 l_0xc7c705:
     "{store_registers}[19 19 00 00]{swap}{result_is(104)}[1B 03 {e(l_0xc7c761)}]{load_registers}[19 19 00 00]@Why would you do that?" linebreak
     "  The [1C 05 00] would probably make you barf." end
 
 l_0xc7c742:
-    "[19 19 00 00]@The [1C 05 00] is one of the items that can be equipped." end
+    "[19 19 00 00]@The [1C 05 00] estas unu el la ajxoj ke povas ekipi." end
 
 l_0xc7c761:
     "{load_registers}[19 19 00 00]{swap}@[1C 02 00] chewed" linebreak
@@ -428,11 +428,11 @@ l_0xc7d92a:
 
 l_0xc7d947:
     newline
-    "@There is a [1C 05 00] inside![03]" eob
+    "@Tiu cxi estas [1C 05 00] ene![03]" eob
 
 l_0xc7d958:
     newline
-    "@[1C 02 00] takes it.{swap}" end
+    "@[1C 02 00] prenas gxin.{swap}" end
 
 l_0xc7d967:
     "[19 10 01]{swap}" newline
@@ -441,5 +441,5 @@ l_0xc7d967:
 
 l_0xc7d991:
     newline
-    "[19 10 01]@But, " call(data_36.l_0xc7e5f3) " has got too much stuff already." end
+    "[19 10 01]@Sed, " call(data_36.l_0xc7e5f3) " jam havas tro multe ajxoj." end
 
