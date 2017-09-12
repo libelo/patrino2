@@ -79,20 +79,20 @@ PSI Types:
   Other: Alia
   Recover: Sanigxa
 Starting Text:
-  Ask Name 1: Bonvolu nomu lin.
-  Ask Name 2: Nomu sxin, ankaux.
-  Ask Name 3: Nomu via amiko.
-  Ask Name 4: Nomu plia amiko.
+  Ask Name 1: Bonvolu nomu lin
+  Ask Name 2: Nomu sxin, ankaux
+  Ask Name 3: Nomu via amiko
+  Ask Name 4: Nomu plia amiko
   Ask Name Food: Via favorata manxaxo?
   Ask Name PSI: Via faratas ajxo?
-  Ask Name Pet: Nomu via hejmbesto.
+  Ask Name Pet: Nomu via hejmbesto
   Confirm All: Cxu vi certas?
   Confirm All No: Ne
   Confirm All Yes: Jes
   Confirm Delete: Cxu vi certvolas forvisxi?
   Confirm Delete No: 'Ne'
   Confirm Delete Yes: 'Jes'
-  Confirm Food: 'Favorata mangxajxo:'
+  Confirm Food: 'Favorata mangxaxo'
   Confirm PSI: 'Plej mojosa ajxo:'
   Continue: Dauxrigi
   Copy: Kopii
