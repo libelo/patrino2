@@ -56,8 +56,8 @@ Out of Battle Menu:
   Equip: Ekipi
   Goods: Varoj
   PSI: PSI
-  Status: Statuso
-  Talk to: Parolu al
+  Status: Status
+  Talk to: Parolu
 PSI Menu:
   PP Cost: PP Kost
   Row Back: Malantawa Vico
@@ -74,10 +74,10 @@ PSI Menu:
   To row of foes: Al vico da malamik
   himself: sin
 PSI Types:
-  Assist: Asisit
+  Assist: Asista
   Offense: Ataka
   Other: Alia
-  Recover: Resanigxi
+  Recover: Sanigxa
 Starting Text:
   Ask Name 1: Bonvolu nomu lin.
   Ask Name 2: Nomu sxin, ankaux.
