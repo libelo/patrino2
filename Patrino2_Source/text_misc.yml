@@ -10,7 +10,7 @@ Ailments:
   Ailment 09: Posedigxinta
   Ailment 10: Hejmsopiro
 Battle Menu:
-  Auto Fight: Auxtomata Batalo
+  Auto Fight: Auto Batalo
   Bash: Bati
   Defend: Defendi
   Do Nothing: Fari Nenio
@@ -28,12 +28,12 @@ Equip Menu:
   Body Window Title: Korpo
   Defense: Defendo
   No Equip: (Nenio)
-  Offense: Ataka
-  Other: '     Alia'
+  Offense: '  Ataka'
+  Other: '      Alia'
   Other Window Title: Aliaj
   To: Al
   Unequip: Neniu
-  Weapon: '  Armilo'
+  Weapon: '  Armiloj'
   Weapon Window Title: Armiloj
 Item Menu:
   Drop: Fori
@@ -112,17 +112,17 @@ Starting Text:
 Status Window:
   Defense: 'Defendo:'
   Exp. for next level: Exp por sekva nivel.
-  Experience Points: 'Exp Points:'
+  Experience Points: 'Experience Points:'
   Guts: 'Guca:'
   Hit Points: 'Hit Points:'
   IQ: 'IQ:'
   Level: 'Nivel:'
   Luck: 'Sanc:'
-  Offense: 'Ataka:'
-  PSI Prompt: '@Premi la -A- Butono por PSI info.'
-  Psychic Points: 'Psika Points:'
+  Offense: '  Ataka:'
+  PSI Prompt: ' @Premi la -A- Butono por PSI info.'
+  Psychic Points: '  Psika Points:'
   Speed: 'Speed:'
-  Vitality: 'Vigleco:'
+  Vitality: ' Vigleco:'
 Window Titles:
   Escargo Express Window Title: Stok/' Varoj
   Phone Window Title: Voki

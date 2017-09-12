@@ -285,8 +285,8 @@ l_0xc55627:
 l_0xc5566b:
     newline
     " <[1C 05 B1]>" next
-    "@You know, you shouldn't leave home without..." next
-    "@It even works overseas!" end
+    "@Vi scias, vi ne devus foriru hejmo sen..." next
+    "@Gxi ecx funkcias transmara!" end
 
 l_0xc5569c:
     newline
