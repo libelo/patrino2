@@ -80,31 +80,31 @@ PSI Types:
   Recover: Sanigxa
 Starting Text:
   Ask Name 1: Bonvolu nomu lin
-  Ask Name 2: Nomu sxin, ankaux
+  Ask Name 2: Kaj sxin, ankaux
   Ask Name 3: Nomu via amiko
   Ask Name 4: Nomu plia amiko
   Ask Name Food: Via favorata manxaxo?
   Ask Name PSI: Via faratas ajxo?
   Ask Name Pet: Nomu via hejmbesto
-  Confirm All: Cxu vi certas?
+  Confirm All: Vi certas?
   Confirm All No: Ne
   Confirm All Yes: Jes
   Confirm Delete: Cxu vi certvolas forvisxi?
   Confirm Delete No: 'Ne'
   Confirm Delete Yes: 'Jes'
   Confirm Food: 'Fav. Mangxaxo:'
-  Confirm PSI: 'Plej mojosa ajxo:'
+  Confirm PSI: 'Mojosega ajxo:'
   Continue: Dauxrigi
   Copy: Kopii
   Copy to where?: Kopii al kien?
   Delete: Visxi
   Select Sound: Bonvolu elekti sonagordon.
-  Select Sound Mono: Monofonio
-  Select Sound Stereo: Stereofonio
-  Select Speed: Bonvolu elekti rapidon de teksto.
+  Select Sound Mono: MONO
+  Select Sound Stereo: STEREO
+  Select Speed: Rapido de teksto?
   Select Style: Stilo de montrofenestro vi preferas?
   Set Up: Agordi
-  Start New Game: Eksalti Nova Ludo
+  Start New Game: Ek Novan Ludon
   Text Speed: 'Rap. Tekst:'
   Text Speed Fast: Rapida
   Text Speed Medium: Meza
