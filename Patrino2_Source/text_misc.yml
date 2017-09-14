@@ -1,13 +1,13 @@
 Ailments:
   Ailment 01: Senkoncia
-  Ailment 02: Diamantigxinta
-  Ailment 03: Paralizigxinta
-  Ailment 04: Nauxzigxinta
-  Ailment 05: Venenigxinta
+  Ailment 02: Diamanti[B1]inta
+  Ailment 03: Paralizi[B1]inta
+  Ailment 04: Nauxzi[B1]inta
+  Ailment 05: Veneni[B1]inta
   Ailment 06: Sunfrapo
   Ailment 07: Malvarmumo
-  Ailment 08: Fungigxinto?
-  Ailment 09: Posedigxinta
+  Ailment 08: Fungi[B1]into?
+  Ailment 09: Posedi[B1]inta
   Ailment 10: Hejmsopiro
 Battle Menu:
   Auto Fight: Auto Batalo
@@ -17,8 +17,8 @@ Battle Menu:
   Goods: Varoj
   Mirror: Spegulo
   PSI: PSI
-  Pray: Pregxi
-  Run Away: Fugxi
+  Pray: Pre[B1]i
+  Run Away: Fu[B1]i
   Shoot: Pafi
   Spy: Spioni
 Equip Menu:
@@ -63,9 +63,9 @@ PSI Menu:
   Row Back: Malantawa Vico
   Row Front: Antawa Vico
   Row To: 'Al '
-  To all enemies: Al cxuij malamikoj
-  To all of us: Al cxuij da ni
-  To all of us 2: Al cxuij da ni
+  To all enemies: Al [C0]uij malamikoj
+  To all of us: Al [C0]uij da ni
+  To all of us 2: Al [C0]uij da ni
   To enemy: Al malamikoj
   To one enemy: Al unu malamiko
   To one enemy 2: al Unu Malamiko
@@ -77,24 +77,24 @@ PSI Types:
   Assist: Asista
   Offense: Ataka
   Other: Alia
-  Recover: Sanigxa
+  Recover: Sani[B1]a
 Starting Text:
   Ask Name 1: Bonvolu nomu lin
-  Ask Name 2: Kaj sxin, ankaux
+  Ask Name 2: Kaj [C4]in, anka[C5]
   Ask Name 3: Nomu via amiko
   Ask Name 4: Nomu plia amiko
-  Ask Name Food: Via favorata manxaxo?
-  Ask Name PSI: Via faratas ajxo?
+  Ask Name Food: Via favorata man[C1]a[C3]o?
+  Ask Name PSI: Via faratas a[C3]o?
   Ask Name Pet: Nomu via hejmbesto
   Confirm All: Vi certas?
   Confirm All No: Ne
   Confirm All Yes: Jes
-  Confirm Delete: Cxu vi certvolas forvisxi?
+  Confirm Delete: '[B0]u vi certvolas forvi[C4]i?'
   Confirm Delete No: 'Ne'
   Confirm Delete Yes: 'Jes'
-  Confirm Food: 'Fav. Mangxaxo:'
-  Confirm PSI: 'Mojosega ajxo:'
-  Continue: Dauxrigi
+  Confirm Food: 'Fav. an[C1]a[C3]o:'
+  Confirm PSI: 'Mojosega a[C3]o:'
+  Continue: Da[C5]rigi
   Copy: Kopii
   Copy to where?: Kopii al kien?
   Delete: Visxi
