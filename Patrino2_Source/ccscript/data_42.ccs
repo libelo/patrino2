@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -8,13 +8,13 @@ command e(label) "{long label}"
 
 // Text Data
 l_0xc856fc:
-    "@Good morning!" next
-    "@This is a unique service, exclusive to our hotel only!" next
-    "@I'm here to read you today's headline." next
+    "@Bona morning!" next
+    "@[B0]i tiu estas a unique service, exclusive al nia hotel only!" next
+    "@Mi'm here al read vi hodia[C5]'s headline." next
     eob
 
 l_0xc8574a:
-    "@On the front page of the Fourside Post..." next
+    "@On la front page of la Fourside Post..." next
     eob
 
 l_0xc85767:
@@ -29,132 +29,132 @@ l_0xc857bb:
     "@<Mysterious department store blackout caused by mouse>" end
 
 l_0xc8581b:
-    call(l_0xc856fc) call(l_0xc8574a) "@<Over 50% of Fourside citizens now support Anti-Monotoly campaign>" next
-    "@And on page 23 of the Fourside Post." next
-    "@<Lonely demise in the city.  Long-haired man with beard," next
-    "@sunglasses and aloha shirt found in street>" end
+    call(l_0xc856fc) call(l_0xc8574a) "@<Over 50% of Fourside citizens nun support Anti-Monotoly campaign>" next
+    "@Kaj on page 23 of la Fourside Post." next
+    "@<Lonely demise en la city.  long-haired viro kun beard," next
+    "@sunglasses kaj aloha shirt found en street>" end
 
 l_0xc858ba:
-    call(l_0xc856fc) call(l_0xc8574a) "@<Famed Mr. Monotoly leaves Fourside.  States he is going on a trip>" end
+    call(l_0xc856fc) call(l_0xc8574a) "@<Famed Mr. Monotoly leaves Fourside.  States li estas okazas a trip>" end
 
 l_0xc858f0:
-    call(l_0xc856fc) "  The Fourside Post says..." next
-    "@Yoicks!  I made a mistake and brought a newspaper called Fourside Star." next
-    "@Let me read this anyway..." next
-    "@<Lucky of the Tonzura Brothers found to have been a member of the state" next
-    "@House of Representatives>" next
-    "@...That's got to be a lie..." end
+    call(l_0xc856fc) "  La Fourside Post says..." next
+    "@Yoicks!  Mi made a mistake kaj brought a newspaper called Fourside Star." next
+    "@Let mi read [C0]i tiu anyway..." next
+    "@<Lucky of la Tonzura Brothers found al havas been a member of la state" next
+    "@Domo of Representatives>" next
+    "@...Tio's got al be a lie..." end
 
 l_0xc85985:
-    call(l_0xc856fc) call(l_0xc8574a) "@<Prince [1C 02 04] of Ramma visiting Fourside in secret?>" end
+    call(l_0xc856fc) call(l_0xc8574a) "@<Prince [1C 02 04] of Ramma visiting Fourside en secret?>" end
 
 l_0xc859b5:
-    call(l_0xc856fc) "  On page 25 of the Fourside Post..." next
+    call(l_0xc856fc) "  On page 25 of la Fourside Post..." next
     "@<Venus becomes toast of Fourside Autograph hunters creating problems for famed singer>" end
 
 l_0xc85a11:
-    call(l_0xc856fc) "  On page 3 of the Fourside Post..." next
-    "@<Criminal activity in Scarabi?" next
-    "@Sacred treasure of pyramid, the [1C 05 AF] stolen>" end
+    call(l_0xc856fc) "  On page 3 of la Fourside Post..." next
+    "@<Criminal activity en Scarabi?" next
+    "@Sacred treasure of pyramid, la [1C 05 AF] stolen>" end
 
 l_0xc85a6c:
-    call(l_0xc856fc) "  Here's an advertisement in today's Fourside Post." next
-    "@<Higher than everywhere else!" linebreak
-    " (That's height, not price)" linebreak
+    call(l_0xc856fc) "  Here's an advertisement en hodia[C5]'s Fourside Post." next
+    "@<Higher ol everywhere else!" linebreak
+    " (Tio's height, ne price)" linebreak
     " Monotoly Grand Hotel>" next
-    "@Hey!  That's our hotel!" end
+    "@Hey!  Tio's nia hotel!" end
 
 l_0xc85ad8:
-    call(l_0xc856fc) "  On page 13 of the Fourside Post..." next
-    "@<Newspaper reading by bellboys is not exclusive to Fourside only" next
-    "@Do not be taken in by bellboys just looking for a tip>" next
-    "@...I'm so ashamed..." end
+    call(l_0xc856fc) "  On page 13 of la Fourside Post..." next
+    "@<Newspaper reading by bellboys estas ne exclusive al Fourside only" next
+    "@Do ne be taken en by bellboys just looking for a tip>" next
+    "@...Mi'm so ashamed..." end
 
 l_0xc85b55:
-    call(l_0xc856fc) call(l_0xc8574a) "@<The best newspaper of all the others" next
-    "@Everyone reads the Fourside Post each morning>" next
-    "@...Is this the page one headline?" end
+    call(l_0xc856fc) call(l_0xc8574a) "@<La plejgranda newspaper of [C0]io la others" next
+    "@Everyone reads la Fourside Post each morning>" next
+    "@...Estas [C0]i tiu la page unu headline?" end
 
 l_0xc85bab:
-    call(l_0xc856fc) call(l_0xc8574a) "@<Megalopolis Fourside to have another busy day>" end
+    call(l_0xc856fc) call(l_0xc8574a) "@<Megalopolis Fourside al havas another busy tago>" end
 
 l_0xc85bd4:
     call(data_40.l_0xc841de) "{ctoarg}{swap}[1F C0 1D {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85c99)} {e(l_0xc85cd3)} {e(l_0xc85d13)} {e(l_0xc85d45)} {e(l_0xc85de3)} {e(l_0xc85e27)} {e(l_0xc85e65)} {e(l_0xc85eb1)} {e(l_0xc85f32)}]" eob
 
 l_0xc85c55:
     "@Ah, sir..." linebreak
-    " Are you already on your way to the beach?" next
+    " Are vi already on via way al la beach?" next
     eob
 
 l_0xc85c76:
-    "@Here is this morning's headlines from the Daily Summers..." next
+    "@Here estas [C0]i tiu morning's headlines from la Daily Summers..." next
     eob
 
 l_0xc85c99:
-    call(l_0xc85c55) call(l_0xc85c76) "@<People reported missing one after another in our sister city Winters>" end
+    call(l_0xc85c55) call(l_0xc85c76) "@<People reported missing unu after another en nia fratino city Winters>" end
 
 l_0xc85cd3:
-    call(l_0xc85c55) call(l_0xc85c76) "@<Yesterday the same as the day before yesterday" next
-    "@Today to be the same as yesterday>" end
+    call(l_0xc85c55) call(l_0xc85c76) "@<Yesterday la same as la tago before yesterday" next
+    "@hodia[C5] al be la same as yesterday>" end
 
 l_0xc85d13:
     call(l_0xc85c55) call(l_0xc85c76) "@<Prince [1C 02 04] of Ramma visiting Summers secretly?>" end
 
 l_0xc85d45:
-    call(l_0xc85c55) "@Today's Daily Summers says..." next
-    "@Ooo la la,{pause(10)} I brought the wrong paper by mistake.  It is the Summer Inquirerer" next
-    "@Listen to this headline..." next
-    "@<Huge rat found living in sewer system>" next
-    "@...I really do not think so..." end
+    call(l_0xc85c55) "@hodia[C5]'s Daily Summers says..." next
+    "@Ooo la la,{pause(10)} Mi brought la wrong paper by mistake.  [B1]i estas la Summer Inquirerer" next
+    "@a[C5]skulti al [C0]i tiu headline..." next
+    "@<Huge rat found living en sewer system>" next
+    "@...Mi vere do ne pensi so..." end
 
 l_0xc85de3:
-    call(l_0xc85c55) call(l_0xc85c76) "@<Intruders in Scarabi Pyramid!{pause(10)} Summers remains a peaceful paradise>" end
+    call(l_0xc85c55) call(l_0xc85c76) "@<Intruders en Scarabi Pyramid!{pause(10)} Summers remains a peaceful paradise>" end
 
 l_0xc85e27:
-    call(l_0xc85c55) call(l_0xc85c76) "@<Breeze blew through the palm trees last night>" next
-    "@...{pause(10)} This is big news here." end
+    call(l_0xc85c55) call(l_0xc85c76) "@<Breeze blew through la palm trees last nokto>" next
+    "@...{pause(10)} [B0]i tiu estas granda news here." end
 
 l_0xc85e65:
     call(l_0xc85c55) call(l_0xc85c76) "@<Kraken Fin makes a beautiful soup!" next
-    "@New gourmet dish makes big waves at the beach>" end
+    "@New gourmet dish makes granda waves at la beach>" end
 
 l_0xc85eb1:
-    call(l_0xc85c55) "@There's a great advertisement in this morning's Daily Summers" next
+    call(l_0xc85c55) "@Tia's a bonega advertisement en [C0]i tiu morning's Daily Summers" next
     "@<Stop doing anything complicated." next
-    "@Forget about solving mysteries and completing stages!" next
-    "@Welcome to the easy life in Summers!>" end
+    "@Forget about solving mysteries kaj completing stages!" next
+    "@Bonvenon al la easy vivo en Summers!>" end
 
 l_0xc85f32:
-    call(l_0xc85c55) call(l_0xc85c76) "@<Yesterday was the same as the day before yesterday" next
-    "@Today will be the same as yesterday>" end
+    call(l_0xc85c55) call(l_0xc85c76) "@<Yesterday estis la same as la tago before yesterday" next
+    "@hodia[C5] will be la same as yesterday>" end
 
 l_0xc85f76:
     call(data_40.l_0xc841de) "{ctoarg}{swap}[1F C0 1D {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86059)} {e(l_0xc86088)} {e(l_0xc860b9)} {e(l_0xc860e4)} {e(l_0xc86112)} {e(l_0xc86147)} {e(l_0xc86186)}]" eob
 
 l_0xc85ff7:
-    "@Good morning, good sir!" next
-    "@Please allow me to read to you from the local newspaper," next
-    "@the Scarabi Papyrus..." next
+    "@Bona morning, bona sir!" next
+    "@Please allow mi al read al vi from la local newspaper," next
+    "@la Scarabi Papyrus..." next
     eob
 
 l_0xc8603c:
-    "@...{pause(10)}Well ...there is some news here about..." next
+    "@...{pause(10)}Well ...tia estas iom news here about..." next
     eob
 
 l_0xc86059:
-    call(l_0xc85ff7) call(l_0xc8603c) "@<Kraken, the evil sea monster, now gone forever!>" next
+    call(l_0xc85ff7) call(l_0xc8603c) "@<Kraken, la evil sea monster, nun gone forever!>" next
     end
 
 l_0xc86088:
-    call(l_0xc85ff7) call(l_0xc8603c) "@<Activity at pyramid the first in 300 years>" next
+    call(l_0xc85ff7) call(l_0xc8603c) "@<Activity at pyramid la first en 300 jaroj>" next
     end
 
 l_0xc860b9:
-    call(l_0xc85ff7) call(l_0xc8603c) "@<[1C 05 AF] stolen from the pyramid in the desert!>" next
+    call(l_0xc85ff7) call(l_0xc8603c) "@<[1C 05 AF] stolen from la pyramid en la desert!>" next
     end
 
 l_0xc860e4:
-    call(l_0xc85ff7) call(l_0xc8603c) "@<Mysterious moving tower sighted in desert!>" next
+    call(l_0xc85ff7) call(l_0xc8603c) "@<Mysterious moving tower sighted en desert!>" next
     end
 
 l_0xc86112:
@@ -162,30 +162,30 @@ l_0xc86112:
     end
 
 l_0xc86147:
-    call(l_0xc85ff7) call(l_0xc8603c) "@<Children who dash then disappear sighted, but only for an instant>" next
+    call(l_0xc85ff7) call(l_0xc8603c) "@<Children kiu dash then disappear sighted, sed only for an instant>" next
     end
 
 l_0xc86186:
-    call(l_0xc85ff7) call(l_0xc8603c) "@<Terrible sound recently heard" next
-    "@Possibly the sound of evil being destroyed beyond our time and space>" next
+    call(l_0xc85ff7) call(l_0xc8603c) "@<Terrible sound recently a[C5]dis" next
+    "@Possibly la sound of evil being destroyed beyond nia tempo kaj space>" next
     end
 
 l_0xc861dd:
-    "@Good morn...{pause(10)}  Uhhh... not morning.{pause(10)}" next
-    "@Here{pause(5)} in Moonside, it's always the middle of the night." next
-    "@This is a headline from tonight's Moonside Press..." next
-    "@<Mani Mani is {pause(10)} always Mani Mani {pause(10)} at Mani Mani with all {pause(10)} Mani Mani {pause(10)} Mani>" end
+    "@Bona morn...{pause(10)}  Uhhh... ne morning.{pause(10)}" next
+    "@Here{pause(5)} en Moonside, [C1]i's [C0]iam la middle of la nokto." next
+    "@[B0]i tiu estas a headline from tonight's Moonside Press..." next
+    "@<Mani Mani estas {pause(10)} [C0]iam Mani Mani {pause(10)} at Mani Mani kun [C0]io {pause(10)} Mani Mani {pause(10)} Mani>" end
 
 l_0xc86279:
-    "[06 4F 00 {e(l_0xc86320)}][06 84 00 {e(l_0xc862b8)}]@(Caution!{pause(30)}  There are still lots of fires burning here and there.{pause(20)}  It's HOT!)" end
+    "[06 4F 00 {e(l_0xc86320)}][06 84 00 {e(l_0xc862b8)}]@(Caution!{pause(30)}  Tia are still lots of fires burning here kaj tia.{pause(20)}  [B1]i's HOT!)" end
 
 l_0xc862b8:
-    "@There is something shiny that you can reach." next
-    "@Do you want to try and get it?" linebreak
-    "[19 02]Yes" eob
+    "@Tia estas io shiny tio vi povas reach." next
+    "@Do vi volas al try kaj get [C1]i?" linebreak
+    "[19 02]Jes" eob
 
 l_0xc862e3:
-    "[19 02]No" eob
+    "[19 02]Ne" eob
 
 l_0xc862e8:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc862f8)} {e(l_0xc862f7)}]" goto(l_0xc862f7)
@@ -197,229 +197,229 @@ l_0xc862f8:
     "[1D 03 FF][1B 02 {e(l_0xc86311)}][1D 0E 00 C1][1B 05]" call(data_36.l_0xc7dcb6) "{set(flag 79)}" end
 
 l_0xc86311:
-    "@You don't have any more space." end
+    "@Vi don't havas ajn more space." end
 
 l_0xc86320:
-    "@(Seems like a big meteorite landed here not too long ago.)" end
+    "@(Seems like a granda meteorite landed here ne tro long ago.)" end
 
 l_0xc8634c:
-    "@Even if you're poor, come and see how easy it is to own a luxurious second home!" next
+    "@E[C0] se vi're poor, veni kaj vidi kiel easy [C1]i estas al own a luxurious second hejmo!" next
     "@<Beak Point Real Estate>" end
 
 l_0xc86399:
     "@<Bush Hospital>" next
-    "@The best hospital care in Onett!{pause(15)}  We put our life into operating on you!" end
+    "@La plejgranda hospital care en Onett!{pause(15)}  Ni put nia vivo into operating on vi!" end
 
 l_0xc863da:
-    "@(The flowers in the garden are representative of those in your heart." next
-    "@Treat them both nice.)" end
+    "@(La flowers en la garden are representative of those en via heart." next
+    "@Treat ilin both nice.)" end
 
 l_0xc86419:
     "@Traveling entertainer's shack." end
 
 l_0xc86431:
     "@<Giant Step>" next
-    "@North, at the top of the mountain" linebreak
-    "  Danger!  Do Not Enter!" end
+    "@North, at la top of la mountain" linebreak
+    "  Danger!  Do Ne Enter!" end
 
 l_0xc86467:
     "@Onett City Hall" end
 
 l_0xc86477:
-    "@Road to Twoson." end
+    "@Road al Twoson." end
 
 l_0xc86483:
-    "@Mom's really cooking now.  <Down Home Burgers>" end
+    "@Panjo's vere cooking nun.  <Down Hejmo Burgers>" end
 
 l_0xc864a7:
-    "@Break the course of violence.  Don't break the wind of change." next
+    "@Break la course of violence.  Don't break la wind of change." next
     "@<Fresh Breeze Movement>" end
 
 l_0xc864e6:
     "@<Onett Public Library>{pause(20)}" linebreak
-    "  Use the library more!" end
+    "  Use la library more!" end
 
 l_0xc86511:
-    "@South to the" linebreak
+    "@South al la" linebreak
     "  suburbs of Onett." end
 
 l_0xc8652a:
-    "@Don't wander this far away from town." linebreak
+    "@Don't wander [C0]i tiu far away from town." linebreak
     "  <Fresh Breeze Movement>" end
 
 l_0xc86554:
-    "@Welcome to Happy Happy Village!" end
+    "@Bonvenon al feli[C0]a feli[C0]a Village!" end
 
 l_0xc86568:
     "@<Meager Livin' Farm>" linebreak
     "  (Lodgings available)" end
 
 l_0xc86591:
-    "@<Entrance to Nusutto Park>" next
-    "@No admittance to good kids or police officers." end
+    "@<Entrance al Nusutto Park>" next
+    "@Ne admittance al bona kids a[C5] police officers." end
 
 l_0xc865cb:
     "@Twoson--" linebreak
-    "  This is the second town, so it's called <Twoson>." next
-    "@Did you notice?" end
+    "  [B0]i tiu estas la second town, so [C1]i's called <Twoson>." next
+    "@Did vi notice?" end
 
 l_0xc865f3:
-    "@If you see a suspicious fellow,{pause(15)} just pretend not to see him." end
+    "@Se vi vidi a suspicious fellow,{pause(15)} just pretend ne al vidi lin." end
 
 l_0xc8661b:
-    "@If you have time to read this, go to the Chaos Theater immediately." end
+    "@Se vi havas tempo al read [C0]i tiu, iri al la Chaos Theater immediately." end
 
 l_0xc86646:
-    "@<Secret Entrance to Nusutto Park>" end
+    "@<Secret Entrance al Nusutto Park>" end
 
 l_0xc86663:
-    "@Are you happy now?{pause(20)}" linebreak
-    "  <Happy Happy Religious Group>" end
+    "@Are vi feli[C0]a nun?{pause(20)}" linebreak
+    "  <feli[C0]a feli[C0]a Religious Group>" end
 
 l_0xc86689:
-    "@<Two-Three Tunnel>{pause(20)}" linebreak
-    "  To the town of Threek." end
+    "@<du-tri Tunnel>{pause(20)}" linebreak
+    "  Al la town of Threek." end
 
 l_0xc866ab:
-    "@(Home of Orange Kid, inventor)" end
+    "@(Hejmo of Orange Kid, inventor)" end
 
 l_0xc866c4:
-    "@(Home of Apple Kid, inventor)" end
+    "@(Hejmo of Apple Kid, inventor)" end
 
 l_0xc866dd:
     "  Hint Shop <Realization>" end
 
 l_0xc866f3:
-    "@(This Bulletin Board" linebreak
-    "  greets you on this evening." linebreak
-    "  All is well, Good Night.)" end
+    "@([B0]i tiu Bulletin Board" linebreak
+    "  greets vi on [C0]i tiu vespero." linebreak
+    "  [B0]io estas well, Bona Nokto.)" end
 
 l_0xc8672b:
     end
 
 l_0xc8672d:
-    "@(Want to escape to the Beach?{pause(15)}  If this is your big dream..." next
-    "@Come to Carrillon Beach in Summers!{pause(20)}" linebreak
+    "@(Volas al escape al la Beach?{pause(15)}  Se [C0]i tiu estas via granda dream..." next
+    "@Veni al Carrillon Beach en Summers!{pause(20)}" linebreak
     "  Summers Tourism Bureau.)" end
 
 l_0xc86787:
-    "@If you miss a nice, cozy bed, walk to the west...  We're right there!" next
+    "@Se vi miss a nice, cozy lito, walk al la west...  Ni're right tia!" next
     "@<Threek Sunset Hotel>" end
 
 l_0xc867c5:
-    "@(<Horses say <neigh,> but the Hint Shop says <yea> to giving you a hint.>" next
+    "@(<Horses say <neigh,> sed la Hint Shop says <yea> al giving vi a hint.>" next
     "@Eagleland Hint Union)" end
 
 l_0xc86813:
-    "@No pitching of tents in this area without permission." end
+    "@Ne pitching of tents en [C0]i tiu area sen permission." end
 
 l_0xc8683d:
-    "[19 10 01]{swap}@[1C 02 00] checked the drawers." next
-    "[06 F3 02 {e(l_0xc8688e)}][19 10 01]{swap}@There was a [1C 05 CE] in the drawer." next
+    "[19 10 01]{swap}@[1C 02 00] checked la drawers." next
+    "[06 F3 02 {e(l_0xc8688e)}][19 10 01]{swap}@Tia estis a [1C 05 CE] en la drawer." next
     "[1D 03 FF][1B 02 {e(l_0xc8689c)}][1D 0E 00 CE]" call(data_36.l_0xc7dccf) "{set(flag 755)}" end
 
 l_0xc8688e:
-    "@But there was nothing." end
+    "@Sed tia estis Nenio." end
 
 l_0xc8689c:
-    "@But you don't have any more space." end
+    "@Sed vi don't havas ajn more space." end
 
 l_0xc868ad:
-    "@(There is lots of junk like this bulletin board at the junk shop <Busted Up,>" next
-    "@located in the back alley of the department store.)" end
+    "@(Tia estas lots of junk like [C0]i tiu bulletin board at la junk shop <Busted Up,>" next
+    "@located en la back alley of la department store.)" end
 
 l_0xc86900:
     "@(Planning Meeting for" next
-    "  MOTHER 3." next    "@Only those who are related to this project are allowed to enter." next
+    "  patrino 3." next    "@Only those kiu are related al [C0]i tiu project are allowed al enter." next
     "@APE Software Development Team)" end
 
 l_0xc86961:
     "@First Floor <Fourside Bakery>" next
-    "@Second Floor <2F of the Bakery>" end
+    "@Second Floor <2F of la Bakery>" end
 
 l_0xc86995:
-    "@(I can sense..." linebreak
-    "  that... you have a controller... in your... hands...)" end
+    "@(Mi povas sense..." linebreak
+    "  tio... vi havas a controller... en via... hands...)" end
 
 l_0xc869be:
-    "@Hey!  It's Magicant!" end
+    "@Hey!  [B1]i's Magicant!" end
 
 l_0xc869cb:
-    "@Come on in to Magicant!" end
+    "@Veni on en al Magicant!" end
 
 l_0xc869dd:
     "@Scarabi Cultural Museum" next
     "@(Hieroglyph exhibition currently under re-construction.)" end
 
 l_0xc86a25:
-    "@(Recently, a strange fellow has been wandering around this hospital saying" next
-    "@he can cure you of the afflictions that we can't treat." next
-    "@Please be informed that he has no connection to the hospital." next
+    "@(Recently, a strange fellow has been wandering around [C0]i tiu hospital saying" next
+    "@li povas cure vi of la afflictions tio ni povas't treat." next
+    "@Please be informed tio li has ne connection al la hospital." next
     "@Fourside Hospital Management)" end
 
 l_0xc86ab2:
     eob
 
 l_0xc86ab3:
-    "@This is not a hotel." linebreak
-    "  Staying for the night is not permitted." end
+    "@[B0]i tiu estas ne a hotel." linebreak
+    "  Staying for la nokto estas ne permitted." end
 
 l_0xc86ad7:
-    "@(Aren't you stuck?{pause(20)}  If you want a hint, come and get it!" next
+    "@(Aren't vi stuck?{pause(20)}  Se vi volas a hint, veni kaj get [C1]i!" next
     "@Eagleland Hint Union)" end
 
 l_0xc86b10:
     "@(<Tombstone Blow-out Sale>" linebreak
-    "  We have a special discount" next
-    "@for those who have passed on in this hospital." next
-    "@What would you like written on your tombstone?" next
+    "  Ni havas a special discount" next
+    "@for those kiu havas passed on en [C0]i tiu hospital." next
+    "@Kio would vi like written on via tombstone?" next
     "@Onett Hospital Surgery Team)" end
 
 l_0xc86b8f:
     "@(<Members needed>" linebreak
     "  Popular Music Club." next
-    "@Those who have a guitar, bass or drums, apply now." next
+    "@Those kiu havas a guitar, bass a[C5] drums, apply nun." next
     "@Caracas Cathedral," linebreak
     "  Napalm wound," linebreak
     "  Minky Cadillac," next
     "@Sun Bunnies," linebreak
-    "  the Creeps," next
+    "  la Creeps," next
     "@Run Around TownKinky Kids," linebreak
     "  Bjork," next
     "@Takashi Hosokawa" linebreak
-    "  or Horenso." next
-    "@We welcome anyone who likes to listen to these bands." next
-    "@Only serious, mature fans need apply." next
+    "  a[C5] Horenso." next
+    "@Ni bonvenon ajnulo kiu likes al a[C5]skulti al these bands." next
+    "@Only serious, mature fans bezonas apply." next
     "@Please contact Lou." end
 
 l_0xc86cb4:
-    "@(Relax, take it easy!" linebreak
-    "  It's all in your head..." next
-    "@A healthy mind is a healthy body.)" end
+    "@(Relax, take [C1]i easy!" linebreak
+    "  [B1]i's [C0]io en via head..." next
+    "@A healthy mind estas a healthy Korpo.)" end
 
 l_0xc86cf4:
-    "@(There is a well-known theory that if you are bitten by zombies," next
-    "@bite back and you can recover." next
-    "@Of course, there is no scientific evidence to support this theory.)" end
+    "@(Tia estas a well-known theory tio se vi are bitten by zombies," next
+    "@bite back kaj vi povas recover." next
+    "@Of course, tia estas ne scientific evidence al support [C0]i tiu theory.)" end
 
 l_0xc86d59:
-    "@(To recover or not depends on luck." next
-    "@Believe in your luck.  Believe your doctor also." next
-    "@The Doctor believes in his luck.)" end
+    "@(Al recover a[C5] ne depends on [C4]an[C0]o." next
+    "@Believe en via [C4]an[C0]o.  Believe via doctor anka[C5]." next
+    "@La Doctor believes en lia [C4]an[C0]o.)" end
 
 l_0xc86da8:
-    "@(Dinosaur bones believed to be from southern Scarabi." next
-    "@Don't ask for any details." linebreak
-    "  Our research is continuing.)" end
+    "@(Dinosaur bones believed al be from southern Scarabi." next
+    "@Don't ask for ajn details." linebreak
+    "  Nia research estas continuing.)" end
 
 l_0xc86dfb:
-    "[06 4B 00 {e(l_0xc86e2f)}][06 91 00 {e(l_0xc86e14)}]@No problem here." end
+    "[06 4B 00 {e(l_0xc86e2f)}][06 91 00 {e(l_0xc86e14)}]@Ne problem here." end
 
 l_0xc86e14:
     call(data_24.l_0xc69082) "[19 10 01]{swap}@?{pause(30)}?{pause(30)}?{wait}{wait}[1F 21 99][19 26 00]" eob
 
 l_0xc86e2f:
-    "@No problem here.{wait}[19 26 05]" eob
+    "@Ne problem here.{wait}[19 26 05]" eob
 
 l_0xc86e3d:
     "{counter(4)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(data_43.l_0xc8709d)}][06 49 00 {e(data_43.l_0xc870a4)}][06 11 00 {e(data_43.l_0xc8709d)}]" goto(data_43.l_0xc86e58)

@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -10,7 +10,7 @@ command e(label) "{long label}"
 l_0xef806d:
     newline
     "{sound(25)}@{user} growled" linebreak
-    "  and lunged forward![03]" eob
+    "  kaj lunged forward![03]" eob
 
 l_0xef808d:
     newline
@@ -29,7 +29,7 @@ l_0xef80c4:
 
 l_0xef80e4:
     newline
-    "{sound(25)}@{user} sprayed a gigantic blast of water!" linebreak
+    "{sound(25)}@{user} sprayed a gigantic blast of akvo!" linebreak
     "[03]" eob
 
 l_0xef8109:
@@ -68,7 +68,7 @@ l_0xef81c4:
 
 l_0xef81d7:
     newline
-    "{sound(25)}@{user} is being" linebreak
+    "{sound(25)}@{user} estas being" linebreak
     "  absentminded.[03]" eob
 
 l_0xef81f1:
@@ -78,22 +78,22 @@ l_0xef81f1:
 
 l_0xef8211:
     newline
-    "{sound(25)}@{user} is" linebreak
+    "{sound(25)}@{user} estas" linebreak
     "  wobbly.[03]" eob
 
 l_0xef8226:
     newline
-    "{sound(25)}@{user} is" linebreak
+    "{sound(25)}@{user} estas" linebreak
     "  reeling.[03]" eob
 
 l_0xef8239:
     newline
     "{sound(25)}@{user} has" linebreak
-    "  a big grin on " call(data_37.l_0xc7e66e) " face.[03]" eob
+    "  a granda grin on " call(data_37.l_0xc7e66e) " viza[C1]o.[03]" eob
 
 l_0xef825c:
     newline
-    "{sound(25)}@{user} is taking deep breaths for the next assault." linebreak
+    "{sound(25)}@{user} estas taking deep breaths for la next assault." linebreak
     "[03]" eob
 
 l_0xef8281:
@@ -103,12 +103,12 @@ l_0xef8281:
 
 l_0xef8299:
     newline
-    "{sound(25)}@{user} is" linebreak
+    "{sound(25)}@{user} estas" linebreak
     "  making a loud, piercing howl.[03]" eob
 
 l_0xef82bc:
     newline
-    "{sound(25)}@{user} is" linebreak
+    "{sound(25)}@{user} estas" linebreak
     "  saying <tick-tock.>[03]" eob
 
 l_0xef82d7:
@@ -118,8 +118,8 @@ l_0xef82d7:
 
 l_0xef82f7:
     newline
-    "{sound(25)}@{user} used an" linebreak
-    "  electrical shock attack![03]" eob
+    "{sound(25)}@{user} uzis an" linebreak
+    "  electrical shock atako![03]" eob
 
 l_0xef8317:
     newline
@@ -129,12 +129,12 @@ l_0xef8317:
 l_0xef833e:
     newline
     "{sound(25)}@{user} reached" linebreak
-    "  out with its icy hand.[03]" eob
+    "  out kun its icy hand.[03]" eob
 
 l_0xef835c:
     newline
     "{sound(25)}@{user} played" linebreak
-    "  a flute with " call(data_37.l_0xc7e66e) " poisonous breath![03]" eob
+    "  a flute kun " call(data_37.l_0xc7e66e) " poisonous breath![03]" eob
 
 l_0xef838a:
     newline
@@ -149,18 +149,18 @@ l_0xef83a8:
 l_0xef83ca:
     newline
     "{sound(25)}@{user} breathed" linebreak
-    "  in through " call(data_37.l_0xc7e66e) " flute![03]" eob
+    "  en through " call(data_37.l_0xc7e66e) " flute![03]" eob
 
 l_0xef83ed:
     newline
     "{sound(25)}@{user} leaped" linebreak
-    "  forward and spread its wings![03]" eob
+    "  forward kaj spread its wings![03]" eob
 
 l_0xef8413:
     newline
     "{sound(25)}@{user} became" linebreak
-    "  friendly and affectionate!" next
-    "@You backed off." linebreak
+    "  friendly kaj affectionate!" next
+    "@Vi backed off." linebreak
     "[03]" eob
 
 l_0xef843f:
@@ -171,48 +171,48 @@ l_0xef8444:
 
 l_0xef8445:
     newline
-    "@{target} is acting" linebreak
+    "@{target} estas acting" linebreak
     "  a little bit strange.[03]" eob
 
 l_0xef845d:
     newline
-    "@{user} is acting" linebreak
+    "@{user} estas acting" linebreak
     "  a bit unusual.[03]" eob
 
 l_0xef8477:
     newline
-    "@{user} is" linebreak
+    "@{user} estas" linebreak
     "  feeling funky.[03]" eob
 
 l_0xef848c:
     newline
-    "[1F 41 08][1B 02 {e(l_0xef84a7)}]{sound(25)}@{user} is attacking!{sound(26)}[03]" eob
+    "[1F 41 08][1B 02 {e(l_0xef84a7)}]{sound(25)}@{user} estas attacking!{sound(26)}[03]" eob
 
 l_0xef84a7:
-    "{sound(24)}@{user} attacks!{sound(26)}[03]" eob
+    "{sound(24)}@{user} atakas!{sound(26)}[03]" eob
 
 l_0xef84b6:
     newline
-    "{sound(24)}@{user} attacks!{sound(27)}[03]" eob
+    "{sound(24)}@{user} atakas!{sound(27)}[03]" eob
 
 l_0xef84c6:
     newline
-    "@{user} is on guard." eob
+    "@{user} estas on guard." eob
 
 l_0xef84d4:
     newline
     "@{user} relaxed" linebreak
-    "  and took a deep breath.[03]" eob
+    "  kaj took a deep breath.[03]" eob
 
 l_0xef84f3:
     newline
-    "@" call(data_37.l_0xc7e6d7) " tried to get away,{pause(60)}" next
-    "@and did![03]" eob
+    "@" call(data_37.l_0xc7e6d7) " tried al get away,{pause(60)}" next
+    "@kaj did![03]" eob
 
 l_0xef8511:
     newline
-    "@" call(data_37.l_0xc7e6d7) " tried to get away,{pause(60)}" next
-    "@but couldn't![03]" eob
+    "@" call(data_37.l_0xc7e6d7) " tried al get away,{pause(60)}" next
+    "@sed couldn't![03]" eob
 
 l_0xef8530:
     newline
@@ -357,7 +357,7 @@ l_0xef89ce:
 l_0xef89e0:
     newline
     "{sound(28)}@{user} prayed" linebreak
-    "  with her whole heart![03]" eob
+    "  kun her whole heart![03]" eob
 
 l_0xef89fe:
     newline
@@ -366,42 +366,42 @@ l_0xef89fe:
 
 l_0xef8a18:
     newline
-    "{sound(25)}@{user} gave you" linebreak
-    "  a great big hug.[03]" eob
+    "{sound(25)}@{user} gave vi" linebreak
+    "  a bonega granda hug.[03]" eob
 
 l_0xef8a33:
     newline
     "{sound(25)}@{user} let loose" linebreak
-    "  with a hacking cough.[03]" eob
+    "  kun a hacking cough.[03]" eob
 
 l_0xef8a52:
     newline
-    "{sound(25)}@{user} used" linebreak
-    "  " call(data_37.l_0xc7e66e) " misery attack![03]" eob
+    "{sound(25)}@{user} uzis" linebreak
+    "  " call(data_37.l_0xc7e66e) " misery atako![03]" eob
 
 l_0xef8a6f:
     newline
     "{sound(25)}@{user} utilized a" linebreak
-    "  paint attack![03]" eob
+    "  paint atako![03]" eob
 
 l_0xef8a8c:
     newline
-    "{sound(25)}@{user} came out" linebreak
+    "{sound(25)}@{user} venis out" linebreak
     "  swinging![03]" eob
 
 l_0xef8aa3:
     newline
     "{sound(25)}@{user} scratched" linebreak
-    "  with its claws![03]" eob
+    "  kun its claws![03]" eob
 
 l_0xef8ac2:
     newline
     "{sound(25)}@{user} pecked" linebreak
-    "  at your eyes![03]" eob
+    "  at via eyes![03]" eob
 
 l_0xef8add:
     newline
-    "{sound(25)}@{user} rammed and trampled you![03]" eob
+    "{sound(25)}@{user} rammed kaj trampled vi![03]" eob
 
 l_0xef8af8:
     newline

@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -8,89 +8,89 @@ command e(label) "{long label}"
 
 // Text Data
 l_0xc5cf0a:
-    "@Oh, I don't think you can carry any more." end
+    "@Ho, Mi don't pensi vi povas carry ajn more." end
 
 l_0xc5cf1c:
-    "@Thank you very much." next
+    "@Dankon tre much." next
     eob
 
 l_0xc5cf26:
-    "@Thank you very much." next
+    "@Dankon tre much." next
     eob
 
 l_0xc5cf30:
-    "@Would you like to buy anything else?" linebreak
+    "@Would vi like al A[C0]eti anything else?" linebreak
     eob
 
 l_0xc5cf3d:
-    "@[1C 02 00] is already carrying too many things." next
-    "@Can someone else carry it?" linebreak
+    "@[1C 02 00] estas already carrying tro many a[C3]oj." next
+    "@povas iu else carry [C1]i?" linebreak
     eob
 
 l_0xc5cf60:
     " resort)" goto(l_0xc5cf67)
 
 l_0xc5cf67:
-    "@We've got some really spectacular things!" next
+    "@Ni've got iom vere spectacular a[C3]oj!" next
     eob
 
 l_0xc5cf82:
-    "@Please come again." end
+    "@Please veni again." end
 
 l_0xc5cf8a:
-    "@You really should eat here! " end
+    "@Vi vere should eat here! " end
 
 l_0xc5cf9b:
-    "@What would you like?[03]" eob
+    "@Kio would vi like?[03]" eob
 
 l_0xc5cfa6:
     "@[1C 05 00]?" next
     eob
 
 l_0xc5cfae:
-    "@Who is going to carry it?[03]" eob
+    "@Kiu estas going al carry [C1]i?[03]" eob
 
 l_0xc5cfba:
-    "@Do you mean to tell me you are not going to buy anything...?" end
+    "@Do vi mean al tell mi vi are ne going al A[C0]eti anything...?" end
 
 l_0xc5cfd5:
-    "@You don't have enough money." end
+    "@Vi don't havas enough mono." end
 
 l_0xc5cfdf:
-    "@You are carrying too many things already." next
-    "@Sell something, or throw something away, and come back." end
+    "@Vi are carrying tro many a[C3]oj already." next
+    "@Vendi io, a[C5] throw io away, kaj veni back." end
 
 l_0xc5d00c:
-    "@Thank you very much.[03]" eob
+    "@Dankon tre much.[03]" eob
 
 l_0xc5d015:
-    "@Thank you very much.[03]" eob
+    "@Dankon tre much.[03]" eob
 
 l_0xc5d01e:
-    "@Would you like to buy one more?" linebreak
+    "@Would vi like al A[C0]eti unu more?" linebreak
     eob
 
 l_0xc5d02d:
-    "@[1C 02 00] is already carrying too many things." next
-    "@Can someone else carry it?" linebreak
+    "@[1C 02 00] estas already carrying tro many a[C3]oj." next
+    "@povas iu else carry [C1]i?" linebreak
     eob
 
 l_0xc5d050:
     "@Oooga boooga." linebreak
-    "  (May I help you?)" next
+    "  (May Mi helpi vi?)" next
     eob
 
 l_0xc5d06d:
     "@Ungawa goongaloo!" linebreak
-    "  (Thank you very much.)" end
+    "  (Dankon tre much.)" end
 
 l_0xc5d08d:
     "@Woongu Goongaree!" linebreak
-    "  (Please come again.)" end
+    "  (Please veni again.)" end
 
 l_0xc5d0aa:
     "@Wakka ungawa?" linebreak
-    "  (What would you like?)" next
+    "  (Kio would vi like?)" next
     eob
 
 l_0xc5d0c9:
@@ -100,41 +100,41 @@ l_0xc5d0c9:
 
 l_0xc5d0df:
     "@Spoongawa goonga ugh!?" linebreak
-    "  (Who is going to carry it?)[03]" eob
+    "  (Kiu estas going al carry [C1]i?)[03]" eob
 
 l_0xc5d104:
     "@Goongoo, woo woo!" linebreak
-    "  (Come again.)" next
+    "  (Veni again.)" next
     eob
 
 l_0xc5d120:
     "@Wunga woo gun woonga wakka!!" linebreak
-    "  (You don't have enough money.)" next
+    "  (Vi don't havas enough mono.)" next
     eob
 
 l_0xc5d148:
     "@Whoa!  Woon woonga wakka woo!" linebreak
-    "  (You are already carrying too many things.)" end
+    "  (Vi are already carrying tro many a[C3]oj.)" end
 
 l_0xc5d178:
     "@Ungaah, goon wakkawoo!" linebreak
-    "  (Thank you very much.)" next
+    "  (Dankon tre much.)" next
     eob
 
 l_0xc5d19d:
     "@Wanga woon gawa din goo!" linebreak
-    "  (Thank you for shopping here.)" next
+    "  (Dankon for shopping here.)" next
     eob
 
 l_0xc5d1c7:
     "@Wakka gowoon din woo?!" linebreak
-    "  (Would you like anything else?)" linebreak
+    "  (Would vi like anything else?)" linebreak
     eob
 
 l_0xc5d1ed:
     "@Ungawa ungawa ungawa woo!  Wonga wakka woonga!" linebreak
-    "  ([1C 02 00] is already carrying too many things." next
-    "@  Can someone else help {swap}" call(data_37.l_0xc7e6a4) " out?)" linebreak
+    "  ([1C 02 00] estas already carrying tro many a[C3]oj." next
+    "@  povas iu else helpi {swap}" call(data_37.l_0xc7e6a4) " out?)" linebreak
     eob
 
 l_0xc5d24b:

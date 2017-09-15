@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -8,83 +8,83 @@ command e(label) "{long label}"
 
 // Text Data
 l_0xc7546f:
-    "@Okay...{wait}{window_closeall}" call(data_24.l_0xc695ba) eob
+    "@Okej...{wait}{window_closeall}" call(data_24.l_0xc695ba) eob
 
 l_0xc7547d:
-    "[06 F1 02 {e(l_0xc755ad)}][06 83 02 {e(l_0xc755c4)}]@Wow,{pause(10)} you've become such a strong,{pause(10)} young man." next
-    "@I'd like to hear all of your stories," next
-    "@but I don't want to barrage you with questions the minute walk through the door." next
-    "[06 7E 02 {e(l_0xc7552d)}]@I don't want your girlfriend to hate me, after all." next
-    "@It's good to meet you,{pause(15)} [1C 02 02]." next
+    "[06 F1 02 {e(l_0xc755ad)}][06 83 02 {e(l_0xc755c4)}]@Wow,{pause(10)} vi've become such a Forta,{pause(10)} young viro." next
+    "@Mi'd like al a[C5]di [C0]io of via stories," next
+    "@sed Mi don't volas al barrage vi kun questions la minute walk through la pordo." next
+    "[06 7E 02 {e(l_0xc7552d)}]@Mi don't volas via girlfriend al malamas mi, after [C0]io." next
+    "@[B1]i's bona al meet vi,{pause(15)} [1C 02 02]." next
     goto(l_0xc7552d)
 
 l_0xc7552d:
-    "@After all your chats with people you met on your adventure are finally over," next
-    "@please come back here." next
-    "@The photo-man brought an album by." next
-    "@I'd like to look at it with you...{wait}{window_closeall}{set(flag 643)}{isset(flag 654)}[1B 02 {e(data_55.l_0xc9992f)}]{pause(60)}[1F F1 15 00 29 00]{set(flag 753)}" eob
+    "@After [C0]io via chats kun people vi met on via adventure are finally over," next
+    "@please veni back here." next
+    "@La photo-viro brought an album by." next
+    "@Mi'd like al look at [C1]i kun vi...{wait}{window_closeall}{set(flag 643)}{isset(flag 654)}[1B 02 {e(data_55.l_0xc9992f)}]{pause(60)}[1F F1 15 00 29 00]{set(flag 753)}" eob
 
 l_0xc755ad:
-    "@[1C 02 01],{pause(15)} could you get the phone?" end
+    "@[1C 02 01],{pause(15)} could vi get la telefono?" end
 
 l_0xc755c4:
-    "@Did you finish doing everything that you wanted to?" next
-    "[19 02]Yes" eob
+    "@Did vi finish doing [C0]io tio vi volis al?" next
+    "[19 02]Jes" eob
 
 l_0xc755e6:
-    " [19 02]No" eob
+    " [19 02]Ne" eob
 
 l_0xc755ec:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc7562f)} {e(l_0xc755fb)}]" goto(l_0xc755fb)
 
 l_0xc755fb:
-    "@You'd better do everything,{pause(15)} because once you start looking at the album," next
-    " @you can't stop!" end
+    "@Vi'd better do [C0]io,{pause(15)} [C0]ar once vi start looking at la album," next
+    " @vi povas't stop!" end
 
 l_0xc7562f:
-    "@Okay!{pause(20)}  Now you can finally share your incredible experiences with me..." next
-    "@You did so well![03]{window_closeall}" call(data_24.l_0xc69082) call(data_36.l_0xc7dd6b) "{music(94)}[1F 14 05][06 7E 02 {e(l_0xc75695)}][1F EB 02 06][1F 15 02 00 0D 03 01]{pause(1)}[1F F2 02 00 0A 00]" goto(l_0xc75695)
+    "@Okej!{pause(20)}  Nun vi povas finally share via incredible experiences kun mi..." next
+    "@Vi did so well![03]{window_closeall}" call(data_24.l_0xc69082) call(data_36.l_0xc7dd6b) "{music(94)}[1F 14 05][06 7E 02 {e(l_0xc75695)}][1F EB 02 06][1F 15 02 00 0D 03 01]{pause(1)}[1F F2 02 00 0A 00]" goto(l_0xc75695)
 
 l_0xc75695:
     "[1F EB 01 06][1F 15 01 00 0C 03 01]{pause(1)}[1F F2 01 00 0A 00][1F 16 0E 00 05][1F F1 0E 00 0A 00][1F 16 12 00 05][1F F1 12 00 0A 00]{pause(120)}{pause(120)}{pause(120)}{pause(120)}{pause(120)}{pause(60)}[1F 15 92 00 06 03 01]{pause(60)}{pause(100)}[1F 15 6A 00 7A 02 01][1F 61][1F 41 0B]" call(data_36.l_0xc7dd6b) "[1F EB FF 06][1F 21 E1]{music(95)}[1F 15 8F 00 F8 02 01][1F 61][1F 15 58 01 F9 02 01][1F 61][1F 15 C1 01 FA 02 01][1F 61][1F 41 0C]{pause(60)}" call(data_58.l_0xc9c7fa) eob
 
 l_0xc75717:
-    "[06 49 00 {e(l_0xc75899)}][06 4A 00 {e(l_0xc75865)}]{isset(flag 469)}[1B 02 {e(l_0xc7576b)}][06 64 00 {e(l_0xc75827)}][06 5E 00 {e(l_0xc7579e)}]@(I've got fleas sucking me dry,{pause(15)} so I'm just going to lie still for now.)" end
+    "[06 49 00 {e(l_0xc75899)}][06 4A 00 {e(l_0xc75865)}]{isset(flag 469)}[1B 02 {e(l_0xc7576b)}][06 64 00 {e(l_0xc75827)}][06 5E 00 {e(l_0xc7579e)}]@(Mi've got fleas sucking mi dry,{pause(15)} so Mi'm just going al lie still for nun.)" end
 
 l_0xc7576b:
-    "@(Besides humans,{pause(15)} dogs also sleep at night.{pause(20)}  Why aren't you asleep?)" end
+    "@(Besides humans,{pause(15)} dogs anka[C5] dormi at nokto.{pause(20)}  Kial aren't vi asleep?)" end
 
 l_0xc7579e:
-    "@(Do you want me to go with you?)" linebreak
-    "  [19 02]Yes" eob
+    "@(Do vi volas mi al iri kun vi?)" linebreak
+    "  [19 02]Jes" eob
 
 l_0xc757b6:
-    "  [19 02]No" eob
+    "  [19 02]Ne" eob
 
 l_0xc757bd:
     " [1C 07 02][11]{clearline}[09 02 {e(l_0xc757fb)} {e(l_0xc757cd)}]" goto(l_0xc757cd)
 
 l_0xc757cd:
-    "@(Oh,{pause(10)} I get it.{pause(20)}  You just wanted to talk to me because I'm so lovable.)" end
+    "@(Ho,{pause(10)} Mi get [C1]i.{pause(20)}  Vi just volis al paroli al mi [C0]ar Mi'm so lovable.)" end
 
 l_0xc757fb:
-    "@(I guess I have no choice.{pause(20)}  Let's go.)[03]{sound(16)}" call(data_22.l_0xc680f2) "{unset(flag 304)}{set(flag 444)}" eob
+    "@(Mi guess Mi havas ne choice.{pause(20)}  Let's iri.)[03]{sound(16)}" call(data_22.l_0xc680f2) "{unset(flag 304)}{set(flag 444)}" eob
 
 l_0xc75827:
-    "{isset(flag 444)}[1B 02 {e(l_0xc758cc)}]@(I don't wanna go out anymore." next
-    "@I don't care if everyone thinks I'm a stubborn mutt.)" end
+    "{isset(flag 444)}[1B 02 {e(l_0xc758cc)}]@(Mi don't volas iri out anymore." next
+    "@Mi don't care se everyone thinks Mi'm a stubborn mutt.)" end
 
 l_0xc75865:
-    "@(At this point,{pause(15)} you guys just might be the strongest force in the world," next
-    "@don't you think?)" end
+    "@(At [C0]i tiu point,{pause(15)} vi guys just might be la strongest force en la mondo," next
+    "@don't vi pensi?)" end
 
 l_0xc75899:
-    "@(Other dogs haven't figured it out yet," next
-    "@but I know that you guys saved the world!)" end
+    "@(Alia dogs haven't figured [C1]i out yet," next
+    "@sed Mi scii tio vi guys saved la mondo!)" end
 
 l_0xc758cc:
-    "@(I like being at home,{pause(10)} relaxing quietly..." next
-    "@Can't ya see--{pause(15)}I don't wanna go outside!)" end
+    "@(Mi like being at hejmo,{pause(10)} relaxing quietly..." next
+    "@povas't ya vidi--{pause(15)}Mi don't volas iri outside!)" end
 
 l_0xc75909:
     "[06 49 00 {e(l_0xc75b0f)}]" goto(l_0xc75910)
@@ -96,121 +96,121 @@ l_0xc75929:
     "@Beeeep...{wait}{sound(11)}" eob
 
 l_0xc75936:
-    "@[1C 01 08] answered the phone." next
-    "{sound(11)}{pause(20)}" call(data_16.l_0xc5e812) "@Hello,{pause(10)} it's your dad." next
-    "@<Work to exhaustion when you're young...>" next
-    "@Have you ever heard of a weird saying like this?" next
-    "@Just remember,{pause(15)} I'm always behind you 100%.  Don't be afraid." next
-    "@I know that you're brave.{pause(20)}  You can do it!" next
-    "@Don't forget to call me periodically during your adventure." next
-    "@I can make a record of your progress when you call me." next
-    "@Oh yeah,{pause(15)} I deposited $30 into your bank account." next
-    "@Do you have your ATM card?" next
-    "@Withdraw your money from any cash machine and buy whatever you need." next
-    "@Good Luck,{pause(15)} m'boy!{pause(20)}  I feel like such a hero!" next
-    "@What?{pause(10)}  Well,{pause(10)} the father of a hero,{pause(10)} at least.  Wa ha ha!" next
+    "@[1C 01 08] answered la telefono." next
+    "{sound(11)}{pause(20)}" call(data_16.l_0xc5e812) "@Saluton,{pause(10)} [C1]i's via pa[C0]jo." next
+    "@<Work al exhaustion kie vi're young...>" next
+    "@havas vi ever a[C5]dis of a weird saying like [C0]i tiu?" next
+    "@Just Memori,{pause(15)} Mi'm [C0]iam behind vi 100%.  Don't be timas." next
+    "@Mi scii tio vi're brave.{pause(20)}  Vi povas do [C1]i!" next
+    "@Don't forget al call mi periodically dum via adventure." next
+    "@Mi povas fari a record of via progress kie vi call mi." next
+    "@Ho Ja,{pause(15)} Mi deposited $30 into via banko account." next
+    "@Do vi havas via ATM karto?" next
+    "@Withdraw via mono from ajn cash ma[C4]ino kaj A[C0]eti whatever vi bezonas." next
+    "@Bona [C4]an[C0]o,{pause(15)} m'knabo!{pause(20)}  Mi senti like such a hero!" next
+    "@Kio?{pause(10)}  Well,{pause(10)} la Patro of a hero,{pause(10)} at least.  Wa ha ha!" next
     "@Slam!{pause(20)}  Beeeeeeeep!{wait}{sound(11)}{set(flag 98)}{unset(flag 95)}{unset(flag 753)}{unset(flag 467)}{set(flag 199)}[1D 06 1E 00 00 00]{save}[19 26 01]" eob
 
 l_0xc75b0f:
-    "{isset(flag 753)}[1B 02 {e(l_0xc75910)}]{isset(flag 654)}[1B 02 {e(l_0xc75910)}]{sound(11)}{pause(20)}" call(data_16.l_0xc5e812) "{window_open(1)}@Hello?{pause(20)}  Is this [1C 02 01]'s residence?{pause(20)}  Is [1C 02 01] around?" next
-    "@Ah!{pause(20)}  You're [1C 02 01],{pause(15)} right?" next
-    "@It's me,{pause(15)} the tough business man!" next
-    "@You remember--{pause(15)}from the Deep Darkness." next
-    "@I never got the money back that you borrowed," next
-    "@but,{pause(15)} lucky you,{pause(15)} I bumped into your dad and he paid the debt for you." next
-    "@I just wanted to let you know." next
-    "@Gotta go now--{pause(15)}busy,{pause(10)} busy,{pause(10)} busy!" next
+    "{isset(flag 753)}[1B 02 {e(l_0xc75910)}]{isset(flag 654)}[1B 02 {e(l_0xc75910)}]{sound(11)}{pause(20)}" call(data_16.l_0xc5e812) "{window_open(1)}@Saluton?{pause(20)}  Estas [C0]i tiu [1C 02 01]'s residence?{pause(20)}  Estas [1C 02 01] around?" next
+    "@Ah!{pause(20)}  Vi're [1C 02 01],{pause(15)} right?" next
+    "@[B1]i's mi,{pause(15)} la tough business viro!" next
+    "@Vi Memori--{pause(15)}from la Deep Darkness." next
+    "@Mi neniam got la mono back tio vi borrowed," next
+    "@sed,{pause(15)} lucky vi,{pause(15)} Mi bumped into via pa[C0]jo kaj li paid la debt for vi." next
+    "@Mi just volis al let vi scii." next
+    "@Gotta iri nun--{pause(15)}busy,{pause(10)} busy,{pause(10)} busy!" next
     "@Slam.{pause(20)}  Beeeeep!{wait}{sound(11)}{window_closeall}{unset(flag 654)}{unset(flag 753)}" eob
 
 l_0xc75c33:
-    "[06 60 00 {e(l_0xc75f3b)}]{window_closeall}{pause(30)}{music(177)}{pause(120)}{pause(120)}{music_resume}{window_open(1)}@Hey!{pause(15)}  L-{pause(15)}L-{pause(15)}Listen to what I've got to say!" next
-    "@When I took Picky to the place where the meteorite landed..." next
-    "[19 23 11 00 02 0E 00][1F 16 11 00 00]@Oh!{pause(20)}  Good evening ma'am.{pause(20)}  You're looking lovely as usual.  *snicker*" next
-    "[19 23 11 00 01 01 00][1F 16 11 00 00]@Anyway,{pause(15)} as I was saying," next
-    "@the police that were guarding the meteorite landing left suddenly" next
-    "@to deal with the Sharks.{pause(15)}  You know the Sharks,{pause(10)} they're the local ruffians," next
-    "@and they were really going wild.{pause(20)}  Suddenly,{pause(20)} I noticed that Picky was gone." next
-    "@I blame the cops... it certainly wasn't my fault at all." next
-    "@When my dad gets back,{pause(15)} I'll be spanked 100 times..." next
-    "@You're my bestest friend.{pause(20)}  Won't YOU help me find Picky?" next
-    "[19 02]Yes" eob
+    "[06 60 00 {e(l_0xc75f3b)}]{window_closeall}{pause(30)}{music(177)}{pause(120)}{pause(120)}{music_resume}{window_open(1)}@Hey!{pause(15)}  L-{pause(15)}L-{pause(15)}a[C5]skulti al kio Mi've got al say!" next
+    "@Kie Mi took Picky al la place kie la meteorite landed..." next
+    "[19 23 11 00 02 0E 00][1F 16 11 00 00]@Ho!{pause(20)}  Bona vespero ma'am.{pause(20)}  Vi're looking lovely kutime.  *snicker*" next
+    "[19 23 11 00 01 01 00][1F 16 11 00 00]@Anyway,{pause(15)} as Mi estis saying," next
+    "@la police tio estis guarding la meteorite landing left suddenly" next
+    "@al deal kun la Sharks.{pause(15)}  Vi scii la Sharks,{pause(10)} ili're la local ruffians," next
+    "@kaj ili estis vere going wild.{pause(20)}  Suddenly,{pause(20)} Mi rigardis tio Picky estis gone." next
+    "@Mi blame la cops... [C1]i certainly wasn't mia fault at all." next
+    "@Kie mia pa[C0]jo gets back,{pause(15)} Mi'll be spanked 100 times..." next
+    "@Vi're mia bestest amiko.{pause(20)}  Won't YOU helpi mi trovi Picky?" next
+    "[19 02]Jes" eob
 
 l_0xc75e07:
-    " [19 02]No" eob
+    " [19 02]Ne" eob
 
 l_0xc75e0d:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc75ebc)} {e(l_0xc75e1c)}]" goto(l_0xc75e1c)
 
 l_0xc75e1c:
-    "@If you refuse me,{pause(15)} I'll say something that'll cut you like a knife." next
-    "@Will you come with me?" linebreak
-    "[19 02]Yes" eob
+    "@Se vi refuse mi,{pause(15)} Mi'll say io tio'll cut vi like a knife." next
+    "@Will vi veni kun mi?" linebreak
+    "[19 02]Jes" eob
 
 l_0xc75e58:
-    " [19 02]No" eob
+    " [19 02]Ne" eob
 
 l_0xc75e5e:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc75ebc)} {e(l_0xc75e6d)}]" goto(l_0xc75e6d)
 
 l_0xc75e6d:
-    "@Okay, okay... I won't say anything to hurt you." next
-    "@Will you please come with me?" linebreak
-    "[19 02]Yes" eob
+    "@Okej, okej... Mi won't say anything al hurt vi." next
+    "@Will vi please veni kun mi?" linebreak
+    "[19 02]Jes" eob
 
 l_0xc75ea2:
-    " [19 02]No" eob
+    " [19 02]Ne" eob
 
 l_0xc75ea8:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc75ebc)} {e(l_0xc75e1c)}]" goto(l_0xc75e1c)
 
 l_0xc75ebc:
-    "{set(flag 96)}@Ok,{pause(15)} good buddy!{pause(20)}  Let's blow this popsicle stand..." next
-    "@Before we go,{pause(15)} why don't you say <goodbye> to your mom.{pause(15)}" linebreak
-    "[19 23 11 00 02 0E 00][1F 16 11 00 00]  Don't you agree,{pause(15)} ma'am?[03]{window_closeall}{pause(1)}[1F F1 0E 00 2B 00]" eob
+    "{set(flag 96)}@Ok,{pause(15)} bona buddy!{pause(20)}  Let's blow [C0]i tiu popsicle stand..." next
+    "@Before ni iri,{pause(15)} kial don't vi say <goodbye> al via panjo.{pause(15)}" linebreak
+    "[19 23 11 00 02 0E 00][1F 16 11 00 00]  Don't vi agree,{pause(15)} ma'am?[03]{window_closeall}{pause(1)}[1F F1 0E 00 2B 00]" eob
 
 l_0xc75f3b:
-    "[06 5E 00 {e(l_0xc75f73)}]@Before we go,{pause(15)} why don't you say <goodbye> to your mom.{wait}{window_closeall}{pause(1)}[1F F1 13 00 2B 00]" eob
+    "[06 5E 00 {e(l_0xc75f73)}]@Before ni iri,{pause(15)} kial don't vi say <goodbye> al via panjo.{wait}{window_closeall}{pause(1)}[1F F1 13 00 2B 00]" eob
 
 l_0xc75f73:
-    "[1D 04 01 11][1B 03 {e(l_0xc760b7)}][06 25 03 {e(l_0xc75fb6)}]@You're not taking anything on our big adventure?" next
-    "@Why don't you look around for your [1C 05 11] or something?" end
+    "[1D 04 01 11][1B 03 {e(l_0xc760b7)}][06 25 03 {e(l_0xc75fb6)}]@Vi're ne taking anything on nia granda adventure?" next
+    "@Kial don't vi look around for via [1C 05 11] a[C5] io?" end
 
 l_0xc75fb6:
-    "@Sorry about giving you this game-type advice,{pause(15)}[19 22 01 03 2C 00][1F 13 01 00] but you should equip your weapon!" next
-    "@Do you know what <equip> means?" linebreak
-    "[19 02]Yes" eob
+    "@Sorry about giving vi [C0]i tiu game-type advice,{pause(15)}[19 22 01 03 2C 00][1F 13 01 00] sed vi should equip via weapon!" next
+    "@Do vi scii kio <equip> means?" linebreak
+    "[19 02]Jes" eob
 
 l_0xc76005:
-    " [19 02]No" eob
+    " [19 02]Ne" eob
 
 l_0xc7600b:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc76080)} {e(l_0xc7601a)}]" goto(l_0xc7601a)
 
 l_0xc7601a:
-    "@It means <use> or <wear.>" next
-    "@You must equip items in order to use or wear them." next
-    "@<Equip> is used a lot in games like this," next
-    "@but you already knew that...[03]" goto(l_0xc760b7)
+    "@[B1]i means <use> a[C5] <wear.>" next
+    "@Vi devas equip items en order al use a[C5] wear ilin." next
+    "@<Equip> estas uzis multa en games like [C0]i tiu," next
+    "@sed vi already sciis tio...[03]" goto(l_0xc760b7)
 
 l_0xc76080:
-    "@Okay,{pause(15)} that's good.{pause(20)}  Be sure to pay attention to details like that." next
+    "@Okej,{pause(15)} tio's bona.{pause(20)}  Be sure al pay attention al details like tio." next
     goto(l_0xc760b7)
 
 l_0xc760b7:
     newline
-    "@All right!{pause(20)}  You go out in front,{pause(15)} and I'll follow at a safe distance." next
+    "@[B0]io right!{pause(20)}  Vi iri out en front,{pause(15)} kaj Mi'll follow at a safe distance." next
     "@Let's get going![03]{window_closeall}{set(flag 30)}{set(flag 21)}{set(flag 466)}" call(data_22.l_0xc68174) "{unset(flag 310)}{unset(flag 301)}{unset(flag 530)}{unset(flag 531)}" eob
 
 l_0xc76112:
-    "[06 49 00 {e(l_0xc7625e)}][06 73 02 {e(l_0xc761eb)}][06 4C 00 {e(data_19.l_0xc64672)}]@I'll do everything I can to help you!{pause(20)}  Good luck on your adventure." next
-    "@You might get hungry along the way,{pause(15)} so here is a [1C 05 58]." next
+    "[06 49 00 {e(l_0xc7625e)}][06 73 02 {e(l_0xc761eb)}][06 4C 00 {e(data_19.l_0xc64672)}]@Mi'll do [C0]io Mi povas al helpi vi!{pause(20)}  Bona [C4]an[C0]o on via adventure." next
+    "@Vi might get hungry along la way,{pause(15)} so here estas a [1C 05 58]." next
     "[1D 03 FF][1B 02 {e(l_0xc761dd)}][1D 0E 00 58]{set(flag 76)}" call(data_36.l_0xc7dccf) next
-    "@You can also leave anything you don't need with me." next
-    "@Do you want me to hang on to something?" linebreak
-    "[19 02]Yes" eob
+    "@Vi povas anka[C5] leave anything vi don't bezonas kun mi." next
+    "@Do vi volas mi al hang on al io?" linebreak
+    "[19 02]Jes" eob
 
 l_0xc761b7:
-    " [19 02]No" eob
+    " [19 02]Ne" eob
 
 l_0xc761bd:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc761d7)} {e(l_0xc761cc)}]" goto(l_0xc761cc)
@@ -223,223 +223,223 @@ l_0xc761d7:
 
 l_0xc761dd:
     newline
-    "{sound(5)}@You have too much stuff." end
+    "{sound(5)}@Vi havas tro much stuff." end
 
 l_0xc761eb:
-    "@What?{pause(20)}  The Sound Stone?" next
-    "@I wonder when I got this from you?{pause(20)}  Let me give it back to you..." next
+    "@Kio?{pause(20)}  La sound Stone?" next
+    "@Mi wonder kie Mi got [C0]i tiu from vi?{pause(20)}  Let mi doni [C1]i back al vi..." next
     "[1D 03 FF][1B 02 {e(l_0xc7623e)}][1D 0E 00 C4]{set(flag 76)}" call(data_36.l_0xc7dcb6) "{wait}{unset(flag 627)}" eob
 
 l_0xc7623e:
-    "@Ooops!{pause(20)}  You seem to be carrying too much stuff already!" end
+    "@Ooops!{pause(20)}  Vi seem al be carrying tro much stuff already!" end
 
 l_0xc7625e:
-    "[06 01 03 {e(l_0xc76357)}]@Goody!{pause(20)}  My brother is back!" next
-    "@You've got a lot of catching up to do with your schoolwork, *Hyork*!" next
-    "@If you have any problems with your assignments,{pause(15)} I'll help you." next
+    "[06 01 03 {e(l_0xc76357)}]@Goody!{pause(20)}  Mia frato estas back!" next
+    "@Vi've got multe da catching up al do kun via schoolwork, *Hyork*!" next
+    "@Se vi havas ajn problems kun via assignments,{pause(15)} Mi'll helpi vi." next
     "@Don't get freaked out." next
-    "@Did Escargo Express,{pause(15)} my old company,{pause(15)} help you?" next
-    "@I've saved some money,{pause(15)} so we'll do the lunch thing sometime." next
-    "@You also got a new girlfriend?[03]@Your adventure must have been pretty good!" next
+    "@Did Escargo Express,{pause(15)} mia old company,{pause(15)} helpi vi?" next
+    "@Mi've saved iom mono,{pause(15)} so ni'll do la lunch a[C3]o sometime." next
+    "@Vi anka[C5] got a new girlfriend?[03]@Via adventure devas havas been pretty bona!" next
     goto(l_0xc76357)
 
 l_0xc76357:
-    "@Do you need help with anything other than your schoolwork?" next
-    "[19 02]Yes" eob
+    "@Do vi bezonas helpi kun anything alia ol via schoolwork?" next
+    "[19 02]Jes" eob
 
 l_0xc7637c:
-    " [19 02]No" eob
+    " [19 02]Ne" eob
 
 l_0xc76382:
     "[1C 07 02][11]{clearline}[09 02 {e(data_19.l_0xc646ae)} {e(l_0xc76391)}]" goto(l_0xc76391)
 
 l_0xc76391:
-    "@Okay,{pause(15)} you relax now." end
+    "@Okej,{pause(15)} vi relax nun." end
 
 l_0xc763a3:
     "[06 03 00 {e(l_0xc763b0)}]" call(data_13.l_0xc5d263) eob
 
 l_0xc763b0:
-    "@If you buy something from me," next
-    "@I'll give you a big discount,{pause(15)} tee hee hee." end
+    "@Se vi A[C0]eti io from mi," next
+    "@Mi'll doni vi a granda discount,{pause(15)} tee hee hee." end
 
 l_0xc763dc:
     "[06 02 00 {e(l_0xc763b0)}]" call(data_13.l_0xc5d26f) eob
 
 l_0xc763e9:
-    "@It seems like I'm always here...{pause(20)}  I hope you don't mind!" end
+    "@[B1]i seems like Mi'm [C0]iam here...{pause(20)}  Mi hope vi don't mind!" end
 
 l_0xc7640b:
-    "@I'm so much more relaxed here..." next
-    "@They never ask me{pause(30)} <Would you like fries with that shake?>" end
+    "@Mi'm so much more relaxed here..." next
+    "@Ili neniam ask mi{pause(30)} <Would vi like fries kun tio shake?>" end
 
 l_0xc76443:
     call(data_13.l_0xc5d27b) eob
 
 l_0xc76449:
-    "[06 49 00 {e(l_0xc765cf)}][06 DA 02 {e(l_0xc7659c)}][06 02 00 {e(l_0xc7654c)}]@I want to tell you the story of the creature from the vegetable soup," next
-    "@but I won't because I don't want to bother you with a story" next
-    "@that has nothing to do with your adventure." next
-    "@If I keep talking about unrelated stuff," next
-    "@you might start ignoring important messages." next
-    "@It's important for you to talk to people." next
-    "@Also,{pause(15)} a person might give you a different message," next
-    "@depending on when you speak to them.{wait}{set(flag 2)}" eob
+    "[06 49 00 {e(l_0xc765cf)}][06 DA 02 {e(l_0xc7659c)}][06 02 00 {e(l_0xc7654c)}]@Mi volas al tell vi la rakonto of la creature from la vegetable soup," next
+    "@sed Mi won't [C0]ar Mi don't volas al bother vi kun a rakonto" next
+    "@tio has Nenio al do kun via adventure." next
+    "@Se Mi keep talking about unrelated stuff," next
+    "@vi might start ignoring important messages." next
+    "@[B1]i's important for vi al paroli al people." next
+    "@Anka[C5],{pause(15)} a person might doni vi a diferenca message," next
+    "@depending on kie vi speak al ilin.{wait}{set(flag 2)}" eob
 
 l_0xc7654c:
-    "@Thank you for taking the time to talk to me again." next
-    "@Ah!{pause(30)}  So you see what I mean!{pause(15)}  It's important to take time out to talk with many people.{wait}{set(flag 730)}" eob
+    "@Dankon for taking la tempo al paroli al mi again." next
+    "@Ah!{pause(30)}  So vi vidi kio Mi mean!{pause(15)}  [B1]i's important al take tempo out al paroli kun many people.{wait}{set(flag 730)}" eob
 
 l_0xc7659c:
-    "@Yes!{pause(15)}  Keep the lines of communication open.{pause(15)}  Just like you are doing now." end
+    "@Jes!{pause(15)}  Keep la lines of communication open.{pause(15)}  Just like vi are doing nun." end
 
 l_0xc765cf:
-    "@Isn't it nice to talk to so many people?[06 DA 02 {e(l_0xc765ef)}]" end
+    "@Isn't [C1]i nice al paroli al so many people?[06 DA 02 {e(l_0xc765ef)}]" end
 
 l_0xc765ef:
     next
-    "@I gave you some advice when I spoke to you the first time,{pause(15)} right?" end
+    "@Mi gave vi iom advice kie Mi spoke al vi la first tempo,{pause(15)} right?" end
 
 l_0xc7661b:
-    "@I like cottage cheese on bread!" next
-    "@You haven't tried it?{pause(20)}  It's the latest craze in culinary circles!" end
+    "@Mi like cottage cheese on Pano!" next
+    "@Vi haven't tried [C1]i?{pause(20)}  [B1]i's la latest craze en culinary circles!" end
 
 l_0xc76663:
-    "[06 49 00 {e(l_0xc766c5)}][06 15 00 {e(l_0xc76689)}]@My husband is very soft-hearted." end
+    "[06 49 00 {e(l_0xc766c5)}][06 15 00 {e(l_0xc76689)}]@Mia edzo estas tre soft-hearted." end
 
 l_0xc76689:
-    "@Where in sam hill have you boys been?" next
-    "@I'll have to think of a suitable punishment!" end
+    "@Kie en sam hill havas vi knaboj been?" next
+    "@Mi'll havas al pensi of a suitable punishment!" end
 
 l_0xc766c5:
-    "@As usual,{pause(15)} you're wearing your grubbies!{pause(20)}  So,{pause(10)} what do you want?" next
-    "@If you're looking for my pig of a son, he isn't here.{pause(20)}  Who knows where he's wandered off to." next
-    "@Plus my husband went out to have some fun and never came back...{pause(30)}  Oh yes,{pause(15)} this is Mr. Prettyman." next
-    "@He always has great advice.{pause(15)}  He's a real gentleman,{pause(10)} he is." next
-    "@You should keep in touch with him." end
+    "@As kutima,{pause(15)} vi're wearing via grubbies!{pause(20)}  So,{pause(10)} kio do vi volas?" next
+    "@Se vi're looking for mia pig of a son, li isn't here.{pause(20)}  Kiu knows kie li's wandered off al." next
+    "@Plus mia edzo went out al havas iom fun kaj neniam venis back...{pause(30)}  Ho jes,{pause(15)} [C0]i tiu estas Mr. Prettyman." next
+    "@Li [C0]iam has bonega advice.{pause(15)}  Li's a vere gentleman,{pause(10)} li estas." next
+    "@Vi should keep en touch kun lin." end
 
 l_0xc7678a:
-    "@Salutations!{pause(20)}  You're the boy living next door." next
-    "@I heard that your family is in debt.{pause(20)}  Mrs. Minch told me about it." next
-    "@Well, live and learn.{pause(20)}  You just have to keep plugging away." end
+    "@Salutations!{pause(20)}  Vi're la knabo living next pordo." next
+    "@Mi a[C5]dis tio via familio estas en debt.{pause(20)}  Mrs. Minch told mi about [C1]i." next
+    "@Well, live kaj learn.{pause(20)}  Vi just havas al keep plugging away." end
 
 l_0xc76804:
-    "@I was really scolded by my father." next
-    "@Aa, my butt hurts." end
+    "@Mi estis vere scolded by mia Patro." next
+    "@Aa, mia stumpo hurts." end
 
 l_0xc7683a:
-    "[06 49 00 {e(l_0xc7685a)}]@I don't wanna look at the meteorite anymore." end
+    "[06 49 00 {e(l_0xc7685a)}]@Mi don't volas look at la meteorite anymore." end
 
 l_0xc7685a:
-    "@I haven't seen you in a while.{pause(20)}  You look cool." next
-    "@I'm nowhere near as cool as you.{pause(20)}  I'm just average cool." end
+    "@Mi haven't seen vi en a while.{pause(20)}  Vi look cool." next
+    "@Mi'm nowhere near as cool as vi.{pause(20)}  Mi'm just average cool." end
 
 l_0xc7689d:
     eob
 
 l_0xc7689e:
-    "@Our nightly rate is not cheap," next
-    "@but we have clean sheets, and the rooms are secure." next
-    "@I'm sure you understand that this keeps us very busy." end
+    "@Nia nightly rate estas ne cheap," next
+    "@sed ni havas clean sheets, kaj la rooms are secure." next
+    "@Mi'm sure vi komprenas tio [C0]i tiu keeps ni tre busy." end
 
 l_0xc768f4:
-    "@You look like you'd be a real target for the Sharks." next
-    "@You'd better be careful." end
+    "@Vi look like vi'd be a vere target for la Sharks." next
+    "@Vi'd better be careful." end
 
 l_0xc76924:
-    "@Can you believe it?" next
-    "@A group of ruffians spit their gum on me as I was passing by..." end
+    "@povas vi believe [C1]i?" next
+    "@A group of ruffians spit ilia gum on mi as Mi estis passing by..." end
 
 l_0xc7695f:
-    "@Do you actually think you can just come up and talk to me anytime you want?" end
+    "@Do vi actually pensi vi povas just veni up kaj paroli al mi anytime vi volas?" end
 
 l_0xc76980:
-    "@I've seen you around a lot lately.  He he he." end
+    "@Mi've seen vi around multa lately.  Li li li." end
 
 l_0xc7699e:
-    "[06 49 00 {e(l_0xc76b36)}][06 69 00 {e(l_0xc76b0b)}][06 B6 00 {e(l_0xc76a1f)}]@The townspeople are in a state of confusion." next
-    "@At times like this,{pause(15)} riots break out,{pause(15)} or people start acting wild," next
-    "@so we police are being ultra cautious." end
+    "[06 49 00 {e(l_0xc76b36)}][06 69 00 {e(l_0xc76b0b)}][06 B6 00 {e(l_0xc76a1f)}]@La townspeople are en a state of confusion." next
+    "@At times like [C0]i tiu,{pause(15)} riots break out,{pause(15)} a[C5] people start acting wild," next
+    "@so ni police are being ultra cautious." end
 
 l_0xc76a1f:
-    "@Why is the road to Twoson closed?{pause(20)}  An emergency,{pause(10)} of course." next
-    "@At times like this,{pause(15)} kids like you should be playing Nintendo games." next
-    "@Anyway,{pause(15)} are you sure you want to go to Twoson?" linebreak
-    "[19 02]Yes" eob
+    "@Kial estas la road al Twoson closed?{pause(20)}  An emergency,{pause(10)} of course." next
+    "@At times like [C0]i tiu,{pause(15)} kids like vi should be playing Nintendo games." next
+    "@Anyway,{pause(15)} are vi sure vi volas al iri al Twoson?" linebreak
+    "[19 02]Jes" eob
 
 l_0xc76a92:
-    " [19 02]No" eob
+    " [19 02]Ne" eob
 
 l_0xc76a98:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc76ad6)} {e(l_0xc76aa7)}]" goto(l_0xc76aa7)
 
 l_0xc76aa7:
-    "@Well then,{pause(15)} perhaps you should just crawl back to your shack,{pause(15)} little mister." end
+    "@Well then,{pause(15)} perhaps vi should just crawl back al via shack,{pause(15)} little mister." end
 
 l_0xc76ad6:
-    "@Okay, *chortle*{pause(15)}  Follow me.[03]{set(flag 38)}{unset(flag 289)}{unset(flag 290)}{unset(flag 291)}{unset(flag 292)}{unset(flag 293)}{window_closeall}" goto(data_16.l_0xc5f859)
+    "@Okej, *chortle*{pause(15)}  Follow mi.[03]{set(flag 38)}{unset(flag 289)}{unset(flag 290)}{unset(flag 291)}{unset(flag 292)}{unset(flag 293)}{window_closeall}" goto(data_16.l_0xc5f859)
 
 l_0xc76b0a:
     eob
 
 l_0xc76b0b:
-    "@I've been playing <MOTHER 2> lately...{pause(20)}  I'm having a tough time." end
+    "@Mi've been playing <patrino 2> lately...{pause(20)}  Mi'm having a tough tempo." end
 
 l_0xc76b36:
-    "@So you've traveled all over the world." next
-    "@I bet you didn't meet anyone stronger than I,{pause(10)} did you?" next
-    "@I know that you didn't...  Wa ha ha ha!" end
+    "@So vi've traveled [C0]io over la mondo." next
+    "@Mi bet vi didn't meet ajnulo stronger ol Mi,{pause(10)} did vi?" next
+    "@Mi scii tio vi didn't...  Wa ha ha ha!" end
 
 l_0xc76b87:
-    "[06 69 00 {e(l_0xc76bd2)}]@I would rather be working as a parking meter cop..." next
-    "@It's just been too busy lately.{pause(15)}  I'm sick of it." end
+    "[06 69 00 {e(l_0xc76bd2)}]@Mi would rather be working as a parking meter cop..." next
+    "@[B1]i's just been tro busy lately.{pause(15)}  Mi'm sick of [C1]i." end
 
 l_0xc76bd2:
-    "@Well,{pause(15)} the riot's over.{pause(15)}  Now I can move on to parking enforcement!" next
-    "@Hooray!{pause(15)}  Life is good.{pause(20)}  Dum dee dee dee..." end
+    "@Well,{pause(15)} la riot's over.{pause(15)}  Nun Mi povas move on al parking enforcement!" next
+    "@Hooray!{pause(15)}  Vivo estas bona.{pause(20)}  Dum dee dee dee..." end
 
 l_0xc76c29:
-    "[06 69 00 {e(l_0xc76c55)}]@Man,{pause(15)} am I steamed...{pause(20)}  Don't even try talking to me." end
+    "[06 69 00 {e(l_0xc76c55)}]@Viro,{pause(15)} am Mi steamed...{pause(20)}  Don't e[C0] try talking al mi." end
 
 l_0xc76c55:
-    "@Why are you asking about a driver's license?" next
-    "@You're way too young to even think about getting behind the wheel,{pause(15)} you little pest." end
+    "@Kial are vi asking about a driver's license?" next
+    "@Vi're way tro young al e[C0] pensi about getting behind la wheel,{pause(15)} vi little pest." end
 
 l_0xc76ca1:
-    "[06 02 00 {e(l_0xc76d3d)}]@So here you are." next
-    "@You're the little delinquent that came back from Giant Step!" next
-    "@Now you listen here..." next
-    "@<Don't Enter> means just that--{pause(30)} DO NOT ENTER!{pause(10)}  You got that?" next
-    "@And furthermore..." next
+    "[06 02 00 {e(l_0xc76d3d)}]@So here vi are." next
+    "@Vi're la little delinquent tio venis back from Giant Step!" next
+    "@Nun vi a[C5]skulti here..." next
+    "@<Don't Enter> means just tio--{pause(30)} DO NOT ENTER!{pause(10)}  Vi got tio?" next
+    "@Kaj furthermore..." next
     "@Blah{pause(10)} blah" next
     "@Blah{pause(10)} blah" next
     goto(l_0xc76d3d)
 
 l_0xc76d3d:
-    "@It's usually those tax evaders who..." next
+    "@[B1]i's usually those tax evaders kiu..." next
     "@Blah blah" next
     "@Blah blah" next
-    "@We don't enjoy blocking off the roads,{pause(15)} you know..." next
+    "@Ni don't enjoy blocking off la roads,{pause(15)} vi scii..." next
     "@Blah blah" next
     "@Blah blah" next
-    "@It's usually the local whiners that make a big deal about emergencies and meteorites!" next
+    "@[B1]i's usually la local whiners tio fari a granda deal about emergencies kaj meteorites!" next
     "@Blah blah" next
     "@Blah blah" next
     "@Blah blah{wait}{set(flag 2)}" eob
 
 l_0xc76e0c:
-    "@Didn't you see the <Don't Enter> sign?" next
-    "@That means I'm there to stop you when you're on your way out!" next
-    "@So pay attention next time..." next
-    "@And furthermore..." next
+    "@Didn't vi vidi la <Don't Enter> sign?" next
+    "@Tio means Mi'm tia al stop vi kie vi're on via way out!" next
+    "@So pay attention next tempo..." next
+    "@Kaj furthermore..." next
     "@Blah,{pause(10)} blah" next
     "@Blah,{pause(10)} blah {wait}{set(flag 109)}" eob
 
 l_0xc76e92:
-    "@Psst!{pause(20)}  I'm not really one of the gang." next
-    "@I'm a cop,{pause(15)} even if I don't look like it." end
+    "@Psst!{pause(20)}  Mi'm ne vere unu of la gang." next
+    "@Mi'm a cop,{pause(15)} e[C0] se Mi don't look like [C1]i." end
 
 l_0xc76ec5:
-    "@Let's go,{pause(15)} go{pause(10)} og!{pause(15)}  Oops!{pause(15)}  My mistake,{pause(10)} go!{wait}" call(data_23.l_0xc6845d) "[1B 03 {e(data_23.l_0xc683de)}]{window_open(1)}" newline
-    "@'scuse me!{pause(20)}  Uuuuuh... yeah.{wait}{set(flag 293)}" eob
+    "@Let's iri,{pause(15)} iri{pause(10)} og!{pause(15)}  Oops!{pause(15)}  Mia mistake,{pause(10)} iri!{wait}" call(data_23.l_0xc6845d) "[1B 03 {e(data_23.l_0xc683de)}]{window_open(1)}" newline
+    "@'scuse mi!{pause(20)}  Uuuuuh... Ja.{wait}{set(flag 293)}" eob
 

@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -8,132 +8,132 @@ command e(label) "{long label}"
 
 // Text Data
 l_0xc573dc:
-    "{window_open(1)}@The stars foretold that I would meet you here..." next
-    "@Now is the time for me to pass on to you the <technique for making stars rain down.>" next
-    "@For a while, you must live far away from your friends and live with me." next
-    "@Do you understand?" next
-    "@...There's only one answer." next
-    "@I must stop you here even if you don't want to." next
-    "@Stay with me for a while, do you understand?![03]{window_closeall}{pause(30)}" goto(data_50.l_0xc9329b)
+    "{window_open(1)}@La stars foretold tio Mi would meet vi here..." next
+    "@Nun estas la tempo for mi al pass on al vi la <technique for making stars rain down.>" next
+    "@For a while, vi devas live far away from via amikoj kaj live kun mi." next
+    "@Do vi komprenas?" next
+    "@...Tia's only unu answer." next
+    "@Mi devas stop vi here e[C0] se vi don't volas al." next
+    "@Resti kun mi for a while, do vi komprenas?![03]{window_closeall}{pause(30)}" goto(data_50.l_0xc9329b)
 
 l_0xc5749a:
-    "{window_open(1)}@It depends on [1C 02 04]'s efforts.  That will determine the reuniting of the group." next
-    "@Be faithful, and wait until the time comes!{wait}{window_closeall}" eob
+    "{window_open(1)}@[B1]i depends on [1C 02 04]'s efforts.  Tio will determine la reuniting of la group." next
+    "@Be faithful, kaj wait until la tempo comes!{wait}{window_closeall}" eob
 
 l_0xc574f6:
-    "[06 50 01 {e(l_0xc575f8)}]@I'm doing this as a hobby.{pause(20)}  Isn't it cool?" next
-    "@I recently made a friend.{pause(20)}  He used to be a Dungeon Maker." next
-    "@And now he's a <Dungeon Man.>" next
-    "@Would you like to meet him?" linebreak
-    "[19 02]Yes" eob
+    "[06 50 01 {e(l_0xc575f8)}]@Mi'm doing [C0]i tiu as a hobby.{pause(20)}  Isn't [C1]i cool?" next
+    "@Mi recently made a amiko.{pause(20)}  Li uzis al be a Dungeon Maker." next
+    "@Kaj nun li's a <Dungeon Viro.>" next
+    "@Would vi like al meet lin?" linebreak
+    "[19 02]Jes" eob
 
 l_0xc57570:
-    "[19 02]No" eob
+    "[19 02]Ne" eob
 
 l_0xc57575:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc5759d)} {e(l_0xc57584)}]" goto(l_0xc57584)
 
 l_0xc57584:
-    "@I understand,{pause(15)} he is a very strange fellow." end
+    "@Mi komprenas,{pause(15)} li estas a tre strange fellow." end
 
 l_0xc5759d:
-    "@All righty then, I'll give you the key so that you can enter him." next
-    "@Oh no... I don't have it!" next
-    "@I must have lost it somewhere." next
-    "@I'm sorry, I don't worry about small things." end
+    "@[B0]io righty then, Mi'll doni vi la key so tio vi povas enter lin." next
+    "@Ho ne... Mi don't havas [C1]i!" next
+    "@Mi devas havas lost [C1]i somewhere." next
+    "@Mi'm sorry, Mi don't worry about malgranda a[C3]oj." end
 
 l_0xc575f8:
-    "@I stayed here the whole time you were gone." next
-    "@But now I don't know why I did." end
+    "@Mi stayed here la whole tempo vi estis gone." next
+    "@Sed nun Mi don't scii kial Mi did." end
 
 l_0xc5762c:
-    "[06 50 01 {e(l_0xc576e0)}]@I am not sure if it was the <Dungeon Man,> but..." next
-    "@there is a strange looking tower to the northwest." next
-    "@...This key I picked up a little while ago shall maybe open the tower." next
-    "@You may have it, I do not need it.[1D 03 FF][1B 02 {e(l_0xc57718)}][03][1D 0E 00 C0][1B 05]" call(data_36.l_0xc7dcb6) "{set(flag 336)}{wait}{window_closeall}{isset(flag 691)}[1B 02 {e(data_55.l_0xc9992f)}]{pause(60)}" call(data_24.l_0xc692f7) eob
+    "[06 50 01 {e(l_0xc576e0)}]@Mi am ne sure se [C1]i estis la <Dungeon Viro,> sed..." next
+    "@tia estas a strange looking tower al la northwest." next
+    "@...[B0]i tiu key Mi picked up a little while ago shall maybe open la tower." next
+    "@Vi may havas [C1]i, Mi do ne bezonas [C1]i.[1D 03 FF][1B 02 {e(l_0xc57718)}][03][1D 0E 00 C0][1B 05]" call(data_36.l_0xc7dcb6) "{set(flag 336)}{wait}{window_closeall}{isset(flag 691)}[1B 02 {e(data_55.l_0xc9992f)}]{pause(60)}" call(data_24.l_0xc692f7) eob
 
 l_0xc576e0:
-    "@I'm not sure if it was the <Dungeon Man>..." next
-    "@There's a strange looking tower to the northwest." end
+    "@Mi'm ne sure se [C1]i estis la <Dungeon Viro>..." next
+    "@Tia's a strange looking tower al la northwest." end
 
 l_0xc57718:
     next
-    "@...But it seems that you have too many things." end
+    "@...Sed [C1]i seems tio vi havas tro many a[C3]oj." end
 
 l_0xc57730:
-    "[06 5E 02 {e(l_0xc57753)}]@(Looks like you could enter, but it's locked.)" end
+    "[06 5E 02 {e(l_0xc57753)}]@(Looks like vi could enter, sed [C1]i's locked.)" end
 
 l_0xc57753:
     "{window_closeall}{pause(1)}[1F 21 9F]" call(data_57.l_0xc9b112) eob
 
 l_0xc57760:
     "{store_registers}[06 5E 02 {e(l_0xc577c5)}]{load_registers}" call(data_36.l_0xc7dd2c) "{result_is(192)}[1B 02 {e(l_0xc577b2)}]{load_registers}" call(data_36.l_0xc7dd37) newline
-    "@(The key worked to open the door." next
-    "@You may enter.){wait}{wait}{set(flag 606)}{sound(119)}{window_closeall}[1F 21 9F]" call(data_57.l_0xc9b112) eob
+    "@(La key worked al open la pordo." next
+    "@Vi may enter.){wait}{wait}{set(flag 606)}{sound(119)}{window_closeall}[1F 21 9F]" call(data_57.l_0xc9b112) eob
 
 l_0xc577b2:
-    "@(The key doesn't fit!)" end
+    "@(La key doesn't fit!)" end
 
 l_0xc577c5:
-    "@(The door's already opened.)" end
+    "@(La pordo's already opened.)" end
 
 l_0xc577d8:
-    "[06 DA 00 {e(l_0xc57911)}]@A scary place called Deep Darkness is on the other side of the river." next
-    "@The monsters are very strong and you can lose your health" next
-    "@just by wandering in the swamp." next
-    "@Do you want to cross the river,{pause(15)} even though you know it's a stupid idea?" next
-    "[19 02]Yes" eob
+    "[06 DA 00 {e(l_0xc57911)}]@A scary place called Deep Darkness estas on la alia side of la river." next
+    "@La monsters are tre Forta kaj vi povas lose via health" next
+    "@just by wandering en la swamp." next
+    "@Do vi volas al cross la river,{pause(15)} e[C0] though vi scii [C1]i's a stupid idea?" next
+    "[19 02]Jes" eob
 
 l_0xc57864:
-    "[19 02]No" eob
+    "[19 02]Ne" eob
 
 l_0xc57869:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc578b3)} {e(l_0xc57878)}]" goto(l_0xc57878)
 
 l_0xc57878:
-    "@It was stupid of me to ask." next
-    "@Let's watch the sunset over Deep Darkness together from here." end
+    "@[B1]i estis stupid of mi al ask." next
+    "@Let's watch la sunset over Deep Darkness together from here." end
 
 l_0xc578b3:
-    "@The swamp is bottomless." next
-    "@Even if you're swimming, you'll be dragged in." next
-    "@It is a different story if you have a submarine.{wait}{set(flag 151)}{set(flag 762)}" eob
+    "@La swamp estas bottomless." next
+    "@E[C0] se vi're swimming, vi'll be dragged en." next
+    "@[B1]i estas a diferenca rakonto se vi havas a submarine.{wait}{set(flag 151)}{set(flag 762)}" eob
 
 l_0xc57911:
-    "@You returned from exploring the Deep Darkness?" next
-    "@I cannot believe you made it back alive." end
+    "@Vi returned from exploring la Deep Darkness?" next
+    "@Mi cannot believe vi made [C1]i back alive." end
 
 l_0xc57947:
     "[06 DA 00 {e(l_0xc57955)}][06 97 00 {e(l_0xc57a26)}]" goto(l_0xc57955)
 
 l_0xc57955:
-    "@Welcome![03]{window_closeall}" call(data_49.l_0xc915f4) "{sound(37)}{pause(90)}{window_open(1)}[06 DA 00 {e(l_0xc57ad9)}]@Long time no see." next
-    "@Mr. [1C 02 03], we met in Winters a long time ago." next
-    "@I'm Brickroad." next
-    "@Dr. Andonuts finally made me Dungeon Man." next
-    "@If you want, I'll come with you guys for a while." next
-    "@The <Return Hole> is over there." next
-    "@Jump in that hole and then walk out.{wait}{set(flag 24)}{set(flag 445)}[1F 66 01 09 81 33 C9 00]{set(flag 507)}" eob
+    "@Bonvenon![03]{window_closeall}" call(data_49.l_0xc915f4) "{sound(37)}{pause(90)}{window_open(1)}[06 DA 00 {e(l_0xc57ad9)}]@long tempo ne vidi." next
+    "@Mr. [1C 02 03], ni met en Winters a long tempo ago." next
+    "@Mi'm Brickroad." next
+    "@Dr. Andonuts finally made mi Dungeon Viro." next
+    "@Se vi volas, Mi'll veni kun vi guys for a while." next
+    "@La <Return Hole> estas over tia." next
+    "@Jump en tio hole kaj then walk out.{wait}{set(flag 24)}{set(flag 445)}[1F 66 01 09 81 33 C9 00]{set(flag 507)}" eob
 
 l_0xc57a26:
-    "@There's an old submarine at the back of the dungeon." next
-    "@It can be used to cross the river." next
-    "@There's a <Goodbye Exit> ...over there." next
-    "@It will take you to the submarine." next
-    "@Don't make a mistake on which exit you take." next
-    "@You need to take the <Goodbye Exit!>{pause(20)}  Hope to see you again!" end
+    "@Tia's an old submarine at la back of la dungeon." next
+    "@[B1]i povas be uzis al cross la river." next
+    "@Tia's a <Goodbye Exit> ...over tia." next
+    "@[B1]i will take vi al la submarine." next
+    "@Don't fari a mistake on kiu exit vi take." next
+    "@Vi bezonas al take la <Goodbye Exit!>{pause(20)}  Hope al vidi vi again!" end
 
 l_0xc57ad9:
-    "@I don't know how, but my homemade dungeon helped you out." next
-    "@I'm glad.{wait}{window_closeall}" eob
+    "@Mi don't scii kiel, sed mia homemade dungeon helped vi out." next
+    "@Mi'm glad.{wait}{window_closeall}" eob
 
 l_0xc57b04:
     "[06 DA 00 {e(l_0xc57b3e)}]@<Goodbye Exit>" next
-    "@Some day, you should enter with courage." next
+    "@Iom tago, vi should enter kun courage." next
     "@                      ...Brickroad." end
 
 l_0xc57b3e:
-    "@This path is closed." next
+    "@[B0]i tiu path estas closed." next
     "@                      ...Brickroad.{wait}" linebreak
     eob
 
@@ -150,69 +150,69 @@ l_0xc57bbc:
     call(l_0xc57bdc) call(data_48.l_0xc90f7d) call(l_0xc57c10) call(data_49.l_0xc915d6) call(data_49.l_0xc91582) "[1F 21 3A]{unset(flag 383)}" eob
 
 l_0xc57bdc:
-    "@<Good Night Bench.>" next
-    "@May you relax and recover your health and spirits.{wait}" end
+    "@<Bona Nokto Bench.>" next
+    "@May vi relax kaj recover via health kaj spirits.{wait}" end
 
 l_0xc57c10:
-    "{window_open(1)}@" call(data_37.l_0xc7e6d7) "'s health is restored.{wait}{window_closeall}" eob
+    "{window_open(1)}@" call(data_37.l_0xc7e6d7) "'s health estas restored.{wait}{window_closeall}" eob
 
 l_0xc57c2c:
-    "{counter(3)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xc57c6f)}]@([1C 02 03] checked the broken submarine.)" next
-    "@Yes!{pause(20)}  It can still work.{wait}{window_closeall}" goto(data_50.l_0xc934ed)
+    "{counter(3)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xc57c6f)}]@([1C 02 03] checked la broken submarine.)" next
+    "@Jes!{pause(20)}  [B1]i povas still work.{wait}{window_closeall}" goto(data_50.l_0xc934ed)
 
 l_0xc57c6f:
-    "@(No one can repair the submarine except [1C 02 03].)" end
+    "@(Ne unu povas repair la submarine except [1C 02 03].)" end
 
 l_0xc57c96:
-    "@Oh, be careful where you walk.  It's filthy." next
-    "@A chubby kid did his business out here somewhere..." end
+    "@Ho, be careful kie vi walk.  [B1]i's filthy." next
+    "@A chubby kid did lia business out here somewhere..." end
 
 l_0xc57cd4:
-    "@(Porky's stink still hangs in the air...)" end
+    "@(Porky's stink still hangs en la air...)" end
 
 l_0xc57cf3:
-    "@You need to be able to read hieroglyphs to solve the mystery of the Pyramid." next
-    "@...I couldn't solve it, although I read it." next
-    "@Didn't you read the hieroglyphs at the museum in Summers?" next
-    "[19 02]Yes" eob
+    "@Vi bezonas al be able al read hieroglyphs al solve la mystery of la Pyramid." next
+    "@...Mi couldn't solve [C1]i, although Mi read [C1]i." next
+    "@Didn't vi read la hieroglyphs at la museum en Summers?" next
+    "[19 02]Jes" eob
 
 l_0xc57d71:
-    "[19 02]No" eob
+    "[19 02]Ne" eob
 
 l_0xc57d76:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc57da9)} {e(l_0xc57d85)}]" goto(l_0xc57d85)
 
 l_0xc57d85:
-    "@Well, that means that you must go back, read it and then come back here." end
+    "@Well, tio means tio vi devas iri back, read [C1]i kaj then veni back here." end
 
 l_0xc57da9:
-    "@Then, you should be able to solve the mystery somehow." end
+    "@Then, vi should be able al solve la mystery somehow." end
 
 l_0xc57dc6:
     "@Hassan's Shop" next
     "@($ dollars acceptable.)" end
 
 l_0xc57dea:
-    "@That face is mine.{pause(20)}  (Feel free to talk to it.)" next
+    "@Tio viza[C1]o estas mine.{pause(20)}  (senti free al paroli al [C1]i.)" next
     "@                      ...Brickroad." end
 
 l_0xc57e1c:
-    "@[1C 02 01]!{pause(20)}  Are you surprised?" next
-    "@It's me, Porky." next
-    "@I, Porky, assist only the strong and able!" next
-    "@You guys really look pathetic!" next
-    "@The Apple of Wisdom predicted that you guys would make it here." next
-    "@...But I won't let what the Apple of Wisdom predicted take place." next
-    "@You guys will be defeated by Gyiyg." next
-    "@Gyiyg will become more powerful and even more terrifying!" next
-    "@Why?" next
-    "@'Cause of me." next
-    "@I was led by Gyiyg, and now I'm here." next
-    "@The Apple of Wisdom never predicted this." next
-    "@Master Gyiyg.{pause(20)}  No,{pause(15)} Gyiyg is no longer the wielder of evil." next
-    "@He has become the embodiment of evil..." next
-    "@which he cannot control on his own." next
-    "@He is evil itself.[03]" eob
+    "@[1C 02 01]!{pause(20)}  Are vi surprised?" next
+    "@[B1]i's mi, Porky." next
+    "@Mi, Porky, assist only la Forta kaj able!" next
+    "@Vi guys vere look pathetic!" next
+    "@La Apple of Wisdom predicted tio vi guys would fari [C1]i here." next
+    "@...Sed Mi won't let kio la Apple of Wisdom predicted take place." next
+    "@Vi guys will be defeated by Gyiyg." next
+    "@Gyiyg will become more powerful kaj e[C0] more terrifying!" next
+    "@Kial?" next
+    "@'Cause of mi." next
+    "@Mi estis led by Gyiyg, kaj nun Mi'm here." next
+    "@La Apple of Wisdom neniam predicted [C0]i tiu." next
+    "@Master Gyiyg.{pause(20)}  Ne,{pause(15)} Gyiyg estas ne longer la wielder of evil." next
+    "@Li has become la embodiment of evil..." next
+    "@kiu li cannot control on lia own." next
+    "@Li estas evil itself.[03]" eob
 
 l_0xc58000:
     "{window_open(1)}" newline

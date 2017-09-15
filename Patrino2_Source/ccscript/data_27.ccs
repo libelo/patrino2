@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -14,57 +14,57 @@ l_0xc6df35:
     "@47th floor..." end
 
 l_0xc6df43:
-    "@This elevator goes directly to the 47th floor.{pause(20)}" next
+    "@[B0]i tiu elevator goes directly al la 47th floor.{pause(20)}" next
     "@ALLLL ABOOOOARD!{pause(20)}" next
     "@Just kidding.[03]" goto(l_0xc6defa)
 
 l_0xc6df83:
-    "@There was a Monopoly tournament last night." next
-    "@Man, I really had my butt kicked." next
-    "@I'll invite you next time." next
-    "@Hey, wait...  Do you even know what Monopoly is?" end
+    "@Tia estis a Monopoly tournament last nokto." next
+    "@Viro, Mi vere havis mia stumpo kicked." next
+    "@Mi'll invite vi next tempo." next
+    "@Hey, wait...  Do vi e[C0] scii kio Monopoly estas?" end
 
 l_0xc6dfe7:
-    "[06 49 00 {e(l_0xc6e05a)}][06 8F 00 {e(l_0xc6e018)}]@I'm an elite businessman who works in Mr. Monotoly's office." end
+    "[06 49 00 {e(l_0xc6e05a)}][06 8F 00 {e(l_0xc6e018)}]@Mi'm an elite businessman kiu works en Mr. Monotoly's office." end
 
 l_0xc6e018:
-    "@I hope my salary stays the same." next
-    "@You don't understand." next
-    "@This is a huge concern of elite businessmen like me." end
+    "@Mi hope mia salary stays la same." next
+    "@Vi don't komprenas." next
+    "@[B0]i tiu estas a huge concern of elite businessmen like mi." end
 
 l_0xc6e05a:
-    "@It sounds like your lifestyle" next
-    "@...isn't something I'd be that proud of!" end
+    "@[B1]i sounds like via lifestyle" next
+    "@...isn't io Mi'd be tio proud of!" end
 
 l_0xc6e088:
-    "[06 49 00 {e(l_0xc6e0b4)}]@Hello, baby face." next
-    "@What brings you to the Monotoly Building?" end
+    "[06 49 00 {e(l_0xc6e0b4)}]@Saluton, bebo viza[C1]o." next
+    "@Kio brings vi al la Monotoly Building?" end
 
 l_0xc6e0b4:
-    "@Hello, baby face." next
-    "@What brings you to the Enrich Flavor Building?" end
+    "@Saluton, bebo viza[C1]o." next
+    "@Kio brings vi al la Enrich Flavor Building?" end
 
 l_0xc6e0e3:
-    "[06 8F 00 {e(l_0xc6e159)}]@Are you a friend of Master Porky?" next
-    "@It's okay to visit him here,{pause(15)} but don't wander around the building." next
-    "@Someone might be suspicious of you and take a pot shot at you with a machine gun..." end
+    "[06 8F 00 {e(l_0xc6e159)}]@Are vi a amiko of Master Porky?" next
+    "@[B1]i's okej al viziti lin here,{pause(15)} sed don't wander around la building." next
+    "@Someone might be suspicious of vi kaj take a pot shot at vi kun a ma[C4]ino gun..." end
 
 l_0xc6e159:
-    "@A lot has happened to me." next
-    "@I have to try and sort it all out... thinking is tough for me." end
+    "@multa has happened al mi." next
+    "@Mi havas al try kaj sort [C1]i [C0]io out... thinking estas tough for mi." end
 
 l_0xc6e192:
     "[06 8F 00 {e(l_0xc6e1b9)}]@Whoops..." next
-    "@I was almost gonna beat you up." end
+    "@Mi estis almost gonna beat vi up." end
 
 l_0xc6e1b9:
-    "@Ever since I quit working as a bodyguard, I've had a lot of pent-up energy." next
-    "@Oh, I was just bragging about my strength, I'm not going to come along with you." next
-    "@Did you kind of hope I would, though?" end
+    "@Ever since Mi quit working as a bodyguard, Mi've havis multe da pent-up energy." next
+    "@Ho, Mi estis just bragging about mia strength, Mi'm ne going al veni along kun vi." next
+    "@Did vi kia of hope Mi would, though?" end
 
 l_0xc6e220:
-    "[06 0A 00 {e(l_0xc6e298)}]@This elevator is going down." next
-    "@Look, don't stand behind me and stare at my butt!{wait}{window_closeall}[1F 16 58 03 01]{music(138)}[1F 15 B7 01 63 01 01]{pause(1)}[1F EF B7 01][1F E8 FF][1F 15 6A 00 47 02 01][1F 61]{music(139)}{pause(90)}[1F ED][1F E5 FF][1F 1F B7 01 06]{set(flag 350)}{set(flag 10)}" eob
+    "[06 0A 00 {e(l_0xc6e298)}]@[B0]i tiu elevator estas going down." next
+    "@Look, don't stand behind mi kaj stare at mia stumpo!{wait}{window_closeall}[1F 16 58 03 01]{music(138)}[1F 15 B7 01 63 01 01]{pause(1)}[1F EF B7 01][1F E8 FF][1F 15 6A 00 47 02 01][1F 61]{music(139)}{pause(90)}[1F ED][1F E5 FF][1F 1F B7 01 06]{set(flag 350)}{set(flag 10)}" eob
 
 l_0xc6e298:
     "@Ground floor." end
@@ -74,97 +74,97 @@ l_0xc6e2a4:
 
 l_0xc6e2ab:
     "@Oooo la la." next
-    "@This... this is my poor old friend..." next
-    "@Ah... what's your name..." next
-    "{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 02 {e(l_0xc6e33a)}]@Ah, Pig's Butt..." next
-    "@No, You're [1C 02 01]'s friend." next
-    "@Pig's Butt, you came here to beg me for some money, right?" next
+    "@[B0]i tiu... [C0]i tiu estas mia poor old amiko..." next
+    "@Ah... kio's via name..." next
+    "{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 02 {e(l_0xc6e33a)}]@Ah, Pig's stumpo..." next
+    "@Ne, Vi're [1C 02 01]'s amiko." next
+    "@Pig's stumpo, vi venis here al beg mi for iom mono, right?" next
     goto(l_0xc6e36d)
 
 l_0xc6e33a:
-    "@Pig's Butt... no no, [1C 02 01]!" next
-    "@Didn't you come here to beg me for some money?" next
+    "@Pig's stumpo... ne ne, [1C 02 01]!" next
+    "@Didn't vi veni here al beg mi for iom mono?" next
     goto(l_0xc6e36d)
 
 l_0xc6e36d:
     "@Oooo la la." next
-    "@Don't you recognize me?" next
-    "@I'm Master Porky!" next
+    "@Don't vi recognize mi?" next
+    "@Mi'm Master Porky!" next
     "@Porky!" next
-    "@Get it?" next
-    "@I'm now Monomotchi Monotoly's partner," next
-    "@and I give him political and economic advice." next
-    "@I heard there were some ratty-looking kids asking for Mr. Monotoly..." next
-    "{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xc6e426)}]@Was that you [1C 02 01]?" next
+    "@Get [C1]i?" next
+    "@Mi'm nun Monomotchi Monotoly's partner," next
+    "@kaj Mi doni lin political kaj economic advice." next
+    "@Mi a[C5]dis tia estis iom ratty-looking kids asking for Mr. Monotoly..." next
+    "{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xc6e426)}]@Estis tio vi [1C 02 01]?" next
     goto(l_0xc6e426)
 
 l_0xc6e426:
-    "@This isn't a place for the likes of you!" next
-    "@Get outta here!{pause(20)}  Now, loser![03]{window_closeall}" goto(data_44.l_0xc894ac)
+    "@[B0]i tiu isn't a place for la likes of vi!" next
+    "@Get outta here!{pause(20)}  Nun, loser![03]{window_closeall}" goto(data_44.l_0xc894ac)
 
 l_0xc6e45a:
     "[06 71 02 {e(l_0xc6e2ab)}]@Oooo la la." next
-    "@You shouldn't be satisfied with eating just some more [1C 01 04]." next
-    "@You're so out of it." next
-    "@I've ordered <Strawberry tofu.>" next
-    "@It's very popular among gourmets." next
-    "@Aren't you jealous that I get to eat such a tongue-tickling treat?" next
+    "@Vi shouldn't be satisfied kun eating just iom more [1C 01 04]." next
+    "@Vi're so out of [C1]i." next
+    "@Mi've ordered <Strawberry tofu.>" next
+    "@[B1]i's tre popular among gourmets." next
+    "@Aren't vi jealous tio Mi get al eat such a tongue-tickling treat?" next
     "@Ha ha ha!" next
-    "@<Strawberry tofu>...{pause(20)}  Oooo, I can't wait!" next
-    "@I'm starting to drool all over myself just thinking about it." end
+    "@<Strawberry tofu>...{pause(20)}  Oooo, Mi povas't wait!" next
+    "@Mi'm starting al drool [C0]io over myself just thinking about [C1]i." end
 
 l_0xc6e557:
-    "{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xc6e57d)}]@You haven't changed much, [1C 02 01]." next
+    "{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xc6e57d)}]@Vi haven't changed much, [1C 02 01]." next
     goto(l_0xc6e5a1)
 
 l_0xc6e57d:
-    "@Have I met you before?" next
-    "@You're just annoying kids to me..." next
+    "@havas Mi met vi before?" next
+    "@Vi're just annoying kids al mi..." next
     goto(l_0xc6e5a1)
 
 l_0xc6e5a1:
-    "@I'm Anburami Minch, Porky's dad." next
-    "@Due to my son's success,{pause(15)} I now live the life of a rich man." next
-    "@<Every dog has its day...>" next
-    "@That's the perfect proverb to describe me!  HA! Haha!  hahaha!  hohohoho!" next
+    "@Mi'm Anburami Minch, Porky's pa[C0]jo." next
+    "@Due al mia son's success,{pause(15)} Mi nun live la vivo of a rich viro." next
+    "@<Every hundo has its tago...>" next
+    "@Tio's la perfect proverb al describe mi!  HA! Haha!  hahaha!  hohohoho!" next
     "@GWA HA Ha Ha hahahaha!" next
     "@Hee ha haha hehe haha!" next
     "@Ha hahaha... *cough, cough," linebreak
     "  COOOOUGH!*" next
-    "@Oooo... my jaw is tired!" end
+    "@Oooo... mia jaw estas tired!" end
 
 l_0xc6e69c:
     "[06 0A 00 {e(l_0xc6e759)}][06 8F 00 {e(l_0xc6e79a)}]@Shhh! Quiet!" linebreak
-    "[19 10 01]{rtoarg}  Aren't you [1C 02 00]?" next
-    "@Mr. Monotoly's maid, Etsuko, told me about you." next
-    "@I'll take you to Mr. Monotoly's office on the 48th floor." next
-    "@Only you may go.[03][19 10 01]{rtoarg}" goto(l_0xc6e71e)
+    "[19 10 01]{rtoarg}  Aren't vi [1C 02 00]?" next
+    "@Mr. Monotoly's maid, Etsuko, told mi about vi." next
+    "@Mi'll take vi al Mr. Monotoly's office on la 48th floor." next
+    "@Only vi may iri.[03][19 10 01]{rtoarg}" goto(l_0xc6e71e)
 
 l_0xc6e71e:
     "{window_closeall}[1F 16 65 03 01]{music(137)}[1F 15 B7 01 63 01 01]{pause(1)}[1F EF B7 01][1F E8 FF][1F 15 6A 00 46 02 01][1F 61]{music(139)}{pause(90)}[1F ED][1F E5 FF][1F 1F B7 01 06]{set(flag 350)}{set(flag 10)}" eob
 
 l_0xc6e759:
     "[06 8F 00 {e(l_0xc6e7e9)}]@48th floor." next
-    "@A robot bodyguard is patrolling the floor." next
+    "@A robot bodyguard estas patrolling la floor." next
     "@Be careful!" end
 
 l_0xc6e79a:
-    "@This elevator goes to the top of this building, the 48th floor." next
-    "@Enjoy your ride, even though it's only one floor.[03]" goto(l_0xc6e71e)
+    "@[B0]i tiu elevator goes al la top of [C0]i tiu building, la 48th floor." next
+    "@Enjoy via ride, e[C0] though [C1]i's only unu floor.[03]" goto(l_0xc6e71e)
 
 l_0xc6e7e9:
     "@48th floor." end
 
 l_0xc6e7f6:
-    "@Get away from me, kid!" end
+    "@Get away from mi, kid!" end
 
 l_0xc6e806:
-    "@You won't get away from me, kid!" end
+    "@Vi won't get away from mi, kid!" end
 
 l_0xc6e81a:
-    "[06 0A 00 {e(l_0xc6e8bf)}][06 D7 00 {e(l_0xc6e961)}][06 8F 00 {e(l_0xc6e8cc)}]@You might run into the maid, Etsuko." next
-    "@I wonder what your relationship is...(smile)." next
-    "@This elevator takes you to the 47th floor.[03]" goto(l_0xc6e884)
+    "[06 0A 00 {e(l_0xc6e8bf)}][06 D7 00 {e(l_0xc6e961)}][06 8F 00 {e(l_0xc6e8cc)}]@Vi might run into la maid, Etsuko." next
+    "@Mi wonder kio via relationship estas...(smile)." next
+    "@[B0]i tiu elevator takes vi al la 47th floor.[03]" goto(l_0xc6e884)
 
 l_0xc6e884:
     "{window_closeall}[1F 16 66 03 01]{music(138)}[1F 15 B7 01 63 01 01]{pause(1)}[1F EF B7 01][1F E8 FF][1F 15 6A 00 47 02 01][1F 61]{music(139)}{pause(90)}[1F ED][1F E5 FF][1F 1F B7 01 06]{set(flag 350)}{set(flag 10)}" eob
@@ -173,101 +173,101 @@ l_0xc6e8bf:
     "@47th floor." end
 
 l_0xc6e8cc:
-    "@Are you a friend of the Tonzura Brothers?" next
-    "@Would an autograph be asking for too much?" linebreak
-    "[19 02]Yes" eob
+    "@Are vi a amiko of la Tonzura Brothers?" next
+    "@Would an autograph be asking for tro much?" linebreak
+    "[19 02]Jes" eob
 
 l_0xc6e8fb:
-    "[19 02]No" eob
+    "[19 02]Ne" eob
 
 l_0xc6e900:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc6e90f)} {e(l_0xc6e90f)}]" goto(l_0xc6e90f)
 
 l_0xc6e90f:
-    "@I don't mean your autograph, silly.{wait}{window_closeall}[1F 16 66 03 01]{music(138)}[1F 15 B7 01 63 01 01]{pause(1)}[1F EF B7 01][1F E8 FF][1F 15 6A 00 47 02 01][1F 61]{music(139)}{pause(90)}[1F ED][1F E5 FF][1F 1F B7 01 06]{set(flag 350)}{set(flag 10)}" eob
+    "@Mi don't mean via autograph, silly.{wait}{window_closeall}[1F 16 66 03 01]{music(138)}[1F 15 B7 01 63 01 01]{pause(1)}[1F EF B7 01][1F E8 FF][1F 15 6A 00 47 02 01][1F 61]{music(139)}{pause(90)}[1F ED][1F E5 FF][1F 1F B7 01 06]{set(flag 350)}{set(flag 10)}" eob
 
 l_0xc6e961:
-    "@This elevator takes you to the 47th floor.{wait}" goto(l_0xc6e884)
+    "@[B0]i tiu elevator takes vi al la 47th floor.{wait}" goto(l_0xc6e884)
 
 l_0xc6e982:
-    "[06 49 00 {e(l_0xc6ea0f)}][06 02 00 {e(l_0xc6e9d6)}][06 8D 00 {e(l_0xc6ea0f)}][1D 03 FF][1B 02 {e(l_0xc6e9d6)}][1D 0E 00 BD]@Your strawberry tofu, {store_registers}[19 10 01]" call(data_37.l_0xc7e6b3) ".[03]{load_registers}{set(flag 141)}{set(flag 2)}" call(data_36.l_0xc7dccf) next
+    "[06 49 00 {e(l_0xc6ea0f)}][06 02 00 {e(l_0xc6e9d6)}][06 8D 00 {e(l_0xc6ea0f)}][1D 03 FF][1B 02 {e(l_0xc6e9d6)}][1D 0E 00 BD]@Via strawberry tofu, {store_registers}[19 10 01]" call(data_37.l_0xc7e6b3) ".[03]{load_registers}{set(flag 141)}{set(flag 2)}" call(data_36.l_0xc7dccf) next
     goto(l_0xc6e9d6)
 
 l_0xc6e9d6:
     "@Master Porky's cool!" next
-    "@He gave me something the other day, and said <this is fit for a maid...>" end
+    "@Li gave mi io la alia tago, kaj said <[C0]i tiu estas fit for a maid...>" end
 
 l_0xc6ea0f:
-    "@Thanks for coming to visit me even though you're not on any real business here. You're so cute!" end
+    "@dankon for coming al viziti mi e[C0] though vi're ne on ajn vere business here. Vi're so cute!" end
 
 l_0xc6ea34:
-    "[06 A0 02 {e(l_0xc6ee6f)}][06 0F 00 {e(l_0xc6ee2e)}]@Just look at these skinny arms,{pause(20)} see my thin body,{pause(20)} and my hair is completely white." next
-    "@Now that the Mani Mani statue is gone, I have no power at all!" next
-    "@I apologize for kidnapping [1C 02 02]." next
-    "@I haven't harmed her in any way..." next
-    "@and she was truly a nice girl.[03]{window_closeall}{pause(60)}[1F 16 68 03 03]{pause(10)}{window_open(1)}@[1C 02 02]." next
-    "@Okay, [1C 02 02].  Return to [1C 02 01]." next
-    "@I'm very sorry for causing so much worry.[03]{window_closeall}{pause(60)}" call(data_23.l_0xc68253) "{set(flag 15)}{unset(flag 776)}[19 23 68 03 01 FF 00][1F 16 68 03 00]{music_resume}{pause(120)}{window_open(1)}" goto(l_0xc6eb2c)
+    "[06 A0 02 {e(l_0xc6ee6f)}][06 0F 00 {e(l_0xc6ee2e)}]@Just look at these skinny arms,{pause(20)} vidi mia thin Korpo,{pause(20)} kaj mia hair estas completely white." next
+    "@Nun tio la Mani Mani statue estas gone, Mi havas ne power at all!" next
+    "@Mi apologize for kidnapping [1C 02 02]." next
+    "@Mi haven't harmed her en ajn way..." next
+    "@kaj [C4]i estis truly a nice knabino.[03]{window_closeall}{pause(60)}[1F 16 68 03 03]{pause(10)}{window_open(1)}@[1C 02 02]." next
+    "@Okej, [1C 02 02].  Return al [1C 02 01]." next
+    "@Mi'm tre sorry for causing so much worry.[03]{window_closeall}{pause(60)}" call(data_23.l_0xc68253) "{set(flag 15)}{unset(flag 776)}[19 23 68 03 01 FF 00][1F 16 68 03 00]{music_resume}{pause(120)}{window_open(1)}" goto(l_0xc6eb2c)
 
 l_0xc6eb2c:
     "@....." next
-    "@I'll tell you everything I know now." next
-    "@The Mani Mani statue shows people illusions." next
-    "@It then increases the evil in their hearts and brings forth the devil's power." next
-    "@I was so afraid of that power that I hid it in the storeroom at Boris' Bar," next
-    "@where I went to look upon it on occasion." next
+    "@Mi'll tell vi [C0]io Mi scii nun." next
+    "@La Mani Mani statue shows people illusions." next
+    "@[B1]i then increases la evil en ilia hearts kaj brings forth la devil's power." next
+    "@Mi estis so timas of tio power tio Mi hid [C1]i en la storeroom at Boris' Bar," next
+    "@kie Mi went al look upon [C1]i on occasion." next
     "@....." next
-    "@There are mysterious words inside the illusions," next
-    "@including your name, [1C 02 01]." next
-    "@Things like: <Stop [1C 02 01] by your own hand.>" next
-    "@And..." next
-    "@<Don't let them go to Summers.>" next
-    "@And..." next
-    "@<Do not let them see the Pyramid>..." next
-    "@I don't really understand why," next
-    "@but someone apparently doesn't want you children to go to Summers." next
+    "@Tia are mysterious vortoj inside la illusions," next
+    "@including via name, [1C 02 01]." next
+    "@A[C3]oj like: <Stop [1C 02 01] by via own hand.>" next
+    "@Kaj..." next
+    "@<Don't let ilin iri al Summers.>" next
+    "@Kaj..." next
+    "@<Do ne let ilin vidi la Pyramid>..." next
+    "@Mi don't vere komprenas kial," next
+    "@sed iu apparently doesn't volas vi children al iri al Summers." next
     "{pause(60)}" linebreak
-    "@I also heard things like: <The devil... Gyiyg...>" next
-    "@Apparently, the devil's side doesn't want you going to Summers..." next
-    "@Which means, of course," next
-    "@that you probably SHOULD find a way to Summers somehow." next
+    "@Mi anka[C5] a[C5]dis a[C3]oj like: <La devil... Gyiyg...>" next
+    "@Apparently, la devil's side doesn't volas vi going al Summers..." next
+    "@Kiu means, of course," next
+    "@tio vi eble SHOULD trovi a way al Summers somehow." next
     "@....." next
-    "@...Would you like to hear the whole story again?" linebreak
-    "[19 02]Yes" eob
+    "@...Would vi like al a[C5]di la whole rakonto again?" linebreak
+    "[19 02]Jes" eob
 
 l_0xc6ed60:
-    "[19 02]No" eob
+    "[19 02]Ne" eob
 
 l_0xc6ed65:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc6eb2c)} {e(l_0xc6ed74)}]" goto(l_0xc6ed74)
 
 l_0xc6ed74:
-    "@Summers is across the ocean.{pause(20)} You can use my helicopter." next
-    "@Allow me to open the door to the heliport.[03]{window_closeall}{pause(1)}[1F F1 68 03 BD 02][1F 61][1F F1 6C 03 BE 02][1F 61][1F F1 6C 03 2C 00][1F E6 68 03][1F 07 03]{pause(180)}{music(85)}[1F F1 6D 03 BF 02][1F 61][1F F1 6D 03 08 00][1F 07 02]{pause(30)}{sound(28)}{pause(60)}{music_resume}[1F E9 68 03][1F 61][1F F1 68 03 08 00]{window_open(1)}@I'm exhausted now." next
-    "@I'm sure you children can manage to right things on your own." next
-    "@It appears that it is your fate, [1C 02 01]." next
+    "@Summers estas across la ocean.{pause(20)} Vi povas use mia helicopter." next
+    "@Allow mi al open la pordo al la heliport.[03]{window_closeall}{pause(1)}[1F F1 68 03 BD 02][1F 61][1F F1 6C 03 BE 02][1F 61][1F F1 6C 03 2C 00][1F E6 68 03][1F 07 03]{pause(180)}{music(85)}[1F F1 6D 03 BF 02][1F 61][1F F1 6D 03 08 00][1F 07 02]{pause(30)}{sound(28)}{pause(60)}{music_resume}[1F E9 68 03][1F 61][1F F1 68 03 08 00]{window_open(1)}@Mi'm exhausted nun." next
+    "@Mi'm sure vi children povas manage al right a[C3]oj on via own." next
+    "@[B1]i appears tio [C1]i estas via fate, [1C 02 01]." next
     "{set(flag 664)}{set(flag 741)}" goto(l_0xc6ee2e)
 
 l_0xc6ee2e:
-    "@Well, goodbye, [1C 01 1E].  Please, be careful on your way." next
+    "@Well, goodbye, [1C 01 1E].  Please, be careful on via way." next
     "@Take care.{wait}{window_closeall}{set(flag 357)}{set(flag 358)}{set(flag 359)}{set(flag 360)}{set(flag 361)}{set(flag 362)}{set(flag 11)}{set(flag 754)}{set(flag 779)}{unset(flag 759)}" eob
 
 l_0xc6ee6f:
-    "@So Porky took the helicopter?" next
-    "@I wonder if he'll be okay..." end
+    "@So Porky took la helicopter?" next
+    "@Mi wonder se li'll be okej..." end
 
 l_0xc6ee94:
-    "@(This bear won't attack you.{pause(20)}" linebreak
-    "  He's stuffed!)" end
+    "@([B0]i tiu bear won't atako vi.{pause(20)}" linebreak
+    "  Li's stuffed!)" end
 
 l_0xc6eeb4:
     "[19 10 01]{rtoarg}@...[1C 02 01]!" next
-    "@You finally made it here!" next
-    "@...I'm fine." next
-    "@I believed you'd come and save me." next
+    "@Vi finally made [C1]i here!" next
+    "@...Mi'm bone." next
+    "@Mi believed vi'd veni kaj save mi." next
     "{pause(60)}" linebreak
-    "@Mr. Monotoly isn't really a bad person." next
-    "@Take some time to listen to him.{wait}{set(flag 10)}" eob
+    "@Mr. Monotoly isn't vere a bad person." next
+    "@Take iom tempo al a[C5]skulti al lin.{wait}{set(flag 10)}" eob
 
 l_0xc6ef24:
     "[06 65 01 {e(data_35.l_0xc7c588)}]" call(l_0xc6f054) call(data_23.l_0xc68562) "[1B 03 {e(data_23.l_0xc683de)}]{pause(1)}[1F F1 6F 03 7B 02]{set(flag 357)}" eob
@@ -299,120 +299,120 @@ l_0xc6f054:
 
 l_0xc6f0b5:
     "[19 10 01]{rtoarg}@[1C 02 00], {swap}" call(data_37.l_0xc7e6b3) "..." next
-    "@Are you staying here tonight?" next
-    "@Thanks for being so generous with your tips..." next
-    "@...You never gave me a tip?... never mind..." end
+    "@Are vi staying here tonight?" next
+    "@dankon for being so generous kun via tips..." next
+    "@...Vi neniam gave mi a tip?... neniam mind..." end
 
 l_0xc6f112:
-    "@Hey, you!..." next
-    "@If you meet a beautiful, seductive woman who's looking for me,{pause(15)} tell her <hi.>" next
-    "@...Anyway, I don't think a woman like that would be looking for me..." end
+    "@Hey, vi!..." next
+    "@Se vi meet a beautiful, seductive virino kiu's looking for mi,{pause(15)} tell her <Sal'.>" next
+    "@...Anyway, Mi don't pensi a virino like tio would be looking for mi..." end
 
 l_0xc6f175:
-    "[06 8F 00 {e(l_0xc6f1d6)}]@What?" next
-    "@Does Mr. Monomotchi Monotoly come here often?" next
-    "@Hello!{pause(20)}  Time to get up!!" next
-    "@It could never happen!...  Well, actually that's not true." end
+    "[06 8F 00 {e(l_0xc6f1d6)}]@Kio?" next
+    "@Does Mr. Monomotchi Monotoly veni here often?" next
+    "@Saluton!{pause(20)}  Tempo al get up!!" next
+    "@[B1]i could neniam happen!...  Well, actually tio's ne true." end
 
 l_0xc6f1d6:
-    "@Sorry about the other day." next
-    "@This sidewalk bar isn't as profitable as it used to be." next
-    "@This is just a hangout for the regulars." end
+    "@Sorry about la alia tago." next
+    "@[B0]i tiu sidewalk bar isn't as profitable as [C1]i uzis al be." next
+    "@[B0]i tiu estas just a hangout for la regulars." end
 
 l_0xc6f225:
-    "[06 8F 00 {e(l_0xc6f354)}]@You know you can't drink alcohol, you're just kids." next
+    "[06 8F 00 {e(l_0xc6f354)}]@Vi scii vi povas't drink alcohol, vi're just kids." next
     "@Quit hanging around here." next
-    "@What?" next
+    "@Kio?" next
     "@Mr. Monotoly's here?" next
-    "@You got that wrong, kid!" end
+    "@Vi got tio wrong, kid!" end
 
 l_0xc6f27c:
-    "[06 8F 00 {e(l_0xc6f354)}][06 91 00 {e(l_0xc6f2e7)}]@There seems to be a real commotion outside." next
-    "@I wonder if Swallows fans are singing:" next
-    "@<Tokyo Ondo> or something...{wait}{set(flag 60)}" eob
+    "[06 8F 00 {e(l_0xc6f354)}][06 91 00 {e(l_0xc6f2e7)}]@Tia seems al be a vere commotion outside." next
+    "@Mi wonder se Swallows fans are singing:" next
+    "@<Tokyo Ondo> a[C5] io...{wait}{set(flag 60)}" eob
 
 l_0xc6f2e7:
-    "@Kids shouldn't drink alcohol.  It'll stunt your brain, stubby!" next
-    "@And quit hanging out around here." next
-    "@What?" next
+    "@Kids shouldn't drink alcohol.  [B1]i'll stunt via brain, stubby!" next
+    "@Kaj quit hanging out around here." next
+    "@Kio?" next
     "@Mr. Monotoly's here?" next
-    "@You must be thinking of someone else!" end
+    "@Vi devas be thinking of iu else!" end
 
 l_0xc6f354:
-    "@Good evening, hero!{pause(20)}  How about an espresso?" end
+    "@Bona vespero, hero!{pause(20)}  Kiel about an espresso?" end
 
 l_0xc6f374:
-    "[06 49 00 {e(l_0xc6f584)}][06 8F 00 {e(l_0xc6f4b1)}]@I'm surprised you talked to an ordinary guy like me." next
-    "@I have no information or items to help you out." next
-    "@Don't you think it's natural for a guy like me to be here?!" next
-    "@...I think so, which is why I'm drinkin' here." next
-    "@By the way,{pause(15)} let me quiz you." next
-    "@There are 5 apples." next
-    "@If you eat one, how many are left?" next
-    "@5 minus 1 is 4...{pause(15)} so 4's left." next
-    "@...Ah, it's not funny?{pause(20)}  Okay, here's another one..." next
-    "@Master Porky's maid Etsuko is <maid> to order..." next
-    "@...Oh, puns aren't funny either..." end
+    "[06 49 00 {e(l_0xc6f584)}][06 8F 00 {e(l_0xc6f4b1)}]@Mi'm surprised vi talked al an ordinary guy like mi." next
+    "@Mi havas ne information a[C5] items al helpi vi out." next
+    "@Don't vi pensi [C1]i's natural for a guy like mi al be here?!" next
+    "@...Mi pensi so, kiu estas kial Mi'm drinkin' here." next
+    "@By la way,{pause(15)} let mi quiz vi." next
+    "@Tia are 5 apples." next
+    "@Se vi eat unu, kiel many are left?" next
+    "@5 minus 1 estas 4...{pause(15)} so 4's left." next
+    "@...Ah, [C1]i's ne funny?{pause(20)}  Okej, here's another unu..." next
+    "@Master Porky's maid Etsuko estas <maid> al order..." next
+    "@...Ho, puns aren't funny either..." end
 
 l_0xc6f4b1:
-    "@I've been trying to think of some funny jokes..." next
-    "@I scream, you scream, we all scream for ice cream!" next
-    "@Waaa ha ha ha ha ha.  That's so funny!" next
-    "@That should really make you laugh." next
+    "@Mi've been trying al pensi of iom funny jokes..." next
+    "@Mi scream, vi scream, ni [C0]io scream for ice cream!" next
+    "@Waaa ha ha ha ha ha.  Tio's so funny!" next
+    "@Tio should vere fari vi laugh." next
     "@C'mon, laugh!" next
-    "@If you hear any funny jokes, be sure you let loose and laugh..." next
-    "@Please... I'm counting on you to laugh!" next
+    "@Se vi a[C5]di ajn funny jokes, be sure vi let loose kaj laugh..." next
+    "@Please... Mi'm counting on vi al laugh!" next
     "@*boo hoo hoo*..." end
 
 l_0xc6f584:
-    "@Hey, long time no see!" next
-    "@I've thought of a new joke since before..." next
-    "@Knock, knock!... (who's there?)" next
-    "@Sawyer... (Sawyer who?)" next
-    "@Sawyer doin' well, I'm fine, too!" next
+    "@Hey, long tempo ne vidi!" next
+    "@Mi've pensis of a new joke since before..." next
+    "@Knock, knock!... (kiu's tia?)" next
+    "@Sawyer... (Sawyer kiu?)" next
+    "@Sawyer doin' well, Mi'm bone, tro!" next
     "@Baaa ha ha ha!..." next
-    "@...You don't think it's funny?" next
-    "@I really thought this would be funny to you." next
-    "@Now my self confidence is TOTALLY shot!  Back to therapy..." end
+    "@...Vi don't pensi [C1]i's funny?" next
+    "@Mi vere pensis [C0]i tiu would be funny al vi." next
+    "@Nun mia self confidence estas TOTALLY shot!  Back al therapy..." end
 
 l_0xc6f659:
-    "[06 8F 00 {e(l_0xc6f717)}]@I was drunk," next
-    "@and I had to get to the bathroom fast!" next
-    "@When I got there," next
-    "@I accidentally knocked on the wall instead of the restroom door..." next
-    "@The next thing I knew, someone asked <Who is it?> and really surprised me!" next
-    "@Maybe I just imagined it?..." end
+    "[06 8F 00 {e(l_0xc6f717)}]@Mi estis drunk," next
+    "@kaj Mi havis al get al la bathroom fast!" next
+    "@Kie Mi got tia," next
+    "@Mi accidentally knocked on la wall instead of la restroom pordo..." next
+    "@La next a[C3]o Mi sciis, iu asked <Kiu estas [C1]i?> kaj vere surprised mi!" next
+    "@Maybe Mi just imagined [C1]i?..." end
 
 l_0xc6f717:
-    "@The hint that I gave you was critical to helping you win..." next
-    "@I'm feelin' good!" next
-    "@We rock!  Ha ha ha." end
+    "@La hint tio Mi gave vi estis critical al helping vi win..." next
+    "@Mi'm feelin' bona!" next
+    "@Ni rock!  Ha ha ha." end
 
 l_0xc6f757:
-    "[06 8F 00 {e(l_0xc6f819)}]@I used to be Monotoly's employer." next
-    "@Then I realized his schemes made my company go bankrupt." next
-    "@My house and land were taken away..." next
-    "@Now I'm homeless..." next
-    "@Monotoly didn't used to be so powerful." next
-    "@I want to find out his secrets, so I'm spending my time here," next
-    "@watching to see if he ever drops in." end
+    "[06 8F 00 {e(l_0xc6f819)}]@Mi uzis al be Monotoly's employer." next
+    "@Then Mi realized lia schemes made mia company iri bankrupt." next
+    "@Mia domo kaj land estis taken away..." next
+    "@Nun Mi'm homeless..." next
+    "@Monotoly didn't uzis al be so powerful." next
+    "@Mi volas al trovi out lia secrets, so Mi'm spending mia tempo here," next
+    "@watching al vidi se li ever drops en." end
 
 l_0xc6f819:
-    "[19 10 01]{rtoarg}@I wanna say thanks." next
-    "@Monotoly destroyed my life... but I've decided not to blame anyone." next
-    "@I'm having a wonderful time each and every day now." next
-    "@Thank you, thank you!" end
+    "[19 10 01]{rtoarg}@Mi volas say dankon." next
+    "@Monotoly destroyed mia vivo... sed Mi've decided ne al blame ajnulo." next
+    "@Mi'm having a wonderful tempo each kaj every tago nun." next
+    "@Dankon, Dankon!" end
 
 l_0xc6f881:
-    "@You've brought the town of Fourside back to life." next
-    "@I appreciate it from the bottom of my heart." next
-    "@Thank you." end
+    "@Vi've brought la town of Fourside back al vivo." next
+    "@Mi appreciate [C1]i from la bottom of mia heart." next
+    "@Dankon." end
 
 l_0xc6f8bf:
-    "@Seems like it's just for decoration." end
+    "@Seems like [C1]i's just for decoration." end
 
 l_0xc6f8d9:
-    "@This one is locked." end
+    "@[B0]i tiu unu estas locked." end
 
 l_0xc6f8e6:
     call(l_0xc6f9fd) "[1B 03 {e(l_0xc6fa68)}]" call(l_0xc6fa05) "[1B 02 {e(l_0xc6fb5d)}]" call(l_0xc6fa0c) "[1D 05 FF 24][1B 03 {e(l_0xc6fa93)}]{counter(36)}" call(l_0xc6fa2e) eob
@@ -442,23 +442,23 @@ l_0xc6fa05:
     "{load_registers}{swap}{result_is(172)}" eob
 
 l_0xc6fa0c:
-    "{load_registers}{swap}@[1C 02 00] opened the locker using the [1C 05 AC].{sound(119)}[03]" newline
+    "{load_registers}{swap}@[1C 02 00] opened la locker using la [1C 05 AC].{sound(119)}[03]" newline
     eob
 
 l_0xc6fa2e:
-    "{ctoarg}@There was a [1C 05 00] in the locker." next
-    "[1D 03 FF][1B 02 {e(l_0xc6fab4)}]{store_registers}[1D 0E 00 00]{load_registers}{swap}@[1C 02 00]{swap} got it.{wait}{sound(116)}{pause(1)}" eob
+    "{ctoarg}@Tia estis a [1C 05 00] en la locker." next
+    "[1D 03 FF][1B 02 {e(l_0xc6fab4)}]{store_registers}[1D 0E 00 00]{load_registers}{swap}@[1C 02 00]{swap} got [C1]i.{wait}{sound(116)}{pause(1)}" eob
 
 l_0xc6fa68:
     "{load_registers}" newline
-    "@(The key is bent and doesn't fit into the key hole!){wait}{set(flag 605)}" eob
+    "@(La key estas bent kaj doesn't fit into la key hole!){wait}{set(flag 605)}" eob
 
 l_0xc6fa93:
-    "@(Unfortunately, there is nothing in this locker.)" end
+    "@(Unfortunately, tia estas Nenio en [C0]i tiu locker.)" end
 
 l_0xc6fab4:
-    "@However, you already have too many things to carry." next
-    "[19 10 01]{swap}@[1C 02 00]{swap} left it in the locker." end
+    "@However, vi already havas tro many a[C3]oj al carry." next
+    "[19 10 01]{swap}@[1C 02 00]{swap} left [C1]i en la locker." end
 
 l_0xc6fae5:
     "[06 1D 02 {e(data_55.l_0xc9992f)}]" call(l_0xc6fb20) "[06 0E 00 {e(data_55.l_0xc9992f)}]{window_closeall}{pause(1)}" call(data_34.l_0xc79e55) eob
@@ -467,33 +467,33 @@ l_0xc6fb02:
     "{store_registers}[19 19 00 00]{swap}{result_is(172)}[1B 02 {e(l_0xc6fb5d)}]" call(l_0xc6fb33) "[1F 1E DF 01 06]{set(flag 541)}" eob
 
 l_0xc6fb20:
-    "{window_open(1)}@The door is locked.{wait}{window_closeall}" eob
+    "{window_open(1)}@La pordo estas locked.{wait}{window_closeall}" eob
 
 l_0xc6fb33:
-    "{load_registers}[19 19 00 00]{swap}@[1C 02 00]{swap} used" linebreak
-    "  the [1C 05 00]." next
-    "@The door opened.{wait}{sound(119)}" eob
+    "{load_registers}[19 19 00 00]{swap}@[1C 02 00]{swap} uzis" linebreak
+    "  la [1C 05 00]." next
+    "@La pordo opened.{wait}{sound(119)}" eob
 
 l_0xc6fb5d:
-    "@It wasn't the right key." end
+    "@[B1]i wasn't la right key." end
 
 l_0xc6fb6d:
     newline
-    "@The Suporma sang the song <Ode to Orange Kid.>" next
-    "@As soon as it finished, the machine broke down." end
+    "@La Suporma sang la song <Ode al Orange Kid.>" next
+    "@As soon as [C1]i finished, la ma[C4]ino broke down." end
 
 l_0xc6fbb5:
     newline
-    "@By using the Insignificant Present, you had a very fruitful experience" next
-    "@that cannot be understood by someone who does not use something insignificant." end
+    "@By using la Insignificant Present, vi havis a tre fruitful experience" next
+    "@tio cannot be komprenis by iu kiu does ne use io insignificant." end
 
 l_0xc6fc1a:
     newline
-    " {user} used the Monkey Love." next
-    " All of a sudden, a monkey came along," next
-    " and pinned the enemy down with its tiny monkey body.[03]" eob
+    " {user} uzis la Monkey Love." next
+    " [B0]io of a sudden, a monkey venis along," next
+    " kaj pinned la enemy down kun its tiny monkey Korpo.[03]" eob
 
 l_0xc6fc6d:
     newline
-    "@It smelled so unbelievably bad that you could not eat it." end
+    "@[B1]i smelled so unbelievably bad tio vi could ne eat [C1]i." end
 

@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -9,12 +9,12 @@ command e(label) "{long label}"
 // Text Data
 l_0xef7696:
     newline
-    "@It had no visible effect" linebreak
+    "@[B1]i havis ne visible effect" linebreak
     "  on {target}![03]" eob
 
 l_0xef76b3:
     newline
-    "@It did not work" linebreak
+    "@[B1]i did ne work" linebreak
     "  on {target}![03]" eob
 
 l_0xef76c7:
@@ -24,11 +24,11 @@ l_0xef76c7:
 l_0xef76d8:
     newline
     "{sound(34)}@...narrowly missed" linebreak
-    "  hitting the target![03]" eob
+    "  hitting la target![03]" eob
 
 l_0xef76fd:
     newline
-    "@But {target} was" linebreak
+    "@Sed {target} estis" linebreak
     "  already gone...[03]" eob
 
 l_0xef7710:
@@ -53,45 +53,45 @@ l_0xef7755:
 l_0xef7768:
     newline
     "@{user} felt sick" linebreak
-    "  and took {delta} HP damage![03]" eob
+    "  kaj took {delta} HP damage![03]" eob
 
 l_0xef7787:
     newline
     "@{target} felt pain" linebreak
-    "  from the poison" next
-    "  and took {delta} HP damage.[03]" eob
+    "  from la poison" next
+    "  kaj took {delta} HP damage.[03]" eob
 
 l_0xef77b1:
     newline
     "@{target} felt dizzy" linebreak
-    "  and weak and received {delta} HP damage![03]" eob
+    "  kaj weak kaj received {delta} HP damage![03]" eob
 
 l_0xef77db:
     newline
     "@{target} sneezed" linebreak
-    "  and received {delta} HP damage![03]" eob
+    "  kaj received {delta} HP damage![03]" eob
 
 l_0xef77fd:
     newline
     "@{target} joined" linebreak
-    "  the battle.[03]" eob
+    "  la battle.[03]" eob
 
 l_0xef7810:
     newline
     "@{target} started" linebreak
-    "  to grow.[03]" eob
+    "  al grow.[03]" eob
 
 l_0xef7824:
     newline
-    "@But no one came.[03]" eob
+    "@Sed ne unu venis.[03]" eob
 
 l_0xef7830:
     newline
-    "@But, the seed didn't sprout.[03]" eob
+    "@Sed, la seed didn't sprout.[03]" eob
 
 l_0xef7843:
     "{music(98)}" newline
-    "@Time started again.[03]" eob
+    "@Tempo started again.[03]" eob
 
 l_0xef7858:
     newline
@@ -99,72 +99,72 @@ l_0xef7858:
 
 l_0xef7866:
     newline
-    "@" call(l_0xef790b) " blocked the way![03]" eob
+    "@" call(l_0xef790b) " blocked la way![03]" eob
 
 l_0xef7879:
     newline
-    "@" call(l_0xef790b) " came after you![03]" eob
+    "@" call(l_0xef790b) " venis after vi![03]" eob
 
 l_0xef788b:
     newline
-    "@" call(l_0xef790b) " trapped you![03]" eob
+    "@" call(l_0xef790b) " trapped vi![03]" eob
 
 l_0xef789c:
-    "@You encounter " call(l_0xef794b) "[03]" eob
+    "@Vi encounter " call(l_0xef794b) "[03]" eob
 
 l_0xef78ab:
-    "@You meet " call(l_0xef794b) "[03]" eob
+    "@Vi meet " call(l_0xef794b) "[03]" eob
 
 l_0xef78b8:
-    "@You engage " call(l_0xef794b) "[03]" eob
+    "@Vi engage " call(l_0xef794b) "[03]" eob
 
 l_0xef78c7:
-    "@You confront " call(l_0xef794b) "[03]" eob
+    "@Vi confront " call(l_0xef794b) "[03]" eob
 
 l_0xef78d8:
     newline
-    "@Here is a chance" linebreak
-    "  for a surprise opening attack![03]" eob
+    "@Here estas a chance" linebreak
+    "  for a surprise opening atako![03]" eob
 
 l_0xef78f7:
     newline
-    "@Here is " call(l_0xef798f) " opening attack![03]" eob
+    "@Here estas " call(l_0xef798f) " opening atako![03]" eob
 
 l_0xef790b:
-    "[1C 14 02][09 03 {e(l_0xef792b)} {e(l_0xef792e)} {e(l_0xef793c)}]{user} and its cohorts" eob
+    "[1C 14 02][09 03 {e(l_0xef792b)} {e(l_0xef792e)} {e(l_0xef793c)}]{user} kaj its cohorts" eob
 
 l_0xef792b:
     "{user}" eob
 
 l_0xef792e:
-    "{user} and its cohort" eob
+    "{user} kaj its cohort" eob
 
 l_0xef793c:
-    "{user} and its cohorts" eob
+    "{user} kaj its cohorts" eob
 
 l_0xef794b:
-    "[1C 14 02][09 03 {e(l_0xef796c)} {e(l_0xef7970)} {e(l_0xef797f)}]{user} and its cohorts." eob
+    "[1C 14 02][09 03 {e(l_0xef796c)} {e(l_0xef7970)} {e(l_0xef797f)}]{user} kaj its cohorts." eob
 
 l_0xef796c:
     "{user}." eob
 
 l_0xef7970:
-    "{user} and its cohort." eob
+    "{user} kaj its cohort." eob
 
 l_0xef797f:
-    "{user} and its cohorts." eob
+    "{user} kaj its cohorts." eob
 
 l_0xef798f:
-    "[1C 14 02][09 03 {e(l_0xef79b1)} {e(l_0xef79b6)} {e(l_0xef79c6)}]{user} and its cohorts's" eob
+    "[1C 14 02][09 03 {e(l_0xef79b1)} {e(l_0xef79b6)} {e(l_0xef79c6)}]{user} kaj its cohorts's" eob
 
 l_0xef79b1:
     "{user}'s" eob
 
 l_0xef79b6:
-    "{user} and its cohort's" eob
+    "{user} kaj its cohort's" eob
 
 l_0xef79c6:
-    "{user} and its cohorts's" eob
+    "{user} kaj its cohorts's" eob
 
 l_0xef79d7:
     "{window_clear}{music(5)}" linebreak
@@ -176,7 +176,7 @@ l_0xef79e6:
 
 l_0xef79ef:
     next
-    "@" call(data_37.l_0xc7e6d7) " gained {delta} exp" call(data_65.l_0xef8fad) "{prompt}" eob
+    "@" call(data_37.l_0xc7e6d7) " akiris {delta} exp" call(data_65.l_0xef8fad) "{prompt}" eob
 
 l_0xef7a0a:
     "[19 05 01 06 02]" goto(l_0xef79ef)
@@ -190,32 +190,32 @@ l_0xef7a28:
     "{window_clear}" linebreak
     "              [1C 08 02]" linebreak
     "{pause(90)}" linebreak
-    "@" call(data_37.l_0xc7e6d7) " gained {delta} exp" call(data_65.l_0xef8fad) "{prompt}" eob
+    "@" call(data_37.l_0xc7e6d7) " akiris {delta} exp" call(data_65.l_0xef8fad) "{prompt}" eob
 
 l_0xef7a4d:
     newline
-    "{pause(10)}{music(7)}@" call(data_37.l_0xc7e6d7) " lost the battle...{prompt}" eob
+    "{pause(10)}{music(7)}@" call(data_37.l_0xc7e6d7) " lost la battle...{prompt}" eob
 
 l_0xef7a66:
     newline
-    "@{target}'s level is" linebreak
-    "  now {delta}!{prompt}" eob
+    "@{target}'s nivelo estas" linebreak
+    "  nun {delta}!{prompt}" eob
 
 l_0xef7a7d:
     newline
-    "@" call(l_0xef7bbf) "Offense went up by {delta}!{prompt}" eob
+    "@" call(l_0xef7bbf) "Ataka went up by {delta}!{prompt}" eob
 
 l_0xef7a97:
     newline
-    "@" call(l_0xef7bbf) "Defense went up by {delta}!{prompt}" eob
+    "@" call(l_0xef7bbf) "Defenco went up by {delta}!{prompt}" eob
 
 l_0xef7ab1:
     newline
-    "@" call(l_0xef7bbf) "Speed went up by {delta}!{prompt}" eob
+    "@" call(l_0xef7bbf) "Rapido went up by {delta}!{prompt}" eob
 
 l_0xef7ac9:
     newline
-    "@" call(l_0xef7bbf) "Guts went up by {delta}!{prompt}" eob
+    "@" call(l_0xef7bbf) "Gucoj went up by {delta}!{prompt}" eob
 
 l_0xef7ae0:
     newline
@@ -227,19 +227,19 @@ l_0xef7afb:
 
 l_0xef7b11:
     newline
-    "@" call(l_0xef7bbf) "Luck went up by {delta}!{prompt}" eob
+    "@" call(l_0xef7bbf) "[C4]an[C0]o went up by {delta}!{prompt}" eob
 
 l_0xef7b28:
     newline
-    "@" call(l_0xef7b83) "Maximum HP went up by {delta}!{prompt}" eob
+    "@" call(l_0xef7b83) "Maksimuma HP went up by {delta}!{prompt}" eob
 
 l_0xef7b46:
     newline
-    "@" call(l_0xef7ba0) "Maximum PP went up by {delta}!{prompt}" eob
+    "@" call(l_0xef7ba0) "Maksimuma PP went up by {delta}!{prompt}" eob
 
 l_0xef7b64:
     newline
-    "{sound(103)}@{target} realized the power of" linebreak
+    "{sound(103)}@{target} realized la power of" linebreak
     "[19 1F]{swap}  [1C 12 00].{prompt}" eob
 
 l_0xef7b83:
@@ -250,14 +250,14 @@ l_0xef7b9d:
     "{load_registers}" eob
 
 l_0xef7ba0:
-    "{store_registers}[19 1E][18 07 08 00 00 00 00][1B 02 {e(l_0xef7bbc)}]That rocks!" linebreak
+    "{store_registers}[19 1E][18 07 08 00 00 00 00][1B 02 {e(l_0xef7bbc)}]Tio rocks!" linebreak
     "  " goto(l_0xef7bbc)
 
 l_0xef7bbc:
     "{load_registers}" eob
 
 l_0xef7bbf:
-    "{store_registers}[19 1E][18 07 03 00 00 00 00][1B 02 {e(l_0xef7bdc)}]Oh, baby!" linebreak
+    "{store_registers}[19 1E][18 07 03 00 00 00 00][1B 02 {e(l_0xef7bdc)}]Ho, bebo!" linebreak
     "  " goto(l_0xef7bdc)
 
 l_0xef7bdc:
@@ -265,38 +265,38 @@ l_0xef7bdc:
 
 l_0xef7bdf:
     newline
-    "@The enemy left a present!{prompt}" linebreak
-    "{sound(16)}{pause(1)}@Inside the present," linebreak
-    "[19 1F]{swap}  there was a [1C 05 00]!{prompt}" linebreak
-    "[1D 03 FF][1B 02 {e(l_0xef7c73)}]{store_registers}" call(data_36.l_0xc7dc85) "[1B 03 {e(l_0xef7c42)}]{load_registers}{swap}@[1C 02 00]{swap} took it.[1D 0E 00 00]{sound(116)}{prompt}" eob
+    "@La enemy left a present!{prompt}" linebreak
+    "{sound(16)}{pause(1)}@Inside la present," linebreak
+    "[19 1F]{swap}  tia estis a [1C 05 00]!{prompt}" linebreak
+    "[1D 03 FF][1B 02 {e(l_0xef7c73)}]{store_registers}" call(data_36.l_0xc7dc85) "[1B 03 {e(l_0xef7c42)}]{load_registers}{swap}@[1C 02 00]{swap} took [C1]i.[1D 0E 00 00]{sound(116)}{prompt}" eob
 
 l_0xef7c42:
     "[19 10 01]{swap}" newline
-    "@[1C 02 00] added{load_registers} the [1C 05 00] to" linebreak
+    "@[1C 02 00] added{load_registers} la [1C 05 00] al" linebreak
     "  {swap}[1C 02 00]'s stuff.{swap}[1D 0E 00 00]{sound(116)}{prompt}" eob
 
 l_0xef7c73:
-    "@But, " call(data_37.l_0xc7e6d7) " cannot carry anymore stuff.{prompt}" linebreak
+    "@Sed, " call(data_37.l_0xc7e6d7) " cannot carry anymore stuff.{prompt}" linebreak
     goto(l_0xef7c89)
 
 l_0xef7c89:
-    "@Do you want to throw" linebreak
-    "  something away?{prompt}" linebreak
-    "[19 02]Yes" eob
+    "@Do vi volas al throw" linebreak
+    "  io away?{prompt}" linebreak
+    "[19 02]Jes" eob
 
 l_0xef7c9e:
-    "  [19 02]No" eob
+    "  [19 02]Ne" eob
 
 l_0xef7ca5:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xef7d0f)} {e(l_0xef7cb4)}]" goto(l_0xef7cb4)
 
 l_0xef7cb4:
-    "[19 1F]{swap}@Then, will you leave" linebreak
-    "  the [1C 05 00] behind?{prompt}" linebreak
-    "[19 02]Yes" eob
+    "[19 1F]{swap}@Then, will vi leave" linebreak
+    "  la [1C 05 00] behind?{prompt}" linebreak
+    "[19 02]Jes" eob
 
 l_0xef7cd9:
-    "[19 02]No" eob
+    "[19 02]Ne" eob
 
 l_0xef7cde:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xef7cf8)} {e(l_0xef7ced)}]" goto(l_0xef7ced)
@@ -307,55 +307,55 @@ l_0xef7ced:
 
 l_0xef7cf8:
     "@" call(data_37.l_0xc7e74e) " abandoned" linebreak
-    "  the [1C 05 00].{prompt}" eob
+    "  la [1C 05 00].{prompt}" eob
 
 l_0xef7d0f:
     newline
-    "@What do you want to throw away?{prompt}" call(data_15.l_0xc5e4c3) newline
-    "[1B 02 {e(l_0xef7cb4)}]{store_registers}[19 19 00 00][1D 0B 00][1B 02 {e(l_0xef7dbe)}]{load_registers}[19 19 00 00]@So you want to throw away" linebreak
-    "  the [1C 05 00]?{prompt}" linebreak
+    "@Kio do vi volas al throw away?{prompt}" call(data_15.l_0xc5e4c3) newline
+    "[1B 02 {e(l_0xef7cb4)}]{store_registers}[19 19 00 00][1D 0B 00][1B 02 {e(l_0xef7dbe)}]{load_registers}[19 19 00 00]@So vi volas al throw away" linebreak
+    "  la [1C 05 00]?{prompt}" linebreak
     "[19 02]Throw away" eob
 
 l_0xef7d61:
-    "[19 02]Don't do it" eob
+    "[19 02]Don't do [C1]i" eob
 
 l_0xef7d6f:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xef7d83)} {e(l_0xef7cb4)}]" goto(l_0xef7cb4)
 
 l_0xef7d83:
-    "{load_registers}[1D 0F 00 00]{swap}@[1C 02 00]{swap} threw the [1C 05 00] away{prompt}" linebreak
-    "{swap}[19 1F]{swap}@and took the [1C 05 00].[1D 0E 00 00]{sound(116)}{pause(1)}[03]" eob
+    "{load_registers}[1D 0F 00 00]{swap}@[1C 02 00]{swap} threw la [1C 05 00] away{prompt}" linebreak
+    "{swap}[19 1F]{swap}@kaj took la [1C 05 00].[1D 0E 00 00]{sound(116)}{pause(1)}[03]" eob
 
 l_0xef7dbe:
-    "@Do not throw the [1C 05 00] away.{prompt}" goto(l_0xef7d0f)
+    "@Do ne throw la [1C 05 00] away.{prompt}" goto(l_0xef7d0f)
 
 l_0xef7dd5:
     newline
-    "@{user} saw" linebreak
-    "  a present behind the enemy." next
-    "{sound(16)}@Inside the present," linebreak
-    "[19 1F]{swap}  there was a [1C 05 00]." next
-    "@[1C 02 03] takes it.[1D 0E 03 00]{sound(116)}[03]" eob
+    "@{user} vidis" linebreak
+    "  a present behind la enemy." next
+    "{sound(16)}@Inside la present," linebreak
+    "[19 1F]{swap}  tia estis a [1C 05 00]." next
+    "@[1C 02 03] takes [C1]i.[1D 0E 03 00]{sound(116)}[03]" eob
 
 l_0xef7e25:
     newline
     "{sound(25)}@{user} made" linebreak
-    "  something spin around![03]" eob
+    "  io spin around![03]" eob
 
 l_0xef7e3e:
     newline
     "{sound(25)}@{user} lost" linebreak
-    "  his temper![03]" eob
+    "  lia temper![03]" eob
 
 l_0xef7e55:
     newline
     "{sound(25)}@{user} said" linebreak
-    "  something nasty!{sound(84)}[03]{pause(1)}" eob
+    "  io nasty!{sound(84)}[03]{pause(1)}" eob
 
 l_0xef7e70:
     newline
-    "{sound(25)}@{user} used a" linebreak
-    "  vacuum attack![03]" eob
+    "{sound(25)}@{user} uzis a" linebreak
+    "  vacuum atako![03]" eob
 
 l_0xef7e88:
     newline
@@ -374,11 +374,11 @@ l_0xef7ed5:
 l_0xef7f02:
     newline
     "{sound(25)}@{user} started a" linebreak
-    "  continuous attack![03]" eob
+    "  continuous atako![03]" eob
 
 l_0xef7f1e:
     newline
-    "{sound(25)}@{user} is" linebreak
+    "{sound(25)}@{user} estas" linebreak
     "  on guard.[03]" eob
 
 l_0xef7f32:
@@ -388,22 +388,22 @@ l_0xef7f32:
 
 l_0xef7f5a:
     newline
-    "{sound(25)}@{user} rushed in," linebreak
-    "  and intertwined with you![03]" eob
+    "{sound(25)}@{user} rushed en," linebreak
+    "  kaj intertwined kun vi![03]" eob
 
 l_0xef7f7b:
     newline
     "{sound(25)}@{user} attacked" linebreak
-    "  with a crushing chop![03]" eob
+    "  kun a crushing chop![03]" eob
 
 l_0xef7f9a:
     newline
-    "{sound(25)}@{user} grappled and used" linebreak
-    "  his submission hold![03]" eob
+    "{sound(25)}@{user} grappled kaj uzis" linebreak
+    "  lia submission hold![03]" eob
 
 l_0xef7fc3:
     newline
-    "{sound(25)}@{user} revved and accelerated!" linebreak
+    "{sound(25)}@{user} revved kaj accelerated!" linebreak
     "[03]" eob
 
 l_0xef7fe0:
@@ -414,20 +414,20 @@ l_0xef7fe0:
 l_0xef7ffc:
     newline
     "{sound(25)}@{user} tore" linebreak
-    "  into you![03]" eob
+    "  into vi![03]" eob
 
 l_0xef8010:
     newline
-    "{sound(25)}@{user} used a" linebreak
-    "  biting attack![03]" eob
+    "{sound(25)}@{user} uzis a" linebreak
+    "  biting atako![03]" eob
 
 l_0xef8026:
     newline
     "{sound(25)}@{user} clawed" linebreak
-    "  with " call(data_37.l_0xc7e66e) " sharp nails![03]" eob
+    "  kun " call(data_37.l_0xc7e66e) " sharp nails![03]" eob
 
 l_0xef804b:
     newline
     "{sound(25)}@{user} swung" linebreak
-    "  " call(data_37.l_0xc7e66e) " tail very hard![03]" eob
+    "  " call(data_37.l_0xc7e66e) " tail tre hard![03]" eob
 

@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -8,181 +8,181 @@ command e(label) "{long label}"
 
 // Text Data
 l_0xef5428:
-    "@Protects everyone with a power shield." linebreak
-    "@Cuts damage in half and some of the blocked damage is dealt back to the enemy." linebreak
-    "@Using a different shield will cancel these effects." eob
+    "@Protects everyone kun a power shield." linebreak
+    "@Cuts damage en half kaj iom of la blocked damage estas dealt back al la enemy." linebreak
+    "@Using a diferenca shield will cancel these effects." eob
 
 l_0xef548f:
-    "@Protects one person with a psychic shield." linebreak
-    "@It blocks an enemy's PK attack." linebreak
-    "@Using a different shield will cancel these effects." eob
+    "@Protects unu person kun a psychic shield." linebreak
+    "@[B1]i blocks an enemy's PK atako." linebreak
+    "@Using a diferenca shield will cancel these effects." eob
 
 l_0xef54e6:
-    "@Protects everyone with a psychic shield." linebreak
-    "@It blocks an enemy's PK attack." linebreak
-    "@Using a different shield will cancel these effects." eob
+    "@Protects everyone kun a psychic shield." linebreak
+    "@[B1]i blocks an enemy's PK atako." linebreak
+    "@Using a diferenca shield will cancel these effects." eob
 
 l_0xef553c:
-    "@Protects one person with a psychic power shield." linebreak
-    "@It reflects an enemy's PK attack back at the attacker." linebreak
-    "@Using a different shield will cancel these effects." eob
+    "@Protects unu person kun a psychic power shield." linebreak
+    "@[B1]i reflects an enemy's PK atako back at la attacker." linebreak
+    "@Using a diferenca shield will cancel these effects." eob
 
 l_0xef55a0:
-    "@Protects everyone with a psychic power shield." linebreak
-    "@It reflects an enemy's PK attack back at the attacker." linebreak
-    "@Using a different shield will cancel these effects." eob
+    "@Protects everyone kun a psychic power shield." linebreak
+    "@[B1]i reflects an enemy's PK atako back at la attacker." linebreak
+    "@Using a diferenca shield will cancel these effects." eob
 
 l_0xef5603:
-    "@Increase one person's Offense for the duration of the current battle." linebreak
+    "@Increase unu person's Ataka for la duration of la current battle." linebreak
     call(data_05.l_0xc56b0d) eob
 
 l_0xef562e:
-    "@Increase everyone's Offense for the duration of the current battle." linebreak
+    "@Increase everyone's Ataka for la duration of la current battle." linebreak
     call(data_05.l_0xc56b0d) eob
 
 l_0xef5658:
-    "@Decreases the Defense of one enemy for the duration of the current battle." linebreak
+    "@Decreases la Defenco of unu enemy for la duration of la current battle." linebreak
     call(data_05.l_0xc56b0d) eob
 
 l_0xef5687:
-    "@Decreases the Defense of all enemies for the duration of the current battle." linebreak
+    "@Decreases la Defenco of [C0]io enemies for la duration of la current battle." linebreak
     call(data_05.l_0xc56b0d) eob
 
 l_0xef56b9:
-    "@Puts one enemy to sleep." linebreak
+    "@Puts unu enemy al dormi." linebreak
     call(data_05.l_0xc56ac0) eob
 
 l_0xef56d0:
-    "@Puts all of the enemies to sleep." linebreak
+    "@Puts [C0]io of la enemies al dormi." linebreak
     call(data_05.l_0xc56ac0) eob
 
 l_0xef56eb:
-    "@Grabs 2-8 points of PP from one enemy and adds it to your own." eob
+    "@Grabs 2-8 points of PP from unu enemy kaj adds [C1]i al via own." eob
 
 l_0xef5712:
-    "@Grabs 2-8 points of PP from each enemy and adds it to your own." eob
+    "@Grabs 2-8 points of PP from each enemy kaj adds [C1]i al via own." eob
 
 l_0xef5739:
-    "@Forces one enemy into" call(data_05.l_0xc56ac2) eob
+    "@Forces unu enemy into" call(data_05.l_0xc56ac2) eob
 
 l_0xef574e:
-    "@Forces all enemies into" call(data_05.l_0xc56ac2) eob
+    "@Forces [C0]io enemies into" call(data_05.l_0xc56ac2) eob
 
 l_0xef5766:
-    "@Makes one enemy feels strange." eob
+    "@Makes unu enemy feels strange." eob
 
 l_0xef5777:
-    "@Makes all of the enemies feel strange." eob
+    "@Makes [C0]io of la enemies senti strange." eob
 
 l_0xef578b:
     call(data_05.l_0xc56ae4) newline
-    "@You need a good running approach for this to work." eob
+    "@Vi bezonas a bona running approach for [C0]i tiu al work." eob
 
 l_0xef57ae:
     call(data_05.l_0xc56ae4) newline
-    "@You don't need a running approach to use this." linebreak
-    "@It is also called the <Tornado Teleport.>" eob
+    "@Vi don't bezonas a running approach al use [C0]i tiu." linebreak
+    "@[B1]i estas anka[C5] called la <Tornado Teleport.>" eob
 
 l_0xef57eb:
-    "[06 C5 00 {e(data_35.l_0xc7c588)}]{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(data_24.l_0xc690a6)}]{music(155)}@You finally got here." next
-    "@This is the eighth <Your Sanctuary> location.{pause(20)}  But it's mine now." next
-    "@Take it from me,{pause(30)} if you dare...[03]" call(data_23.l_0xc6843a) "[1B 03 {e(data_23.l_0xc683de)}][1F 1E FC 04 08]{pause(120)}{set(flag 197)}" eob
+    "[06 C5 00 {e(data_35.l_0xc7c588)}]{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(data_24.l_0xc690a6)}]{music(155)}@Vi finally got here." next
+    "@[B0]i tiu estas la eighth <Via Sanctuary> location.{pause(20)}  Sed [C1]i's mine nun." next
+    "@Take [C1]i from mi,{pause(30)} se vi dare...[03]" call(data_23.l_0xc6843a) "[1B 03 {e(data_23.l_0xc683de)}][1F 1E FC 04 08]{pause(120)}{set(flag 197)}" eob
 
 l_0xef5864:
-    "{font_saturn}@Kidnapped.{pause(20)}  I was.  Boing!" next
+    "{font_saturn}@Kidnapped.{pause(20)}  Mi estis.  Boing!" next
     "@Kidnapper.{pause(20)}  Bad guy." next
     "@Bad guy gone.  Zoom!" next
-    "@Where?" linebreak
-    "  To the past." next
+    "@Kie?" linebreak
+    "  Al la past." next
     "@Ding, ding!{wait}{font_normal}" eob
 
 l_0xef58c7:
-    "[06 DF 00 {e(data_23.l_0xc685cb)}][19 10 01]{rtoarg}@[1C 02 00] checked the broken Space Tunnel." next
-    "@There was a [1C 05 82]." next
+    "[06 DF 00 {e(data_23.l_0xc685cb)}][19 10 01]{rtoarg}@[1C 02 00] checked la broken Space Tunnel." next
+    "@Tia estis a [1C 05 82]." next
     "[1D 03 FF][1B 02 {e(data_23.l_0xc685bb)}][1D 0E 00 82]" call(data_36.l_0xc7dccf) "{set(flag 223)}" end
 
 l_0xef5917:
-    "{sound(99)}[1F 15 A9 00 6C 02 01][1F 61][1F 1F A9 00 06][1F 15 62 00 08 00 01][1F E4 62 00 07][1F E4 62 00 01][1F E4 62 00 03][1F E4 62 00 05][1F E4 62 00 07]{pause(1)}[1F E4 62 00 01]{pause(2)}[1F E4 62 00 03]{pause(3)}[1F E4 62 00 05]{pause(4)}[1F E4 62 00 07]{pause(5)}[1F E4 62 00 01]{pause(6)}[1F E4 62 00 03]{pause(7)}[1F E4 62 00 05]{pause(8)}[1F E4 62 00 07]{window_open(1)}@Greetings!{pause(20)}  So, you are finally here![03]{window_closeall}" call(data_49.l_0xc915f4) "{sound(37)}{pause(90)}{window_open(1)}@Excellent!{pause(20)}  You are truly excellent!" next
-    "@There is only a little time left!{pause(15)}  I'll give you the last power." next
-    "@I must go now...[03]{window_closeall}[1F 71 04 03][1F 1F 62 00 06]{sound(99)}[1F 15 A9 00 6D 02 01][1F 61][1F 71 04 03]{window_open(1)}@([1C 01 4A] became conscious of PK Starstorm _!){sound(103)}{wait}{window_closeall}" eob
+    "{sound(99)}[1F 15 A9 00 6C 02 01][1F 61][1F 1F A9 00 06][1F 15 62 00 08 00 01][1F E4 62 00 07][1F E4 62 00 01][1F E4 62 00 03][1F E4 62 00 05][1F E4 62 00 07]{pause(1)}[1F E4 62 00 01]{pause(2)}[1F E4 62 00 03]{pause(3)}[1F E4 62 00 05]{pause(4)}[1F E4 62 00 07]{pause(5)}[1F E4 62 00 01]{pause(6)}[1F E4 62 00 03]{pause(7)}[1F E4 62 00 05]{pause(8)}[1F E4 62 00 07]{window_open(1)}@Greetings!{pause(20)}  So, vi are finally here![03]{window_closeall}" call(data_49.l_0xc915f4) "{sound(37)}{pause(90)}{window_open(1)}@Excellent!{pause(20)}  Vi are truly excellent!" next
+    "@Tia estas only a little tempo left!{pause(15)}  Mi'll doni vi la last power." next
+    "@Mi devas iri nun...[03]{window_closeall}[1F 71 04 03][1F 1F 62 00 06]{sound(99)}[1F 15 A9 00 6D 02 01][1F 61][1F 71 04 03]{window_open(1)}@([1C 01 4A] became conscious of PK Starstorm _!){sound(103)}{wait}{window_closeall}" eob
 
 l_0xef5a3e:
-    "[06 A7 01 {e(l_0xef5a81)}]@Even though I listened to the talkative Mystery Rock's story," next
-    "@I don't understand what he's talking about." end
+    "[06 A7 01 {e(l_0xef5a81)}]@E[C0] though Mi listened al la talkative Mystery Rock's rakonto," next
+    "@Mi don't komprenas kio li's talking about." end
 
 l_0xef5a81:
-    "@The rock suddenly stopped talking." next
-    "@In other words..." next
-    "@it's not saying anything." end
+    "@La rock suddenly stopped talking." next
+    "@En alia vortoj..." next
+    "@[C1]i's ne saying anything." end
 
 l_0xef5ab5:
-    "@...You have a nice item." next
-    "@Since I came to the Lost Underworld, I haven't seen or smelled [1C 05 D3]." end
+    "@...Vi havas a nice item." next
+    "@Since Mi venis al la Lost Underworld, Mi haven't seen a[C5] smelled [1C 05 D3]." end
 
 l_0xef5aed:
-    "[06 A7 01 {e(l_0xef5bc8)}][06 68 02 {e(l_0xef5b97)}]@What are you doing in the dinosaur's cage?" next
-    "@I'll open the door for you, and you get out of the cage quick." next
-    "@That's an order from the boss.{pause(15)}  ...By the way,{pause(15)} thanks for the [1C 05 D3]." next
-    "[19 10 01]{rtoarg}@([1C 02 00]'s [1C 05 D3] was taken.)" next
-    "@(That nasty smell left you at the same time!){wait}{set(flag 616)}" eob
+    "[06 A7 01 {e(l_0xef5bc8)}][06 68 02 {e(l_0xef5b97)}]@Kio are vi doing en la dinosaur's cage?" next
+    "@Mi'll open la pordo for vi, kaj vi get out of la cage quick." next
+    "@Tio's an order from la boss.{pause(15)}  ...By la way,{pause(15)} dankon for la [1C 05 D3]." next
+    "[19 10 01]{rtoarg}@([1C 02 00]'s [1C 05 D3] estis taken.)" next
+    "@(Tio nasty smell left vi at la same tempo!){wait}{set(flag 616)}" eob
 
 l_0xef5b97:
-    "@Why don't you see the talkative mystery rock." next
-    "@That rock really jabbers away!!" end
+    "@Kial don't vi vidi la talkative mystery rock." next
+    "@Tio rock vere jabbers away!!" end
 
 l_0xef5bc8:
-    "@A rock that doesn't talk is no fun at all." end
+    "@A rock tio doesn't paroli estas ne fun at all." end
 
 l_0xef5be6:
-    "[06 49 00 {e(l_0xef5c46)}]@We are the same Gumi as those above ground." next
-    "@...We seem different?" next
-    "@Yeah,{pause(15)} you know, the Gumi up there are shy and don't like to talk." end
+    "[06 49 00 {e(l_0xef5c46)}]@Ni are la same Gumi as those above ground." next
+    "@...Ni seem diferenca?" next
+    "@Ja,{pause(15)} vi scii, la Gumi up tia are shy kaj don't like al paroli." end
 
 l_0xef5c46:
-    "@It may be my imagination,{pause(15)} but I think I hear the sound of other Gumi talking up above." next
-    "@I wonder... have they overcome their shyness?" end
+    "@[B1]i may be mia imagination,{pause(15)} sed Mi pensi Mi a[C5]di la sound of alia Gumi talking up above." next
+    "@Mi wonder... havas ili overcome ilia shyness?" end
 
 l_0xef5c98:
-    "[06 49 00 {e(l_0xef5ce4)}]@Didn't you think that the Gumi up above have some particularly beautiful women?" next
-    "@They're still shy, though." end
+    "[06 49 00 {e(l_0xef5ce4)}]@Didn't vi pensi tio la Gumi up above havas iom particularly beautiful virinoj?" next
+    "@Ili're still shy, though." end
 
 l_0xef5ce4:
-    "@Gumi women up above ground are pretty, but the men seem kind of run down." end
+    "@Gumi virinoj up above ground are pretty, sed la viroj seem kia of run down." end
 
 l_0xef5d16:
-    "[06 FF 02 {e(l_0xef5df8)}]{set(flag 767)}@You're strange, but you smell good.{pause(20)}  So I'll tell you a secret." next
-    "@Did you feel the earthquake a little while ago?" next
-    "@...You know, we have earthquakes all the time here." next
-    "@After an earthquake, the hot springs will erupt." next
-    "@The blue springs are great for recovering health." next
-    "@The Red springs are perfect for healing paralysis or drawing out poison." end
+    "[06 FF 02 {e(l_0xef5df8)}]{set(flag 767)}@Vi're strange, sed vi smell bona.{pause(20)}  So Mi'll tell vi a secret." next
+    "@Did vi senti la earthquake a little while ago?" next
+    "@...Vi scii, ni havas earthquakes [C0]io la tempo here." next
+    "@After an earthquake, la hot springs will erupt." next
+    "@La blue springs are bonega for recovering health." next
+    "@La Red springs are perfect for healing paralysis a[C5] drawing out poison." end
 
 l_0xef5df8:
     "@Hey! Strange fellow." next
-    "@After an earthquake, the hot springs erupt out of the ground." next
-    "@Have you ever noticed that?" next
-    "@The blue springs are great for recovering health." next
-    "@The red springs are perfect for healing paralysis or drawing out poison." end
+    "@After an earthquake, la hot springs erupt out of la ground." next
+    "@havas vi ever rigardis tio?" next
+    "@La blue springs are bonega for recovering health." next
+    "@La red springs are perfect for healing paralysis a[C5] drawing out poison." end
 
 l_0xef5e94:
-    "[06 49 00 {e(l_0xef5f31)}]@Gumi who like to talk came to the Lost Underworld" next
-    "@because we couldn't stand the quiet up above." next
-    "@So, we established a separate tribe." next
-    "@I hope we can be friendly again some day." next
-    "@...Yeah,{pause(20)} it was a lot easier to live up above." end
+    "[06 49 00 {e(l_0xef5f31)}]@Gumi kiu like al paroli venis al la Lost Underworld" next
+    "@[C0]ar ni couldn't stand la quiet up above." next
+    "@So, ni established a separate tribe." next
+    "@Mi hope ni povas be friendly again iom tago." next
+    "@...Ja,{pause(20)} [C1]i estis multa easier al live up above." end
 
 l_0xef5f31:
-    "@You guys helped the upper tribe and the lower tribe gain unity again." next
-    "@Soon, we'll be one village again!{pause(20)}  Thank you." end
+    "@Vi guys helped la upper tribe kaj la lower tribe gain unity again." next
+    "@Soon, ni'll be unu village again!{pause(20)}  Dankon." end
 
 l_0xef5f7d:
-    "@We made a cage for dinosaurs and locked them up..." next
-    "@That's what my brother tells me." next
-    "@But I don't believe it...{pause(20)}  He's just spewing out of his cake hole." end
+    "@Ni made a cage for dinosaurs kaj locked ilin up..." next
+    "@Tio's kio mia frato tells mi." next
+    "@Sed Mi don't believe [C1]i...{pause(20)}  Li's just spewing out of lia cake hole." end
 
 l_0xef5fdf:
-    "[06 49 00 {e(l_0xef6038)}]@A chubby, obnoxious kid from some foreign country said something heartrending..." next
-    "@So, I'm healing my wounds in the hot springs." end
+    "[06 49 00 {e(l_0xef6038)}]@A chubby, obnoxious kid from iom foreign country said io heartrending..." next
+    "@So, Mi'm healing mia wounds en la hot springs." end
 
 l_0xef6038:
     "@Hot springs rock!" end
@@ -191,14 +191,14 @@ l_0xef6049:
     call(data_21.l_0xc655b1) eob
 
 l_0xef604f:
-    "@The bird right there says strange words like <Hello?> and <click beep beep beep.>" end
+    "@La bird right tia says strange vortoj like <Saluton?> kaj <click beep beep beep.>" end
 
 l_0xef6084:
-    "[06 49 00 {e(l_0xef60c5)}]@Here, the dinosaurs don't come and attack me.  So, I can relax." next
-    "@...Except now I can't get out." end
+    "[06 49 00 {e(l_0xef60c5)}]@Here, la dinosaurs don't veni kaj atako mi.  So, Mi povas relax." next
+    "@...Except nun Mi povas't get out." end
 
 l_0xef60c5:
-    "@Without dinosaurs, this place seems like it is missing something big." end
+    "@Sen dinosaurs, [C0]i tiu place seems like [C1]i estas missing io granda." end
 
 l_0xef60f2:
     "@Ring, ring, rrriiing!!" next
@@ -208,128 +208,128 @@ l_0xef610c:
     eob
 
 l_0xef610d:
-    "@(Don't feed the dinosaurs in the cage!" linebreak
-    "{pause(20)}  The Boss)" end
+    "@(Don't feed la dinosaurs en la cage!" linebreak
+    "{pause(20)}  La Boss)" end
 
 l_0xef6132:
-    "@(Don't talk to the rock if you have nothing to say.{pause(20)}  The Boss)" end
+    "@(Don't paroli al la rock se vi havas Nenio al say.{pause(20)}  La Boss)" end
 
 l_0xef6157:
-    "@(In case of danger, evacuate here!{pause(20)}  The Boss)" end
+    "@(En case of danger, evacuate here!{pause(20)}  La Boss)" end
 
 l_0xef617b:
-    "[06 6E 01 {e(data_35.l_0xc7c588)}]{window_open(1)}@Did you bring some <Fly Honey>?" next
-    "@It's Master Belch's favorite." linebreak
-    "[19 02]Yes" eob
+    "[06 6E 01 {e(data_35.l_0xc7c588)}]{window_open(1)}@Did vi bring iom <Fly Honey>?" next
+    "@[B1]i's Master Belch's favorite." linebreak
+    "[19 02]Jes" eob
 
 l_0xef61b6:
-    " [19 02]No" eob
+    " [19 02]Ne" eob
 
 l_0xef61bc:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xef61f3)} {e(l_0xef61cb)}]" goto(l_0xef61cb)
 
 l_0xef61cb:
-    "@Then, why are you here?![03]{window_closeall}" call(data_23.l_0xc6853f) "[1B 03 {e(data_23.l_0xc683de)}]{pause(1)}[1F F1 B0 02 7B 02]{set(flag 366)}" eob
+    "@Then, kial are vi here?![03]{window_closeall}" call(data_23.l_0xc6853f) "[1B 03 {e(data_23.l_0xc683de)}]{pause(1)}[1F F1 B0 02 7B 02]{set(flag 366)}" eob
 
 l_0xef61f3:
-    "[1D 05 FF 69][1B 03 {e(l_0xef6247)}]@You didn't bring it?{pause(20)}  You seem kind of suspicious to me..." next
-    "@You cannot pass through here![03]{window_closeall}" call(data_23.l_0xc6853f) "[1B 03 {e(data_23.l_0xc683de)}]{pause(1)}[1F F1 B0 02 7B 02]{set(flag 366)}" eob
+    "[1D 05 FF 69][1B 03 {e(l_0xef6247)}]@Vi didn't bring [C1]i?{pause(20)}  Vi seem kia of suspicious al mi..." next
+    "@Vi cannot pass through here![03]{window_closeall}" call(data_23.l_0xc6853f) "[1B 03 {e(data_23.l_0xc683de)}]{pause(1)}[1F F1 B0 02 7B 02]{set(flag 366)}" eob
 
 l_0xef6247:
-    "@Ok, you may pass through." next
-    "@Hey, be careful!{pause(20)}  Be sure you don't drop it![03]{window_closeall}" eob
+    "@Ok, vi may pass through." next
+    "@Hey, be careful!{pause(20)}  Be sure vi don't drop [C1]i![03]{window_closeall}" eob
 
 l_0xef6276:
     "@Urp!" next
-    "@...It's hard to make the gross sounds that Master Belch does." next
-    "@I know I can't do it." end
+    "@...[B1]i's hard al fari la gross sounds tio Master Belch does." next
+    "@Mi scii Mi povas't do [C1]i." end
 
 l_0xef62b1:
-    "@Master Belch is the slimiest!" next
-    "@However, I heard he's also serving some Gyiyg guy.{pause(15)}  That I cannot believe." end
+    "@Master Belch estas la slimiest!" next
+    "@However, Mi a[C5]dis li's anka[C5] serving iom Gyiyg guy.{pause(15)}  Tio Mi cannot believe." end
 
 l_0xef62f5:
-    "[06 6F 01 {e(data_35.l_0xc7c588)}]{window_open(1)}@Aren't you the Fly Honey delivery boy?{pause(15)}  What's the password!" next
-    "@It doesn't mean I don't trust you.{pause(15)}  Just say it!" next
-    "@Say it now!" next
-    "@Someone so quiet is either extremely shy or extremely dangerous..." next
-    "@What a suspicious fellow![03]{window_closeall}" call(data_23.l_0xc68546) "[1B 03 {e(data_23.l_0xc683de)}]{pause(1)}[1F F1 B3 02 7B 02]{set(flag 367)}" eob
+    "[06 6F 01 {e(data_35.l_0xc7c588)}]{window_open(1)}@Aren't vi la Fly Honey delivery knabo?{pause(15)}  Kio's la password!" next
+    "@[B1]i doesn't mean Mi don't trust vi.{pause(15)}  Just say [C1]i!" next
+    "@Say [C1]i nun!" next
+    "@Someone so quiet estas either extremely shy a[C5] extremely dangerous..." next
+    "@Kio a suspicious fellow![03]{window_closeall}" call(data_23.l_0xc68546) "[1B 03 {e(data_23.l_0xc683de)}]{pause(1)}[1F F1 B3 02 7B 02]{set(flag 367)}" eob
 
 l_0xef63b5:
-    "[06 70 01 {e(data_35.l_0xc7c588)}]{window_open(1)}@So, you're the ones who destroyed the zombies that I assigned to Threek!![03]{window_closeall}" call(data_23.l_0xc6854d) "[1B 03 {e(data_23.l_0xc683de)}]{pause(1)}[1F F1 B4 02 7B 02]{set(flag 368)}" eob
+    "[06 70 01 {e(data_35.l_0xc7c588)}]{window_open(1)}@So, vi're la ones kiu destroyed la zombies tio Mi assigned al Threek!![03]{window_closeall}" call(data_23.l_0xc6854d) "[1B 03 {e(data_23.l_0xc683de)}]{pause(1)}[1F F1 B4 02 7B 02]{set(flag 368)}" eob
 
 l_0xef6400:
     "{font_saturn}@Tired." next
-    "@But so good.  Ding!{wait}{font_normal}" eob
+    "@Sed so bona.  Ding!{wait}{font_normal}" eob
 
 l_0xef6419:
-    "{font_saturn}@Ugh!  Ge{pause(5)}e{pause(5)}e{pause(5)}z!  This really..." next
+    "{font_saturn}@Ugh!  Ge{pause(5)}e{pause(5)}e{pause(5)}z!  [B0]i tiu vere..." next
     "@Smiley.   Boing!{wait}{font_normal}" eob
 
 l_0xef6446:
     "[06 47 00 {e(data_35.l_0xc7c588)}]{music(134)}{sound(78)}@Buuurp!" next
-    "@So you are [1C 02 01]?" next
-    "{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xef66ca)}]@...I see...  Gyork!{pause(15)}  Gyork!{pause(15)}  Gyork!" next
-    "@There's a prophecy that a boy will destroy Master Gyiyg." next
+    "@So vi are [1C 02 01]?" next
+    "{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xef66ca)}]@...Mi vidi...  Gyork!{pause(15)}  Gyork!{pause(15)}  Gyork!" next
+    "@Tia's a prophecy tio a knabo will destroy Master Gyiyg." next
     "@Heeg!  Heeg!  Heeg!" linebreak
-    "  You make me laugh so hard..." next
-    "@If Master Gyiyg is scared of someone..." next
-    "{sound(78)}@he would have to be worse than the greatest evil..." next
+    "  Vi fari mi laugh so hard..." next
+    "@Se Master Gyiyg estas scared of iu..." next
+    "{sound(78)}@li would havas al be worse ol la greatest evil..." next
     "@Garg!  Ga!  Garg!  Ga!  Ga!  Ga!" next
-    "@I'll take you down big time, so get ready for the worst fight of your life!" next
+    "@Mi'll take vi down granda tempo, so get ready for la worst fight of via vivo!" next
     "{sound(78)}{pause(40)}" linebreak
     goto(l_0xef6569)
 
 l_0xef6569:
     "@Gha Gha Gha!" linebreak
-    "  Get ready to feel the pain of true nausea!" next
+    "  Get ready al senti la pain of true nausea!" next
     "{sound(78)}{pause(40)}@Ghe Ghe!" linebreak
-    "  Come on, let's go![03]" call(data_23.l_0xc68554) "[1B 03 {e(data_23.l_0xc683de)}]{window_open(1)}{music(134)}@{sound(78)}{pause(40)}Looks like it was an even fight...{pause(20)}  Buurp!" next
-    "@But, Master Gyiyg has managed to get the Mani Mani statue into Fourside.{pause(20)}{sound(78)}{pause(40)}" next
-    "@The city will soon be in worse condition than living in your own puke!" next
+    "  Veni on, let's iri![03]" call(data_23.l_0xc68554) "[1B 03 {e(data_23.l_0xc683de)}]{window_open(1)}{music(134)}@{sound(78)}{pause(40)}Looks like [C1]i estis an e[C0] fight...{pause(20)}  Buurp!" next
+    "@Sed, Master Gyiyg has managed al get la Mani Mani statue into Fourside.{pause(20)}{sound(78)}{pause(40)}" next
+    "@La city will soon be en worse condition ol living en via own puke!" next
     "@Suffer, spanky!{pause(20)}{sound(78)}" linebreak
     "  {pause(40)}Gha, Gha, Gha, Gha, Gha!" next
     "@Bu{pause(5)}u{pause(5)}u{pause(5)}urp!{sound(78)}{pause(40)}" next
     "{window_closeall}{pause(1)}[1F F1 B9 02 7B 02]{set(flag 71)}{set(flag 366)}{set(flag 367)}{set(flag 368)}{set(flag 590)}{set(flag 623)}{set(flag 629)}{set(flag 489)}{set(flag 490)}{unset(flag 125)}{unset(flag 773)}{unset(flag 761)}[19 26 04]{music_resume}" eob
 
 l_0xef66ca:
-    "@...No?..." linebreak
+    "@...Ne?..." linebreak
     "  Gyork, Gyork, Gyork!" next
-    "@I heard there's a prophecy that he would defeat Master Gyiyg..." next
+    "@Mi a[C5]dis tia's a prophecy tio li would defeat Master Gyiyg..." next
     "@Heeg Heeg Heeg" linebreak
-    "  You make me laugh so hard!" next
-    "@If Master Gyiyg is scared of someone...{sound(78)}" next
-    "@he would have to be worse than the greatest evil..." next
-    "@I'll take you down big time,{pause(15)} so get ready for the worst fight of your life!" next
+    "  Vi fari mi laugh so hard!" next
+    "@Se Master Gyiyg estas scared of iu...{sound(78)}" next
+    "@li would havas al be worse ol la greatest evil..." next
+    "@Mi'll take vi down granda tempo,{pause(15)} so get ready for la worst fight of via vivo!" next
     goto(l_0xef6569)
 
 l_0xef679a:
-    "[06 C1 00 {e(data_35.l_0xc7c588)}]{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(data_24.l_0xc690a6)}]{music(155)}@You finally got here." next
-    "@This is the third <Your Sanctuary> location.{pause(20)}  But it's mine now." next
-    "@Take it from me,{pause(30)} if you dare...[03]" call(data_23.l_0xc6841e) "[1B 03 {e(data_23.l_0xc683de)}][1F 1E C1 02 08]{pause(120)}{set(flag 193)}" eob
+    "[06 C1 00 {e(data_35.l_0xc7c588)}]{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(data_24.l_0xc690a6)}]{music(155)}@Vi finally got here." next
+    "@[B0]i tiu estas la third <Via Sanctuary> location.{pause(20)}  Sed [C1]i's mine nun." next
+    "@Take [C1]i from mi,{pause(30)} se vi dare...[03]" call(data_23.l_0xc6841e) "[1B 03 {e(data_23.l_0xc683de)}][1F 1E C1 02 08]{pause(120)}{set(flag 193)}" eob
 
 l_0xef6814:
     call(data_13.l_0xc5d36b) eob
 
 l_0xef681a:
     "[1D 05 FF 69][1B 03 {e(l_0xef6874)}]@Gyork Gyork!" next
-    "@Hey you, commoner!{pause(20)}  You there wandering around without any <Fly Honey>..." next
-    "@I am the mortal enemy of your kind.[03]" eob
+    "@Hey vi, commoner!{pause(20)}  Vi tia wandering around sen ajn <Fly Honey>..." next
+    "@Mi am la mortal enemy of via kia.[03]" eob
 
 l_0xef6874:
     "@Gyork!  Gyork!" next
-    "@Since you had <Fly Honey,> I considered you a friend." next
-    "@But actually, you're just a commoner!{pause(20)}  I am the mortal enemy of your kind.[03]" eob
+    "@Since vi havis <Fly Honey,> Mi considered vi a amiko." next
+    "@Sed actually, vi're just a commoner!{pause(20)}  Mi am la mortal enemy of via kia.[03]" eob
 
 l_0xef68d7:
-    "{window_open(1)}[1D 05 FF 69][1B 03 {e(l_0xef6954)}]@You have defeated me..." next
-    "@Allow me to eat some Fly Honey for the last time..." next
-    "@Master Belch hates people like you." next
-    "@...You see, those who don't have <Fly Honey> are our mortal enemies...[03]{window_closeall}" eob
+    "{window_open(1)}[1D 05 FF 69][1B 03 {e(l_0xef6954)}]@Vi havas defeated mi..." next
+    "@Allow mi al eat iom Fly Honey for la last tempo..." next
+    "@Master Belch hates people like vi." next
+    "@...Vi vidi, those kiu don't havas <Fly Honey> are nia mortal enemies...[03]{window_closeall}" eob
 
 l_0xef6954:
-    "@I wanted to get your Fly Honey and gulp it down." next
-    "@Master Belch and I love Fly Honey.{pause(20)}" linebreak
+    "@Mi volis al get via Fly Honey kaj gulp [C1]i down." next
+    "@Master Belch kaj Mi love Fly Honey.{pause(20)}" linebreak
     "  Gyorg Gyorg!...[03]{window_closeall}" eob
 
 l_0xef69a1:
@@ -350,35 +350,35 @@ l_0xef69d2:
 l_0xef69ea:
     newline
     "@{target}'s" linebreak
-    "  Offense is {delta}![03]" eob
+    "  Ataka estas {delta}![03]" eob
 
 l_0xef69ff:
     newline
-    "@Defense is {delta}![03]" eob
+    "@Defenco estas {delta}![03]" eob
 
 l_0xef6a0d:
     newline
-    "@Vulnerable to PK Fire![03]" eob
+    "@Vulnerable al PK Fire![03]" eob
 
 l_0xef6a24:
     newline
-    "@Vulnerable to PK Freeze![03]" eob
+    "@Vulnerable al PK Freeze![03]" eob
 
 l_0xef6a3c:
     newline
-    "@Vulnerable to PK Flash![03]" eob
+    "@Vulnerable al PK Flash![03]" eob
 
 l_0xef6a54:
     newline
-    "@Vulnerable to Paralysis![03]" eob
+    "@Vulnerable al Paralysis![03]" eob
 
 l_0xef6a6c:
     newline
-    "@Open to Hypnosis![03]" eob
+    "@Open al Hypnosis![03]" eob
 
 l_0xef6a7f:
     newline
-    "@Susceptible to Brain Shock.[03]" eob
+    "@Susceptible al Brain Shock.[03]" eob
 
 l_0xef6a99:
     newline
@@ -387,17 +387,17 @@ l_0xef6a99:
 
 l_0xef6ab3:
     newline
-    "@{user} could not turn" linebreak
+    "@{user} could ne turn" linebreak
     "  into {target}![03]" eob
 
 l_0xef6ac7:
     newline
-    "@{target} was" linebreak
+    "@{target} estis" linebreak
     "  diamondized!{sound(83)}[03]" eob
 
 l_0xef6ae0:
     newline
-    "@{target}'s body" linebreak
+    "@{target}'s Korpo" linebreak
     "  became numb!{sound(83)}[03]" eob
 
 l_0xef6afb:
@@ -418,13 +418,13 @@ l_0xef6b43:
     "[1C 15 01][09 03 {e(l_0xef6b54)} {e(l_0xef6b59)} {e(l_0xef6b5f)}]" goto(l_0xef6b54)
 
 l_0xef6b54:
-    "(he)" eob
+    "(li)" eob
 
 l_0xef6b59:
-    "(she)" eob
+    "([C4]i)" eob
 
 l_0xef6b5f:
-    "(it)" eob
+    "([C1]i)" eob
 
 l_0xef6b64:
     "[1C 15 02][09 03 {e(l_0xef6b75)} {e(l_0xef6b79)} {e(l_0xef6b7d)}]" goto(l_0xef6b75)
@@ -440,21 +440,21 @@ l_0xef6b7d:
 
 l_0xef6b81:
     newline
-    "@{target} began to" linebreak
-    "  feel strange!{sound(83)}[03]" eob
+    "@{target} began al" linebreak
+    "  senti strange!{sound(83)}[03]" eob
 
 l_0xef6b98:
     newline
-    "@{target} was" linebreak
+    "@{target} estis" linebreak
     "  possessed by a mini-ghost!{sound(83)}[03]" eob
 
 l_0xef6bbb:
     newline
-    "@{target} could not" linebreak
+    "@{target} could ne" linebreak
     "  stop crying!{sound(83)}[03]" eob
 
 l_0xef6bd3:
     newline
     "@{target} suddenly" linebreak
-    "  could not move!{sound(83)}[03]" eob
+    "  could ne move!{sound(83)}[03]" eob
 

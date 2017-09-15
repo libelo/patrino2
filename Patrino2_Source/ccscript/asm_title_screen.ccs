@@ -1,6 +1,6 @@
 import asm65816
 
-/*ASM Pointers to New Title Screen */
+/*ASM Pointers al New Title Screen */
 
 ROM[0xC3F492] = ASMLoadAddress0E (text_static_palette)
 /*0x4000A2*/

@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -8,28 +8,28 @@ command e(label) "{long label}"
 
 // Text Data
 l_0xc6822a:
-    "{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(The Balloon Monkey joins you.)[03]{window_closeall}" eob
+    "{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(La Balloon Monkey joins vi.)[03]{window_closeall}" eob
 
 l_0xc68253:
     "[06 0A 00 {e(l_0xc68264)}]{window_open(1)}" call(data_27.l_0xc6eeb4) "{window_closeall}" goto(l_0xc68264)
 
 l_0xc68264:
-    "[1F 11 02][1F EB 02 06][1F F1 69 03 2F 00][1F 61][1F 1E 69 03 06][1F EC 02 01]{music(11)}{pause(120)}{pause(120)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@([1C 02 02] joins you.)[03]{window_closeall}" eob
+    "[1F 11 02][1F EB 02 06][1F F1 69 03 2F 00][1F 61][1F 1E 69 03 06][1F EC 02 01]{music(11)}{pause(120)}{pause(120)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@([1C 02 02] joins vi.)[03]{window_closeall}" eob
 
 l_0xc6829f:
-    "{window_closeall}[1F 11 0B][1F EB 0B 06][1F F1 21 05 2F 00][1F 61][1F 1E 21 05 06][1F EC 0B 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(The Flying Man joins you.)[03]{window_closeall}" eob
+    "{window_closeall}[1F 11 0B][1F EB 0B 06][1F F1 21 05 2F 00][1F 61][1F 1E 21 05 06][1F EC 0B 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(La Flying Viro joins vi.)[03]{window_closeall}" eob
 
 l_0xc682dd:
-    "{window_closeall}[1F 11 0C][1F EB 0C 06][1F F1 22 05 2F 00][1F 61][1F 1E 22 05 06][1F EC 0C 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(The Flying Man joins you.)[03]{window_closeall}" eob
+    "{window_closeall}[1F 11 0C][1F EB 0C 06][1F F1 22 05 2F 00][1F 61][1F 1E 22 05 06][1F EC 0C 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(La Flying Viro joins vi.)[03]{window_closeall}" eob
 
 l_0xc6831b:
-    "{window_closeall}[1F 11 0D][1F EB 0D 06][1F F1 23 05 2F 00][1F 61][1F 1E 23 05 06][1F EC 0D 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(The Flying Man joins you.)[03]{window_closeall}" eob
+    "{window_closeall}[1F 11 0D][1F EB 0D 06][1F F1 23 05 2F 00][1F 61][1F 1E 23 05 06][1F EC 0D 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(La Flying Viro joins vi.)[03]{window_closeall}" eob
 
 l_0xc68359:
-    "{window_closeall}[1F 11 0E][1F EB 0E 06][1F F1 24 05 2F 00][1F 61][1F 1E 24 05 06][1F EC 0E 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(The Flying Man joins you.)[03]{window_closeall}" eob
+    "{window_closeall}[1F 11 0E][1F EB 0E 06][1F F1 24 05 2F 00][1F 61][1F 1E 24 05 06][1F EC 0E 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(La Flying Viro joins vi.)[03]{window_closeall}" eob
 
 l_0xc68397:
-    "{window_closeall}[1F 11 0F][1F EB 0F 06][1F F1 25 05 2F 00][1F 61][1F 1E 25 05 06][1F EC 0F 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(The Flying Man joins you.)[03]{window_closeall}" eob
+    "{window_closeall}[1F 11 0F][1F EB 0F 06][1F F1 25 05 2F 00][1F 61][1F 1E 25 05 06][1F EC 0F 01]{music(123)}{pause(120)}{pause(60)}{music_resume}{window_open(1)}@(La Flying Viro joins vi.)[03]{window_closeall}" eob
 
 l_0xc683d5:
     "[1F 12 07]" eob
@@ -117,7 +117,7 @@ l_0xc684a6:
     "{window_closeall}{pause(1)}{music(124)}[1F 15 6A 00 C2 02 01][1F 61][1F 07 02][1F 61]{window_open(1)}[1D 05 02 01][1B 03 {e(l_0xc684ce)}]" goto(l_0xc684ce)
 
 l_0xc684ce:
-    "@Carpainter's lightning was reflected by the Franklin Badge.[03]{window_closeall}[1F 23 C6 01]" eob
+    "@Carpainter's lightning estis reflected by la Franklin Badge.[03]{window_closeall}[1F 23 C6 01]" eob
 
 l_0xc68500:
     "{window_closeall}[1F 23 B2 01]" eob
@@ -202,22 +202,22 @@ l_0xc685b4:
 
 l_0xc685bb:
     newline
-    "@But, you can't carry anything else." end
+    "@Sed, vi povas't carry anything else." end
 
 l_0xc685cb:
     newline
-    "@But, it was empty.{wait}" goto(l_0xc685da)
+    "@Sed, [C1]i estis empty.{wait}" goto(l_0xc685da)
 
 l_0xc685da:
     "[1D 0D 03 01 02][1B 03 {e(l_0xc68650)}][1D 0D 03 01 03][1B 03 {e(l_0xc68650)}][06 B8 02 {e(l_0xc68651)}][1F D0 64]" goto(l_0xc685fa)
 
 l_0xc685fa:
     "[1B 02 {e(l_0xc68650)}][1B 05]{window_open(1)}" newline
-    "[1B 06]@Working through the night," linebreak
+    "[1B 06]@Working through la nokto," linebreak
     "  [1C 02 03] fixed" linebreak
-    "  the [1C 05 00]." next
-    "@After being fixed, the [1C 05 00] became" linebreak
-    "  the {swap}[1C 05 00].[03]{set(flag 696)}{window_closeall}" goto(l_0xc68650)
+    "  la [1C 05 00]." next
+    "@After being fixed, la [1C 05 00] became" linebreak
+    "  la {swap}[1C 05 00].[03]{set(flag 696)}{window_closeall}" goto(l_0xc68650)
 
 l_0xc68650:
     eob
@@ -238,29 +238,29 @@ l_0xc6866a:
     eob
 
 l_0xc6866b:
-    "{save}{music(115)}{pause(60)}{wait}[1F 01 00]{sound(11)}{music_resume}{window_open(1)}@Hello, it's me... your dad." next
-    "@I don't mean to butt in, but don't you think you should take a break?" next
-    "[19 02]Yes" eob
+    "{save}{music(115)}{pause(60)}{wait}[1F 01 00]{sound(11)}{music_resume}{window_open(1)}@Saluton, [C1]i's mi... via pa[C0]jo." next
+    "@Mi don't mean al stumpo en, sed don't vi pensi vi should take a break?" next
+    "[19 02]Jes" eob
 
 l_0xc686b4:
-    "[19 02]No" eob
+    "[19 02]Ne" eob
 
 l_0xc686b9:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc68726)} {e(l_0xc686c8)}]" goto(l_0xc686c8)
 
 l_0xc686c8:
-    "[19 10 01]{rtoarg}@Like mother, like son..." next
-    "@[1C 02 01], you are a hard worker." next
-    "@I've made a record of your adventure." next
-    "@Don't work too hard, though..." next
+    "[19 10 01]{rtoarg}@Like patrino, like son..." next
+    "@[1C 02 01], vi are a hard worker." next
+    "@Mi've made a record of via adventure." next
+    "@Don't work tro hard, though..." next
     "@*Click!*{wait}{window_closeall}{sound(11)}" eob
 
 l_0xc68726:
-    "@Okay." next
-    "@Y'know, I'm feeling kind of tired myself." next
-    "@I made a record of your adventure." next
-    "@Now I'm gonna hit the sack." next
-    "@Be sure you get some rest." linebreak
+    "@Okej." next
+    "@Y'scii, Mi'm feeling kia of tired myself." next
+    "@Mi made a record of via adventure." next
+    "@Nun Mi'm gonna hit la sack." next
+    "@Be sure vi get iom rest." linebreak
     "[19 02]Continue" eob
 
 l_0xc6878f:
@@ -270,13 +270,13 @@ l_0xc68796:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc687a5)} {e(l_0xc687e4)}]" goto(l_0xc687a5)
 
 l_0xc687a5:
-    "[19 10 01]{rtoarg}@[1C 02 00], you're a hard worker, just like your mom." next
-    "@Don't work too hard, though..." next
+    "[19 10 01]{rtoarg}@[1C 02 00], vi're a hard worker, just like via panjo." next
+    "@Don't work tro hard, though..." next
     "@*Click*{wait}{window_closeall}{sound(11)}" eob
 
 l_0xc687e4:
-    "@What a great adventure we had together." next
-    "@Please turn off the power.[1F 50]" eob
+    "@Kio a bonega adventure ni havis together." next
+    "@Please turn off la power.[1F 50]" eob
 
 l_0xc6880b:
     "{unset(flag 479)}[1F D2 01]{set(flag 698)}" eob

@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 16:51:57 - 18/02/2015
+ * Tempo: 16:51:57 - 18/02/2015
  * Generated using CCScriptWriter.
  */
 
@@ -131,7 +131,7 @@ l_0xc5e26a:
     "{load_registers}[1D 0E 00 00][1B 05][1D 11 00 00]" eob
 
 l_0xc5e277:
-    "{load_registers}{rtoarg}@([1C 02 00]'s[06 92 02 {e(l_0xc5e2c4)}][06 92 02 {e(l_0xc5e2c4)}] defense" linebreak
+    "{load_registers}{rtoarg}@([1C 02 00]'s[06 92 02 {e(l_0xc5e2c4)}][06 92 02 {e(l_0xc5e2c4)}] Defenco" linebreak
     "  changed [09 04 {e(l_0xc5e2b0)} {e(l_0xc5e2b5)} {e(l_0xc5e2ba)} {e(l_0xc5e2bf)}]" goto(l_0xc5e2b0)
 
 l_0xc5e2b0:
@@ -147,7 +147,7 @@ l_0xc5e2bf:
     " [1C 01 54]" eob
 
 l_0xc5e2c4:
-    " offense" linebreak
+    " Ataka" linebreak
     "  changed [09 04 {e(l_0xc5e2e3)} {e(l_0xc5e2e8)} {e(l_0xc5e2ed)} {e(l_0xc5e2f2)}]" goto(l_0xc5e2e3)
 
 l_0xc5e2e3:
@@ -163,7 +163,7 @@ l_0xc5e2f2:
     " [1C 01 53]" eob
 
 l_0xc5e2f7:
-    " to{rtoarg}[06 92 02 {e(l_0xc5e338)}][09 04 {e(l_0xc5e314)} {e(l_0xc5e31d)} {e(l_0xc5e326)} {e(l_0xc5e32f)}]" goto(l_0xc5e314)
+    " al{rtoarg}[06 92 02 {e(l_0xc5e338)}][09 04 {e(l_0xc5e314)} {e(l_0xc5e31d)} {e(l_0xc5e326)} {e(l_0xc5e32f)}]" goto(l_0xc5e314)
 
 l_0xc5e314:
     "  [1C 01 12])" next

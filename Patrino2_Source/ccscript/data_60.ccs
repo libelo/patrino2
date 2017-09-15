@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -8,7 +8,7 @@ command e(label) "{long label}"
 
 // Text Data
 l_0xc9f786:
-    "{pause(30)} prayed for the kids, having never even met them before.{pause(150)}{window_closeall}" eob
+    "{pause(30)} prayed for la kids, having neniam e[C0] met ilin before.{pause(150)}{window_closeall}" eob
 
 l_0xc9f7af:
     "#" goto(data_59.l_0xc9f750)
@@ -60,70 +60,70 @@ l_0xc9f86a:
 l_0xc9f897:
     newline
     "@{user}[19 1F]{swap} put" linebreak
-    "  the [1C 05 00] on " call(data_37.l_0xc7e66e) " nose!{sound(115)}" next
-    "@{user} searched for the" linebreak
-    "  smell of the magic truffle." next
+    "  la [1C 05 00] on " call(data_37.l_0xc7e66e) " nose!{sound(115)}" next
+    "@{user} searched for la" linebreak
+    "  smell of la magic truffle." next
     "[1F D1][1B 02 {e(l_0xc9f970)}]{store_registers}{result_is(1)}[1B 03 {e(l_0xc9f946)}]{load_registers}{result_is(10)}[1B 03 {e(l_0xc9f936)}]{load_registers}" newline
-    "@(It must be a little further [1F C0 09 {e(data_32.l_0xc77eff)} {e(l_0xc9f990)} {e(l_0xc9f995)} {e(l_0xc9f99e)} {e(l_0xc9f9a4)} {e(l_0xc9f9ad)} {e(l_0xc9f9b2)} {e(l_0xc9f9bd)} {e(l_0xc9f9c4)}]" end
+    "@([B1]i devas be a little further [1F C0 09 {e(data_32.l_0xc77eff)} {e(l_0xc9f990)} {e(l_0xc9f995)} {e(l_0xc9f99e)} {e(l_0xc9f9a4)} {e(l_0xc9f9ad)} {e(l_0xc9f9b2)} {e(l_0xc9f9bd)} {e(l_0xc9f9c4)}]" end
 
 l_0xc9f936:
     newline
-    "@(It must be right here!)" end
+    "@([B1]i devas be right here!)" end
 
 l_0xc9f946:
     newline
-    "@(It is around here somewhere, but you can't pinpoint the exact location.)" end
+    "@([B1]i estas around here somewhere, sed vi povas't pinpoint la exact location.)" end
 
 l_0xc9f970:
     newline
-    "@(The Truffle doesn't seem to be around here.)" end
+    "@(La Truffle doesn't seem al be around here.)" end
 
 l_0xc9f990:
     "up.)" eob
 
 l_0xc9f995:
-    "up and right.)" eob
+    "up kaj right.)" eob
 
 l_0xc9f99e:
     "right.)" eob
 
 l_0xc9f9a4:
-    "down and right.)" eob
+    "down kaj right.)" eob
 
 l_0xc9f9ad:
     "down.)" eob
 
 l_0xc9f9b2:
-    "down and left.)" eob
+    "down kaj left.)" eob
 
 l_0xc9f9bd:
     "left.)" eob
 
 l_0xc9f9c4:
-    "up and left.)" eob
+    "up kaj left.)" eob
 
 l_0xc9f9cf:
     newline
-    "@Thanks to the Magic butterfly, you were able to totally relax.{wait}{window_closeall}" eob
+    "@dankon al la Magic butterfly, vi estis able al totally relax.{wait}{window_closeall}" eob
 
 l_0xc9f9f3:
     "[06 FB 02 {e(l_0xc9fab9)}][06 49 00 {e(l_0xc9fab9)}][06 74 01 {e(data_35.l_0xc7c6f1)}]" call(data_36.l_0xc7dd8d) "[1B 03 {e(l_0xc9fa74)}][06 BE 01 {e(l_0xc9fa74)}][06 86 02 {e(l_0xc9fa74)}][06 87 02 {e(l_0xc9fa74)}][06 88 02 {e(l_0xc9fa74)}]" newline
-    "@{user}[19 1F]{swap} used" linebreak
-    "  the [1C 05 00]!" next
-    "@A customer is heading this way.{wait}{window_closeall}[1D 21 03][09 03 {e(l_0xc9fb43)} {e(l_0xc9fb4d)} {e(l_0xc9fb57)}][1F D3 04]{set(flag 446)}{set(flag 754)}" eob
+    "@{user}[19 1F]{swap} uzis" linebreak
+    "  la [1C 05 00]!" next
+    "@A customer estas heading [C0]i tiu way.{wait}{window_closeall}[1D 21 03][09 03 {e(l_0xc9fb43)} {e(l_0xc9fb4d)} {e(l_0xc9fb57)}][1F D3 04]{set(flag 446)}{set(flag 754)}" eob
 
 l_0xc9fa74:
     newline
-    "@{user}[19 1F]{swap} used" linebreak
-    "  the [1C 05 00]!" next
-    "@Wait!  Someone is already heading this way.  Wait for them to get here first." end
+    "@{user}[19 1F]{swap} uzis" linebreak
+    "  la [1C 05 00]!" next
+    "@Wait!  Someone estas already heading [C0]i tiu way.  Wait for ilin al get here first." end
 
 l_0xc9fab9:
-    "@For a long time, this <For Sale> sign has been useful..." next
-    "@Now, it is old, its message made unreadable by the passage of time." next
-    "@It has now lost its effectiveness." next
-    "@Thank you, sign." linebreak
-    "  Good bye, sign." end
+    "@For a long tempo, [C0]i tiu <For Sale> sign has been useful..." next
+    "@Nun, [C1]i estas old, its message made unreadable by la passage of tempo." next
+    "@[B1]i has nun lost its effectiveness." next
+    "@Dankon, sign." linebreak
+    "  Bona bye, sign." end
 
 l_0xc9fb43:
     "[1F D3 05]{set(flag 646)}{set(flag 754)}" eob
@@ -136,50 +136,50 @@ l_0xc9fb57:
 
 l_0xc9fb61:
     newline
-    "@This book should be required reading for any quiet, shy person.[03]" eob
+    "@[B0]i tiu book should be required reading for ajn quiet, shy person.[03]" eob
 
 l_0xc9fb8b:
     newline
-    "@You felt sad and empty.[03]" eob
+    "@Vi felt sad kaj empty.[03]" eob
 
 l_0xc9fb9f:
     newline
-    "@(If you get this message, it means that something is wrong.)[03]" eob
+    "@(Se vi get [C0]i tiu message, [C1]i means tio io estas wrong.)[03]" eob
 
 l_0xc9fbc4:
     newline
     "@{user}[19 1F]{swap} opened" linebreak
-    "  the [1C 05 00]." next
-    "@The enemy may not notice that you are present.[03]" eob
+    "  la [1C 05 00]." next
+    "@La enemy may ne notice tio vi are present.[03]" eob
 
 l_0xc9fbf2:
     newline
-    "@To use this, go to a cash machine and insert the card.[03]" eob
+    "@Por uzi [C0]i tiun, iri al kontantma[C4]ino kaj enmeti sin.[03]" eob
 
 l_0xc9fc16:
     newline
-    "@This is a kind of trap used to capture zombies.[03]" eob
+    "@[B0]i tiu estas a kia of trap uzis al capture zombies.[03]" eob
 
 l_0xc9fc32:
     newline
-    "@It might be useful in a dark place.[03]" eob
+    "@[B1]i might be useful en a dark place.[03]" eob
 
 l_0xc9fc48:
     newline
-    "@{user}[19 1F]{swap} placed the [1C 05 00] on the floor.{sound(115)}{pause(1)}" next
+    "@{user}[19 1F]{swap} placed la [1C 05 00] on la floor.{sound(115)}{pause(1)}" next
     "{set(flag 124)}[1D 01 FF AE]" eob
 
 l_0xc9fc6f:
     newline
-    "@{user}[19 1F]{swap} used the [1C 05 00]!{sound(95)}{pause(1)}{wait}{window_closeall}[1D 01 FF AF]{set(flag 288)}[1F 1E CF 04 06]" call(data_50.l_0xc935b1) "){set(flag 508)}" eob
+    "@{user}[19 1F]{swap} uzis la [1C 05 00]!{sound(95)}{pause(1)}{wait}{window_closeall}[1D 01 FF AF]{set(flag 288)}[1F 1E CF 04 06]" call(data_50.l_0xc935b1) "){set(flag 508)}" eob
 
 l_0xc9fc9e:
-    "@(For some reason," next
-    "@something that looks like a very large iron eraser is in the way.)" end
+    "@(For iom reason," next
+    "@io tio looks like a tre large iron eraser estas en la way.)" end
 
 l_0xc9fcd5:
     call(data_36.l_0xc7dd2c) "{result_is(210)}[1B 02 {e(data_35.l_0xc7c6f1)}]{load_registers}" call(data_36.l_0xc7dd37) newline
-    "@(For some reason,{pause(15)} the iron eraser statue disappeared in an instant!){wait}{window_closeall}{pause(1)}{sound(33)}[1F 1E 9F 02 0A]{set(flag 299)}" eob
+    "@(For iom reason,{pause(15)} la iron eraser statue disappeared en an instant!){wait}{window_closeall}{pause(1)}{sound(33)}[1F 1E 9F 02 0A]{set(flag 299)}" eob
 
 l_0xc9fd2e:
     newline
@@ -189,49 +189,49 @@ l_0xc9fd5a:
     call(data_35.l_0xc7c802) eob
 
 l_0xc9fd60:
-    "@If you are not feeling well, you should not ride a bicycle." end
+    "@Se vi are ne feeling well, vi should ne ride a bicycle." end
 
 l_0xc9fd82:
     newline
-    "@{user}[19 1F]{swap} used [1C 05 00]!" next
-    "@Now, " call(data_36.l_0xc7e602) " can figure out the length of things easily.[03]" eob
+    "@{user}[19 1F]{swap} uzis [1C 05 00]!" next
+    "@Nun, " call(data_36.l_0xc7e602) " povas figure out la length of a[C3]oj easily.[03]" eob
 
 l_0xc9fdbb:
     newline
-    "@{user}[19 1F]{swap} used the [1C 05 00]!" next
-    "@Now, " call(data_36.l_0xc7e602) " can fairly easily figure out the angle of various things.[03]" eob
+    "@{user}[19 1F]{swap} uzis la [1C 05 00]!" next
+    "@Nun, " call(data_36.l_0xc7e602) " povas fairly easily figure out la angle of various a[C3]oj.[03]" eob
 
 l_0xc9fdfb:
     newline
-    "{sound(101)}@Seeing chicks makes you happy.{sound(101)}[03]" eob
+    "{sound(101)}@Seeing chicks makes vi feli[C0]a.{sound(101)}[03]" eob
 
 l_0xc9fe1b:
     newline
-    "{sound(104)}{pause(10)}{sound(104)}@A chicken ran away as fast as it could.[03]" eob
+    "{sound(104)}{pause(10)}{sound(104)}@A chicken ran away as fast as [C1]i could.[03]" eob
 
 l_0xc9fe41:
     newline
-    " The Teleport Box started to groan.{sound(99)}" next
-    "[1C 13 30 00] The Teleport Box shattered into pieces with a loud explosion.{sound(99)}[1C 13 23 00]" end
+    " La Teleport Box started al groan.{sound(99)}" next
+    "[1C 13 30 00] La Teleport Box shattered into pieces kun a loud explosion.{sound(99)}[1C 13 23 00]" end
 
 l_0xc9fe9d:
     newline
-    " The Teleport Box began to groan.{sound(99)}" next
-    "[1C 13 30 00] The Teleport Box didn't work quite right...{sound(5)}" end
+    " La Teleport Box began al groan.{sound(99)}" next
+    "[1C 13 30 00] La Teleport Box didn't work quite right...{sound(5)}" end
 
 l_0xc9fee3:
     newline
-    " The Teleport Box can't be used here." end
+    " La Teleport Box povas't be uzis here." end
 
 l_0xc9fefd:
     newline
-    "[19 19 00 00]{swap}@{user}{swap} touched the [1C 05 00] to his forehead and gathered his thoughts.[03][1F 41 09]" eob
+    "[19 19 00 00]{swap}@{user}{swap} touched la [1C 05 00] al lia forehead kaj gathered lia pensoj.[03][1F 41 09]" eob
 
 l_0xe10000:
-    "[ 09 ][ 09 ][ 01 0C ]You've traveled very far from[ 09 ][ 01 0C ]home...[ 09 ][ 09 ][ 09 ][ 01 0C ]Do you remember how your long[ 09 ][ 01 0C ]and winding journey began with[ 09 ][ 01 0C ]someone pounding at your door?[ 09 ][ 01 0C ]It was Porky, the worst person in[ 09 ][ 01 0C ]your neighborhood, who knocked[ 09 ][ 01 0C ]on the door that fateful night.[ 09 ][ 09 ][ 09 ][ 01 0C ]On your way, you have walked,[ 09 ][ 01 0C ]thought and fought.  Yet through[ 09 ][ 01 0C ]all this, you have never lost your[ 09 ][ 01 0C ]courage. You have grown steadily[ 09 ][ 01 0C ]stronger, though you have[ 09 ][ 01 0C ]experienced the pain of battle[ 09 ][ 01 0C ]many times.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]You are no longer alone in your[ 09 ][ 01 0C ]adventure, [ 08 02 ] who is[ 09 ][ 01 0C ]steadfast, kind and even pretty,[ 09 ][ 01 0C ]is always at your side.[ 09 ][ 01 0C ][ 08 03 ] is with you as well.[ 09 ][ 01 0C ]Though he is timid, he came from[ 09 ][ 01 0C ]a distant land to help you.[ 09 ][ 01 0C ][ 08 01 ], as you certainly[ 09 ][ 01 0C ]know by now, you are not a[ 09 ][ 01 0C ]regular young man...  You have[ 09 ][ 01 0C ]an awesome destiny to fulfill.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]The journey from this point will[ 09 ][ 01 0C ]be long, and it will be more[ 09 ][ 01 0C ]difficult than anything you have[ 09 ][ 01 0C ]undergone to this point.  Yet, I[ 09 ][ 01 0C ]know you will be all right.  When[ 09 ][ 01 0C ]good battles evil, which side do[ 09 ][ 01 0C ]you believe wins?  Do you have[ 09 ][ 01 0C ]faith that good is triumphant?[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]One thing you must never lose is[ 09 ][ 01 0C ]courage.  If you believe in the[ 09 ][ 01 0C ]goal you are striving for, you will[ 09 ][ 01 0C ]be courageous.  There are many[ 09 ][ 01 0C ]difficult times ahead, but you[ 09 ][ 01 0C ]must keep your sense of humor,[ 09 ][ 01 0C ]work through the tough[ 09 ][ 01 0C ]situations and enjoy yourself.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]When you have finished this cup[ 09 ][ 01 0C ]of coffee, your adventure will[ 09 ][ 01 0C ]begin again.  Next, you must pass[ 09 ][ 01 0C ]through a vast desert and[ 09 ][ 01 0C ]proceed to the big city of[ 09 ][ 01 0C ]Fourside.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ][ 08 01 ]...[ 09 ][ 01 0C ]           [ 08 02 ]...[ 09 ][ 01 0C ]                      [ 08 03 ]...[ 09 ][ 09 ][ 09 ][ 01 0C ]I wish you luck...[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 00 ]"
+    "[ 09 ][ 09 ][ 01 0C ]Vi've traveled tre far from[ 09 ][ 01 0C ]hejmo...[ 09 ][ 09 ][ 09 ][ 01 0C ]Do vi Memori kiel via long[ 09 ][ 01 0C ]kaj winding journey began kun[ 09 ][ 01 0C ]iu pounding at via pordo?[ 09 ][ 01 0C ][B1]i estis Porky, la worst person en[ 09 ][ 01 0C ]via neighborhood, kiu knocked[ 09 ][ 01 0C ]on la pordo tio fateful nokto.[ 09 ][ 09 ][ 09 ][ 01 0C ]On via way, vi havas walked,[ 09 ][ 01 0C ]pensis kaj fought.  Yet through[ 09 ][ 01 0C ][C0]io [C0]i tiu, vi havas neniam lost via[ 09 ][ 01 0C ]courage. Vi havas grown steadily[ 09 ][ 01 0C ]stronger, though vi havas[ 09 ][ 01 0C ]experienced la pain of battle[ 09 ][ 01 0C ]many times.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]Vi are ne longer sola en via[ 09 ][ 01 0C ]adventure, [ 08 02 ] kiu estas[ 09 ][ 01 0C ]steadfast, kia kaj e[C0] pretty,[ 09 ][ 01 0C ]estas [C0]iam at via side.[ 09 ][ 01 0C ][ 08 03 ] estas kun vi as well.[ 09 ][ 01 0C ]Though li estas timid, li venis from[ 09 ][ 01 0C ]a distant land al helpi vi.[ 09 ][ 01 0C ][ 08 01 ], as vi certainly[ 09 ][ 01 0C ]scii by nun, vi are ne a[ 09 ][ 01 0C ]regular young viro...  Vi havas[ 09 ][ 01 0C ]an awesome destiny al fulfill.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]La journey from [C0]i tiu point will[ 09 ][ 01 0C ]be long, kaj [C1]i will be more[ 09 ][ 01 0C ]difficult ol anything vi havas[ 09 ][ 01 0C ]undergone al [C0]i tiu point.  Yet, Mi[ 09 ][ 01 0C ]scii vi will be [C0]io right.  Kie[ 09 ][ 01 0C ]bona battles evil, kiu side do[ 09 ][ 01 0C ]vi believe wins?  Do vi havas[ 09 ][ 01 0C ]faith tio bona estas triumphant?[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]unu a[C3]o vi devas neniam lose estas[ 09 ][ 01 0C ]courage.  Se vi believe en la[ 09 ][ 01 0C ]goal vi are striving for, vi will[ 09 ][ 01 0C ]be courageous.  Tia are many[ 09 ][ 01 0C ]difficult times ahead, sed vi[ 09 ][ 01 0C ]devas keep via sense of humor,[ 09 ][ 01 0C ]work through la tough[ 09 ][ 01 0C ]situations kaj enjoy yourself.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]Kie vi havas finished [C0]i tiu cup[ 09 ][ 01 0C ]of coffee, via adventure will[ 09 ][ 01 0C ]begin again.  Next, vi devas pass[ 09 ][ 01 0C ]through a vast desert kaj[ 09 ][ 01 0C ]proceed al la granda city of[ 09 ][ 01 0C ]Fourside.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ][ 08 01 ]...[ 09 ][ 01 0C ]           [ 08 02 ]...[ 09 ][ 01 0C ]                      [ 08 03 ]...[ 09 ][ 09 ][ 09 ][ 01 0C ]Mi wish vi [C4]an[C0]o...[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 00 ]"
 
 l_0xe10652:
-    "[ 09 ][ 09 ][ 01 0C ]Like a great tapestry, vertical and[ 09 ][ 01 0C ]horizontal threads have met and[ 09 ][ 01 0C ]become intertwined, creating a[ 09 ][ 01 0C ]huge, beautiful image.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]You may have cursed this never-[ 09 ][ 01 0C ]ending journey.  You have known[ 09 ][ 01 0C ]injury and defeat, but you have[ 09 ][ 01 0C ]struggled on to reach this place.[ 09 ][ 01 0C ]Your in-born wisdom and[ 09 ][ 01 0C ]courage have helped bring you[ 09 ][ 01 0C ]here.  You have believed in your[ 09 ][ 01 0C ]friends, and as a group, you have[ 09 ][ 01 0C ]supported each other.  Have you[ 09 ][ 01 0C ]ever stopped to consider how[ 09 ][ 01 0C ]much your power has grown?[ 09 ][ 01 0C ]Now, you could fell enemies in[ 09 ][ 01 0C ]Onett and Twoson with one[ 09 ][ 01 0C ]blow.  As you certainly know,[ 09 ][ 01 0C ]you cannot turn back.  Gyiyg,[ 09 ][ 01 0C ]the arch fiend of the universe, is[ 09 ][ 01 0C ]growing frightened of you and[ 09 ][ 01 0C ]your power.  He is searching for[ 09 ][ 01 0C ]ways to end your journey.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]From here, the challenge grows[ 09 ][ 01 0C ]and your adventure will take you[ 09 ][ 01 0C ]beyond anything you ever[ 09 ][ 01 0C ]imagined.  You are drawing near[ 09 ][ 01 0C ]to Gyiyg.  Remember, when you[ 09 ][ 01 0C ]are suffering hardships, your[ 09 ][ 01 0C ]enemy is also struggling.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]Still, where DID Porky go,[ 09 ][ 01 0C ]anyway?  When this cup of[ 09 ][ 01 0C ]tea is finished, your adventure will[ 09 ][ 01 0C ]continue.  Your destiny pulls you[ 09 ][ 01 0C ]in the right direction.  Believe in[ 09 ][ 01 0C ]yourself and press forward.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 02 ][ 08 01 ]![ 09 ][ 01 02 ]           [ 08 02 ]![ 09 ][ 01 02 ]                      [ 08 03 ]![ 09 ][ 01 02 ]                                 [ 08 04 ]![ 09 ][ 09 ][ 09 ][ 01 0C ]I wish you luck...[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 00 ]"
+    "[ 09 ][ 09 ][ 01 0C ]Like a bonega tapestry, vertical kaj[ 09 ][ 01 0C ]horizontal threads havas met kaj[ 09 ][ 01 0C ]become intertwined, creating a[ 09 ][ 01 0C ]huge, beautiful image.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]Vi may havas cursed [C0]i tiu neniam-[ 09 ][ 01 0C ]ending journey.  Vi havas known[ 09 ][ 01 0C ]injury kaj defeat, sed vi havas[ 09 ][ 01 0C ]struggled on al reach [C0]i tiu place.[ 09 ][ 01 0C ]Via en-born wisdom kaj[ 09 ][ 01 0C ]courage havas helped bring vi[ 09 ][ 01 0C ]here.  Vi havas believed en via[ 09 ][ 01 0C ]amikoj, kaj as a group, vi havas[ 09 ][ 01 0C ]supported each alia.  havas vi[ 09 ][ 01 0C ]ever stopped al consider kiel[ 09 ][ 01 0C ]much via power has grown?[ 09 ][ 01 0C ]Nun, vi could fell enemies en[ 09 ][ 01 0C ]Onett kaj Twoson kun unu[ 09 ][ 01 0C ]blow.  As vi certainly scii,[ 09 ][ 01 0C ]vi cannot turn back.  Gyiyg,[ 09 ][ 01 0C ]la arch fiend of la universe, estas[ 09 ][ 01 0C ]growing frightened of vi kaj[ 09 ][ 01 0C ]via power.  Li estas searching for[ 09 ][ 01 0C ]ways al end via journey.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]From here, la challenge grows[ 09 ][ 01 0C ]kaj via adventure will take vi[ 09 ][ 01 0C ]beyond anything vi ever[ 09 ][ 01 0C ]imagined.  Vi are drawing near[ 09 ][ 01 0C ]al Gyiyg.  Memori, kie vi[ 09 ][ 01 0C ]are suffering hardships, via[ 09 ][ 01 0C ]enemy estas anka[C5] struggling.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 0C ]Still, kie DID Porky iri,[ 09 ][ 01 0C ]anyway?  Kie [C0]i tiu cup of[ 09 ][ 01 0C ]tea estas finished, via adventure will[ 09 ][ 01 0C ]continue.  Via destiny pulls vi[ 09 ][ 01 0C ]en la right direction.  Believe en[ 09 ][ 01 0C ]yourself kaj press forward.[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 01 02 ][ 08 01 ]![ 09 ][ 01 02 ]           [ 08 02 ]![ 09 ][ 01 02 ]                      [ 08 03 ]![ 09 ][ 01 02 ]                                 [ 08 04 ]![ 09 ][ 09 ][ 09 ][ 01 0C ]Mi wish vi [C4]an[C0]o...[ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 09 ][ 00 ]"
 
 l_0xe10b86:
     "[ 02 0C ][ 01 32 ]La jaro estas 199X[ 09 ][ 00 ]"
@@ -243,19 +243,19 @@ l_0xe10bc2:
     "[ 02 0C ][ 01 3D ][ 08 01 ] de domo[ 09 ][ 00 ]"
 
 l_0xe10bd2:
-    "[ 02 0C ][ 01 00 ]Winters, a small country to the north[ 09 ][ 00 ]"
+    "[ 02 0C ][ 01 00 ]Winters, a malgranda country al la north[ 09 ][ 00 ]"
 
 l_0xe10bfd:
-    "[ 02 0C ][ 01 15 ]Snow Wood Boarding House[ 09 ][ 00 ]"
+    "[ 02 0C ][ 01 15 ]Snow Wood Boarding Domo[ 09 ][ 00 ]"
 
 l_0xe10c1b:
-    "[ 02 0C ][ 01 23 ]Ramma, in the Far East[ 09 ][ 00 ]"
+    "[ 02 0C ][ 01 23 ]Ramma, en la Far East[ 09 ][ 00 ]"
 
 l_0xe10c38:
-    "[ 02 0B ][ 01 25 ]The palace of [ 08 04 ][ 09 ][ 01 30 ]The Crown Prince[ 09 ][ 00 ]"
+    "[ 02 0B ][ 01 25 ]La palace of [ 08 04 ][ 09 ][ 01 30 ]La Crown Prince[ 09 ][ 00 ]"
 
 l_0xe10c61:
-    "[ 02 0C ][ 01 30 ]Later that night...[ 09 ][ 00 ]"
+    "[ 02 0C ][ 01 30 ]Later tio nokto...[ 09 ][ 00 ]"
 
 l_0xe1413f:
     "[ 03 02 ][ 02 ][ A3 A4 81 86 86 ][ 00 ]"
@@ -495,79 +495,79 @@ l_0xef4f56:
     call(data_05.l_0xc56b3e) eob
 
 l_0xef4f7e:
-    "@The enemy is thunder struck for about 120 points of damage." linebreak
+    "@La enemy estas thunder struck for about 120 points of damage." linebreak
     call(data_05.l_0xc5696c) eob
 
 l_0xef4fa6:
-    "@The enemy is thunder struck for about 120 points of damage two separate times." linebreak
+    "@La enemy estas thunder struck for about 120 points of damage du separate times." linebreak
     call(data_05.l_0xc5696c) eob
 
 l_0xef4fdc:
-    "@The enemy is thunder struck for about 200 points of damage three separate times." linebreak
+    "@La enemy estas thunder struck for about 200 points of damage tri separate times." linebreak
     call(data_05.l_0xc5696c) eob
 
 l_0xef5013:
-    "@The enemy is thunder struck for about 200 points of damage four separate times." linebreak
+    "@La enemy estas thunder struck for about 200 points of damage four separate times." linebreak
     call(data_05.l_0xc5696c) eob
 
 l_0xef5049:
-    call(data_05.l_0xc569a9) call(data_05.l_0xc569ca) ", and in some circumstances, feel strange." eob
+    call(data_05.l_0xc569a9) call(data_05.l_0xc569ca) ", kaj en iom circumstances, senti strange." eob
 
 l_0xef506b:
-    call(data_05.l_0xc569a9) call(data_05.l_0xc569ca) ", and in some circumstances, can make the enemy feel strange, become numb, or even be destroyed." eob
+    call(data_05.l_0xc569a9) call(data_05.l_0xc569ca) ", kaj en iom circumstances, povas fari la enemy senti strange, become numb, a[C5] e[C0] be destroyed." eob
 
 l_0xef50af:
     call(data_05.l_0xc569a9) call(data_05.l_0xc569ca) "." linebreak
-    "@Often, it will destroy an enemy in a single strike." eob
+    "@Often, [C1]i will destroy an enemy en a single strike." eob
 
 l_0xef50e1:
-    "@It generates glorious rays that have a high probability of destroying all the enemies on the scene in a single strike." eob
+    "@[B1]i generates glorious rays tio havas a alta probability of destroying [C0]io la enemies on la scene en a single strike." eob
 
 l_0xef5131:
     call(data_05.l_0xc569df) newline
-    "@It deals about 360 points of damage to each enemy." eob
+    "@[B1]i deals about 360 points of damage al each enemy." eob
 
 l_0xef5152:
     call(data_05.l_0xc569df) newline
-    "@It deals about 720 points of damage to each enemy." eob
+    "@[B1]i deals about 720 points of damage al each enemy." eob
 
 l_0xef5173:
-    "@Restores 100 HP to one person." eob
+    "@Restores 100 HP al unu person." eob
 
 l_0xef5189:
-    "@Restores 300 HP to one person." eob
+    "@Restores 300 HP al unu person." eob
 
 l_0xef519f:
-    "@Completely restores the HP of one person." eob
+    "@Completely restores la HP of unu person." eob
 
 l_0xef51bb:
-    "@Restores 400 HP to everyone." eob
+    "@Restores 400 HP al everyone." eob
 
 l_0xef51cf:
-    "@Cures a cold, sunstroke or sleep conditions." eob
+    "@Cures a cold, sunstroke a[C5] dormi conditions." eob
 
 l_0xef51f0:
-    "@In addition to the effects of Healing [8B], this cures poisonings, nausea, feeling strange and uncontrollable crying." eob
+    "@En addition al la effects of Healing [8B], [C0]i tiu cures poisonings, nausea, feeling strange kaj uncontrollable crying." eob
 
 l_0xef5239:
-    "@In addition to the effects of Healing [8C], this cures being diamondized and paralysis." linebreak
-    "@It also revives a friend who has become unconscious, though HP is not maxed out." eob
+    "@En addition al la effects of Healing [8C], [C0]i tiu cures being diamondized kaj paralysis." linebreak
+    "@[B1]i anka[C5] revives a amiko kiu has become unconscious, though HP estas ne maxed out." eob
 
 l_0xef52a5:
-    "@In addition to the effects of Healing [8D], this revives a friend who has become unconscious, and it completely maxes out that person's HP when revived." eob
+    "@En addition al la effects of Healing [8D], [C0]i tiu revives a amiko kiu has become unconscious, kaj [C1]i completely maxes out tio person's HP kie revived." eob
 
 l_0xef5301:
-    "@Protect one person with the shield of light." linebreak
-    "@It reduces the damage caused by an enemy's attack by 50%." linebreak
-    "@Using a different shield will cancel these effects." eob
+    "@Protect unu person kun la shield of light." linebreak
+    "@[B1]i reduces la damage caused by an enemy's atako by 50%." linebreak
+    "@Using a diferenca shield will cancel these effects." eob
 
 l_0xef5361:
-    "@Protect everyone with the shield of light." linebreak
-    "@It reduces the damage caused by an enemy's attack by 50%." linebreak
-    "@Using a different shield will cancel these effects." eob
+    "@Protect everyone kun la shield of light." linebreak
+    "@[B1]i reduces la damage caused by an enemy's atako by 50%." linebreak
+    "@Using a diferenca shield will cancel these effects." eob
 
 l_0xef53c0:
-    "@Protects one person with a power shield." linebreak
-    "@Cuts damage in half and some of the blocked damage is dealt back to the enemy." linebreak
-    "@Using a different shield will cancel these effects." eob
+    "@Protects unu person kun a power shield." linebreak
+    "@Cuts damage en half kaj iom of la blocked damage estas dealt back al la enemy." linebreak
+    "@Using a diferenca shield will cancel these effects." eob
 

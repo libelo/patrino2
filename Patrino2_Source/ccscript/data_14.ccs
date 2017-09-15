@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -212,149 +212,149 @@ l_0xc5d9b2:
     "[1B 05][06 E2 00 {e(l_0xc5dacb)}][06 E3 00 {e(l_0xc5dbeb)}][06 E4 00 {e(l_0xc5dcdf)}][06 E5 00 {e(l_0xc5ddcc)}]" eob
 
 l_0xc5d9d1:
-    "@Huff, puff, huff... wheeeeze!  I ran here as fast as I could." next
-    "@I'm plum tuckered out." next
-    "@What have you got for sale?[03]" eob
+    "@Huff, puff, huff... wheeeeze!  Mi ran here as fast as Mi could." next
+    "@Mi'm plum tuckered out." next
+    "@Kio havas vi got for sale?[03]" eob
 
 l_0xc5da27:
-    "@Thanks, sonny." next
-    "@You certainly made it worth my while to come all this way!" end
+    "@dankon, sonny." next
+    "@Vi certainly made [C1]i worth mia while al veni [C0]io [C0]i tiu way!" end
 
 l_0xc5da58:
     newline
-    "@Oh, say it ain't so!  And after I ran here as fast as I could!" end
+    "@Ho, say [C1]i ain't so!  Kaj after Mi ran here as fast as Mi could!" end
 
 l_0xc5da85:
     "[1B 06]" newline
     "@[1C 05 00]?" linebreak
-    "  I'll give you {swap}$[1C 0A 00 00 00 00]." next
-    "@How's that for a fair offer?" linebreak
+    "  Mi'll doni vi {swap}$[1C 0A 00 00 00 00]." next
+    "@Kiel's tio for a fair offer?" linebreak
     eob
 
 l_0xc5dab3:
-    "@That's too bad..." next
-    "@Do you have anything else you want to sell?[03]" eob
+    "@Tio's tro bad..." next
+    "@Do vi havas anything else vi volas al Vendi?[03]" eob
 
 l_0xc5dacb:
     newline
-    "@Oh, jumpin' jehosaphat!  I don't think I can buy that." next
-    "@What else can you sell me?[03]" eob
+    "@Ho, jumpin' jehosaphat!  Mi don't pensi Mi povas A[C0]eti tio." next
+    "@Kio else povas vi Vendi mi?[03]" eob
 
 l_0xc5db01:
-    "@I saw your sign.  So, I thought I'd stop by." next
-    "@What're you peddlin'?[03]" eob
+    "@Mi vidis via sign.  So, Mi pensis Mi'd stop by." next
+    "@Kio're vi peddlin'?[03]" eob
 
 l_0xc5db32:
     newline
-    "@Oh, thank you so much!  It was well worth the trip!" end
+    "@Ho, Dankon so much!  [B1]i estis well worth la trip!" end
 
 l_0xc5db54:
     newline
-    "@I can't believe it!" next
-    "@After I took all the trouble to get out here!" end
+    "@Mi povas't believe [C1]i!" next
+    "@After Mi took [C0]io la trouble al get out here!" end
 
 l_0xc5db7f:
     "[1B 06]" newline
-    "@The [1C 05 00]?" linebreak
-    "  Hmmm...  How about" linebreak
+    "@La [1C 05 00]?" linebreak
+    "  Hmmm...  Kiel about" linebreak
     "  {swap}$[1C 0A 00 00 00 00]?" next
-    "@How does that offer strike you?" linebreak
+    "@Kiel does tio offer strike vi?" linebreak
     eob
 
 l_0xc5dbbf:
     newline
-    "@My, my!" linebreak
-    "  You can't do that to me!" next
-    "@Well, have you got anything else for sale?[03]" eob
+    "@Mia, mia!" linebreak
+    "  Vi povas't do tio al mi!" next
+    "@Well, havas vi got anything else for sale?[03]" eob
 
 l_0xc5dbeb:
     newline
-    "@Already got me one of those." next
+    "@Already got mi unu of those." next
     "@Anything else worthwhile for sale?[03]" eob
 
 l_0xc5dc17:
-    "@Hi!" linebreak
-    "  Is this a tool shop?  Cool!" next
-    "@What are you selling?[03]" eob
+    "@Sal'!" linebreak
+    "  Estas [C0]i tiu a tool shop?  Cool!" next
+    "@Kio are vi selling?[03]" eob
 
 l_0xc5dc3c:
     newline
-    "@Thanks a lot!" linebreak
-    "  It sure was worth it to come all the way out here!" end
+    "@dankon multa!" linebreak
+    "  [B1]i sure estis worth [C1]i al veni [C0]io la way out here!" end
 
 l_0xc5dc63:
     newline
-    "@Oh, c'mon!" next
-    "@You have no idea how much trouble it was for me to get here!" end
+    "@Ho, c'mon!" next
+    "@Vi havas ne idea kiel much trouble [C1]i estis for mi al get here!" end
 
 l_0xc5dc91:
     "[1B 06]" newline
-    "@The [1C 05 00]?" linebreak
-    "  How about {swap}$[1C 0A 00 00 00 00]..." next
-    "@Is that a fair trade?" linebreak
+    "@La [1C 05 00]?" linebreak
+    "  Kiel about {swap}$[1C 0A 00 00 00 00]..." next
+    "@Estas tio a fair trade?" linebreak
     eob
 
 l_0xc5dcc1:
     newline
-    "@You don't think so?  OK, have you got anything else then?[03]" eob
+    "@Vi don't pensi so?  OK, havas vi got anything else then?[03]" eob
 
 l_0xc5dcdf:
     newline
-    "@Uhhh, I can't buy that..." next
+    "@Uhhh, Mi povas't A[C0]eti tio..." next
     "@Got anything else?[03]" eob
 
 l_0xc5dcf9:
-    "@Hi, how are ya?  Is this a tool shop or something?" next
-    "@What are you selling, anyway?[03]" eob
+    "@Sal', kiel are ya?  Estas [C0]i tiu a tool shop a[C5] io?" next
+    "@Kio are vi selling, anyway?[03]" eob
 
 l_0xc5dd29:
     newline
-    "@Thanks!  I have to say, it was well worth my trouble to come out here." end
+    "@dankon!  Mi havas al say, [C1]i estis well worth mia trouble al veni out here." end
 
 l_0xc5dd52:
     newline
-    "@That's just great!" linebreak
-    "  You can't do this to me!" end
+    "@Tio's just bonega!" linebreak
+    "  Vi povas't do [C0]i tiu al mi!" end
 
 l_0xc5dd6c:
     "[1B 06]" newline
-    "@The [1C 05 00]?" linebreak
-    "  I'd offer about" linebreak
-    "  {swap}$[1C 0A 00 00 00 00] for that." next
-    "@Is it a deal?" linebreak
+    "@La [1C 05 00]?" linebreak
+    "  Mi'd offer about" linebreak
+    "  {swap}$[1C 0A 00 00 00 00] for tio." next
+    "@Estas [C1]i a deal?" linebreak
     eob
 
 l_0xc5dda3:
     newline
-    "@Have it your way." next
-    "@Did you say you have some other things for sale?[03]" eob
+    "@havas [C1]i via way." next
+    "@Did vi say vi havas iom alia a[C3]oj for sale?[03]" eob
 
 l_0xc5ddcc:
     newline
-    "@I'm not interested in one of those." next
-    "@Can you show me anything else?[03]" eob
+    "@Mi'm ne interested en unu of those." next
+    "@povas vi show mi anything else?[03]" eob
 
 l_0xc5ddf1:
-    call(data_36.l_0xc7de2f) "{unset(flag 446)}{unset(flag 646)}{unset(flag 647)}{unset(flag 648)}{window_open(1)}@Hello!" linebreak
+    call(data_36.l_0xc7de2f) "{unset(flag 446)}{unset(flag 646)}{unset(flag 647)}{unset(flag 648)}{window_open(1)}@Saluton!" linebreak
     "  (gasp... pant...)" next
-    "@I saw your sign" linebreak
+    "@Mi vidis via sign" linebreak
     "  (gasp... pant...)," next
-    "@and thought I should stop and buy something." next
-    "@I tried and tried to find it" linebreak
+    "@kaj pensis Mi should stop kaj A[C0]eti io." next
+    "@Mi tried kaj tried al trovi [C1]i" linebreak
     "  (gasp... pant...)" linebreak
-    "  but no such luck." next
-    "@I think you should give this up and go home." next
-    "@If you took your business more seriously," next
-    "@you would be more considerate of your customers![03]" call(data_36.l_0xc7de54) "{unset(flag 754)}" eob
+    "  sed ne such [C4]an[C0]o." next
+    "@Mi pensi vi should doni [C0]i tiu up kaj iri hejmo." next
+    "@Se vi took via business more seriously," next
+    "@vi would be more considerate of via customers![03]" call(data_36.l_0xc7de54) "{unset(flag 754)}" eob
 
 l_0xc5decb:
     "{unset(flag 657)}" call(data_00.l_0xc50000) goto(l_0xc5ded3)
 
 l_0xc5ded3:
-    "[19 02]Buy" eob
+    "[19 02]A[C0]eti" eob
 
 l_0xc5ded9:
-    "[19 02]Sell" eob
+    "[19 02]Vendi" eob
 
 l_0xc5dee0:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc5df05)} {e(data_15.l_0xc5df3a)}]" goto(l_0xc5deef)

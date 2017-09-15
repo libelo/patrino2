@@ -7,10 +7,10 @@ import asm65816
 
 
 naming_screen_one:
-	"[18][05 00][04][2F]GRANDA[18][05 07][04][2F]malgranda[18][05 00][06][2F]Ne Gravas[18][05 11][06][2F]Reen[18][05 19][06][2F]OK``[02]"
+	"[18][05 00][04][2F]GRANDA[18][05 07][04][2F]malgranda[18][05 00][06][2F]Ne Gravas[18][05 11][06][2F]Reen[18][05 19][06][2F]OK[02]"
 	
 naming_screen_two:
-	"[18][05 00][04][2F]GRANDA[18][05 07][04][2F]malgranda[18][05 11][06][2F]Reen[18][05 19][06][2F]OK``[02]"
+	"[18][05 00][04][2F]GRANDA[18][05 07][04][2F]malgranda[18][05 11][06][2F]Reen[18][05 19][06][2F]OK[02]"
 	
 
 ROM[0xEFA66C] = goto(naming_screen_one)

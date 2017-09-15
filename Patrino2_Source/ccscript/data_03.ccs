@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -90,12 +90,12 @@ l_0xc53c7a:
 l_0xc53c95:
     newline
     " <[1C 05 34]>" next
-    "@A tough, strong weapon!" end
+    "@A tough, Forta weapon!" end
 
 l_0xc53caf:
     newline
     " <[1C 05 35]>" next
-    "@This one rocks, for sure." end
+    "@[B0]i tiu unu rocks, for sure." end
 
 l_0xc53cc8:
     newline
@@ -106,50 +106,50 @@ l_0xc53cd8:
     newline
     " <[1C 05 37]>" next
     call(data_05.l_0xc56bc0) next
-    "@Also, it adds a bit of Speed." end
+    "@Anka[C5], [C1]i adds a bit of Rapido." end
 
 l_0xc53d00:
     newline
     " <[1C 05 38]>" next
     call(data_05.l_0xc56bc0) next
-    "@It also increases your Speed." end
+    "@[B1]i anka[C5] increases via Rapido." end
 
 l_0xc53d21:
     newline
     " <[1C 05 39]>" next
     call(data_05.l_0xc56bc0) next
-    "@It increases your Speed in a big way." end
+    "@[B1]i increases via Rapido en a granda way." end
 
 l_0xc53d46:
     newline
     " <[1C 05 3A]>" next
-    call(data_05.l_0xc56bdf) "@It protects you from fire attacks." end
+    call(data_05.l_0xc56bdf) "@[B1]i protects vi from fire atakas." end
 
 l_0xc53d6a:
     newline
     " <[1C 05 3B]>" next
-    call(data_05.l_0xc56bdf) "@It protects you from freeze attacks." end
+    call(data_05.l_0xc56bdf) "@[B1]i protects vi from freeze atakas." end
 
 l_0xc53d8f:
     newline
     " <[1C 05 3C]>" next
-    call(data_05.l_0xc56bdf) "@It absorbs the light of a flash attack." end
+    call(data_05.l_0xc56bdf) "@[B1]i absorbs la light of a flash atako." end
 
 l_0xc53db8:
     newline
     " <[1C 05 3D]>" next
-    call(data_05.l_0xc56bdf) "@It protects you from fire, freeze and flash attacks." end
+    call(data_05.l_0xc56bdf) "@[B1]i protects vi from fire, freeze kaj flash atakas." end
 
 l_0xc53de8:
     newline
     " <[1C 05 3E]>" next
-    call(data_05.l_0xc56bdf) "@It protects you from fire, freeze, flash and paralysis attacks." end
+    call(data_05.l_0xc56bdf) "@[B1]i protects vi from fire, freeze, flash kaj paralysis atakas." end
 
 l_0xc53e23:
     newline
     " <[1C 05 3F]>" next
-    "@[1C 02 04]'s body equipment." next
-    "@It increases his Defense." end
+    "@[1C 02 04]'s Korpo equipment." next
+    "@[B1]i increases lia Defenco." end
 
 l_0xc53e4f:
     newline
@@ -202,35 +202,35 @@ l_0xc53edd:
 l_0xc53ef4:
     newline
     " <[1C 05 49]>" next
-    "@To be equipped on" linebreak
+    "@Al be equipped on" linebreak
     "  [1C 02 04]'s arm." next
-    "@Helps protect from being hypnotized, and Luck goes up." next
-    "@Of course, Defense also goes up." end
+    "@Helps protect from being hypnotized, kaj [C4]an[C0]o goes up." next
+    "@Of course, Defenco anka[C5] goes up." end
 
 l_0xc53f58:
     newline
     " <[1C 05 4A]>" next
     call(data_05.l_0xc56c40) next
-    "@It has the logo of your favorite baseball team." end
+    "@[B1]i has la logo of via favorite baseball team." end
 
 l_0xc53f89:
     newline
     " <[1C 05 4B]>" next
     call(data_05.l_0xc56c40) next
-    "@It makes you feel like the great detective, Sherlock Holmes, when equipped." end
+    "@[B1]i makes vi senti like la bonega detective, Sherlock Holmes, kie equipped." end
 
 l_0xc53fc9:
     newline
     " <[1C 05 4C]>" next
     call(data_05.l_0xc56c40) next
-    "@It is said to have been given to your friend by a famous player at the ballpark." end
+    "@[B1]i estas said al havas been given al via amiko by a famous player at la ballpark." end
 
 l_0xc5400a:
     newline
     " <[1C 05 4D]>" next
     call(data_05.l_0xc56c40) next
-    "@Should be worn when searching for buried treasure," next
-    "@or while you are at the construction site." end
+    "@Should be worn kie searching for buried treasure," next
+    "@a[C5] while vi are at la construction site." end
 
 l_0xc54055:
     newline
@@ -281,7 +281,7 @@ l_0xc540e5:
     newline
     " <[1C 05 57]>" next
     call(data_05.l_0xc56c91) next
-    "@It increases his Defense." end
+    "@[B1]i increases lia Defenco." end
 
 l_0xc54106:
     newline
@@ -308,24 +308,24 @@ l_0xc5416d:
     newline
     " <[1C 05 5C]>" next
     call(data_05.l_0xc56cb5) "80" call(data_05.l_0xc56cd6) next
-    "@So fresh, it's still warm!" end
+    "@So fresh, [C1]i's still warm!" end
 
 l_0xc54197:
     newline
     " <[1C 05 5D]>" next
     call(data_05.l_0xc56cb5) "80" call(data_05.l_0xc56cd6) next
-    "@There are octopus wieners in here." end
+    "@Tia are octopus wieners en here." end
 
 l_0xc541cb:
     newline
     " <[1C 05 5E]>" next
-    "@This is a pasta dish which legend holds was a favorite of King Summers the Third" next
-    "@in the 16th century. Back then, there were many great chefs, confident of their" next
-    "@culinary skills, always going to and from Summer's Palace." next
-    "@Once day, King Summers wife, Anna Summers, said," next
-    "@<Oh what I wouldn't give for some really delicious pasta!> ... ... ..." next
-    "@...Well, let's just leave it at that. The story is too long to go through completely..." next
-    "@but it really is a beautiful, touching tale..." next
+    "@[B0]i tiu estas a pasta dish kiu legend holds estis a favorite of King Summers la Third" next
+    "@en la 16th century. Back then, tia estis many bonega chefs, confident of ilia" next
+    "@culinary skills, [C0]iam going al kaj from Summer's Palace." next
+    "@Once tago, King Summers edzino, Anna Summers, said," next
+    "@<Ho kio Mi wouldn't doni for iom vere delicious pasta!> ... ... ..." next
+    "@...Well, let's just leave [C1]i at tio. La rakonto estas tro long al iri through completely..." next
+    "@sed [C1]i vere estas a beautiful, touching tale..." next
     call(data_05.l_0xc56cb5) "110" call(data_05.l_0xc56cd6) end
 
 l_0xc54321:
@@ -336,14 +336,14 @@ l_0xc54321:
 l_0xc54339:
     newline
     " <[1C 05 60]>" next
-    "@This is today's special. It is highly recommended by our chef," next
-    "@who trained at a five-star restaurant in Paris." next
+    "@[B0]i tiu estas hodia[C5]'s special. [B1]i estas highly recommended by nia chef," next
+    "@kiu trained at a five-star restaurant en Paris." next
     call(data_05.l_0xc56cb5) "200" call(data_05.l_0xc56cd6) end
 
 l_0xc543a4:
     newline
     " <[1C 05 61]>" next
-    "@Since it's a really big pizza, everyone can recover about 240 HP when eaten." end
+    "@Since [C1]i's a vere granda pizza, everyone povas recover about 240 HP kie eaten." end
 
 l_0xc543da:
     newline
@@ -354,19 +354,19 @@ l_0xc543f5:
     newline
     " <[1C 05 63]>" next
     "@A dream-like delicacy" linebreak
-    "  that is said to grow at the base of trees" next
-    "@in wet, muddy places." next
-    "@It restores about 80 PP." end
+    "  tio estas said al grow at la base of trees" next
+    "@en wet, muddy places." next
+    "@[B1]i restores about 80 PP." end
 
 l_0xc54451:
     newline
     " <[1C 05 64]>" next
-    call(data_05.l_0xc56cb5) "300 HP and about 50 PP." end
+    call(data_05.l_0xc56cb5) "300 HP kaj about 50 PP." end
 
 l_0xc54471:
     newline
     " <[1C 05 65]>" next
-    "@When you eat this, it will increase either Speed, Guts, Vitality, IQ or Luck." end
+    "@Kie vi eat [C0]i tiu, [C1]i will increase either Rapido, Gucoj, Vitality, IQ a[C5] [C4]an[C0]o." end
 
 l_0xc544af:
     newline
@@ -381,15 +381,15 @@ l_0xc544c6:
 l_0xc544dd:
     newline
     " <[1C 05 68]>" next
-    "@This is the Balloon Monkey's favorite." next
-    "@It will not help you recover, but" next
-    "@you'll also never run out, 'cause it's a super jumbo pack!" end
+    "@[B0]i tiu estas la Balloon Monkey's favorite." next
+    "@[B1]i will ne helpi vi recover, sed" next
+    "@vi'll anka[C5] neniam run out, 'cause [C1]i's a super jumbo pack!" end
 
 l_0xc5453e:
     newline
     " <[1C 05 69]>" next
-    "@Belch's most favorite food in the whole world." next
-    "@However... it smells REALLY, really nasty! We're talkin' major stinkage here!" end
+    "@Belch's plej favorite food en la whole mondo." next
+    "@However... [C1]i smells REALLY, vere nasty! Ni're talkin' major stinkage here!" end
 
 l_0xc545a1:
     newline
@@ -399,64 +399,64 @@ l_0xc545a1:
 l_0xc545b7:
     newline
     " <[1C 05 6B]>" next
-    "@The highest quality tea, produced by tea expert Mr. Y. Todaar," next
-    "@who carefully selects only hand-picked tea leaves." next
-    "@Long ago, only aristocrats at a king's court were allowed to drink this tea." next
+    "@La highest quality tea, produced by tea expert Mr. Y. Todaar," next
+    "@kiu carefully selects only hand-picked tea leaves." next
+    "@long ago, only aristocrats at a king's court estis allowed al drink [C0]i tiu tea." next
     call(data_05.l_0xc56cc5) "60" call(data_05.l_0xc56cd6) end
 
 l_0xc54660:
     newline
     " <[1C 05 6C]>" next
-    "@For building a stronger, healthier body." next
-    "@It gives you a blast of nourishment when you are fatigued." next
+    "@For building a stronger, healthier Korpo." next
+    "@[B1]i gives vi a blast of nourishment kie vi are fatigued." next
     call(data_05.l_0xc56cc5) "80" call(data_05.l_0xc56cd6) end
 
 l_0xc546bc:
     newline
     " <[1C 05 6D]>" next
-    "@Soup made from the fin of the sea monster known as Kraken." next
-    "@This beast lives in the ocean off the shore of Summers." next
-    "@Very expensive, but a sizable power boost is guaranteed." end
+    "@Soup made from la fin of la sea monster known as Kraken." next
+    "@[B0]i tiu beast lives en la ocean off la shore of Summers." next
+    "@Tre expensive, sed a sizable power boost estas guaranteed." end
 
 l_0xc54733:
     newline
     " <[1C 05 6E]>" next
-    "@When you drink it, your PP slightly increases." end
+    "@Kie vi drink [C1]i, via PP slightly increases." end
 
 l_0xc5475a:
     newline
     " <[1C 05 6F]>" next
-    "@This is the most effective thing to take when you catch a cold." end
+    "@[B0]i tiu estas la plej effective a[C3]o al take kie vi catch a cold." end
 
 l_0xc54789:
     newline
     " <[1C 05 70]>" next
-    "@This is the best thing to take when you get poisoned." end
+    "@[B0]i tiu estas la plejgranda a[C3]o al take kie vi get poisoned." end
 
 l_0xc547b0:
     newline
     " <[1C 05 71]>" next
-    "@It increases your IQ when taken." end
+    "@[B1]i increases via IQ kie taken." end
 
 l_0xc547cb:
     newline
     " <[1C 05 72]>" next
-    "@It increases your Guts when taken." end
+    "@[B1]i increases via Gucoj kie taken." end
 
 l_0xc547e8:
     newline
     " <[1C 05 73]>" next
-    "@It increases your Speed when taken." end
+    "@[B1]i increases via Rapido kie taken." end
 
 l_0xc54806:
     newline
     " <[1C 05 74]>" next
-    "@It increases your Vitality when taken." end
+    "@[B1]i increases via Vitality kie taken." end
 
 l_0xc54826:
     newline
     " <[1C 05 75]>" next
-    "@It increases your Luck when taken." end
+    "@[B1]i increases via [C4]an[C0]o kie taken." end
 
 l_0xc54842:
     newline
@@ -496,32 +496,32 @@ l_0xc548a2:
 l_0xc548b2:
     newline
     " <[1C 05 7D]>" next
-    "@It allows you go back stage at the Chaos Theater." next
-    "@Of course, you can also watch the show using the pass." end
+    "@[B1]i allows vi iri back stage at la Chaos Theater." next
+    "@Of course, vi povas anka[C5] watch la show using la pass." end
 
 l_0xc548fc:
     newline
     " <[1C 05 7E]>" next
-    "@Use by sprinkling it over food." next
-    "@It tastes good with any kind of food, thereby" next
-    "@increasing the recovery power of the food." end
+    "@Use by sprinkling [C1]i over food." next
+    "@[B1]i tastes bona kun ajn kia of food, thereby" next
+    "@increasing la recovery power of la food." end
 
 l_0xc54952:
     newline
     " <[1C 05 7F]>" next
-    "@It's great for those times that you get sunstroke." end
+    "@[B1]i's bonega for those times tio vi get sunstroke." end
 
 l_0xc54979:
     newline
     " <[1C 05 80]>" next
-    "@It helps when you have been poisoned, or you are feeling nauseous." next
-    "@It also has other uses..." next
+    "@[B1]i helps kie vi havas been poisoned, a[C5] vi are feeling nauseous." next
+    "@[B1]i anka[C5] has alia uses..." next
     call(data_05.l_0xc56d02) call(data_05.l_0xc56d36) end
 
 l_0xc549c3:
     newline
     " <[1C 05 81]>" next
-    "@May revive a friend who is unconscious." next
+    "@May revive a amiko kiu estas unconscious." next
     call(data_05.l_0xc56cdb) call(data_05.l_0xc56d02) next
     call(data_05.l_0xc56d36) call(data_05.l_0xc56d38) end
 
@@ -531,35 +531,35 @@ l_0xc549ff:
     goto(l_0xc54a08)
 
 l_0xc54a08:
-    "@Revives a friend who is unconscious." next
+    "@Revives a amiko kiu estas unconscious." next
     call(data_05.l_0xc56cdb) call(data_05.l_0xc56d02) next
     call(data_05.l_0xc56d37) call(data_05.l_0xc56d38) end
 
 l_0xc54a3a:
     newline
     " <[1C 05 83]>" next
-    call(data_05.l_0xc56db7) "@Contains the enemy's PSI during a battle." next
+    call(data_05.l_0xc56db7) "@Contains la enemy's PSI dum a battle." next
     call(data_05.l_0xc56d9b) end
 
 l_0xc54a6c:
     newline
     " <[1C 05 84]>" next
-    call(data_05.l_0xc56db7) "@Breaks through the enemy's shield during a battle." next
+    call(data_05.l_0xc56db7) "@Breaks through la enemy's shield dum a battle." next
     call(data_05.l_0xc56d9b) end
 
 l_0xc54aa1:
     newline
     " <[1C 05 85]>" next
     call(data_05.l_0xc56db7) call(data_05.l_0xc56dc5) next
-    "@Because of its explosive power," next
-    "@it may effect others besides the target creature." next
+    "@[B0]ar of its explosive power," next
+    "@[C1]i may effect others besides la target creature." next
     call(data_05.l_0xc56d9b) end
 
 l_0xc54af5:
     newline
     " <[1C 05 86]>" next
-    call(data_05.l_0xc56db7) "@Really dishes out a lot of damage to the enemy during a battle." next
-    "@Because of its explosive power," next
-    "@it may effect others besides the target creature." next
+    call(data_05.l_0xc56db7) "@Really dishes out multe da damage al la enemy dum a battle." next
+    "@[B0]ar of its explosive power," next
+    "@[C1]i may effect others besides la target creature." next
     call(data_05.l_0xc56d9b) end
 

@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -9,15 +9,15 @@ command e(label) "{long label}"
 // Text Data
 l_0xef6bef:
     newline
-    "@{target}'s body" linebreak
+    "@{target}'s Korpo" linebreak
     "  solidified!{sound(83)}[03]" eob
 
 l_0xef6c0b:
     newline
-    "@{target} was" linebreak
-    "  not able to concentrate!{sound(83)}" next
-    "@{target} was" linebreak
-    "  not able to use PSI![03]" eob
+    "@{target} estis" linebreak
+    "  ne able al concentrate!{sound(83)}" next
+    "@{target} estis" linebreak
+    "  ne able al use PSI![03]" eob
 
 l_0xef6c3a:
     newline
@@ -31,12 +31,12 @@ l_0xef6c55:
 
 l_0xef6c6b:
     newline
-    "@{target} got hurt and collapsed...{sound(32)}[03]" eob
+    "@{target} got hurt kaj collapsed...{sound(32)}[03]" eob
 
 l_0xef6c84:
     newline
     "@{target} got hurt" linebreak
-    "  and collapsed...{sound(32)}{unset(flag 587)}" next
+    "  kaj collapsed...{sound(32)}{unset(flag 587)}" next
     "[06 CF 00 {e(l_0xef6ce2)}][06 CE 00 {e(l_0xef6cd9)}][06 CD 00 {e(l_0xef6cd0)}][06 CC 00 {e(l_0xef6cc7)}]{set(flag 204)}" call(l_0xef6ceb) eob
 
 l_0xef6cc7:
@@ -75,12 +75,12 @@ l_0xef6d2a:
 l_0xef6d4c:
     newline
     "@{target} became" linebreak
-    "  a big pile of fluff...{sound(32)}" next
+    "  a granda pile of fluff...{sound(32)}" next
     "[1D 01 FF 03]" eob
 
 l_0xef6d71:
     newline
-    "@{target} was defeated!{sound(33)}" eob
+    "@{target} estis defeated!{sound(33)}" eob
 
 l_0xef6d83:
     newline
@@ -88,7 +88,7 @@ l_0xef6d83:
 
 l_0xef6d96:
     newline
-    "@{target} became tame!{sound(33)}" eob
+    "@{target} malsova[C1]igis!{sound(33)}" eob
 
 l_0xef6da7:
     newline
@@ -96,37 +96,37 @@ l_0xef6da7:
 
 l_0xef6db8:
     newline
-    "@The figure of {target} melted into thin air!{sound(33)}" eob
+    "@La figure of {target} melted into thin air!{sound(33)}" eob
 
 l_0xef6dd8:
     newline
-    "@{target} was broken into pieces!{sound(33)}" eob
+    "@{target} estis broken into pieces!{sound(33)}" eob
 
 l_0xef6df0:
     newline
-    "@{target} was destroyed!{sound(33)}" eob
+    "@{target} estis destroyed!{sound(33)}" eob
 
 l_0xef6e03:
     newline
-    "@{target} was totally scrapped!{sound(33)}" eob
+    "@{target} estis totally scrapped!{sound(33)}" eob
 
 l_0xef6e19:
     newline
-    "@{target} turned back to normal!{sound(33)}" eob
+    "@{target} turned back al normal!{sound(33)}" eob
 
 l_0xef6e31:
     newline
-    "@{target} returned to the dust of the earth!{sound(33)}" eob
+    "@{target} returned al la dust of la earth!{sound(33)}" eob
 
 l_0xef6e4a:
     newline
-    "@{target}'s body" linebreak
-    "  returned to normal!{sound(37)}[03]" eob
+    "@{target}'s Korpo" linebreak
+    "  returned al normal!{sound(37)}[03]" eob
 
 l_0xef6e67:
     newline
     "@{target}'s" linebreak
-    "  numbness is gone!{sound(37)}[03]" eob
+    "  numbness estas gone!{sound(37)}[03]" eob
 
 l_0xef6e81:
     newline
@@ -135,13 +135,13 @@ l_0xef6e81:
 
 l_0xef6e97:
     newline
-    "@The poison was removed from" linebreak
-    "  {target}'s body!{sound(37)}[03]" eob
+    "@La poison estis removed from" linebreak
+    "  {target}'s Korpo!{sound(37)}[03]" eob
 
 l_0xef6ebc:
     newline
     "@{target} got over" linebreak
-    "  the cold!{sound(37)}[03]" eob
+    "  la cold!{sound(37)}[03]" eob
 
 l_0xef6ed1:
     newline
@@ -150,44 +150,44 @@ l_0xef6ed1:
 
 l_0xef6eed:
     newline
-    "@{target}'s body" linebreak
+    "@{target}'s Korpo" linebreak
     "  again moved freely!{sound(37)}[03]" eob
 
 l_0xef6f0b:
     newline
-    "@{target} was" linebreak
-    "  able to move!{sound(37)}[03]" eob
+    "@{target} estis" linebreak
+    "  able al move!{sound(37)}[03]" eob
 
 l_0xef6f1e:
     newline
     "@{target} went" linebreak
-    "  back to normal!{sound(37)}[03]" eob
+    "  back al normal!{sound(37)}[03]" eob
 
 l_0xef6f38:
     newline
     "@{target}'s" linebreak
-    "  sunstroke was cured!{sound(37)}[03]" eob
+    "  sunstroke estis cured!{sound(37)}[03]" eob
 
 l_0xef6f54:
     newline
-    "@{target} woke up!{sound(37)}[03]" eob
+    "@{target} veki[C1]is up!{sound(37)}[03]" eob
 
 l_0xef6f64:
     newline
-    "@{target} was" linebreak
-    "  able to concentrate!{sound(37)}[03]" eob
+    "@{target} estis" linebreak
+    "  able al concentrate!{sound(37)}[03]" eob
 
 l_0xef6f7c:
     newline
-    "@{target} was revived!{sound(37)}[03]" eob
+    "@{target} estis revived!{sound(37)}[03]" eob
 
 l_0xef6f8e:
     newline
-    "@It didn't work...[03]" eob
+    "@[B1]i didn't work...[03]" eob
 
 l_0xef6f9a:
     newline
-    "@{target}'s body was protected by the shield of light![03]" eob
+    "@{target}'s Korpo estis protected by la shield of light![03]" eob
 
 l_0xef6fbd:
     newline
@@ -195,7 +195,7 @@ l_0xef6fbd:
 
 l_0xef6fd3:
     newline
-    "@{target}'s body was protected by the power shield![03]" eob
+    "@{target}'s Korpo estis protected by la power shield![03]" eob
 
 l_0xef6ff4:
     newline
@@ -203,7 +203,7 @@ l_0xef6ff4:
 
 l_0xef700c:
     newline
-    "@{target}'s body was protected by the psychic shield![03]" eob
+    "@{target}'s Korpo estis protected by la psychic shield![03]" eob
 
 l_0xef7032:
     newline
@@ -211,8 +211,8 @@ l_0xef7032:
 
 l_0xef7050:
     newline
-    "@{target}'s body was protected by" next
-    "  the psychic power shield![03]" eob
+    "@{target}'s Korpo estis protected by" next
+    "  la psychic power shield![03]" eob
 
 l_0xef707a:
     newline
@@ -225,12 +225,12 @@ l_0xef7099:
 
 l_0xef70b1:
     newline
-    "@The power shield" linebreak
-    "  deflected the attack!{sound(93)}{pause(30)}[03]" eob
+    "@La power shield" linebreak
+    "  deflected la atako!{sound(93)}{pause(30)}[03]" eob
 
 l_0xef70d2:
     newline
-    "@The psychic power shield" linebreak
+    "@La psychic power shield" linebreak
     "[19 1F]{swap}  deflected [1C 12 00]!{sound(93)}[03]" eob
 
 l_0xef70fa:
@@ -239,18 +239,18 @@ l_0xef70fa:
 
 l_0xef7123:
     newline
-    "@The effects of PSI on" linebreak
-    "  {target} is gone!{sound(41)}[03]" eob
+    "@La effects of PSI on" linebreak
+    "  {target} estas gone!{sound(41)}[03]" eob
 
 l_0xef7142:
     newline
     "@[1C 01 4A] returned" linebreak
-    "  to his original form![03]" eob
+    "  al lia original form![03]" eob
 
 l_0xef7160:
     newline
-    "@The Franklin Badge deflected" linebreak
-    "  the lightning!{sound(93)}[03]" eob
+    "@La Franklin Badge deflected" linebreak
+    "  la lightning!{sound(93)}[03]" eob
 
 l_0xef7186:
     newline
@@ -258,17 +258,17 @@ l_0xef7186:
 
 l_0xef7192:
     newline
-    "@{user}'s body is" linebreak
-    "  numb and " call(data_36.l_0xc7e602) " can't move![03]" eob
+    "@{user}'s Korpo estas" linebreak
+    "  numb kaj " call(data_36.l_0xc7e602) " povas't move![03]" eob
 
 l_0xef71b4:
     newline
     "@{user} feels" linebreak
-    "  too sick to move...[03]" eob
+    "  tro sick al move...[03]" eob
 
 l_0xef71cc:
     newline
-    "@{target} is" linebreak
+    "@{target} estas" linebreak
     "  poisoned![03]" eob
 
 l_0xef71df:
@@ -291,34 +291,34 @@ l_0xef721e:
 l_0xef7221:
     "@{user}[19 1F]{swap} tried" linebreak
     "  [1C 12 00]!{sound(87)}" next
-    "@But it didn't work very well![03]" eob
+    "@Sed [C1]i didn't work tre well![03]" eob
 
 l_0xef7249:
     newline
-    "@{target} is" linebreak
+    "@{target} estas" linebreak
     "  on guard![03]" eob
 
 l_0xef725a:
     newline
     "@{user} lost" linebreak
-    "  his mind by wolfing down <Fly Honey>![03]" eob
+    "  lia mind by wolfing down <Fly Honey>![03]" eob
 
 l_0xef727f:
     "[1D 21 03][09 03 {e(l_0xef72a0)} {e(l_0xef72b9)} {e(l_0xef72db)}]" newline
-    "@{user} misses home.[03]" eob
+    "@{user} misses hejmo.[03]" eob
 
 l_0xef72a0:
     newline
-    "@{user} suddenly thought about his Mom.[03]" eob
+    "@{user} suddenly pensis about lia Panjo.[03]" eob
 
 l_0xef72b9:
     newline
-    "@{user} thought about eating some [1C 01 04] and started craving it.[03]" eob
+    "@{user} pensis about eating iom [1C 01 04] kaj started craving [C1]i.[03]" eob
 
 l_0xef72db:
     newline
-    "@{user} lost all motivation" linebreak
-    "  in battle.[03]" eob
+    "@{user} lost [C0]io motivation" linebreak
+    "  en battle.[03]" eob
 
 l_0xef72f6:
     eob
@@ -326,34 +326,34 @@ l_0xef72f6:
 l_0xef72f7:
     newline
     "@Black smoke poured from" linebreak
-    "  {user}'s body!{prompt}" linebreak
-    "@" call(data_37.l_0xc7e6d7) " was" linebreak
-    "  overcome by the smoke!{prompt}" linebreak
-    "@You can't see a thing!{prompt}" eob
+    "  {user}'s Korpo!{prompt}" linebreak
+    "@" call(data_37.l_0xc7e6d7) " estis" linebreak
+    "  overcome by la smoke!{prompt}" linebreak
+    "@Vi povas't vidi a a[C3]o!{prompt}" eob
 
 l_0xef733d:
     newline
-    "@All of a sudden," linebreak
-    "  some guys rushed into the room!{prompt}{music(149)}{pause(60)}" newline
-    "@It was the Tonzura Brothers!{prompt}{window_closetop}{pause(30)}{window_open(1)}" newline
-    "[1F 62 00]@Lucky quickly ducked behind the robot!{prompt}{sound(11)}{pause(60)}{window_clear}@<I flipped the switch, and it stopped. >" next
+    "@[B0]io of a sudden," linebreak
+    "  iom guys rushed into la [C0]ambro!{prompt}{music(149)}{pause(60)}" newline
+    "@[B1]i estis la Tonzura Brothers!{prompt}{window_closetop}{pause(30)}{window_open(1)}" newline
+    "[1F 62 00]@Lucky quickly ducked behind la robot!{prompt}{sound(11)}{pause(60)}{window_clear}@<Mi flipped la switch, kaj [C1]i stopped. >" next
     "@<Ha ha ha hah..." linebreak
-    "  Geez, what a loser robot.  It was so easy to stop!>{pause(20)}{prompt}{window_clear}@<That was quick thinking!>{prompt}{pause(60)}[1F 62 01]{window_closetop}{window_open(14)}{set(flag 318)}" eob
+    "  Geez, kio a loser robot.  [B1]i estis so easy al stop!>{pause(20)}{prompt}{window_clear}@<Tio estis quick thinking!>{prompt}{pause(60)}[1F 62 01]{window_closetop}{window_open(14)}{set(flag 318)}" eob
 
 l_0xef7415:
     "[1F 71 04 02]" newline
     "@Suddenly, [1C 02 04] swooped down" linebreak
-    "  from the sky!" eob
+    "  from la sky!" eob
 
 l_0xef743b:
     newline
-    "@[1C 02 04] used his new power,{prompt}" linebreak
+    "@[1C 02 04] uzis lia new power,{prompt}" linebreak
     "  PK Starstorm!{prompt}" linebreak
     eob
 
 l_0xef745f:
     "[1D 21 08][09 08 {e(l_0xef749d)} {e(l_0xef74b0)} {e(l_0xef74c9)} {e(l_0xef74e6)} {e(l_0xef74fa)} {e(l_0xef7514)} {e(l_0xef7530)} {e(l_0xef7548)}]" newline
-    "@Porky used [1C 01 08]" linebreak
+    "@Porky uzis [1C 01 08]" linebreak
     "  as a shield![03]" eob
 
 l_0xef749d:
@@ -363,7 +363,7 @@ l_0xef749d:
 l_0xef74b0:
     newline
     "@Porky pretended" linebreak
-    "  to cry![03]" eob
+    "  al cry![03]" eob
 
 l_0xef74c9:
     newline
@@ -372,13 +372,13 @@ l_0xef74c9:
 
 l_0xef74e6:
     newline
-    "@Porky thought" linebreak
-    "  to himself![03]" eob
+    "@Porky pensis" linebreak
+    "  al himself![03]" eob
 
 l_0xef74fa:
     newline
     "@Porky acted" linebreak
-    "  all innocent![03]" eob
+    "  [C0]io innocent![03]" eob
 
 l_0xef7514:
     newline
@@ -388,21 +388,21 @@ l_0xef7514:
 l_0xef7530:
     newline
     "@Porky complained" linebreak
-    "  to [1C 01 08]![03]" eob
+    "  al [1C 01 08]![03]" eob
 
 l_0xef7548:
     newline
-    "@Porky tried to" linebreak
-    "  edge closer to the enemy![03]" eob
+    "@Porky tried al" linebreak
+    "  edge closer al la enemy![03]" eob
 
 l_0xef7569:
     newline
-    "@{user} is" linebreak
+    "@{user} estas" linebreak
     "  barking![03]" eob
 
 l_0xef7579:
     newline
-    "@{user} is" linebreak
+    "@{user} estas" linebreak
     "  chanting a magic spell![03]" eob
 
 l_0xef7591:
@@ -411,33 +411,33 @@ l_0xef7591:
 
 l_0xef7593:
     newline
-    "@{user} is" linebreak
-    "  scratching his head![03]" eob
+    "@{user} estas" linebreak
+    "  scratching lia head![03]" eob
 
 l_0xef75ab:
     newline
     "{sound(46)}@{delta} HP of damage" linebreak
-    "  to {target}![03]" eob
+    "  al {target}![03]" eob
 
 l_0xef75c2:
     newline
     "{sound(30)}@{delta} HP of damage" linebreak
-    "  to {target}![03]" eob
+    "  al {target}![03]" eob
 
 l_0xef75d9:
     newline
     "{sound(46)}@{delta} HP of damage" linebreak
-    "  to {target}![03]" eob
+    "  al {target}![03]" eob
 
 l_0xef75f0:
     newline
     "{sound(30)}@{delta} HP of damage" linebreak
-    "  to {target}![03]" eob
+    "  al {target}![03]" eob
 
 l_0xef7607:
     newline
     "{sound(47)}@{delta} HP of mortal damage" linebreak
-    "  to {target}![03]" eob
+    "  al {target}![03]" eob
 
 l_0xef7624:
     newline
@@ -461,11 +461,11 @@ l_0xef7655:
 
 l_0xef766e:
     newline
-    "@It did not work" linebreak
+    "@[B1]i did ne work" linebreak
     "  on {target}![03]" eob
 
 l_0xef7682:
     newline
-    "@It did not work" linebreak
+    "@[B1]i did ne work" linebreak
     "  on {target}![03]" eob
 

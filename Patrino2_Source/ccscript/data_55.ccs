@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -9,133 +9,133 @@ command e(label) "{long label}"
 // Text Data
 l_0xc98db4:
     "[03][06 79 00 {e(l_0xc98dd9)}]" newline
-    "@Have you already paid?{pause(20)}  Ok, ok.{wait}{unset(flag 120)}" eob
+    "@havas vi already paid?{pause(20)}  Ok, ok.{wait}{unset(flag 120)}" eob
 
 l_0xc98dd9:
     newline
-    "@I noticed you didn't pay![03]" call(data_23.l_0xc6852a) "[1B 03 {e(data_23.l_0xc683de)}]{window_open(1)}" newline
+    "@Mi rigardis vi didn't pay![03]" call(data_23.l_0xc6852a) "[1B 03 {e(data_23.l_0xc683de)}]{window_open(1)}" newline
     goto(l_0xc98df9)
 
 l_0xc98df9:
-    "@You won this confrontation." next
-    "@But the good side of you must ache with regret.  Ha ha ha.{wait}{set(flag 67)}" eob
+    "@Vi won [C0]i tiu confrontation." next
+    "@Sed la bona side of vi devas ache kun regret.  Ha ha ha.{wait}{set(flag 67)}" eob
 
 l_0xc98e33:
-    "@They said someone named Porky stole all the food from the food stand." end
+    "@Ili said iu named Porky stole [C0]io la food from la food stand." end
 
 l_0xc98e5e:
-    "@In a different way than before, Mr. Carpainter has become a very good man." end
+    "@En a diferenca way ol before, Mr. Carpainter has become a tre bona viro." end
 
 l_0xc98e8d:
     "[06 44 00 {e(l_0xc98e9a)}]" call(data_20.l_0xc64eca) eob
 
 l_0xc98e9a:
-    "@(Thanks for your support over the years." next
-    "@The food stand is going out of business due to personal reasons.)" end
+    "@(dankon for via support over la jaroj." next
+    "@La food stand estas going out of business due al personal reasons.)" end
 
 l_0xc98ede:
-    "[06 49 00 {e(data_54.l_0xc98940)}][06 44 00 {e(l_0xc98f27)}]@One day, Mr. Carpainter received a revelation from God." next
-    "@His words are the words of God." end
+    "[06 49 00 {e(data_54.l_0xc98940)}][06 44 00 {e(l_0xc98f27)}]@unu tago, Mr. Carpainter received a revelation from God." next
+    "@His vortoj are la vortoj of God." end
 
 l_0xc98f27:
-    "@I woke up from the dream." end
+    "@Mi veki[C1]is up from la dream." end
 
 l_0xc98f37:
-    "[06 49 00 {e(data_54.l_0xc98940)}][06 44 00 {e(l_0xc99002)}]@You don't seem to understand,{pause(15)} so I'll explain it to you." next
-    "@When the world is changed to blue,{pause(15)} a peaceful country can be established." next
-    "@Do you understand now?" linebreak
-    "  [19 02]Yes" eob
+    "[06 49 00 {e(data_54.l_0xc98940)}][06 44 00 {e(l_0xc99002)}]@Vi don't seem al komprenas,{pause(15)} so Mi'll explain [C1]i al vi." next
+    "@Kie la mondo estas changed al blue,{pause(15)} a peaceful country povas be established." next
+    "@Do vi komprenas nun?" linebreak
+    "  [19 02]Jes" eob
 
 l_0xc98fa3:
-    "  [19 02]No" eob
+    "  [19 02]Ne" eob
 
 l_0xc98faa:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc98fd3)} {e(l_0xc98fb9)}]" goto(l_0xc98fb9)
 
 l_0xc98fb9:
-    "@Although you don't understand now, some day you will." end
+    "@Although vi don't komprenas nun, iom tago vi will." end
 
 l_0xc98fd3:
-    "@I can tell by your face that you're only pretending to understand." next
-    "@You just want something!" end
+    "@Mi povas tell by via viza[C1]o tio vi're only pretending al komprenas." next
+    "@Vi just volas io!" end
 
 l_0xc99002:
-    "@I too was wrong in many ways." end
+    "@Mi tro estis wrong en many ways." end
 
 l_0xc99018:
-    "[06 49 00 {e(l_0xc99088)}][06 44 00 {e(l_0xc99061)}]@Mr. Carpainter communicates with all kinds of gods," next
-    "@so he is able to deliver inspired messages." end
+    "[06 49 00 {e(l_0xc99088)}][06 44 00 {e(l_0xc99061)}]@Mr. Carpainter communicates kun [C0]io kinds of gods," next
+    "@so li estas able al deliver inspired messages." end
 
 l_0xc99061:
-    "@We might have been listening to messages from the Devil rather than God..." end
+    "@Ni might havas been listening al messages from la Devil rather ol God..." end
 
 l_0xc99088:
-    "@Don't you think the mental health of everyone in the village is improved?" end
+    "@Don't vi pensi la mental health of everyone en la village estas improved?" end
 
 l_0xc990b3:
-    "[06 49 00 {e(data_54.l_0xc98940)}][06 44 00 {e(l_0xc99104)}]@You might misunderstand what I have to say," next
-    "@But Carpainter's voice affects one's minds, like a hypnotist." end
+    "[06 49 00 {e(data_54.l_0xc98940)}][06 44 00 {e(l_0xc99104)}]@Vi might misunderstand kio Mi havas al say," next
+    "@Sed Carpainter's voice affects unu's minds, like a hypnotist." end
 
 l_0xc99104:
-    "@Seems like I'm no longer hypnotized." end
+    "@Seems like Mi'm ne longer hypnotized." end
 
 l_0xc99120:
-    "[06 49 00 {e(l_0xc9919b)}][06 44 00 {e(l_0xc99171)}]@When I painted everything blue, as Mr. Carpainter said," next
-    "@my wife who had run out on me returned home!" end
+    "[06 49 00 {e(l_0xc9919b)}][06 44 00 {e(l_0xc99171)}]@Kie Mi painted [C0]io blue, as Mr. Carpainter said," next
+    "@mia edzino kiu havis run out on mi returned hejmo!" end
 
 l_0xc99171:
-    "@My wife ran away for a second time.{pause(20)}  Man, I have no luck..." end
+    "@Mia edzino ran away for a second tempo.{pause(20)}  Viro, Mi havas ne [C4]an[C0]o..." end
 
 l_0xc9919b:
-    "@Wow, it's been a long time.{pause(20)}  Your cap...  Do you ever wash it?" end
+    "@Wow, [C1]i's been a long tempo.{pause(20)}  Via cap...  Do vi ever wash [C1]i?" end
 
 l_0xc991c7:
-    "[06 D3 00 {e(l_0xc99260)}][06 44 00 {e(l_0xc9922d)}]@I think that those who won't paint everything blue are opposed to peace." next
-    "@I want them all to listen,{pause(15)} even if it requires kicking their butts." end
+    "[06 D3 00 {e(l_0xc99260)}][06 44 00 {e(l_0xc9922d)}]@Mi pensi tio those kiu won't paint [C0]io blue are opposed al peace." next
+    "@Mi volas ilin [C0]io al a[C5]skulti,{pause(15)} e[C0] se [C1]i requires kicking ilia butts." end
 
 l_0xc9922d:
-    "@We need to return the town to its original colors.{pause(20)}  I'll be very busy." end
+    "@Ni bezonas al return la town al its original colors.{pause(20)}  Mi'll be tre busy." end
 
 l_0xc99260:
-    "@Turns out desperately chasing after happiness won't make you happy at all." end
+    "@Turns out desperately chasing after happiness won't fari vi feli[C0]a at all." end
 
 l_0xc99282:
     "[06 49 00 {e(l_0xc992d1)}][06 44 00 {e(l_0xc992b6)}]@Blue, blue!" next
-    "@I wish for everything in this world to become blue." end
+    "@Mi wish for [C0]io en [C0]i tiu mondo al become blue." end
 
 l_0xc992b6:
-    "@It was hard on the eyes to have everything blue." end
+    "@[B1]i estis hard on la eyes al havas [C0]io blue." end
 
 l_0xc992d1:
-    "@Hey,{pause(15)} long time no see." next
-    "@You're a friend of the famous Tonzura Brothers." end
+    "@Hey,{pause(15)} long tempo ne vidi." next
+    "@Vi're a amiko of la famous Tonzura Brothers." end
 
 l_0xc992fa:
-    "[06 49 00 {e(l_0xc99389)}][06 44 00 {e(l_0xc99362)}]@You want to talk to Mr. Carpainter directly?" next
-    "@You must think you're pretty important, and boy do you have a lot of nerve!" next
-    "@You deserve to be struck by lightning and die." end
+    "[06 49 00 {e(l_0xc99389)}][06 44 00 {e(l_0xc99362)}]@Vi volas al paroli al Mr. Carpainter directly?" next
+    "@Vi devas pensi vi're pretty important, kaj knabo do vi havas multe da nerve!" next
+    "@Vi deserve al be struck by lightning kaj morti." end
 
 l_0xc99362:
-    "@Mr. Carpainter was pretty strange.{pause(20)}  But so was everyone else." end
+    "@Mr. Carpainter estis pretty strange.{pause(20)}  Sed so estis everyone else." end
 
 l_0xc99389:
-    "@Hi!{pause(20)}  I'm fine.{pause(30)}  You look fine also." end
+    "@Sal'!{pause(20)}  Mi'm bone.{pause(30)}  Vi look bone anka[C5]." end
 
 l_0xc993a5:
-    "[06 49 00 {e(l_0xc9946f)}][06 44 00 {e(l_0xc99411)}][06 0A 00 {e(l_0xc99438)}][06 7B 00 {e(l_0xc99405)}]@(I'm just a plain ol' cow,{pause(15)}  but Mr. Carpainter's messages always mo{pause(5)}o{pause(5)}o{pause(5)}ve me.){wait}{set(flag 123)}" eob
+    "[06 49 00 {e(l_0xc9946f)}][06 44 00 {e(l_0xc99411)}][06 0A 00 {e(l_0xc99438)}][06 7B 00 {e(l_0xc99405)}]@(Mi'm just a plain ol' cow,{pause(15)}  sed Mr. Carpainter's messages [C0]iam mo{pause(5)}o{pause(5)}o{pause(5)}ve mi.){wait}{set(flag 123)}" eob
 
 l_0xc99405:
     "@(Moo!){wait}{unset(flag 123)}" eob
 
 l_0xc99411:
-    "@(The blue cow thing wasn't such a great idea after all, huh.)" end
+    "@(La blue cow a[C3]o wasn't such a bonega idea after [C0]io, huh.)" end
 
 l_0xc99438:
-    "@(You got mo{pause(5)}o{pause(5)}o{pause(5)}o{pause(5)}ved here because you gave Mr. Carpainter some lip.)" end
+    "@(Vi got mo{pause(5)}o{pause(5)}o{pause(5)}o{pause(5)}ved here [C0]ar vi gave Mr. Carpainter iom lip.)" end
 
 l_0xc9946f:
-    "@(I have mo{pause(5)}o{pause(5)}o{pause(5)}o{pause(5)}re respect for Mr. Carpainter than others." next
-    "@Even if I become someone's steak dinner,{pause(15)} I'll still respect him.)" end
+    "@(Mi havas mo{pause(5)}o{pause(5)}o{pause(5)}o{pause(5)}re respect for Mr. Carpainter ol others." next
+    "@E[C0] se Mi become iu's steak dinner,{pause(15)} Mi'll still respect lin.)" end
 
 l_0xc994cb:
     "@(Grateful Dead Valley ahead.{pause(20)}  Proceed through cave.)" end
@@ -145,79 +145,79 @@ l_0xc994f5:
 
 l_0xc994fb:
     "[06 49 00 {e(l_0xc99555)}]@Blue, blue..." next
-    "@Oops!  I won't say it again." next
-    "@I fixed the bridge as a sign of apology.{pause(20)}  I'm just trying to help." end
+    "@Oops!  Mi won't say [C1]i again." next
+    "@Mi fixed la bridge as a sign of apology.{pause(20)}  Mi'm just trying al helpi." end
 
 l_0xc99555:
-    "@[1C 01 08], was it?{pause(15)}  You're always so cheerful!" next
-    "@Thanks for the help the other day." end
+    "@[1C 01 08], estis [C1]i?{pause(15)}  Vi're [C0]iam so cheerful!" next
+    "@dankon for la helpi la alia tago." end
 
 l_0xc99582:
-    "[06 BF 00 {e(l_0xc99635)}][06 44 00 {e(l_0xc995e4)}]@There's a place ahead that can't be painted blue." next
-    "@It's a strange and anti-blue place." next
-    "@I can't stop thinking about it... and I can't even go near that place." end
+    "[06 BF 00 {e(l_0xc99635)}][06 44 00 {e(l_0xc995e4)}]@Tia's a place ahead tio povas't be painted blue." next
+    "@[B1]i's a strange kaj anti-blue place." next
+    "@Mi povas't stop thinking about [C1]i... kaj Mi povas't e[C0] iri near tio place." end
 
 l_0xc995e4:
-    "@I'm a changed person.{pause(20)}  I'm no longer a believer in Happy-happyism." next
-    "@Anyway, I'm very curious about the place that lies ahead of here." end
+    "@Mi'm a changed person.{pause(20)}  Mi'm ne longer a believer en feli[C0]a-happyism." next
+    "@Anyway, Mi'm tre curious about la place tio lies ahead of here." end
 
 l_0xc99635:
-    "@What was the anti-blue place like?" next
-    "@Was it scary?" linebreak
-    "[19 02]Yes" eob
+    "@Kio estis la anti-blue place like?" next
+    "@Estis [C1]i scary?" linebreak
+    "[19 02]Jes" eob
 
 l_0xc9965a:
-    "[19 02]No" eob
+    "[19 02]Ne" eob
 
 l_0xc9965f:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc99686)} {e(l_0xc9966e)}]" goto(l_0xc9966e)
 
 l_0xc9966e:
-    "@It seems like it was almost made for you." end
+    "@[B1]i seems like [C1]i estis almost made for vi." end
 
 l_0xc99686:
-    "@Did you see a huge mole, like I've heard lives there?" end
+    "@Did vi vidi a huge mole, like Mi've a[C5]dis lives tia?" end
 
 l_0xc996aa:
-    "@I heard many footprints exist deep down in the east cave." next
-    "@People call that place Lilliput Steps, and it makes them feel uneasy." end
+    "@Mi a[C5]dis many footprints exist deep down en la east cave." next
+    "@People call tio place Lilliput Steps, kaj [C1]i makes ilin senti uneasy." end
 
 l_0xc99703:
-    "@It looks like almost everyone woke up and left..." end
+    "@[B1]i looks like almost everyone veki[C1]is up kaj left..." end
 
 l_0xc99720:
-    "@There are only three people remaining..." next
-    "@I don't want to stay.{pause(20)}  I'll get out of here..." end
+    "@Tia are only tri people remaining..." next
+    "@Mi don't volas al resti.{pause(20)}  Mi'll get out of here..." end
 
 l_0xc99757:
-    "@Sorry about everything!{pause(15)}  Let's be buddies." end
+    "@Sorry about [C0]io!{pause(15)}  Let's be buddies." end
 
 l_0xc99776:
-    "@We wanted to join the Happy-Happy religious group." next
-    "@We're a married couple from Twoson." end
+    "@Ni volis al join la feli[C0]a-feli[C0]a religious group." next
+    "@Ni're a married couple from Twoson." end
 
 l_0xc997ae:
-    "@Our child is waiting for us in Twoson." next
-    "@As a souvenir we'd like to bring him some happiness." end
+    "@Nia child estas waiting for ni en Twoson." next
+    "@As a souvenir ni'd like al bring lin iom happiness." end
 
 l_0xc997ee:
-    "@This is the famous Happy-Happyism counseling office." next
-    "@When you obtain happiness" next
-    "@you should visit the Happy-Happyism headquarters." next
-    "@It's located at the center of the village." end
+    "@[B0]i tiu estas la famous feli[C0]a-Happyism counseling office." next
+    "@Kie vi obtain happiness" next
+    "@vi should viziti la feli[C0]a-Happyism headquarters." next
+    "@[B1]i's located at la center of la village." end
 
 l_0xc9985a:
-    "@Hey [1C 01 08], it's been a long time." next
-    "@Since we last met, the whole town has woken up." next
-    "@The best happiness comes from being free... you kids made me realize that." end
+    "@Hey [1C 01 08], [C1]i's been a long tempo." next
+    "@Since ni last met, la whole town has woken up." next
+    "@La plejgranda happiness comes from being free... vi kids made mi realize tio." end
 
 l_0xc998c1:
-    "[06 44 00 {e(l_0xc998fd)}]@(All of our products are blessed.{pause(20)}" linebreak
+    "[06 44 00 {e(l_0xc998fd)}]@([B0]io of nia products are blessed.{pause(20)}" linebreak
     "             --Blue-Blue Drugstore)" end
 
 l_0xc998fd:
-    "@(Not all of our products are blessed." linebreak
-    "     --Nothing Blue Drugstore)" end
+    "@(Ne [C0]io of nia products are blessed." linebreak
+    "     --Nenio Blue Drugstore)" end
 
 l_0xc9992f:
     eob
@@ -239,13 +239,13 @@ l_0xc99991:
 
 l_0xc999a1:
     "[06 78 02 {e(data_57.l_0xc9b20e)}]{isset(flag 469)}[1B 02 {e(l_0xc9992f)}][06 68 00 {e(l_0xc9992f)}][06 12 00 {e(l_0xc9992f)}]{window_open(1)}[06 02 00 {e(l_0xc99a3c)}]@Hey [1C 01 08]!" linebreak
-    "[19 22 01 01 05 00][1F 13 01 00]  Like I said, my dad isn't home yet!" next
-    "@You've got to bring Picky back before he comes home!" next
-    "@I'll try to help you a little.[19 22 01 01 05 00][1F 13 01 00]{wait}{window_closeall}{set(flag 2)}" eob
+    "[19 22 01 01 05 00][1F 13 01 00]  Like Mi said, mia pa[C0]jo isn't hejmo yet!" next
+    "@Vi've got al bring Picky back before li comes hejmo!" next
+    "@Mi'll try al helpi vi a little.[19 22 01 01 05 00][1F 13 01 00]{wait}{window_closeall}{set(flag 2)}" eob
 
 l_0xc99a3c:
     "@[1C 01 08]!" next
-    "[19 22 01 01 05 00][1F 13 01 00]@You haven't got a clue about what to do.{wait}{window_closeall}{unset(flag 2)}" eob
+    "[19 22 01 01 05 00][1F 13 01 00]@Vi haven't got a clue about kio al do.{wait}{window_closeall}{unset(flag 2)}" eob
 
 l_0xc99a6b:
     "{isset(flag 107)}[1B 02 {e(l_0xc9992f)}][1F 63 {e(l_0xc99a7b)}]" eob
@@ -266,8 +266,8 @@ l_0xc99acc:
     "[06 D3 00 {e(l_0xc99ae3)}]{set(flag 43)}{isset(flag 309)}[1B 02 {e(l_0xc9992f)}][1F 67 01]" eob
 
 l_0xc99ae3:
-    "{window_open(1)}@(We will be closed for a short period." next
-    "@Thank you for your many years of support." next
+    "{window_open(1)}@(Ni will be closed for a short period." next
+    "@Dankon for via many jaroj of support." next
     "@Mr. Dogfood, Manager, Chaos Theater.){wait}{window_closeall}" eob
 
 l_0xc99b3f:
@@ -292,9 +292,9 @@ l_0xc99bb2:
     "{unset(flag 533)}" eob
 
 l_0xc99bb6:
-    "{window_open(1)}@The phone is ringing!{pause(15)}  Answer it!" next
-    "@At my house, my dad gets bent if I don't get the phone..." next
-    "@within the first three rings!{wait}{window_closeall}" eob
+    "{window_open(1)}@La telefono estas ringing!{pause(15)}  Answer [C1]i!" next
+    "@At mia domo, mia pa[C0]jo gets bent se Mi don't get la telefono..." next
+    "@within la first tri rings!{wait}{window_closeall}" eob
 
 l_0xc99c15:
     "{set(flag 209)}{set(flag 200)}" call(l_0xc99c24) "{unset(flag 514)}" eob

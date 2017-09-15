@@ -1,0 +1,56 @@
+import asm65816
+
+//Allows vi al change la text kaj la alignment of la text en la status menu.
+//Text estas aligned using la "text_pos (x, y)" command.
+//x estas la horizontal alignment, measured en pixels.
+//y estas la vertical alignment, measured en rows (of 16 pixels each).
+
+
+ROM[0xC19551] = ASMLoadAddress0E(StatusNameAlign)
+
+StatusNameAlign:
+text_pos (8, 0)
+"Nivelo:"
+
+text_pos (15, 3)
+"`(HP) Sanpoentoj:"
+
+
+text_pos (14, 4)
+"(PP) Psikpoentoj:"
+
+text_pos (29, 5)
+"SpertPoentoj:"
+
+text_pos (56, 6)
+"Sperto por sekvnivelo."
+
+text_pos (156, 0)
+"Atakemo:"
+
+text_pos (159, 1)
+"`Defenso:"
+
+text_pos (166, 2)
+"`Rapido:"
+
+text_pos (170, 3)
+"`Gucoj:"
+
+text_pos (160, 4)
+"Vitaleco:"
+
+text_pos (186, 5)
+"IQ:"
+
+text_pos (169, 6)
+"[B4]an[C0]o:"
+eob
+
+
+command ASMLoadAddress0E(Address) {
+	LDA_i	(short[0] Address)
+	STA_d	(0x0E)
+	LDA_i	(short[1] Address)
+	STA_d	(0x10)
+}

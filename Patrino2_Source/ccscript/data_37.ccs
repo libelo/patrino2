@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -8,13 +8,13 @@ command e(label) "{long label}"
 
 // Text Data
 l_0xc7e659:
-    "she" eob
+    "[C4]i" eob
 
 l_0xc7e65d:
-    "it" eob
+    "[C1]i" eob
 
 l_0xc7e660:
-    "{result_is(2)}[1B 03 {e(l_0xc7e66b)}]his" eob
+    "{result_is(2)}[1B 03 {e(l_0xc7e66b)}]lia" eob
 
 l_0xc7e66b:
     "her" eob
@@ -23,7 +23,7 @@ l_0xc7e66e:
     "[1C 14 01][09 03 {e(l_0xc7e67f)} {e(l_0xc7e682)} {e(l_0xc7e685)}]" goto(l_0xc7e67f)
 
 l_0xc7e67f:
-    "his" eob
+    "lia" eob
 
 l_0xc7e682:
     "her" eob
@@ -35,7 +35,7 @@ l_0xc7e689:
     "[1C 15 01][09 03 {e(l_0xc7e69a)} {e(l_0xc7e69d)} {e(l_0xc7e6a0)}]" goto(l_0xc7e69a)
 
 l_0xc7e69a:
-    "his" eob
+    "lia" eob
 
 l_0xc7e69d:
     "her" eob
@@ -44,7 +44,7 @@ l_0xc7e6a0:
     "its" eob
 
 l_0xc7e6a4:
-    "{result_is(2)}[1B 03 {e(l_0xc7e6b0)}]him" eob
+    "{result_is(2)}[1B 03 {e(l_0xc7e6b0)}]lin" eob
 
 l_0xc7e6b0:
     "her" eob
@@ -74,13 +74,13 @@ l_0xc7e729:
     eob
 
 l_0xc7e72a:
-    "[19 10 02]{swap} and [1C 02 00]" eob
+    "[19 10 02]{swap} kaj [1C 02 00]" eob
 
 l_0xc7e735:
-    " and [19 10 01]{result_is(2)}[1B 03 {e(l_0xc7e748)}]his friends" eob
+    " kaj [19 10 01]{result_is(2)}[1B 03 {e(l_0xc7e748)}]lia amikoj" eob
 
 l_0xc7e748:
-    "her friends" eob
+    "her amikoj" eob
 
 l_0xc7e74e:
     "{store_registers}" call(l_0xc7e6d7) "{load_registers}" eob
@@ -101,12 +101,12 @@ l_0xc7e796:
     eob
 
 l_0xc7e797:
-    "{font_saturn}[06 0A 00 {e(l_0xc7e7f8)}]@Do you want" linebreak
+    "{font_saturn}[06 0A 00 {e(l_0xc7e7f8)}]@Do vi volas" linebreak
     "  slumber?" linebreak
-    "{font_normal}[19 02]Yes" eob
+    "{font_normal}[19 02]Jes" eob
 
 l_0xc7e7b8:
-    "[19 02]No" eob
+    "[19 02]Ne" eob
 
 l_0xc7e7bd:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc7e7d9)} {e(l_0xc7e7cc)}]" goto(l_0xc7e7cc)
@@ -119,7 +119,7 @@ l_0xc7e7d9:
 
 l_0xc7e7f8:
     "@Healthful" linebreak
-    "  and dandy!{wait}{font_normal}" eob
+    "  kaj dandy!{wait}{font_normal}" eob
 
 l_0xc7e80d:
     call(data_47.l_0xc901bb) eob
@@ -128,46 +128,46 @@ l_0xc7e813:
     call(data_13.l_0xc5d37d) eob
 
 l_0xc7e819:
-    "{font_saturn}[06 4A 00 {e(l_0xc7e890)}][06 47 00 {e(l_0xc7e86c)}]@We feel" linebreak
+    "{font_saturn}[06 4A 00 {e(l_0xc7e890)}][06 47 00 {e(l_0xc7e86c)}]@Ni senti" linebreak
     "  groove!" next
-    "@Hi ho." linebreak
-    "  Me" linebreak
+    "@Sal' ho." linebreak
+    "  Mi" linebreak
     "  Mr. Saturn." next
-    "@This place," linebreak
-    "  all are" linebreak
+    "@[B0]i tiu place," linebreak
+    "  [C0]io are" linebreak
     "  Mr. Saturn.{wait}{font_normal}" eob
 
 l_0xc7e86c:
     "@Impressed!" next
     "@Someday," linebreak
     "  Sometime" linebreak
-    "  We help you.{wait}{font_normal}" eob
+    "  Ni helpi vi.{wait}{font_normal}" eob
 
 l_0xc7e890:
-    "@When going" linebreak
+    "@Kie going" linebreak
     "  gets tough..." next
     "@Tough gets going.{wait}{font_normal}" eob
 
 l_0xc7e8ae:
     "{font_saturn}[06 4A 00 {e(l_0xc7e962)}][06 47 00 {e(l_0xc7e91b)}]@Once upon" linebreak
-    "  a time," next
-    "@we were" linebreak
+    "  a tempo," next
+    "@ni estis" linebreak
     "  many, many." next
     "@Everyday," linebreak
     "  slowly" next
     "@are" linebreak
     "  less, less." next
-    "@Why?  Hmmmm..." linebreak
+    "@Kial?  Hmmmm..." linebreak
     "  Boing!{wait}{font_normal}" eob
 
 l_0xc7e91b:
     "@Delicious." linebreak
     "[19 10 01]{swap}  [1C 02 00]!" next
-    "@You" linebreak
-    "  good name." next
-    "@We no name!" linebreak
+    "@Vi" linebreak
+    "  bona name." next
+    "@Ni ne name!" linebreak
     "  Boing!" next
-    "@...All have" linebreak
+    "@...[B0]io havas" linebreak
     "  same name!{wait}{font_normal}" eob
 
 l_0xc7e962:
@@ -175,67 +175,67 @@ l_0xc7e962:
 
 l_0xc7e96c:
     "{font_saturn}[06 4A 00 {e(l_0xc7e9ed)}][06 47 00 {e(l_0xc7e9b9)}]@Hot springs" linebreak
-    "  make happy...!" next
-    "@Happy happy!" linebreak
+    "  fari feli[C0]a...!" next
+    "@feli[C0]a feli[C0]a!" linebreak
     "  Ding ding!" next
-    "@Jump in" linebreak
+    "@Jump en" linebreak
     "  hot spring!{wait}{font_normal}" eob
 
 l_0xc7e9b9:
-    "{isset(flag 629)}[1B 02 {e(l_0xc7e9ed)}]@Go in hot" linebreak
+    "{isset(flag 629)}[1B 02 {e(l_0xc7e9ed)}]@Iri en hot" linebreak
     "  spring." next
     "@Wash" linebreak
     "  barf off" linebreak
-    "  you body!{wait}{font_normal}" eob
+    "  vi Korpo!{wait}{font_normal}" eob
 
 l_0xc7e9ed:
     "@Sweet fresh" linebreak
-    "  feel.{wait}{font_normal}" eob
+    "  senti.{wait}{font_normal}" eob
 
 l_0xc7ea00:
-    "{font_saturn}[06 4A 00 {e(l_0xc7eb3c)}][06 AD 00 {e(l_0xc7eb16)}][06 47 00 {e(l_0xc7ea71)}]@We look" linebreak
+    "{font_saturn}[06 4A 00 {e(l_0xc7eb3c)}][06 AD 00 {e(l_0xc7eb16)}][06 47 00 {e(l_0xc7ea71)}]@Ni look" linebreak
     "  like same!" next
-    "@I give you" linebreak
+    "@Mi doni vi" linebreak
     "  special" linebreak
-    "  thing." next
-    "@Not now," linebreak
+    "  a[C3]o." next
+    "@Ne nun," linebreak
     "  Zoom!" next
-    "@I give you" linebreak
-    "  on the way" linebreak
+    "@Mi doni vi" linebreak
+    "  on la way" linebreak
     "  back, boing!" next
     "@Bye later!" goto(l_0xc7eb38)
 
 l_0xc7ea71:
-    "@Here is" linebreak
+    "@Here estas" linebreak
     "  present." next
     goto(l_0xc7ea80)
 
 l_0xc7ea80:
     "[1D 03 FF][1B 02 {e(l_0xc7eb25)}]{store_registers}[06 AC 00 {e(l_0xc7eae1)}][06 AB 00 {e(l_0xc7eabd)}]{load_registers}[1D 0E 00 FC][19 19 00 00]{set(flag 171)}" newline
-    "@I hand you" linebreak
+    "@Mi hand vi" linebreak
     "  [1C 05 00].[03]{sound(116)}" goto(l_0xc7ea80)
 
 l_0xc7eabd:
     "{load_registers}[1D 0E 00 F9][19 19 00 00]{set(flag 172)}" newline
-    "@I hand you" linebreak
+    "@Mi hand vi" linebreak
     "  [1C 05 00].[03]{sound(116)}" goto(l_0xc7ea80)
 
 l_0xc7eae1:
     "{load_registers}[1D 0E 00 99][19 19 00 00]{set(flag 173)}" newline
-    "@I no hand you" next
-    "@my" linebreak
+    "@Mi ne hand vi" next
+    "@mia" linebreak
     "  [1C 05 00]..." next
-    "@Oh!" linebreak
-    "  Tease you![03]{sound(116)}" goto(l_0xc7eb16)
+    "@Ho!" linebreak
+    "  Tease vi![03]{sound(116)}" goto(l_0xc7eb16)
 
 l_0xc7eb16:
     newline
-    "@I have no" linebreak
-    "  something.{font_normal}" end
+    "@Mi havas ne" linebreak
+    "  io.{font_normal}" end
 
 l_0xc7eb25:
     newline
-    "@You no room." linebreak
+    "@Vi ne [C0]ambro." linebreak
     "  Bye later!" goto(l_0xc7eb38)
 
 l_0xc7eb38:
@@ -252,31 +252,31 @@ l_0xc7eb4c:
     "  Falls!" next
     "@Scary, sick," linebreak
     "  barfy..." next
-    "@Go and..." linebreak
+    "@Iri kaj..." linebreak
     "  la la la!" next
     "@Ding!" linebreak
     "  Scary!{wait}{font_normal}" eob
 
 l_0xc7ebc3:
-    "@No scared.{wait}{font_normal}" eob
+    "@Ne scared.{wait}{font_normal}" eob
 
 l_0xc7ebcf:
-    "@Make" linebreak
-    "  new thing!" next
-    "@Must make!" linebreak
+    "@Fari" linebreak
+    "  new a[C3]o!" next
+    "@devas fari!" linebreak
     "  Daddy!" linebreak
     "  Boing!{wait}{font_normal}" eob
 
 l_0xc7ebf9:
     "{font_saturn}[06 4A 00 {e(l_0xc7ec50)}][06 47 00 {e(l_0xc7ec3d)}]@Lots of" linebreak
-    "  friends..." next
+    "  amikoj..." next
     "@Taken" linebreak
     "  behind falls..." next
-    "@Why?  Why?" linebreak
+    "@Kial?  Kial?" linebreak
     "  Boing!{wait}{font_normal}" eob
 
 l_0xc7ec3d:
-    "@All home!" linebreak
+    "@[B0]io hejmo!" linebreak
     "  Zoom!{wait}{font_normal}" eob
 
 l_0xc7ec50:
@@ -286,9 +286,9 @@ l_0xc7ec5c:
     "@Chattanooga!{wait}{font_normal}" eob
 
 l_0xc7ec6c:
-    "{font_saturn}[06 49 00 {e(l_0xc7ecdb)}][06 4A 00 {e(l_0xc7eccd)}][06 47 00 {e(l_0xc7ecbe)}]@Threek is" linebreak
+    "{font_saturn}[06 49 00 {e(l_0xc7ecdb)}][06 4A 00 {e(l_0xc7eccd)}][06 47 00 {e(l_0xc7ecbe)}]@Threek estas" linebreak
     "  zombie full!" next
-    "@I saw!" linebreak
+    "@Mi vidis!" linebreak
     "  Bad stink" linebreak
     "  behind falls!" next
     "@Zoom!{wait}{font_normal}" eob
@@ -297,7 +297,7 @@ l_0xc7ecbe:
     "@Appreciate!{wait}{font_normal}" eob
 
 l_0xc7eccd:
-    "@Dance is over...{wait}{font_normal}" eob
+    "@Dance estas over...{wait}{font_normal}" eob
 
 l_0xc7ecdb:
     "@Healthfull!{wait}{font_normal}" eob
@@ -309,193 +309,193 @@ l_0xc7ece9:
     "  Grapefruit" linebreak
     "  Falls." next
     "@Password?" linebreak
-    "  I tell." next
-    "@Belch man" linebreak
+    "  Mi tell." next
+    "@Belch viro" linebreak
     "  say" next
     "@[52]Say" linebreak
     "  password.[52]" next
     "@Then" linebreak
     "  stand still," next
     "@wait for" linebreak
-    "  three" linebreak
+    "  tri" linebreak
     "  minutes.{sound(114)}{pause(120)}{wait}{set(flag 131)}{font_normal}" eob
 
 l_0xc7ed90:
-    "@You wait three" linebreak
+    "@Vi wait tri" linebreak
     "  minutes!" next
     "@Zoom!" next
-    "@You come" linebreak
-    "  here to" linebreak
+    "@Vi veni" linebreak
+    "  here al" linebreak
     "  wait" next
-    "@three" linebreak
+    "@tri" linebreak
     "  minutes?" linebreak
-    "  No?{wait}{font_normal}" eob
+    "  Ne?{wait}{font_normal}" eob
 
 l_0xc7edd9:
-    "@I wish" linebreak
-    "  fall in" linebreak
+    "@Mi wish" linebreak
+    "  fall en" linebreak
     "  love...{wait}{font_normal}" eob
 
 l_0xc7edf1:
     "{font_saturn}@Drink coffee" linebreak
-    "  before go?" next
-    "@Say yes" linebreak
-    "  to me?" next
-    "@Say no" linebreak
-    "  to me?" linebreak
-    "[19 02]Yes" eob
+    "  before iri?" next
+    "@Say jes" linebreak
+    "  al mi?" next
+    "@Say ne" linebreak
+    "  al mi?" linebreak
+    "[19 02]Jes" eob
 
 l_0xc7ee28:
-    "[19 02]No" eob
+    "[19 02]Ne" eob
 
 l_0xc7ee2d:
     "{font_normal}[1C 07 02][11]{clearline}[09 02 {e(l_0xc7ee4f)} {e(l_0xc7ee3e)}]" goto(l_0xc7ee3e)
 
 l_0xc7ee3e:
-    "{font_saturn}@Why you" linebreak
-    "  say no?{wait}{font_normal}" eob
+    "{font_saturn}@Kial vi" linebreak
+    "  say ne?{wait}{font_normal}" eob
 
 l_0xc7ee4f:
     "{font_saturn}@Bottoms up!" linebreak
     "  Boing!{wait}{font_normal}{window_closeall}[06 DC 00 {e(data_55.l_0xc9992f)}]" call(data_36.l_0xc7dd74) "{music(92)}[1F 41 01]" eob
 
 l_0xc7ee7b:
-    "{font_saturn}[06 47 00 {e(l_0xc7eeb1)}]@Why?  Why?" next
-    "@You no" linebreak
-    "  go to" linebreak
+    "{font_saturn}[06 47 00 {e(l_0xc7eeb1)}]@Kial?  Kial?" next
+    "@Vi ne" linebreak
+    "  iri al" linebreak
     "  hot springs..." next
     "@Boo boo's." end
 
 l_0xc7eeb1:
     "@Appreciate!" next
-    "@I so happy," linebreak
-    "  happy," linebreak
-    "  happy..." next
+    "@Mi so feli[C0]a," linebreak
+    "  feli[C0]a," linebreak
+    "  feli[C0]a..." next
     "@Zoom!{wait}{font_normal}" eob
 
 l_0xc7eede:
-    "{font_saturn}@Oh!  Oh!" linebreak
+    "{font_saturn}@Ho!  Ho!" linebreak
     "  *wheeze*" next
-    "@Breathe is" linebreak
+    "@Breathe estas" linebreak
     "  sooooo" linebreak
-    "  good!{wait}{font_normal}" eob
+    "  bona!{wait}{font_normal}" eob
 
 l_0xc7ef0d:
-    "{font_saturn}@I think I'll" linebreak
-    "  Think about" next
+    "{font_saturn}@Mi pensi Mi'll" linebreak
+    "  pensi about" next
     "@Complex" linebreak
-    "  things..." linebreak
-    "  from now...{wait}{font_normal}" eob
+    "  a[C3]oj..." linebreak
+    "  from nun...{wait}{font_normal}" eob
 
 l_0xc7ef3b:
     "[06 49 00 {e(l_0xc7f0e2)}][06 86 00 {e(l_0xc7f0d6)}][06 84 00 {e(l_0xc7ef67)}][06 4A 00 {e(l_0xc7efa2)}][19 10 01]{rtoarg}@Ah, [1C 02 00]." next
     goto(l_0xc7ef67)
 
 l_0xc7ef67:
-    "@The Space Tunnel will certainly be completed someday," next
-    "@in my humble opinion." end
+    "@La Space Tunnel will certainly be completed someday," next
+    "@en mia humble opinion." end
 
 l_0xc7efa2:
     "@Excellent, excellent!" linebreak
-    "  Everything proceeded as planned." next
-    "@Dr. Andonuts, Mr. Saturn and I worked together" next
-    "@and finally completed the Space Tunnel." next
-    "@The purpose of the device is to enable instantaneous travel" next
-    "@through space and time." next
-    "@In this prototype, you can only travel to different points" next
-    "@within the same time period." next
-    "@It is able, however, to search out the locations of enemies." next
-    "@Right now, it is indicating the presence of enemies in the Lost Underworld!" end
+    "  [C0]io proceeded as planned." next
+    "@Dr. Andonuts, Mr. Saturn kaj Mi worked together" next
+    "@kaj finally completed la Space Tunnel." next
+    "@La purpose of la device estas al enable instantaneous travel" next
+    "@through space kaj tempo." next
+    "@En [C0]i tiu prototype, vi povas only travel al diferenca points" next
+    "@within la same tempo period." next
+    "@[B1]i estas able, however, al search out la locations of enemies." next
+    "@Right nun, [C1]i estas indicating la presence of enemies en la Lost Underworld!" end
 
 l_0xc7f0d6:
     "[06 A9 00 {e(l_0xc7ef67)}]" goto(l_0xc7efa2)
 
 l_0xc7f0e2:
-    "@The chance of Gyiyg gaining victory with his monstrous plan is 99%." next
-    "@However, your courage has produced a 1% chance that Gyiyg fails." next
-    "@I must try to come to a deeper understanding of this trait called <courage.>" end
+    "@La chance of Gyiyg gaining victory kun lia monstrous plan estas 99%." next
+    "@However, via courage has produced a 1% chance tio Gyiyg fails." next
+    "@Mi devas try al veni al a deeper understanding of [C0]i tiu trait called <courage.>" end
 
 l_0xc7f165:
-    "[06 49 00 {e(l_0xc7f634)}][06 FD 02 {e(l_0xc7f50b)}][06 86 00 {e(l_0xc7f34c)}][06 84 00 {e(l_0xc7f25b)}]@Yahah!  The Mr. Saturns are incredible folk." next
-    "@And the Apple Kid...  He is a most exceptional young man," next
-    "@very different from other kids." next
-    "@...Well, anyway...{pause(20)}  The prototype Space Tunnel has been stolen." next
+    "[06 49 00 {e(l_0xc7f634)}][06 FD 02 {e(l_0xc7f50b)}][06 86 00 {e(l_0xc7f34c)}][06 84 00 {e(l_0xc7f25b)}]@Yahah!  La Mr. Saturns are incredible folk." next
+    "@Kaj la Apple Kid...  Li estas a plej exceptional young viro," next
+    "@tre diferenca from alia kids." next
+    "@...Well, anyway...{pause(20)}  La prototype Space Tunnel has been stolen." next
     "@Someone resembling a pig wearing clothes took Mr. Saturn captive" next
-    "@and stole the device!{wait}{window_closeall}{pause(1)}[1F F1 E5 02 1F 01]" eob
+    "@kaj stole la device!{wait}{window_closeall}{pause(1)}[1F F1 E5 02 1F 01]" eob
 
 l_0xc7f25b:
     "@Hmmmm..." next
-    "@If I only had a piece of a meteorite," next
-    "@I might be able to extract some Zexonyte." end
+    "@Se Mi only havis a piece of a meteorite," next
+    "@Mi might be able al extract iom Zexonyte." end
 
 l_0xc7f29e:
     "[19 19 00 00]{swap}{result_is(193)}[1B 03 {e(l_0xc7f2b1)}]" goto(data_35.l_0xc7c6b6)
 
 l_0xc7f2b1:
-    "[1D 01 FF C1]{sound(118)}@Ah, yes!{pause(15)}" linebreak
-    "  This is fantastic!{pause(30)}" linebreak
-    "  What?" next
-    "@Well, I've never actually seen this incredibly rare element before..." next
-    "@It is very intriguing." next
-    "@All right, leave everything to us, and you get some rest." next
-    "@This is getting most fascinating!{wait}{set(flag 134)}{set(flag 169)}" eob
+    "[1D 01 FF C1]{sound(118)}@Ah, jes!{pause(15)}" linebreak
+    "  [B0]i tiu estas fantastic!{pause(30)}" linebreak
+    "  Kio?" next
+    "@Well, Mi've neniam actually seen [C0]i tiu incredibly rare element before..." next
+    "@[B1]i estas tre intriguing." next
+    "@[B0]io right, leave [C0]io al ni, kaj vi get iom rest." next
+    "@[B0]i tiu estas getting plej fascinating!{wait}{set(flag 134)}{set(flag 169)}" eob
 
 l_0xc7f34c:
-    "[06 A9 00 {e(l_0xc7f5ec)}]@Finally, it's complete! " next
-    "@The Space Tunnel, version two," next
-    "@{pause(15)} is equipped with two new features." next
-    "@First,{pause(20)} it can repair your biological functions." next
-    "@Second,{pause(20)} it can save your progress." next
-    "@Don't be afraid, get right in!" next
-    "@...There is just one thing, though..." next
-    "@You might not be able to return.{pause(20)}  So, make sure you are optimally outfitted." next
-    "@Are you ready to go?" linebreak
-    "[19 02]Yes" eob
+    "[06 A9 00 {e(l_0xc7f5ec)}]@Finally, [C1]i's complete! " next
+    "@La Space Tunnel, version du," next
+    "@{pause(15)} estas equipped kun du new features." next
+    "@First,{pause(20)} [C1]i povas repair via biological functions." next
+    "@Second,{pause(20)} [C1]i povas save via progress." next
+    "@Don't be timas, get right en!" next
+    "@...Tia estas just unu a[C3]o, though..." next
+    "@Vi might ne be able al return.{pause(20)}  So, fari sure vi are optimally outfitted." next
+    "@Are vi ready al iri?" linebreak
+    "[19 02]Jes" eob
 
 l_0xc7f445:
-    "[19 02]No" eob
+    "[19 02]Ne" eob
 
 l_0xc7f44a:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc7f459)} {e(l_0xc7f459)}]" goto(l_0xc7f459)
 
 l_0xc7f459:
-    "@Even if you're not 100%,{pause(15)} perfectly,{pause(15)} completely ready..." next
-    "@Well, you should be as prepared as possible.{pause(20)}  It would be for the best." next
-    "@Without careful preparation, you would be in big trouble." next
-    "@I just want to make sure you're ready." next
-    "@Let me know when your preparations are complete.{wait}{set(flag 765)}" eob
+    "@E[C0] se vi're ne 100%,{pause(15)} perfectly,{pause(15)} completely ready..." next
+    "@Well, vi should be as prepared as possible.{pause(20)}  [B1]i would be for la plejgranda." next
+    "@Sen careful preparation, vi would be en granda trouble." next
+    "@Mi just volas al fari sure vi're ready." next
+    "@Let mi scii kie via preparations are complete.{wait}{set(flag 765)}" eob
 
 l_0xc7f50b:
-    "@Good.{pause(20)}  At last,{pause(15)} the time has come." next
-    "@Are you ready?" linebreak
-    "[19 02]Yes" eob
+    "@Bona.{pause(20)}  At last,{pause(15)} la tempo has veni." next
+    "@Are vi ready?" linebreak
+    "[19 02]Jes" eob
 
 l_0xc7f533:
-    "[19 02]No" eob
+    "[19 02]Ne" eob
 
 l_0xc7f538:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc7f54c)} {e(l_0xc7f459)}]" goto(l_0xc7f459)
 
 l_0xc7f54c:
-    "@Remember, the Space Tunnel, version 2," next
-    "@is equipped with two new features." next
-    "@First,{pause(20)} it can repair your biological functions." next
-    "@Second,{pause(20)} it can save your progress." next
-    "@Don't be afraid!{pause(15)}  Get right in!{wait}{set(flag 133)}[1F F1 E5 02 1F 01]" eob
+    "@Memori, la Space Tunnel, version 2," next
+    "@estas equipped kun du new features." next
+    "@First,{pause(20)} [C1]i povas repair via biological functions." next
+    "@Second,{pause(20)} [C1]i povas save via progress." next
+    "@Don't be timas!{pause(15)}  Get right en!{wait}{set(flag 133)}[1F F1 E5 02 1F 01]" eob
 
 l_0xc7f5ec:
-    "@Yes...{pause(20)}  Most intriguing..." next
-    "@Leave everything to us, and you get some rest." next
-    "@This is getting most fascinating!" end
+    "@Jes...{pause(20)}  Plej intriguing..." next
+    "@Leave [C0]io al ni, kaj vi get iom rest." next
+    "@[B0]i tiu estas getting plej fascinating!" end
 
 l_0xc7f634:
-    "@It's a miracle!" next
-    "@A miracle produced by your bravery!" next
-    "@...{pause(15)}I shed a lifetime's worth of tears." next
-    "@Earlier, {pause(15)}I had considered turning myself into a robot as well" next
-    "@and joining you in the Space Tunnel." next
-    "@Four kids and a man saving the Earth..." next
-    "@It seemed like it might be plausible...{pause(30)}  Ahahahaha!" end
+    "@[B1]i's a miracle!" next
+    "@A miracle produced by via bravery!" next
+    "@...{pause(15)}Mi shed a lifetime's worth of tears." next
+    "@Earlier, {pause(15)}Mi havis considered turning myself into a robot as well" next
+    "@kaj joining vi en la Space Tunnel." next
+    "@Four kids kaj a viro saving la Earth..." next
+    "@[B1]i seemed like [C1]i might be plausible...{pause(30)}  Ahahahaha!" end
 
 l_0xc7f710:
     "[06 49 00 {e(data_38.l_0xc7f813)}][06 4A 00 {e(data_38.l_0xc7f7a5)}]" goto(data_38.l_0xc7f71e)

@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -8,129 +8,129 @@ command e(label) "{long label}"
 
 // Text Data
 l_0xc8f296:
-    "@The boy had a red cap...{pause(30)}  Hey!{pause(15)}  It was you!" end
+    "@La knabo havis a red cap...{pause(30)}  Hey!{pause(15)}  [B1]i estis vi!" end
 
 l_0xc8f2b7:
-    "@Thank you for bringing peace and happiness back to Threek.  Thanks!" next
+    "@Dankon for bringing peace kaj happiness back al Threek.  dankon!" next
     "@Peace!{pause(20)}  Love!" end
 
 l_0xc8f2ef:
-    "@I really didn't think those kids could have saved the town." next
-    "@Who would have ever imagined it?" end
+    "@Mi vere didn't pensi those kids could havas saved la town." next
+    "@Kiu would havas ever imagined [C1]i?" end
 
 l_0xc8f324:
-    "@I won't forget you." next
-    "@Won't you come back to Threek sometime?" end
+    "@Mi won't forget vi." next
+    "@Won't vi veni back al Threek sometime?" end
 
 l_0xc8f344:
-    "@Since the leader of the monsters is gone," next
-    "@the ghosts in the tunnel have disappeared." next
-    "@The buses can get through the tunnel now." end
+    "@Since la leader of la monsters estas gone," next
+    "@la ghosts en la tunnel havas disappeared." next
+    "@La buses povas get through la tunnel nun." end
 
 l_0xc8f392:
-    "@I want to go through the desert and on to the big city." next
-    "@I want to see the city," linebreak
-    "  and I want to smell like the big city." next
-    "@I'm a real urban-type of guy." end
+    "@Mi volas al iri through la desert kaj on al la granda city." next
+    "@Mi volas al vidi la city," linebreak
+    "  kaj Mi volas al smell like la granda city." next
+    "@Mi'm a vere urban-type of guy." end
 
 l_0xc8f3eb:
-    "@From the bus stop at the hotel all the way to Fourside..." next
-    "@is how much?  Do you remember?" end
+    "@From la bus stop at la hotel [C0]io la way al Fourside..." next
+    "@estas kiel much?  Do vi Memori?" end
 
 l_0xc8f41f:
-    "[19 10 01]{rtoarg}@Thank you!" end
+    "[19 10 01]{rtoarg}@Dankon!" end
 
 l_0xc8f42a:
-    "@You're heroes.{pause(20)}  That rocks!" end
+    "@Vi're heroes.{pause(20)}  Tio rocks!" end
 
 l_0xc8f43f:
     "@Sweet!" end
 
 l_0xc8f448:
-    "@All righty!" end
+    "@[B0]io righty!" end
 
 l_0xc8f450:
-    "@I came from Fourside by bus." next
-    "@Buffalo?{pause(15)}  Oh yeah, I saw lots.{pause(20)}  It's awesome." end
+    "@Mi venis from Fourside by bus." next
+    "@Buffalo?{pause(15)}  Ho Ja, Mi vidis lots.{pause(20)}  [B1]i's awesome." end
 
 l_0xc8f48a:
-    "[06 92 00 {e(l_0xc8f4d8)}]@A girl in Fourside called me." next
-    "@There is a really popular band there now." next
-    "@I think they're called the <Mario Brothers>." end
+    "[06 92 00 {e(l_0xc8f4d8)}]@A knabino en Fourside called mi." next
+    "@Tia estas a vere popular band tia nun." next
+    "@Mi pensi ili're called la <Mario Brothers>." end
 
 l_0xc8f4d8:
-    "@I told you the wrong band name before.  I said <Mario Brothers.>" next
-    "@The real name is <Tonzura Brothers.>" next
-    "@My girlfriend corrected me..." end
+    "@Mi told vi la wrong band name before.  Mi said <Mario Brothers.>" next
+    "@La vere name estas <Tonzura Brothers.>" next
+    "@Mia girlfriend corrected mi..." end
 
 l_0xc8f535:
-    "[06 49 00 {e(l_0xc8f590)}]@I heard there is a guy who is digging for buried treasure in Dusty Dunes desert." next
-    "@A share of that treasure <share> would be nice." end
+    "[06 49 00 {e(l_0xc8f590)}]@Mi a[C5]dis tia estas a guy kiu estas digging for buried treasure en Dusty Dunes desert." next
+    "@A share of tio treasure <share> would be nice." end
 
 l_0xc8f590:
-    "@Hey!  I heard you got a share of the treasure found in the desert." next
-    "@It didn't seem to change you at all, though." end
+    "@Hey!  Mi a[C5]dis vi got a share of la treasure found en la desert." next
+    "@[B1]i didn't seem al change vi at all, though." end
 
 l_0xc8f5d0:
-    "@I'm a detective from Twoson." next
-    "@The statue called Mani Mani or something or other" next
-    "@was stolen from the Happy-Happyism headquarters." next
-    "@Do you have any clues for me?" linebreak
-    "[19 02]Yes" eob
+    "@Mi'm a detective from Twoson." next
+    "@La statue called Mani Mani a[C5] io a[C5] alia" next
+    "@estis stolen from la feli[C0]a-Happyism headquarters." next
+    "@Do vi havas ajn clues for mi?" linebreak
+    "[19 02]Jes" eob
 
 l_0xc8f638:
-    " [19 02]No" eob
+    " [19 02]Ne" eob
 
 l_0xc8f63e:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc8f656)} {e(l_0xc8f64d)}]" goto(l_0xc8f64d)
 
 l_0xc8f64d:
-    "@Oh, I see..." end
+    "@Ho, Mi vidi..." end
 
 l_0xc8f656:
-    "@Don't try to feed me your lies!" end
+    "@Don't try al feed mi via lies!" end
 
 l_0xc8f66a:
-    "@If I try to get away, my body will just fall apart." next
-    "@It's because I'm a zombie..." end
+    "@Se Mi try al get away, mia Korpo will just fall apart." next
+    "@[B1]i's [C0]ar Mi'm a zombie..." end
 
 l_0xc8f69d:
-    "@I'll blame you for the rest of my <life.>" end
+    "@Mi'll blame vi for la rest of mia <vivo.>" end
 
 l_0xc8f6b5:
-    "@I'll blame you after my <death.>" end
+    "@Mi'll blame vi after mia <death.>" end
 
 l_0xc8f6ca:
-    "@You're the enemy of all zombies!" next
-    "@You monster!" end
+    "@Vi're la enemy of [C0]io zombies!" next
+    "@Vi monster!" end
 
 l_0xc8f6e2:
-    "@Could... you... help me?{pause(20)}  ...Maybe not." end
+    "@Could... vi... helpi mi?{pause(20)}  ...Maybe ne." end
 
 l_0xc8f701:
-    "@You humans are such cowards!" end
+    "@Vi humans are such cowards!" end
 
 l_0xc8f715:
     "@*Gasp* *Gasp*" end
 
 l_0xc8f725:
-    "@I'm ready to die now..." next
-    "@Oh, wait, oops, I guess I'm technically already dead, huh?" end
+    "@Mi'm ready al morti nun..." next
+    "@Ho, wait, oops, Mi guess Mi'm technically already dead, huh?" end
 
 l_0xc8f748:
-    "Message of the broken SkyWalker." goto(l_0xc8f75e)
+    "Message of la broken SkyWalker." goto(l_0xc8f75e)
 
 l_0xc8f75e:
-    "@(It's impossible to fix... for the time being.)" end
+    "@([B1]i's impossible al fix... for la tempo being.)" end
 
 l_0xc8f77d:
     newline
-    "@{target}'s offense" linebreak
+    "@{target}'s Ataka" linebreak
     "  went up by {delta}!{sound(40)}[03]" eob
 
 l_0xc8f79a:
     newline
-    "@{target}'s defense" linebreak
+    "@{target}'s Defenco" linebreak
     "  went up by {delta}!{sound(40)}[03]" eob
 
 l_0xc8f7b8:
@@ -140,22 +140,22 @@ l_0xc8f7b8:
 
 l_0xc8f7d2:
     newline
-    "@{target}'s guts" linebreak
+    "@{target}'s Gucoj" linebreak
     "  went up by {delta}!{sound(40)}[03]" eob
 
 l_0xc8f7ee:
     newline
-    "@{target}'s guts" linebreak
+    "@{target}'s Gucoj" linebreak
     "  went down by {delta}!{sound(41)}[03]" eob
 
 l_0xc8f80a:
     newline
     "@Amazingly enough," linebreak
-    "  {target}'s guts became {delta}!{sound(40)}[03]" eob
+    "  {target}'s Gucoj became {delta}!{sound(40)}[03]" eob
 
 l_0xc8f82f:
     newline
-    "@{target}'s speed" linebreak
+    "@{target}'s Rapido" linebreak
     "  went up by {delta}!{sound(40)}[03]" eob
 
 l_0xc8f84c:
@@ -165,32 +165,32 @@ l_0xc8f84c:
 
 l_0xc8f86b:
     newline
-    "@{target}'s luck" linebreak
+    "@{target}'s [C4]an[C0]o" linebreak
     "  went up by {delta}!{sound(40)}[03]" eob
 
 l_0xc8f885:
     newline
-    "@{target}'s offense" linebreak
+    "@{target}'s Ataka" linebreak
     "  went down by {delta}!{sound(41)}[03]" eob
 
 l_0xc8f8a2:
     newline
-    "@{target}'s defense" linebreak
+    "@{target}'s Defenco" linebreak
     "  went down by {delta}!{sound(41)}[03]" eob
 
 l_0xc8f8c0:
     newline
     "@{user} opened" linebreak
-    "  the jar of <Fly Honey>!" next
+    "  la jar of <Fly Honey>!" next
     "@Master Belch grabbed" linebreak
-    "  the <Fly Honey>![03]" eob
+    "  la <Fly Honey>![03]" eob
 
 l_0xc8f8fd:
     newline
     "@{user} opened" linebreak
-    "  the jar of <Fly Honey>!" next
-    "@It didn't smell like" linebreak
-    "  something " call(data_36.l_0xc7e602) " would like![03]" eob
+    "  la jar of <Fly Honey>!" next
+    "@[B1]i didn't smell like" linebreak
+    "  io " call(data_36.l_0xc7e602) " would like![03]" eob
 
 l_0xc8f935:
     newline
@@ -209,42 +209,42 @@ l_0xc8f973:
 
 l_0xc8f992:
     newline
-    "@Some heavy air flowed" linebreak
-    "  into the area![03]" eob
+    "@Iom heavy air flowed" linebreak
+    "  into la area![03]" eob
 
 l_0xc8f9b3:
     newline
-    "@The dazzling light chased" linebreak
-    "  the enemy![03]" eob
+    "@La dazzling light chased" linebreak
+    "  la enemy![03]" eob
 
 l_0xc8f9ce:
     newline
-    "@A very subtle light engulfed" linebreak
+    "@A tre subtle light engulfed" linebreak
     "  " call(data_37.l_0xc7e6d7) "![03]" eob
 
 l_0xc8f9f0:
     newline
     "@A golden light poured" linebreak
-    "  over the area![03]" eob
+    "  over la area![03]" eob
 
 l_0xc8fa0d:
     newline
     "@Rainbow colored light" linebreak
-    "  shone into the area![03]" eob
+    "  shone into la area![03]" eob
 
 l_0xc8fa2f:
     newline
     "@A mysterious aroma wafted" linebreak
-    "  into the area![03]" eob
+    "  into la area![03]" eob
 
 l_0xc8fa51:
     newline
     "@A terrible, heaven rending sound," linebreak
-    "  echoed in the area![03]" eob
+    "  echoed en la area![03]" eob
 
 l_0xc8fa7b:
     newline
-    "@" call(data_37.l_0xc7e6d7) " lost their PP![03]" eob
+    "@" call(data_37.l_0xc7e6d7) " lost ilia PP![03]" eob
 
 l_0xc8fa90:
     newline
@@ -253,7 +253,7 @@ l_0xc8fa90:
 
 l_0xc8faaa:
     newline
-    "@Not enough PP![03]" eob
+    "@Ne enough PP![03]" eob
 
 l_0xc8fab8:
     newline
@@ -265,80 +265,80 @@ l_0xc8faca:
 l_0xc8facd:
     "@{user}[19 1F]{swap} tried" linebreak
     "  [1C 12 00]!" next
-    "@But, " call(data_36.l_0xc7e602) " didn't have enough PP.[03]" eob
+    "@Sed, " call(data_36.l_0xc7e602) " didn't havas enough PP.[03]" eob
 
 l_0xc8faf6:
     newline
-    "@It didn't hit anyone![03]" eob
+    "@[B1]i didn't hit ajnulo![03]" eob
 
 l_0xc8fb05:
     newline
-    "@{target} does not" linebreak
-    "  have any PP![03]" eob
+    "@{target} does ne" linebreak
+    "  havas ajn PP![03]" eob
 
 l_0xc8fb1b:
     "{window_closetop}{pause(40)}{window_open(1)}" newline
-    "[1F 62 00]@I understand you guys are already claiming to be heroes.{prompt}" linebreak
-    "@Well, it is a gazillion years too early for you to oppose Gyiyg!{prompt}" linebreak
-    "@You must feel pretty stupid to keep fighting without even knowing{prompt}" linebreak
-    "@what Gyiyg looks like!{prompt}" linebreak
-    "@If you were to ever see Gyiyg, you'd be so petrified with fear,{prompt}" linebreak
-    "@you'd never be able to run away!{prompt}" linebreak
-    "@...That's how scary it is!{prompt}" linebreak
-    "@So, do you want me to turn off the <Devil's Machine?>{prompt}" linebreak
-    "@Well, prepare to be amazed!{sound(74)}{pause(150)}{window_closetop}" eob
+    "[1F 62 00]@Mi komprenas vi guys are already claiming al be heroes.{prompt}" linebreak
+    "@Well, [C1]i estas a gazillion jaroj tro early for vi al oppose Gyiyg!{prompt}" linebreak
+    "@Vi devas senti pretty stupid al keep fighting sen e[C0] knowing{prompt}" linebreak
+    "@kio Gyiyg looks like!{prompt}" linebreak
+    "@Se vi estis al ever vidi Gyiyg, vi'd be so petrified kun fear,{prompt}" linebreak
+    "@vi'd neniam be able al run away!{prompt}" linebreak
+    "@...Tio's kiel scary [C1]i estas!{prompt}" linebreak
+    "@So, do vi volas mi al turn off la <Devil's ma[C4]ino?>{prompt}" linebreak
+    "@Well, prepare al be amazed!{sound(74)}{pause(150)}{window_closetop}" eob
 
 l_0xc8fc2e:
     newline
-    "{pause(80)}{window_open(1)}[1F 62 00]@So, isn't this terrifying?{pause(30)}" linebreak
-    "  I'm terrified, too.{prompt}" linebreak
-    "@Gyiyg cannot think rationally any more,{prompt}" linebreak
-    "@and he isn't even aware of what he is doing now.{prompt}" linebreak
-    "@His own mind was destroyed by his incredible power.{prompt}" linebreak
-    "@What an all-mighty idiot!{pause(30)}{prompt}" linebreak
-    "@Yep, that's what he is!{prompt}" linebreak
+    "{pause(80)}{window_open(1)}[1F 62 00]@So, isn't [C0]i tiu terrifying?{pause(30)}" linebreak
+    "  Mi'm terrified, tro.{prompt}" linebreak
+    "@Gyiyg cannot pensi rationally ajn more,{prompt}" linebreak
+    "@kaj li isn't e[C0] aware of kio li estas doing nun.{prompt}" linebreak
+    "@His own mind estis destroyed by lia incredible power.{prompt}" linebreak
+    "@Kio an [C0]io-mighty idiot!{pause(30)}{prompt}" linebreak
+    "@Yep, tio's kio li estas!{prompt}" linebreak
     "@Heh heh heh heh...{pause(30)}" linebreak
-    "  and you... you will be...{pause(30)}" linebreak
-    "  just another meal to him!{pause(150)}{window_closetop}{window_open(14)}" eob
+    "  kaj vi... vi will be...{pause(30)}" linebreak
+    "  just another meal al lin!{pause(150)}{window_closetop}{window_open(14)}" eob
 
 l_0xc8fd11:
     "{window_closetop}{pause(60)}{window_open(1)}[1F 62 00]" newline
     "@Heh heh heh heh.{pause(30)}" linebreak
-    "  You must really be" linebreak
-    "  at the end of your rope.{prompt}" linebreak
-    "@In this bizarre dimension," linebreak
-    "  you four are the only force fighting for justice...{prompt}" linebreak
-    "@And here you stand,{prompt}" linebreak
-    "@waiting to be burned up with all the rest of the garbage of this universe...{prompt}" linebreak
+    "  Vi devas vere be" linebreak
+    "  at la end of via rope.{prompt}" linebreak
+    "@En [C0]i tiu bizarre dimension," linebreak
+    "  vi four are la only force fighting for justice...{prompt}" linebreak
+    "@Kaj here vi stand,{prompt}" linebreak
+    "@waiting al be burned up kun [C0]io la rest of la garbage of [C0]i tiu universe...{prompt}" linebreak
     "@Haaaaah!{pause(30)}" linebreak
-    "  That's so sad. I can't help" linebreak
-    "  but shed a tear.{prompt}" linebreak
-    "@You know, my heart is beating incredibly fast,{pause(30)}" linebreak
+    "  Tio's so sad. Mi povas't helpi" linebreak
+    "  sed shed a tear.{prompt}" linebreak
+    "@Vi scii, mia heart estas beating incredibly fast,{pause(30)}" linebreak
     "{prompt}" linebreak
-    "@...I must be experiencing absolute terror!{prompt}" linebreak
-    "@Do you want to scream for" linebreak
-    "  help here in the dark?!{prompt}" linebreak
+    "@...Mi devas be experiencing absolute terror!{prompt}" linebreak
+    "@Do vi volas al scream for" linebreak
+    "  helpi here en la dark?!{prompt}" linebreak
     "@Ha ha ha ha ha!{prompt}" linebreak
-    "@Why not call your mommy," linebreak
+    "@Kial ne call via mommy," linebreak
     "  [1C 01 08]!{prompt}" linebreak
     "@Say, <Mommy!  Daddy!" linebreak
-    "  I'm so frightened!  {pause(30)}I think" linebreak
-    "  I'm gonna wet my pants!>{prompt}" linebreak
-    "@I know you have telepathy, or something, so just try and call for help,{prompt}" linebreak
-    "@you weakling, stinkling" linebreak
+    "  Mi'm so frightened!  {pause(30)}Mi pensi" linebreak
+    "  Mi'm gonna wet mia pants!>{prompt}" linebreak
+    "@Mi scii vi havas telepathy, a[C5] io, so just try kaj call for helpi,{prompt}" linebreak
+    "@vi weakling, stinkling" linebreak
     "  heroes of so-called justice!{prompt}" linebreak
-    "@No one will help you now!{prompt}" linebreak
+    "@Ne unu will helpi vi nun!{prompt}" linebreak
     "@Ha ha ha haah...{prompt}" linebreak
-    "@Don't worry, your pitiful suffering will be over soon!{pause(150)}{window_closetop}{window_open(14)}" eob
+    "@Don't worry, via pitiful suffering will be over soon!{pause(150)}{window_closetop}{window_open(14)}" eob
 
 l_0xc8ff31:
-    "{window_closetop}{pause(60)}{window_open(1)}[1F 62 00]@[1C 01 08]!{pause(30)} Now, I..." linebreak
-    "  well... {pause(20)}It's going to seem like" linebreak
-    "  I'm running away.{prompt}" linebreak
-    "@But perhaps I'll just sneak away to another era to think about my next plan.{prompt}" linebreak
-    "@It's a good bet that we will see each other again...{prompt}{pause(30)}" linebreak
-    "@All right!  I'll be seeing you!{prompt}" linebreak
-    "@So now which one of us do you think is the cool guy?!{pause(150)}{sound(65)}{window_closetop}" eob
+    "{window_closetop}{pause(60)}{window_open(1)}[1F 62 00]@[1C 01 08]!{pause(30)} Nun, Mi..." linebreak
+    "  well... {pause(20)}[B1]i's going al seem like" linebreak
+    "  Mi'm running away.{prompt}" linebreak
+    "@Sed perhaps Mi'll just sneak away al another era al pensi about mia next plan.{prompt}" linebreak
+    "@[B1]i's a bona bet tio ni will vidi each alia again...{prompt}{pause(30)}" linebreak
+    "@[B0]io right!  Mi'll be seeing vi!{prompt}" linebreak
+    "@So nun kiu unu of ni do vi pensi estas la cool guy?!{pause(150)}{sound(65)}{window_closetop}" eob
 
 l_0xc90000:
     "{counter(20)}" call(data_48.l_0xc90fec) eob
@@ -357,8 +357,8 @@ l_0xc9002b:
     "{counter(40)}" call(data_48.l_0xc90fec) eob
 
 l_0xc90033:
-    "{counter(45)}@I'm a roaming doctor." linebreak
-    "  Let me know if you're not feeling well." next
+    "{counter(45)}@Mi'm a roaming doctor." linebreak
+    "  Let mi scii se vi're ne feeling well." next
     call(data_48.l_0xc90fec) eob
 
 l_0xc90067:
@@ -406,55 +406,55 @@ l_0xc900e8:
 
 l_0xc900f9:
     "@Humm dee dum dum dum." linebreak
-    "  I'm hunting for mushrooms!" next
-    call(data_49.l_0xc91a91) "[1B 02 {e(l_0xc901a8)}]@Hey!  Would you be willing to sell that mushroom on your head for $50?" next
+    "  Mi'm hunting for mushrooms!" next
+    call(data_49.l_0xc91a91) "[1B 02 {e(l_0xc901a8)}]@Hey!  Would vi be willing al Vendi tio mushroom on via head for $50?" next
     call(data_36.l_0xc7dd4b) "[11]{clearline}[09 02 {e(l_0xc9017f)} {e(l_0xc90165)}]" goto(l_0xc90165)
 
 l_0xc90165:
     "@Ohhh..." linebreak
-    "  It's your special mushroom." end
+    "  [B1]i's via special mushroom." end
 
 l_0xc9017f:
     call(data_49.l_0xc91b6f) newline
-    "@Thank you." linebreak
-    "  Such a great mushroom." linebreak
-    "  I'm so happy I got it." end
+    "@Dankon." linebreak
+    "  Such a bonega mushroom." linebreak
+    "  Mi'm so feli[C0]a Mi got [C1]i." end
 
 l_0xc901a8:
-    "@I'm going to collect a ton!" end
+    "@Mi'm going al collect a ton!" end
 
 l_0xc901bb:
     newline
-    "{font_saturn}[06 02 00 {e(l_0xc9029f)}]@I'm" linebreak
+    "{font_saturn}[06 02 00 {e(l_0xc9029f)}]@Mi'm" linebreak
     "  Dr. Saturn." linebreak
     "  Zoom!" next
-    "@and I can" linebreak
+    "@kaj Mi povas" linebreak
     "  repair" linebreak
-    "  your body." next
+    "  via Korpo." next
     "@Boing!" next
-    "@Do you" linebreak
-    "  want me" next
-    "@to operate" linebreak
-    "  on you?" linebreak
+    "@Do vi" linebreak
+    "  volas mi" next
+    "@al operate" linebreak
+    "  on vi?" linebreak
     "  Ding?" next
-    "{font_normal}[19 02]Yes" eob
+    "{font_normal}[19 02]Jes" eob
 
 l_0xc90229:
-    "[19 02]No" eob
+    "[19 02]Ne" eob
 
 l_0xc9022e:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc9026f)} {e(l_0xc9023d)}]" goto(l_0xc9023d)
 
 l_0xc9023d:
-    "{font_saturn}@Are you" linebreak
+    "{font_saturn}@Are vi" linebreak
     "  kay-o?" next
-    "@If you" linebreak
-    "  all right," linebreak
-    "  that's great." next
+    "@Se vi" linebreak
+    "  [C0]io right," linebreak
+    "  tio's bonega." next
     "@zoomer!{wait}{font_normal}" eob
 
 l_0xc9026f:
-    call(data_49.l_0xc9162c) "{font_saturn}@You aaaaaaall" linebreak
+    call(data_49.l_0xc9162c) "{font_saturn}@Vi aaaaaaall" linebreak
     "  fixed up." next
     "@Goody!" linebreak
     "  Boing!{wait}{font_normal}{set(flag 2)}" eob
@@ -465,17 +465,17 @@ l_0xc9029f:
 
 l_0xc902b5:
     "@<Goodnight Bench>" next
-    "@Your fatigue will leave you, and your energy and power will return.{wait}" call(data_49.l_0xc91693) eob
+    "@Via fatigue will leave vi, kaj via energy kaj power will return.{wait}" call(data_49.l_0xc91693) eob
 
 l_0xc902f2:
-    "@Hi!  How are you today?" linebreak
-    "  Oh, you're not feeling well?" linebreak
+    "@Sal'!  Kiel are vi hodia[C5]?" linebreak
+    "  Ho, vi're ne feeling well?" linebreak
     "  Be healthy!" end
 
 l_0xc90322:
-    "@(This is a $healstone.){wait}" call(data_49.l_0xc915e1) eob
+    "@([B0]i tiu estas a $healstone.){wait}" call(data_49.l_0xc915e1) eob
 
 l_0xc90339:
-    "[06 7F 01 {e(data_48.l_0xc9038d)}][1D 15 23 00]{swap}@Welcome to Hotel Onett." next
+    "[06 7F 01 {e(data_48.l_0xc9038d)}][1D 15 23 00]{swap}@Bonvenon al Hotel Onett." next
     call(data_48.l_0xc90f3b) "[11]{clearline}[09 02 {e(data_48.l_0xc9036b)} {e(data_48.l_0xc90365)}]" goto(data_48.l_0xc90365)
 

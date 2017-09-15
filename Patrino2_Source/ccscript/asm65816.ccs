@@ -3,7 +3,7 @@
 //
 // Addressing mode tags:
 //
-// (none)	Implied or Accumulator
+// (none)	Implied a[C5] Accumulator
 // _i		Immediate
 // _8		Immediate, 8-bit register
 // _d		Direct page
@@ -55,7 +55,7 @@ command BRA(a)		"[80 {byte a}]"
 command BRL(a)		"[82 {short a}]"
 
 // Pseudo-instructions for labeled conditional jumps
-// (Necessary because CCScript can't do arithmetic on labels yet)
+// (Necessary [C0]ar CCScript povas't do arithmetic on labels yet)
 command BCC_a(a)	{ BCS(3) JMP(a) }
 command BCS_a(a)	{ BCC(3) JMP(a) }
 command BEQ_a(a)	{ BNE(3) JMP(a) }

@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -10,62 +10,62 @@ command e(label) "{long label}"
 l_0xc54b67:
     newline
     " <[1C 05 87]>" next
-    call(data_05.l_0xc56db7) "@Sucks up some HP from the target creature." next
-    "@The more HP an enemy has, the more you get." next
+    call(data_05.l_0xc56db7) "@Sucks up iom HP from la target creature." next
+    "@La more HP an enemy has, la more vi get." next
     call(data_05.l_0xc56d9b) end
 
 l_0xc54bb0:
     newline
     " <[1C 05 88]>" next
-    call(data_05.l_0xc56db7) "@Sucks up some HP from all the enemies." next
-    "@The more HP the enemies have, the more you get." next
+    call(data_05.l_0xc56db7) "@Sucks up iom HP from [C0]io la enemies." next
+    "@La more HP la enemies havas, la more vi get." next
     call(data_05.l_0xc56d9b) end
 
 l_0xc54bfa:
     newline
     " <[1C 05 89]>" next
-    "@Deals 200 points of damage to any bug when used during combat." next
+    "@Deals 200 points of damage al ajn bug kie uzis dum combat." next
     call(data_05.l_0xc56d9b) end
 
 l_0xc54c32:
     newline
     " <[1C 05 8A]>" next
-    call(data_05.l_0xc56db7) "@Sprays a sticky substance that stops the enemy from moving." next
+    call(data_05.l_0xc56db7) "@Sprays a sticky substance tio stops la enemy from moving." next
     call(data_05.l_0xc56d9b) end
 
 l_0xc54c6d:
     newline
     " <[1C 05 8B]>" next
     call(data_05.l_0xc56db7) "@Invented by Apple Kid." next
-    "@If used during combat, some damage will be dealt to the enemy," next
-    "@though it's not understood why this happens... it's just tofu after all..." next
+    "@Se uzis dum combat, iom damage will be dealt al la enemy," next
+    "@though [C1]i's ne komprenis kial [C0]i tiu happens... [C1]i's just tofu after [C0]io..." next
     call(data_05.l_0xc56d9b) end
 
 l_0xc54ceb:
     newline
     " <[1C 05 8C]>" next
-    "@You can even use this during battle!" next
+    "@Vi povas e[C0] use [C0]i tiu dum battle!" next
     call(data_05.l_0xc56d9b) end
 
 l_0xc54d10:
     newline
     " <[1C 05 8D]>" next
-    "@During battle, a snake pops out of the bag and bites the enemy." next
-    "@There are thousands of small snakes living in the bag," next
-    "@so you should be able to use it over and over again." next
-    "@It can possibly poison the enemy, too." end
+    "@dum battle, a snake pops out of la bag kaj bites la enemy." next
+    "@Tia are thousands of malgranda snakes living en la bag," next
+    "@so vi should be able al use [C1]i over kaj over again." next
+    "@[B1]i povas possibly poison la enemy, tro." end
 
 l_0xc54d99:
     newline
     " <[1C 05 8E]>" next
-    "@If used as a whip during battle, the enemy will take some damage" next
-    "@and stop moving for a while." next
+    "@Se uzis as a whip dum battle, la enemy will take iom damage" next
+    "@kaj stop moving for a while." next
     call(data_05.l_0xc56dab) end
 
 l_0xc54ddc:
     newline
     " <[1C 05 8F]>" next
-    "@You can even use this during battle!" next
+    "@Vi povas e[C0] use [C0]i tiu dum battle!" next
     call(data_05.l_0xc56d9b) end
 
 l_0xc54e01:
@@ -86,217 +86,217 @@ l_0xc54e20:
 l_0xc54e54:
     newline
     " <[1C 05 92]>" next
-    call(data_05.l_0xc56db7) "@Possibly the strongest weapon around," next
-    "@it does a lot of damage due to its massive warhead." next
+    call(data_05.l_0xc56db7) "@Possibly la strongest weapon around," next
+    "@[C1]i does multe da damage due al its massive warhead." next
     call(data_05.l_0xc56dab) end
 
 l_0xc54ea7:
     newline
     " <[1C 05 93]>" next
     call(data_05.l_0xc56dc5) next
-    "@Because of its explosive power," next
-    "@it may effect others besides the target creature. " next
+    "@[B0]ar of its explosive power," next
+    "@[C1]i may effect others besides la target creature. " next
     call(data_05.l_0xc56dab) end
 
 l_0xc54ef7:
     newline
     " <[1C 05 94]>" next
-    "@Able to dish out some heavy-duty destruction in combat.  " next
-    "@Because of its explosive power," next
-    "@it may effect others besides the target creature." next
+    "@Able al dish out iom heavy-duty destruction en combat.  " next
+    "@[B0]ar of its explosive power," next
+    "@[C1]i may effect others besides la target creature." next
     call(data_05.l_0xc56dab) end
 
 l_0xc54f6a:
     newline
     " <[1C 05 95]>" next
-    "@Deals 100 points of damage to any bug when used during combat." next
+    "@Deals 100 points of damage al ajn bug kie uzis dum combat." next
     call(data_05.l_0xc56dab) end
 
 l_0xc54fa2:
     newline
     " <[1C 05 96]>" next
-    "@Quickly rusts metallic enemies when used during battle." next
-    "@The enemy will take about 200 points of damage." next
+    "@Quickly rusts metallic enemies kie uzis dum battle." next
+    "@La enemy will take about 200 points of damage." next
     call(data_05.l_0xc56dab) end
 
 l_0xc54ff0:
     newline
     " <[1C 05 97]>" next
     "@Causes almost instantaneous rusting" next
-    "@when used on metallic enemies during battle." next
-    "@The enemy takes about 400 points of damage." next
+    "@kie uzis on metallic enemies dum battle." next
+    "@La enemy takes about 400 points of damage." next
     call(data_05.l_0xc56dab) end
 
 l_0xc55057:
     newline
     " <[1C 05 98]>" next
-    "@When used during battle, the enemy gets so nauseous from the ripe odor," next
-    "@they cannot fight." next
+    "@Kie uzis dum battle, la enemy gets so nauseous from la ripe odor," next
+    "@ili cannot fight." next
     call(data_05.l_0xc56dab) end
 
 l_0xc5509e:
     newline
     " <[1C 05 99]>" next
-    "@By throwing this at the enemy during battle," next
-    "@the enemy is shocked and stops moving." next
+    "@By throwing [C0]i tiu at la enemy dum battle," next
+    "@la enemy estas shocked kaj stops moving." next
     call(data_05.l_0xc56dab) end
 
 l_0xc550e3:
     newline
     " <[1C 05 9A]>" next
-    "@Can be used during battle." next
+    "@povas be uzis dum battle." next
     call(data_05.l_0xc56dab) end
 
 l_0xc55105:
     newline
     " <[1C 05 9B]>" next
-    "@When used as a whip during battle," next
-    "@the enemy takes enough damage to stop moving for a short time." next
+    "@Kie uzis as a whip dum battle," next
+    "@la enemy takes enough damage al stop moving for a short tempo." next
     call(data_05.l_0xc56dab) end
 
 l_0xc5514f:
     newline
     " <[1C 05 9C]>" next
-    "@An ectoplasmic ooze is disgorged out of the dreadful box," next
-    "@and the enemy may be poisoned." next
+    "@An ectoplasmic ooze estas disgorged out of la dreadful box," next
+    "@kaj la enemy may be poisoned." next
     call(data_05.l_0xc56dab) end
 
 l_0xc5519f:
     newline
     " <[1C 05 9D]>" next
-    "@Increases the Defense of all the friends." next
+    "@Increases la Defenco of [C0]io la amikoj." next
     call(data_05.l_0xc56b0d) next
     call(data_05.l_0xc56d9b) end
 
 l_0xc551cd:
     newline
     " <[1C 05 9E]>" next
-    "@A letter from Mom to [1C 02 01]." end
+    "@A letter from Panjo al [1C 02 01]." end
 
 l_0xc551ea:
     newline
     " <[1C 05 9F]>" next
-    "@Doubles your guts during battle." next
-    "@However, after a battle, your guts return to normal. " next
+    "@Doubles via Gucoj dum battle." next
+    "@However, after a battle, via Gucoj return al normal. " next
     call(data_05.l_0xc56dab) end
 
 l_0xc55230:
     newline
     " <[1C 05 A0]>" next
-    "@If you sprinkle the powder on one of your friends during battle, " next
-    "@that friend turns into a dragon and attacks all enemies." next
+    "@Se vi sprinkle la powder on unu of via amikoj dum battle, " next
+    "@tio amiko turns into a dragon kaj atakas [C0]io enemies." next
     call(data_05.l_0xc56dab) end
 
 l_0xc5528d:
     newline
     " <[1C 05 A1]>" next
-    "@Increase one of the friends Defense during battle." next
+    "@Increase unu of la amikoj Defenco dum battle." next
     call(data_05.l_0xc56b0d) next
     call(data_05.l_0xc56dab) end
 
 l_0xc552c4:
     newline
     " <[1C 05 A2]>" next
-    "@If you wear this on your nose, you can find and root out magic truffles." next
+    "@Se vi wear [C0]i tiu on via nose, vi povas trovi kaj root out magic truffles." next
     call(data_05.l_0xc56d9b) next
-    "@...let me explain a bit about Magic Truffles." next
-    "@They are a kind of mushroom that grow in damp places, like at the base of big trees." next
-    "@They are almost always buried, " next
-    "@so they cannot be seen." next
-    "@If you find one and eat it, it is said to greatly recover a person's PP!" next
-    "@You can see more info about the wondrous Magic Truffle after you have obtained one." end
+    "@...let mi explain a bit about Magic Truffles." next
+    "@Ili are a kia of mushroom tio grow en damp places, like at la base of granda trees." next
+    "@Ili are almost [C0]iam buried, " next
+    "@so ili cannot be seen." next
+    "@Se vi trovi unu kaj eat [C1]i, [C1]i estas said al greatly recover a person's PP!" next
+    "@Vi povas vidi more info about la wondrous Magic Truffle after vi havas obtained unu." end
 
 l_0xc553d7:
     newline
     " <[1C 05 A3]>" next
-    "@It invites people to come and buy your unnecessary goods." next
+    "@[B1]i invites people al veni kaj A[C0]eti via unnecessary goods." next
     call(data_05.l_0xc56d9b) end
 
 l_0xc55409:
     newline
     " <[1C 05 A4]>" next
-    "@As the title says, it helps one overcome shyness." end
+    "@As la title says, [C1]i helps unu overcome shyness." end
 
 l_0xc55433:
     newline
     " <[1C 05 A5]>" next
-    "@Not really horrible, but the scene on the front doesn't make you want to go there.  " end
+    "@Ne vere horrible, sed la scene on la front doesn't fari vi volas al iri tia.  " end
 
 l_0xc5546c:
     newline
     " <[1C 05 A6]>" next
     "@A king-sized banana." linebreak
-    "  Not edible." end
+    "  Ne edible." end
 
 l_0xc55496:
     newline
     " <[1C 05 A7]>" next
-    "@A letter from Tony to [1C 02 03]." end
+    "@A letter from Tony al [1C 02 03]." end
 
 l_0xc554b3:
     newline
     " <[1C 05 A8]>" next
-    "@A chick that just hatched." end
+    "@A chick tio just hatched." end
 
 l_0xc554cf:
     newline
     " <[1C 05 A9]>" next
-    "@A real, live chicken." next
-    "@Don't eat it, please." end
+    "@A vere, live chicken." next
+    "@Don't eat [C1]i, please." end
 
 l_0xc554f6:
     newline
     " <[1C 05 AA]>" next
-    "@A key to the traveling entertainer's shack." end
+    "@A key al la traveling entertainer's shack." end
 
 l_0xc5551d:
     newline
     " <[1C 05 AB]>" next
-    "@A key to a holding cell made specially for [1C 02 02]." end
+    "@A key al a holding cell made specially for [1C 02 02]." end
 
 l_0xc55546:
     newline
     " <[1C 05 AC]>" next
-    "@The <Machine that Opens Locks," next
-    "@especially when you have a slightly bad key> machine." end
+    "@La <ma[C4]ino tio Opens Locks," next
+    "@especially kie vi havas a slightly bad key> ma[C4]ino." end
 
 l_0xc5558a:
     newline
     " <[1C 05 AD]>" next
-    "@A key given to you by a maid who works at the Monotoly building." end
+    "@A key given al vi by a maid kiu works at la Monotoly building." end
 
 l_0xc555b8:
     newline
     " <[1C 05 AE]>" next
     "@Apple Kid's invention." next
-    "@Lay this out in the tent, and the next day, a lot of zombies may be stuck to it." end
+    "@Lay [C0]i tiu out en la tent, kaj la next tago, multe da zombies may be stuck al [C1]i." end
 
 l_0xc55602:
     newline
     " <[1C 05 AF]>" next
-    "@What a miracle! Now you can see in the dark!" end
+    "@Kio a miracle! Nun vi povas vidi en la dark!" end
 
 l_0xc55627:
     newline
     " <[1C 05 B0]>" next
-    "@Riding this makes you feel like whistling!" next
-    "@You can even ring the bell by pressing the R button." end
+    "@Riding [C0]i tiu makes vi senti like whistling!" next
+    "@Vi povas e[C0] ring la bell by pressing la R button." end
 
 l_0xc5566b:
     newline
     " <[1C 05 B1]>" next
     "@Vi scias, vi ne devus foriru hejmo sen..." next
-    "@Gxi ecx funkcias transmara!" end
+    "@[B1]i e[C0] funkcias transmara!" end
 
 l_0xc5569c:
     newline
     " <[1C 05 B2]>" next
-    "@It says, <Section B, seat 3D.>" end
+    "@[B1]i says, <Section B, seat 3D.>" end
 
 l_0xc556c1:
     newline
     " <[1C 05 B3]>" next
-    "@A letter from the preschool kids to [1C 02 02]." end
+    "@A letter from la preschool kids al [1C 02 02]." end
 
 l_0xc556e3:
     newline
@@ -307,54 +307,54 @@ l_0xc5570b:
     newline
     " <[1C 05 B5]>" next
     "@Apple Kid's invention." next
-    "@Now, you can receive important calls." end
+    "@Nun, vi povas receive important calls." end
 
 l_0xc55740:
     newline
     " <[1C 05 B6]>" next
-    "@A big, beautiful, and expensive-looking gem." end
+    "@A granda, beautiful, kaj expensive-looking gem." end
 
 l_0xc5576a:
     newline
     " <[1C 05 B7]>" next
-    "@A banana skin with Venus's autograph." end
+    "@A banana skin kun Venus's autograph." end
 
 l_0xc55794:
     newline
     " <[1C 05 B8]>" next
     "@Apple Kid's invention." next
-    "@It makes something blocking your way" next
-    "@that looks like a octopus disappear in just a second." end
+    "@[B1]i makes io blocking via way" next
+    "@tio looks like a octopus disappear en just a second." end
 
 l_0xc557e7:
     newline
     " <[1C 05 B9]>" next
     "@A copy of a hieroglyph." next
-    "@Something important is recorded in the ancient characters." end
+    "@Io important estas recorded en la ancient characters." end
 
 l_0xc55831:
     newline
     " <[1C 05 BA]>" next
-    "@It can be sold for a very high price." next
-    "@Nothing happens if you use it." next
-    "@A good explanation is kind of tough..." end
+    "@[B1]i povas be sold for a tre alta price." next
+    "@Nenio happens se vi use [C1]i." next
+    "@A bona explanation estas kia of tough..." end
 
 l_0xc5587e:
     newline
     " <[1C 05 BB]>" next
-    "@It must belong to someone." end
+    "@[B1]i devas belong al iu." end
 
 l_0xc55897:
     newline
     " <[1C 05 BC]>" next
     "@A hand-made Band Aid." next
-    "@It heals your wounded body." next
+    "@[B1]i heals via wounded Korpo." next
     call(data_05.l_0xc56dab) end
 
 l_0xc558ca:
     newline
     " <[1C 05 BD]>" next
-    "@A fashionable dessert for haute cuisine people in some big cities." next
+    "@A fashionable dessert for haute cuisine people en iom granda cities." next
     call(data_05.l_0xc56cb5) "30" call(data_05.l_0xc56cd6) end
 
 l_0xc55915:
@@ -375,90 +375,90 @@ l_0xc55943:
 l_0xc55957:
     newline
     " <[1C 05 C1]>" next
-    "@It looks like a plain old rock," next
-    "@but for someone who knows about it, it is actually a very precious, unusual element." end
+    "@[B1]i looks like a plain old rock," next
+    "@sed for iu kiu knows about [C1]i, [C1]i estas actually a tre precious, unusual element." end
 
 l_0xc559a8:
     newline
     " <[1C 05 C2]>" next
-    call(data_05.l_0xc56bdf) "@It protects you from fire, freeze, and flash attacks." end
+    call(data_05.l_0xc56bdf) "@[B1]i protects vi from fire, freeze, kaj flash atakas." end
 
 l_0xc559d9:
     newline
     " <[1C 05 C3]>" next
-    call(data_05.l_0xc56db7) "@When used during battle," next
-    "@this item resets the abilities of all creatures (friend or enemy)" next
-    "@to their normal levels." next
-    "@Any changes that had taken place due to PSI and such is neutralized." next
-    "@It also neutralizes all shields (friend or enemy) that were in effect." next
-    "@(Remember, the abilities" next
-    "@that I am talking about are Offense, Defense, Guts, etc.)" end
+    call(data_05.l_0xc56db7) "@Kie uzis dum battle," next
+    "@[C0]i tiu item resets la abilities of [C0]io creatures (amiko a[C5] enemy)" next
+    "@al ilia normal levels." next
+    "@Ajn changes tio havis taken place due al PSI kaj such estas neutralized." next
+    "@[B1]i anka[C5] neutralizes [C0]io shields (amiko a[C5] enemy) tio estis en effect." next
+    "@(Memori, la abilities" next
+    "@tio Mi am talking about are Ataka, Defenco, Gucoj, etc.)" end
 
 l_0xc55ad5:
     newline
     " <[1C 05 C4]>" next
-    "@If you touch this to your forehead and concentrate on your thoughts," next
-    "@Your Sanctuary melodies can be heard." end
+    "@Se vi touch [C0]i tiu al via forehead kaj concentrate on via pensoj," next
+    "@Via Sanctuary melodies povas be a[C5]dis." end
 
 l_0xc55b21:
     newline
     " <[1C 05 C5]>" next
-    "@If you use this in a dungeon or some such place," next
-    "@the mouse brings you back to the place where you entered." next
-    "@It's a very smart mouse." end
+    "@Se vi use [C0]i tiu en a dungeon a[C5] iom such place," next
+    "@la mouse brings vi back al la place kie vi entered." next
+    "@[B1]i's a tre smart mouse." end
 
 l_0xc55b79:
     newline
     " <[1C 05 C6]>" next
-    "@Ice cream that is all the rage among fashionable, young women." next
+    "@Ice cream tio estas [C0]io la rage among fashionable, young virinoj." next
     call(data_05.l_0xc56cb5) "30" call(data_05.l_0xc56cd6) end
 
 l_0xc55bc1:
     newline
     " <[1C 05 C7]>" next
-    "@When used during battle, it bites the enemy and disappears." next
-    "@It may also poison the enemy." end
+    "@Kie uzis dum battle, [C1]i bites la enemy kaj disappears." next
+    "@[B1]i may anka[C5] poison la enemy." end
 
 l_0xc55c03:
     newline
     " <[1C 05 C8]>" next
-    "@When used during battle, it bites the enemy and disappears." next
-    "@It always poisons the enemy." end
+    "@Kie uzis dum battle, [C1]i bites la enemy kaj disappears." next
+    "@[B1]i [C0]iam poisons la enemy." end
 
 l_0xc55c46:
     newline
     " <[1C 05 C9]>" next
-    "@A miraculous stone that enables you to <concentrate>" next
-    "@without using your own brain." next
-    "@This is accomplished just by your keeping this item." next
-    "@This is great because if you can't concentrate, you can't use PSI." end
+    "@A miraculous stone tio enables vi al <concentrate>" next
+    "@sen using via own brain." next
+    "@[B0]i tiu estas accomplished just by via keeping [C0]i tiu item." next
+    "@[B0]i tiu estas bonega [C0]ar se vi povas't concentrate, vi povas't use PSI." end
 
 l_0xc55cce:
     newline
     " <[1C 05 CA]>" next
-    "@A handy town map. It can be used in Onett, as well as other towns." next
-    "@You can view the map quickly, simply by pressing the X button." end
+    "@A handy town map. [B1]i povas be uzis en Onett, as well as alia towns." next
+    "@Vi povas view la map quickly, simply by pressing la X button." end
 
 l_0xc55d2e:
     newline
     " <[1C 05 CB]>" next
-    "@What the hey is this?" end
+    "@Kio la hey estas [C0]i tiu?" end
 
 l_0xc55d46:
     newline
     " <[1C 05 CC]>" next
     "@Orange Kid's invention." next
-    "@The full name is the <Super Orange Machine.>" end
+    "@La full name estas la <Super Orange ma[C4]ino.>" end
 
 l_0xc55d82:
     newline
     " <[1C 05 CD]>" next
-    "@A key to a regular locker." end
+    "@A key al a regular locker." end
 
 l_0xc55da1:
     newline
     " <[1C 05 CE]>" next
-    "@It doesn't look like it would do much of anything, but..." end
+    "@[B1]i doesn't look like [C1]i would do much of anything, sed..." end
 
 l_0xc55dc8:
     newline
@@ -474,20 +474,20 @@ l_0xc55dfe:
     newline
     " <[1C 05 D1]>" next
     "@A gift from a monkey." next
-    "@It can be used during battle." end
+    "@[B1]i povas be uzis dum battle." end
 
 l_0xc55e28:
     newline
     " <[1C 05 D2]>" next
     "@Apple Kid's invention." next
-    "@It erases something that looks like an eraser" next
-    "@that also might be blocking your way." end
+    "@[B1]i erases io tio looks like an eraser" next
+    "@tio anka[C5] might be blocking via way." end
 
 l_0xc55e77:
     newline
     " <[1C 05 D3]>" next
-    "@A very strong-smelling dish." next
-    "@Those who like it go nuts for it..." end
+    "@A tre Forta-smelling dish." next
+    "@Those kiu like [C1]i iri nuts for [C1]i..." end
 
 l_0xc55eab:
     newline
@@ -498,7 +498,7 @@ l_0xc55ebb:
     newline
     " <[1C 05 D5]>" next
     call(data_05.l_0xc56b8e) next
-    "@Wow! Look at the pine tar! It's almost all the way to the end!" end
+    "@Wow! Look at la pine tar! [B1]i's almost [C0]io la way al la end!" end
 
 l_0xc55ef6:
     newline
@@ -524,20 +524,20 @@ l_0xc55f36:
     newline
     " <[1C 05 DA]>" next
     call(data_05.l_0xc56c6d) next
-    "@When equipped, Luck is increased." end
+    "@Kie equipped, [C4]an[C0]o estas increased." end
 
 l_0xc55f5d:
     newline
     " <[1C 05 DB]>" next
     call(data_05.l_0xc56c6d) next
-    "@When equipped, Luck is increased." end
+    "@Kie equipped, [C4]an[C0]o estas increased." end
 
 l_0xc55f84:
     newline
     " <[1C 05 DC]>" next
     call(data_05.l_0xc56c6d) next
-    "@When equipped, Luck is increased." next
-    "@Same as the one that Mr. Saturn wears on his head.{wait}" linebreak
+    "@Kie equipped, [C4]an[C0]o estas increased." next
+    "@Same as la unu tio Mr. Saturn wears on lia head.{wait}" linebreak
     eob
 
 l_0xc55fcc:
@@ -553,62 +553,62 @@ l_0xc55fdc:
 l_0xc55fec:
     newline
     " <[1C 05 DF]>" next
-    "@You know what this is..." next
+    "@Vi scii kio [C0]i tiu estas..." next
     call(data_05.l_0xc56cb5) "40" call(data_05.l_0xc56cd6) end
 
 l_0xc56011:
     newline
     " <[1C 05 E0]>" next
-    "@Gives you a spring in your step for about 10 seconds." next
-    "@It also helps you recover your power a bit." end
+    "@Gives vi a spring en via step for about 10 seconds." next
+    "@[B1]i anka[C5] helps vi recover via power a bit." end
 
 l_0xc56054:
     newline
     " <[1C 05 E1]>" next
-    "@Gives you a spring in your step for about 20 seconds." next
-    "@It also helps you recover your power a bit." end
+    "@Gives vi a spring en via step for about 20 seconds." next
+    "@[B1]i anka[C5] helps vi recover via power a bit." end
 
 l_0xc56097:
     newline
     " <[1C 05 E2]>" next
-    "@It helps you recover your power..." next
-    "@How much and what you exactly recover depends on your luck!" end
+    "@[B1]i helps vi recover via power..." next
+    "@Kiel much kaj kio vi exactly recover depends on via [C4]an[C0]o!" end
 
 l_0xc560d3:
     newline
     " <[1C 05 E3]>" next
-    "@It helps you recover your power..." next
-    "@How much and what you exactly recover depends on your luck!" end
+    "@[B1]i helps vi recover via power..." next
+    "@Kiel much kaj kio vi exactly recover depends on via [C4]an[C0]o!" end
 
 l_0xc5610f:
     newline
     " <[1C 05 E4]>" next
-    "@It helps you recover your power..." next
-    "@How much and what you exactly recover depends on your luck!" end
+    "@[B1]i helps vi recover via power..." next
+    "@Kiel much kaj kio vi exactly recover depends on via [C4]an[C0]o!" end
 
 l_0xc5614b:
     newline
     " <[1C 05 E5]>" next
-    "@It helps you recover your power..." next
-    "@How much and what you exactly recover depends on your luck!" end
+    "@[B1]i helps vi recover via power..." next
+    "@Kiel much kaj kio vi exactly recover depends on via [C4]an[C0]o!" end
 
 l_0xc56187:
     newline
     " <[1C 05 E6]>" next
-    "@It helps you recover your power..." next
-    "@How much and what you exactly recover depends on your luck!" end
+    "@[B1]i helps vi recover via power..." next
+    "@Kiel much kaj kio vi exactly recover depends on via [C4]an[C0]o!" end
 
 l_0xc561c3:
     newline
     " <[1C 05 E7]>" next
-    "@It helps you recover your power..." next
-    "@How much and what you exactly recover depends on your luck!" end
+    "@[B1]i helps vi recover via power..." next
+    "@Kiel much kaj kio vi exactly recover depends on via [C4]an[C0]o!" end
 
 l_0xc561ff:
     newline
     " <[1C 05 E8]>" next
     call(data_05.l_0xc56cc5) "12" call(data_05.l_0xc56cd6) next
-    "@I guess it tastes good to adults." end
+    "@Mi guess [C1]i tastes bona al adults." end
 
 l_0xc56230:
     newline

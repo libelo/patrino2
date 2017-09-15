@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -15,21 +15,21 @@ l_0xef9a9e:
 l_0xef9abb:
     newline
     "@{user}[19 1F][1B 02 {e(l_0xef9ae8)}]{swap} stole a [1C 05 00]" next
-    "  in the confusion of the battle![03]" eob
+    "  en la confusion of la battle![03]" eob
 
 l_0xef9ae8:
-    " tried to" linebreak
-    "  steal something, but failed![03]" eob
+    " tried al" linebreak
+    "  steal io, sed failed![03]" eob
 
 l_0xef9b02:
     newline
     "{sound(25)}@{user} froze" linebreak
-    "  you in time!{music(4)}[03]{pause(1)}" eob
+    "  vi en tempo!{music(4)}[03]{pause(1)}" eob
 
 l_0xef9b20:
     newline
     "{sound(25)}@{user} glared" linebreak
-    "  with its eerie eyes![03]{pause(1)}" eob
+    "  kun its eerie eyes![03]{pause(1)}" eob
 
 l_0xef9b43:
     "{sound(25)}" newline
@@ -38,22 +38,22 @@ l_0xef9b43:
 
 l_0xef9b73:
     newline
-    "{sound(25)}@{user} stumbled, but fired a strange beam.{sound(77)}[03]{pause(1)}" eob
+    "{sound(25)}@{user} stumbled, sed fired a strange beam.{sound(77)}[03]{pause(1)}" eob
 
 l_0xef9b96:
     newline
     "{sound(25)}@{user} burped" linebreak
-    "  and blew his nauseating breath at you!{sound(78)}[03]{pause(1)}" eob
+    "  kaj blew lia nauseating breath at vi!{sound(78)}[03]{pause(1)}" eob
 
 l_0xef9bc3:
     newline
     "{sound(25)}@{user} stung" linebreak
-    "  with its poison stinger![03]{pause(1)}" eob
+    "  kun its poison stinger![03]{pause(1)}" eob
 
 l_0xef9be6:
     newline
     "{sound(25)}@{user} gave" linebreak
-    "  the kiss of death![03]{pause(1)}" eob
+    "  la kiss of death![03]{pause(1)}" eob
 
 l_0xef9c02:
     newline
@@ -63,26 +63,26 @@ l_0xef9c02:
 l_0xef9c30:
     newline
     "{sound(25)}@{user} scattered" linebreak
-    "  some spores!{sound(82)}[03]{pause(1)}" eob
+    "  iom spores!{sound(82)}[03]{pause(1)}" eob
 
 l_0xef9c51:
     newline
-    "{sound(25)}@{user} tried to" linebreak
-    "  possess you in a frightening manner.{sound(96)}[03]{pause(1)}" eob
+    "{sound(25)}@{user} tried al" linebreak
+    "  possess vi en a frightening manner.{sound(96)}[03]{pause(1)}" eob
 
 l_0xef9c7e:
     newline
-    "{sound(25)}@{user} sprinkled around some wonderful-smelling powder.{sound(82)}[03]{pause(1)}" eob
+    "{sound(25)}@{user} sprinkled around iom wonderful-smelling powder.{sound(82)}[03]{pause(1)}" eob
 
 l_0xef9cad:
     newline
     "{sound(25)}@{user} scattered" linebreak
-    "  some mold spores!{sound(82)}[03]{pause(1)}" eob
+    "  iom mold spores!{sound(82)}[03]{pause(1)}" eob
 
 l_0xef9cd1:
     newline
     "{sound(25)}@{user} employed" linebreak
-    "  a binding attack![03]{pause(1)}" eob
+    "  a binding atako![03]{pause(1)}" eob
 
 l_0xef9cf1:
     newline
@@ -91,32 +91,32 @@ l_0xef9cf1:
 l_0xef9d14:
     newline
     "{sound(25)}@{user} spewed" linebreak
-    "  <Fly Honey> out of his mouth!{sound(81)}[03]{pause(1)}" eob
+    "  <Fly Honey> out of lia mouth!{sound(81)}[03]{pause(1)}" eob
 
 l_0xef9d3e:
     newline
     "{sound(25)}@{user} shot" linebreak
-    "  spider silk out of its body![03]" eob
+    "  spider silk out of its Korpo![03]" eob
 
 l_0xef9d62:
     newline
     "{sound(25)}@{user} said" linebreak
-    "  something really scary!{sound(84)}[03]{pause(1)}" eob
+    "  io vere scary!{sound(84)}[03]{pause(1)}" eob
 
 l_0xef9d81:
     newline
     "{sound(25)}@{user} did" linebreak
-    "  something very mysterious!{sound(85)}[03]{pause(1)}" eob
+    "  io tre mysterious!{sound(85)}[03]{pause(1)}" eob
 
 l_0xef9da1:
     newline
     "{sound(25)}@{user} disrupted" linebreak
-    "  your senses![03]" eob
+    "  via senses![03]" eob
 
 l_0xef9dbd:
     newline
-    "{sound(25)}@{user} is" linebreak
-    "  sizing up the situation![03]" eob
+    "{sound(25)}@{user} estas" linebreak
+    "  sizing up la situation![03]" eob
 
 l_0xef9dda:
     newline
@@ -131,7 +131,7 @@ l_0xef9e05:
 l_0xef9e22:
     newline
     "{sound(25)}@{user} spilled" linebreak
-    "  some scalding hot espresso![03]" eob
+    "  iom scalding hot espresso![03]" eob
 
 l_0xef9e47:
     newline
@@ -145,8 +145,8 @@ l_0xef9e69:
 
 l_0xef9e92:
     newline
-    "{sound(25)}@{user} used a" linebreak
-    "  Crashing Boom Bang attack![03]" eob
+    "{sound(25)}@{user} uzis a" linebreak
+    "  Crashing Boom Bang atako![03]" eob
 
 l_0xef9eb4:
     newline
@@ -160,51 +160,51 @@ l_0xef9ed7:
 
 l_0xef9ef4:
     "{store_registers}" newline
-    "[1D 22][1B 02 {e(l_0xef9f9f)}][06 0A 03 {e(l_0xef9fe2)}]{isset(flag 180)}[1B 03 {e(l_0xefa002)}]{isset(flag 181)}[1B 03 {e(l_0xefa07e)}]{isset(flag 645)}[1B 03 {e(l_0xefa07e)}]{isset(flag 446)}[1B 03 {e(l_0xefa029)}]{isset(flag 646)}[1B 03 {e(l_0xefa029)}]{isset(flag 647)}[1B 03 {e(l_0xefa029)}]{isset(flag 648)}[1B 03 {e(l_0xefa029)}]{isset(flag 675)}[1B 03 {e(l_0xefa002)}]{isset(flag 694)}[1B 03 {e(l_0xefa07e)}]{isset(flag 695)}[1B 03 {e(l_0xefa07e)}][06 FE 02 {e(l_0xefa0b7)}][1F 41 05]@(The mouse found the way out and waved for you to follow.)[03][1F 69]{load_registers}[1D 0F 00 00]{unset(flag 512)}[1F 41 06]" call(data_36.l_0xc7de60) eob
+    "[1D 22][1B 02 {e(l_0xef9f9f)}][06 0A 03 {e(l_0xef9fe2)}]{isset(flag 180)}[1B 03 {e(l_0xefa002)}]{isset(flag 181)}[1B 03 {e(l_0xefa07e)}]{isset(flag 645)}[1B 03 {e(l_0xefa07e)}]{isset(flag 446)}[1B 03 {e(l_0xefa029)}]{isset(flag 646)}[1B 03 {e(l_0xefa029)}]{isset(flag 647)}[1B 03 {e(l_0xefa029)}]{isset(flag 648)}[1B 03 {e(l_0xefa029)}]{isset(flag 675)}[1B 03 {e(l_0xefa002)}]{isset(flag 694)}[1B 03 {e(l_0xefa07e)}]{isset(flag 695)}[1B 03 {e(l_0xefa07e)}][06 FE 02 {e(l_0xefa0b7)}][1F 41 05]@(La mouse found la way out kaj waved for vi al follow.)[03][1F 69]{load_registers}[1D 0F 00 00]{unset(flag 512)}[1F 41 06]" call(data_36.l_0xc7de60) eob
 
 l_0xef9f9f:
-    "@(The Exit Mouse cannot do its job" next
-    "@unless it is in a hole, cave, or some place with an exit!)" end
+    "@(La Exit Mouse cannot do its laboro" next
+    "@unless [C1]i estas en a hole, cave, a[C5] iom place kun an exit!)" end
 
 l_0xef9fe2:
-    "@(At this point in time, the mouse is fast asleep.)" end
+    "@(At [C0]i tiu point en tempo, la mouse estas fast asleep.)" end
 
 l_0xefa002:
-    "@You shouldn't let the mouse go until the pizza has arrived." end
+    "@Vi shouldn't let la mouse iri until la pizza has arrived." end
 
 l_0xefa029:
-    "@If you release the mouse now, it might be stepped on by the approaching customer." next
-    "@So... it's not a good idea to release the mouse now." end
+    "@Se vi release la mouse nun, [C1]i might be stepped on by la approaching customer." next
+    "@So... [C1]i's ne a bona idea al release la mouse nun." end
 
 l_0xefa07e:
     "@Please stick around until Escargo Express arrives." next
-    "@So... do not use the Exit Mouse!" eob
+    "@So... do ne use la Exit Mouse!" eob
 
 l_0xefa0b7:
-    "@For some reason, the exit mouse isn't being agreeable." end
+    "@For iom reason, la exit mouse isn't being agreeable." end
 
 l_0xefa0dc:
-    "{swap}@[1C 02 00] read the hieroglyphs." next
-    "@<To fight against the invaders, we built this pyramid fortress." next
-    "@However, our efforts were futile, and we lost." next
-    "@Nonetheless, our pyramid was protected by the gods of Scarabi." next
-    "@The invaders will be reborn every millennium and will attack again." next
-    "@Even now, the invaders hide beyond space and time and build their evil stronghold." next
-    "@A place out of time is beyond the Dark, and is even farther beyond the Lost Underworld." next
-    "@The Deep Darkness is shrouded, it is without light." next
-    "@Only one with the [1C 05 AF] can pierce the dark." next
-    "@The Sphinx now watches over everything," next
-    "@waiting for the coming of a truly brave hero." next
+    "{swap}@[1C 02 00] read la hieroglyphs." next
+    "@<Al fight against la invaders, ni built [C0]i tiu pyramid fortress." next
+    "@However, nia efforts estis futile, kaj ni lost." next
+    "@Nonetheless, nia pyramid estis protected by la gods of Scarabi." next
+    "@La invaders will be reborn every millennium kaj will atako again." next
+    "@E[C0] nun, la invaders hide beyond space kaj tempo kaj build ilia evil stronghold." next
+    "@A place out of tempo estas beyond la Dark, kaj estas e[C0] farther beyond la Lost Underworld." next
+    "@La Deep Darkness estas shrouded, [C1]i estas sen light." next
+    "@Only unu kun la [1C 05 AF] povas pierce la dark." next
+    "@La Sphinx nun watches over [C0]io," next
+    "@waiting for la coming of a truly brave hero." next
     "@   #" linebreak
     "  4   3" linebreak
     "   2 5" next
-    "@Dance in front of the Sphinx!>" end
+    "@Dance en front of la Sphinx!>" end
 
 l_0xefa2ab:
     "[1F 41 07][1B 02 {e(l_0xefa2b5)}]" eob
 
 l_0xefa2b5:
-    "@This town is not shown on the map." end
+    "@[B0]i tiu town estas ne shown on la map." end
 
 l_0xefa2c9:
     "[06 6C 00 {e(l_0xefa2d5)}]" call(data_27.l_0xc6fb20) goto(l_0xefa2d5)

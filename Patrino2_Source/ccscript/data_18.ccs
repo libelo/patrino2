@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -17,15 +17,15 @@ l_0xc61e8e:
 
 l_0xc61ed7:
     "@Uki Ukkinki Ukinkie" next
-    "@(The monkey next to me is my twin brother.)" end
+    "@(La monkey next al mi estas mia twin frato.)" end
 
 l_0xc61f07:
     "[06 CB 01 {e(l_0xc62008)}]@Ukie Ukikikie" next
-    "@(I am Yamada Saruo.)" next
+    "@(Mi am Yamada Saruo.)" next
     "@Ukie Ukikikie" next
-    "@(To me the most interesting thing is the [1C 05 A6].)" next
+    "@(Al mi la plej interesting a[C3]o estas la [1C 05 A6].)" next
     "@Ukie Ukikikie" next
-    "@(What?{pause(20)}  Are you giving me a present?)" next
+    "@(Kio?{pause(20)}  Are vi giving mi a present?)" next
     call(data_36.l_0xc7dd4f) "[11]{clearline}[09 02 {e(l_0xc61fab)} {e(l_0xc61f97)}]" goto(l_0xc61f97)
 
 l_0xc61f97:
@@ -34,15 +34,15 @@ l_0xc61f97:
 
 l_0xc61fab:
     call(data_15.l_0xc5e456) "[1B 02 {e(l_0xc61f97)}]{store_registers}[19 19 00 00]{swap}{result_is(166)}[1B 02 {e(l_0xc61f97)}]{load_registers}[1D 0F 00 00]{sound(118)}{pause(10)}@Ukie!" next
-    "@(Oh, I've died and gone to monkey heaven!){wait}{window_closeall}[1F 1E 37 03 06][1F 17 39 03 2B 00 01]{set(flag 459)}" eob
+    "@(Ho, Mi've died kaj gone al monkey heaven!){wait}{window_closeall}[1F 1E 37 03 06][1F 17 39 03 2B 00 01]{set(flag 459)}" eob
 
 l_0xc62008:
     "@Ukki Ukikie" next
-    "@(I am Yamada Saruo.)" end
+    "@(Mi am Yamada Saruo.)" end
 
 l_0xc62026:
     "[06 CC 01 {e(l_0xc620e3)}]@Uikkie Uiki Uki" next
-    "@(Let's get to the point.{pause(20)}  Give me a [1C 05 5A].)" linebreak
+    "@(Let's get al la point.{pause(20)}  doni mi a [1C 05 5A].)" linebreak
     call(data_36.l_0xc7dd4f) "[11]{clearline}[09 02 {e(l_0xc62089)} {e(l_0xc6206b)}]" goto(l_0xc6206b)
 
 l_0xc6206b:
@@ -51,7 +51,7 @@ l_0xc6206b:
 
 l_0xc62089:
     call(data_15.l_0xc5e456) "[1B 02 {e(l_0xc6206b)}]{store_registers}" call(l_0xc62380) "[1B 02 {e(l_0xc6206b)}]{load_registers}[1D 0F 00 00]{sound(118)}{pause(10)}@Uikki Uiki Uiki Uiki" next
-    "@(I'm very grateful to you.){wait}{window_closeall}[1F 1E 36 03 06][1F 17 38 03 2B 00 01]{set(flag 460)}" eob
+    "@(Mi'm tre grateful al vi.){wait}{window_closeall}[1F 1E 36 03 06][1F 17 38 03 2B 00 01]{set(flag 460)}" eob
 
 l_0xc620e3:
     "@Uiki" next
@@ -59,20 +59,20 @@ l_0xc620e3:
 
 l_0xc620f7:
     "[06 CD 01 {e(l_0xc62236)}]@Meow Meow fss fss fssss?" next
-    "@(What strange chattering for a monkey.)" next
+    "@(Kio strange chattering for a monkey.)" next
     "@Coo Coo pepepe." next
-    "@(If I eat a [1C 05 5C],{pause(15)} it will cure my weird animal sounds.)" next
+    "@(Se Mi eat a [1C 05 5C],{pause(15)} [C1]i will cure mia weird animal sounds.)" next
     "@Croak croak breeeeeep?" next
-    "@(If you have one, can I have one?)" linebreak
+    "@(Se vi havas unu, povas Mi havas unu?)" linebreak
     call(data_36.l_0xc7dd4f) "[11]{clearline}[09 02 {e(l_0xc621d0)} {e(l_0xc6219a)}]" goto(l_0xc6219a)
 
 l_0xc6219a:
     "@Bow wow ruff ruff bark!" next
-    "@(Fine,{pause(15)} I'll just be a weird monkey.)" end
+    "@(bone,{pause(15)} Mi'll just be a weird monkey.)" end
 
 l_0xc621d0:
     call(data_15.l_0xc5e456) "[1B 02 {e(l_0xc6219a)}]{store_registers}[19 19 00 00]{swap}{result_is(92)}[1B 02 {e(l_0xc6219a)}]{load_registers}[1D 0F 00 00]{sound(118)}{pause(10)}@Gulp,{pause(15)} gulp...{pause(20)} Ukiki!" next
-    "@(Gulp,{pause(15)} gulp...{pause(20)} See!){wait}{window_closeall}[1F 1E 32 03 06][1F 17 34 03 2B 00 01]{set(flag 461)}" eob
+    "@(Gulp,{pause(15)} gulp...{pause(20)} Vidi!){wait}{window_closeall}[1F 1E 32 03 06][1F 17 34 03 2B 00 01]{set(flag 461)}" eob
 
 l_0xc62236:
     "@Ukiki!" next
@@ -80,24 +80,24 @@ l_0xc62236:
 
 l_0xc62257:
     "[06 CE 01 {e(l_0xc6235d)}]@Kiki kikkeki!" next
-    "@(Oh, I wanna measure something!)" next
+    "@(Ho, Mi volas measure io!)" next
     "@Kiki kiku eki!" next
-    "@(But I don't have a [1C 05 8C]...)" next
+    "@(Sed Mi don't havas a [1C 05 8C]...)" next
     "@Kuki keikuki?" next
-    "@(Do you have one I may borrow?)" linebreak
+    "@(Do vi havas unu Mi may borrow?)" linebreak
     call(data_36.l_0xc7dd4f) "[11]{clearline}[09 02 {e(l_0xc622fc)} {e(l_0xc622dc)}]" goto(l_0xc622dc)
 
 l_0xc622dc:
     "@Kiki Kikurek ki!" next
-    "@(No measuring!)" end
+    "@(Ne measuring!)" end
 
 l_0xc622fc:
     call(data_15.l_0xc5e456) "[1B 02 {e(l_0xc622dc)}]{store_registers}[19 19 00 00]{swap}{result_is(140)}[1B 02 {e(l_0xc622dc)}]{load_registers}[1D 0F 00 00]{sound(118)}{pause(10)}@Kikki ekruiki!" next
-    "@(Finally, I can measure my own tail!){wait}{window_closeall}[1F 1E 31 03 06][1F 17 33 03 2B 00 01]{set(flag 462)}" eob
+    "@(Finally, Mi povas measure mia own tail!){wait}{window_closeall}[1F 1E 31 03 06][1F 17 33 03 2B 00 01]{set(flag 462)}" eob
 
 l_0xc6235d:
     "@Kikoke Ukike!" next
-    "@(I can measure his tail too!)" end
+    "@(Mi povas measure lia tail tro!)" end
 
 l_0xc62380:
     "[19 19 00 00]{swap}{rtoarg}{result_is(90)}[1B 03 {e(l_0xc62394)}]{swap}{result_is(233)}" goto(l_0xc62394)
@@ -119,79 +119,79 @@ l_0xc623be:
 
 l_0xc623bf:
     "[06 CF 01 {e(l_0xc624f5)}]@Kyakyako Kyakie" next
-    "@(Somewhere amongst all these rooms...)" next
+    "@(Somewhere amongst [C0]io these rooms...)" next
     "@Ukkiki Kyako Kyakki" next
-    "@(you should be able to obtain Dragonite.)" next
+    "@(vi should be able al obtain Dragonite.)" next
     "@Ukyakki Kikiyakoke?" next
-    "@(Do you think Dragonite is really made from dragons?)" next
+    "@(Do vi pensi Dragonite estas vere made from dragons?)" next
     "@KyokeKyoke Ukyokie" next
-    "@(By the way, I'll give you a [1C 05 5C].)" next
+    "@(By la way, Mi'll doni vi a [1C 05 5C].)" next
     "@Ukyakyokyo Kiekyo" next
-    "@(If you run out,{pause(15)} just come back and I'll give you as many eggs as you want.)[03][1D 03 FF][1B 02 {e(l_0xc624d6)}][1D 0E 00 5C]" call(data_36.l_0xc7dccf) "{set(flag 463)}" end
+    "@(Se vi run out,{pause(15)} just veni back kaj Mi'll doni vi as many eggs as vi volas.)[03][1D 03 FF][1B 02 {e(l_0xc624d6)}][1D 0E 00 5C]" call(data_36.l_0xc7dccf) "{set(flag 463)}" end
 
 l_0xc624d6:
     next
     "@Kyokyukyo kyakie" next
-    "@(You have too much stuff!)" end
+    "@(Vi havas tro much stuff!)" end
 
 l_0xc624f5:
     "@Ukyako kyakki?" next
-    "@(Did you find a" linebreak
+    "@(Did vi trovi a" linebreak
     "  [1C 05 3A]?)" next
     "@Ukyakki Kokekyakya?" next
-    "@(Oh no,{pause(15)} you don't have to answer.)" next
+    "@(Ho ne,{pause(15)} vi don't havas al answer.)" next
     "@KyokeKyoke Ukyokie" next
     "@(Here's another [1C 05 5C]...)[03][1D 03 FF][1B 02 {e(l_0xc624d6)}][1D 0E 00 5C]" call(data_36.l_0xc7dccf) end
 
 l_0xc62578:
     "[06 D0 01 {e(l_0xc6266c)}]@Kyuie" next
-    "@(One of my friends can use the teleport.)" next
+    "@(unu of mia amikoj povas use la teleport.)" next
     "@Kyu?{pause(15)}  Kyikki?" next
-    "@(What?{pause(20)}  You've never heard of it?)" next
+    "@(Kio?{pause(20)}  Vi've neniam a[C5]dis of [C1]i?)" next
     "@Kyukyu Kyui" next
-    "@(Then,{pause(15)} I'll give you [1C 05 A6].)" next
+    "@(Then,{pause(15)} Mi'll doni vi [1C 05 A6].)" next
     "[1D 03 FF][1B 02 {e(l_0xc62641)}][1D 0E 00 A6]@Kyu Ukyukui?" next
-    "@(That didn't make sense, did it?{pause(20)}  But, anyway, I'm attractive, don't you think?)[03]" call(data_36.l_0xc7dcb6) "{set(flag 464)}" end
+    "@(Tio didn't fari sense, did [C1]i?{pause(20)}  Sed, anyway, Mi'm attractive, don't vi pensi?)[03]" call(data_36.l_0xc7dcb6) "{set(flag 464)}" end
 
 l_0xc62641:
     "@Kiee Kiee" next
-    "@(You can't carry any more items.{pause(20)}  You've got too much stuff.)" end
+    "@(Vi povas't carry ajn more items.{pause(20)}  Vi've got tro much stuff.)" end
 
 l_0xc6266c:
     "@Kyu Kyuii" next
-    "@(We're born in the desert.)" next
+    "@(Ni're born en la desert.)" next
     "@Kyu?  Kyuikki?" next
-    "@(What?  You didn't ask me about that?)" next
+    "@(Kio?  Vi didn't ask mi about tio?)" next
     "@Kyukyu Kyui kyukyu" next
-    "@(You guys must be hard workers.)" next
+    "@(Vi guys devas be hard workers.)" next
     "@Kyu ukyukyoi?" next
-    "@(I'm not making sense, am I?{pause(20)}  But I am attractive, don't you think?)" end
+    "@(Mi'm ne making sense, am Mi?{pause(20)}  Sed Mi am attractive, don't vi pensi?)" end
 
 l_0xc6271a:
     "@Ukikki Rukikki" next
-    "@(I love Tarai Jabu the most.)" next
+    "@(Mi love Tarai Jabu la plej.)" next
     "@Waakikki Hoikikki" next
-    "@(He's a friend of the monkeys.)" next
+    "@(Li's a amiko of la monkeys.)" next
     "@...Uki Ukiukiukya [ac]" next
-    "@(...That's a song I made up for Tarai Jabu!)" end
+    "@(...Tio's a song Mi made up for Tarai Jabu!)" end
 
 l_0xc6279f:
     "[06 13 01 {e(l_0xc62819)}][06 2A 02 {e(l_0xc627ca)}]@Kyakyakyaa Kya" next
-    "@(I've been waiting for you.)" end
+    "@(Mi've been waiting for vi.)" end
 
 l_0xc627ca:
     "@Kyakyekyai kya" next
-    "@(I'll teach you teleportation.)" next
+    "@(Mi'll teach vi teleportation.)" next
     "@Kyakyakya" next
-    "@(Let's go outside.){wait}{window_closeall}[1F F1 3C 03 9C 02][1F 61]{set(flag 764)}{set(flag 613)}{set(flag 614)}" eob
+    "@(Let's iri outside.){wait}{window_closeall}[1F F1 3C 03 9C 02][1F 61]{set(flag 764)}{set(flag 613)}{set(flag 614)}" eob
 
 l_0xc62819:
     "@Kyakya kyekyi?" next
-    "@(So... how 've you been?)" end
+    "@(So... kiel 've vi been?)" end
 
 l_0xc6283d:
     "@Hikikki." next
-    "@(Follow me,{pause(15)} like this way.){wait}{window_closeall}[1F F1 04 03 9D 02]" eob
+    "@(Follow mi,{pause(15)} like [C0]i tiu way.){wait}{window_closeall}[1F F1 04 03 9D 02]" eob
 
 l_0xc62865:
     "[1F 1E 04 03 06][1F 17 05 03 08 00 01]{unset(flag 614)}{set(flag 615)}{pause(1)}[19 23 05 03 01 FF 00][1F 16 05 03 00]" eob
@@ -201,45 +201,45 @@ l_0xc62886:
 
 l_0xc628a1:
     "@Kyakya Kyokyo" next
-    "@(Ok,{pause(15)} I'll do a teacher's demonstration.)" next
+    "@(Ok,{pause(15)} Mi'll do a teacher's demonstration.)" next
     "@Kyakyakya Kyakkya" next
-    "@(If you can learn this,{pause(15)} you can go anywhere you've been previously.)" next
+    "@(Se vi povas learn [C0]i tiu,{pause(15)} vi povas iri anywhere vi've been previously.)" next
     "@Kyakkyaki kiki" next
-    "@(You can go there instantly.)" next
+    "@(Vi povas iri tia instantly.)" next
     "@Kyakki Kyaki" next
-    "@(This skill can't be used in a room or underground, though.)[03]{window_closeall}[1F F1 05 03 9E 02][1F 61][1F E6 05 03]{music(13)}[1F E9 05 03][1F 61][1F E6 05 03]{music_resume}[1F E9 05 03][1F 61][1F F1 05 03 08 00][19 23 05 03 01 FF 00][1F 16 05 03 00]{pause(30)}{window_open(1)}@Ukkie" next
-    "@(I went to Fourside and returned.)" next
+    "@([B0]i tiu skill povas't be uzis en a [C0]ambro a[C5] underground, though.)[03]{window_closeall}[1F F1 05 03 9E 02][1F 61][1F E6 05 03]{music(13)}[1F E9 05 03][1F 61][1F E6 05 03]{music_resume}[1F E9 05 03][1F 61][1F F1 05 03 08 00][19 23 05 03 01 FF 00][1F 16 05 03 00]{pause(30)}{window_open(1)}@Ukkie" next
+    "@(Mi went al Fourside kaj returned.)" next
     "@Kyaakyakkya" next
-    "@(I showed you the basic, straight course," next
-    "@but you can also build up enough speed if you have room to turn.)" next
+    "@(Mi showed vi la basic, straight course," next
+    "@sed vi povas anka[C5] build up enough Rapido se vi havas [C0]ambro al turn.)" next
     "@Ukkikie" next
-    "@(Ok!{pause(15)}  Why don't you try it, young man!){wait}{window_closeall}{set(flag 2)}" eob
+    "@(Ok!{pause(15)}  Kial don't vi try [C1]i, young viro!){wait}{window_closeall}{set(flag 2)}" eob
 
 l_0xc62a30:
     "{window_open(1)}@Kyakyakyakya" next
-    "@(Try again by believing in the monkey teacher.)" linebreak
-    "[19 02]Yes" eob
+    "@(Try again by believing en la monkey teacher.)" linebreak
+    "[19 02]Jes" eob
 
 l_0xc62a61:
-    "[19 02]No" eob
+    "[19 02]Ne" eob
 
 l_0xc62a66:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc628a1)} {e(l_0xc62a75)}]" goto(l_0xc62a75)
 
 l_0xc62a75:
     "@Kyakyakya" next
-    "@(You don't like the monkey teacher?...){wait}{window_closeall}" eob
+    "@(Vi don't like la monkey teacher?...){wait}{window_closeall}" eob
 
 l_0xc62a9b:
     "@uKI?" next
-    "@(What happened to the boy with the red cap?" next
-    "@I was only going to teach him something.)" next
+    "@(Kio happened al la knabo kun la red cap?" next
+    "@Mi estis only going al teach lin io.)" next
     "@Kyakyo" next
-    "@(He's not here...)" end
+    "@(Li's ne here...)" end
 
 l_0xc62ae7:
-    "{window_open(1)}@[1C 02 01] learned how to use PSI Teleportation.{wait}{window_closeall}[1F 71 01 01]{set(flag 275)}[19 23 05 03 01 FF 00][1F 16 05 03 00][1F 1A 05 03 03]{pause(60)}[1F 1B 05 03][1F F1 05 03 80 02][1F 61]{window_open(1)}@Kyaho!" next
-    "@(Great!{pause(20)}  Okay,{pause(15)} the teacher is going home now.){wait}{window_closeall}[1F F1 05 03 9F 02]{unset(flag 2)}{unset(flag 615)}{unset(flag 613)}" eob
+    "{window_open(1)}@[1C 02 01] learned kiel al use PSI Teleportation.{wait}{window_closeall}[1F 71 01 01]{set(flag 275)}[19 23 05 03 01 FF 00][1F 16 05 03 00][1F 1A 05 03 03]{pause(60)}[1F 1B 05 03][1F F1 05 03 80 02][1F 61]{window_open(1)}@Kyaho!" next
+    "@(bonega!{pause(20)}  Okej,{pause(15)} la teacher estas going hejmo nun.){wait}{window_closeall}[1F F1 05 03 9F 02]{unset(flag 2)}{unset(flag 615)}{unset(flag 613)}" eob
 
 l_0xc62b6f:
     "@Kyai Kyai" next
@@ -247,24 +247,24 @@ l_0xc62b6f:
 
 l_0xc62b87:
     "@Kukkukukku" next
-    "@(Welcome!)" next
+    "@(Bonvenon!)" next
     "@Kikikiykki" next
-    "@(Our paradise exists beneath that hole.)" next
+    "@(Nia paradise exists beneath tio hole.)" next
     "@Kuykku kikki..." next
-    "@(Tarai Jabu is great and kind...)" next
+    "@(Tarai Jabu estas bonega kaj kia...)" next
     "@Kikki Kuykku" next
-    "@(and he knows everything, Tarai Jabu does...)" next
+    "@(kaj li knows [C0]io, Tarai Jabu does...)" next
     "@Kikku Kuekki" next
-    "@(He made us the underground rooms...)" end
+    "@(Li made ni la underground rooms...)" end
 
 l_0xc62c50:
     "@Kyakkyekyaekya Kyikkya" next
-    "@(Tarai Jabu is now fasting and)" next
+    "@(Tarai Jabu estas nun fasting kaj)" next
     "@Kyakkyakyekyakya" next
     "@(practicing silent meditation," next
-    "@he is also abstaining from anything that would make him sick or smelly too.)" next
+    "@li estas anka[C5] abstaining from anything tio would fari lin sick a[C5] smelly tro.)" next
     "@Kyapi Kyapi" next
-    "@(Please don't bother him.)" end
+    "@(Please don't bother lin.)" end
 
 l_0xc62cf5:
     "@....." end
@@ -273,10 +273,10 @@ l_0xc62cf9:
     "@(Dusty Dunes Headquarters for finding buried gold.)" end
 
 l_0xc62d23:
-    "@(East to Fourside.)" end
+    "@(East al Fourside.)" end
 
 l_0xc62d30:
-    "{counter(0)}{ctoarg}@Welcome to the Automatic Teller Machine." next
+    "{counter(0)}{ctoarg}@Bonvenon al la Automatic Teller ma[C4]ino." next
     "@Please select a transaction:" linebreak
     "[19 02]Withdrawal" eob
 
@@ -287,57 +287,57 @@ l_0xc62d7b:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc62e6d)} {e(l_0xc62d93)}]" goto(l_0xc62d8a)
 
 l_0xc62d8a:
-    "@Thank you very much." goto(l_0xc62d91)
+    "@Dankon tre much." goto(l_0xc62d91)
 
 l_0xc62d91:
     end
 
 l_0xc62d93:
-    "[1D 17 7F 96 98 00][1B 02 {e(l_0xc62e3b)}]" call(l_0xc62fd6) "[1B 02 {e(l_0xc62d8a)}]{rtoarg}[1D 14 00 00 00 00][1B 03 {e(l_0xc62df3)}][1D 09 00 00][1D 06 00 00 00 00]{open_wallet}{sound(118)}{pause(10)}@Your account will be credited" linebreak
+    "[1D 17 7F 96 98 00][1B 02 {e(l_0xc62e3b)}]" call(l_0xc62fd6) "[1B 02 {e(l_0xc62d8a)}]{rtoarg}[1D 14 00 00 00 00][1B 03 {e(l_0xc62df3)}][1D 09 00 00][1D 06 00 00 00 00]{open_wallet}{sound(118)}{pause(10)}@Via account will be credited" linebreak
     "  $[1C 0A 00 00 00 00]." next
-    "@Thank you very much." goto(l_0xc62d91)
+    "@Dankon tre much." goto(l_0xc62d91)
 
 l_0xc62df3:
     "@Invalid instruction input.  Please try again." next
     goto(l_0xc62d93)
 
 l_0xc62e1b:
-    "@You do not have that  much money for a deposit." next
+    "@Vi do ne havas tio  much mono for a deposit." next
     goto(l_0xc62d93)
 
 l_0xc62e3b:
-    "@This machine cannot accept a deposit greater than" linebreak
+    "@[B0]i tiu ma[C4]ino cannot accept a deposit greater ol" linebreak
     "  $9,999,999." next
     goto(l_0xc62d8a)
 
 l_0xc62e6d:
-    "[1D 17 01 00 00 00][1B 03 {e(l_0xc62f49)}][1D 14 9F 86 01 00][1B 02 {e(l_0xc62f72)}]" call(l_0xc62f99) "[1B 02 {e(l_0xc62d8a)}]{rtoarg}[1D 17 00 00 00 00][1B 03 {e(l_0xc62eef)}]{store_registers}[1D 07 00 00 00 00][1D 08 00 00][1D 14 A0 86 01 00][1B 02 {e(l_0xc62f1a)}]@Your account has been debited" linebreak
+    "[1D 17 01 00 00 00][1B 03 {e(l_0xc62f49)}][1D 14 9F 86 01 00][1B 02 {e(l_0xc62f72)}]" call(l_0xc62f99) "[1B 02 {e(l_0xc62d8a)}]{rtoarg}[1D 17 00 00 00 00][1B 03 {e(l_0xc62eef)}]{store_registers}[1D 07 00 00 00 00][1D 08 00 00][1D 14 A0 86 01 00][1B 02 {e(l_0xc62f1a)}]@Via account has been debited" linebreak
     "  $[1C 0A 00 00 00 00]." next
-    "@Please take your cash.[03]{open_wallet}{sound(116)}{pause(20)}" eob
+    "@Please take via cash.[03]{open_wallet}{sound(116)}{pause(20)}" eob
 
 l_0xc62eea:
     goto(l_0xc62d91)
 
 l_0xc62eef:
-    "@The requested amount is in excess of your account balance." next
+    "@La requested amount estas en excess of via account balance." next
     goto(l_0xc62e6d)
 
 l_0xc62f1a:
-    "{load_registers}[1D 06 00 00 00 00]@You are not allowed to carry more than" linebreak
+    "{load_registers}[1D 06 00 00 00 00]@Vi are ne allowed al carry more ol" linebreak
     "  $99,999." next
     goto(l_0xc62e6d)
 
 l_0xc62f49:
-    "@Your account is currently showing a zero balance." next
+    "@Via account estas currently showing a zero balance." next
     goto(l_0xc62d8a)
 
 l_0xc62f72:
-    "@You are not allowed to carry more than" linebreak
+    "@Vi are ne allowed al carry more ol" linebreak
     "  $99,999." next
     goto(l_0xc62d8a)
 
 l_0xc62f99:
-    call(l_0xc63004) "@Please enter the amount of your withdrawal." next
+    call(l_0xc63004) "@Please enter la amount of via withdrawal." next
     "@Balance: $[1C 01 07]" linebreak
     goto(l_0xc62fc5)
 
@@ -345,12 +345,12 @@ l_0xc62fc5:
     "{open_wallet}[18 05 0A 02]&[18 05 04 02]$[1F 52 05]{clearline}" eob
 
 l_0xc62fd6:
-    call(l_0xc63004) "@Please enter the amount of your deposit." next
+    call(l_0xc63004) "@Please enter la amount of via deposit." next
     "@Balance: $[1C 01 07]" linebreak
     goto(l_0xc62fc5)
 
 l_0xc63004:
-    "@Your account currently shows a balance of $[1C 01 07]." next
+    "@Via account currently shows a balance of $[1C 01 07]." next
     eob
 
 l_0xc63029:
@@ -369,7 +369,7 @@ l_0xc63042:
 
 l_0xc63043:
     "@INPUT YOUR COMMAND." linebreak
-    "{open_hp}[06 74 01 {e(l_0xc63089)}][19 02]Life-up" eob
+    "{open_hp}[06 74 01 {e(l_0xc63089)}][19 02]Vivo-up" eob
 
 l_0xc6306b:
     "[19 02]Communicate" eob
@@ -396,14 +396,14 @@ l_0xc630ae:
     "[06 58 00 {e(l_0xc630c7)}]@(Beep-beep-beep...)" end
 
 l_0xc630c7:
-    "{ctoarg}[1B 05]@Hello!  Hello!" linebreak
+    "{ctoarg}[1B 05]@Saluton!  Saluton!" linebreak
     "  Gauss Labs here." next
-    "@Oh, hello [1C 01 34]!" next
-    "@Would you like me to keep a record of your journey?" linebreak
+    "@Ho, Saluton [1C 01 34]!" next
+    "@Would vi like mi al keep a record of via journey?" linebreak
     call(data_36.l_0xc7dd4f) "[11]{clearline}[09 02 {e(l_0xc6314c)} {e(l_0xc6311e)}]" goto(l_0xc6311e)
 
 l_0xc6311e:
-    "@You just wanted to hear my voice?" linebreak
+    "@Vi just volis al a[C5]di mia voice?" linebreak
     "  Gwahahahahahahah!" next
     goto(l_0xc63146)
 
@@ -417,8 +417,8 @@ l_0xc6314c:
     "[1B 06][19 26 00][06 0C 03 {e(l_0xc6315a)}]{save}" goto(l_0xc6315a)
 
 l_0xc6315a:
-    "@All right, I have everything written down." next
-    "@Do you want to take a break now?" linebreak
+    "@[B0]io right, Mi havas [C0]io written down." next
+    "@Do vi volas al take a break nun?" linebreak
     "[19 02]Continue" eob
 
 l_0xc6318c:
@@ -428,38 +428,38 @@ l_0xc63192:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc631a1)} {e(l_0xc631e3)}]" goto(l_0xc631a1)
 
 l_0xc631a1:
-    "@You've become such a hard worker!" next
-    "@I've got to get back to work myself!" next
-    "@Go for it, bad boy!" next
+    "@Vi've become such a hard worker!" next
+    "@Mi've got al get back al work myself!" next
+    "@Iri for [C1]i, bad knabo!" next
     goto(l_0xc63146)
 
 l_0xc631e3:
-    "@I don't know where you are planning on sleeping, but have a good rest!" next
-    "@Go ahead and turn the power OFF, and have a good night.[1F 50]" end
+    "@Mi don't scii kie vi are planning on sleeping, sed havas a bona rest!" next
+    "@Iri ahead kaj turn la power OFF, kaj havas a bona nokto.[1F 50]" end
 
 l_0xc63229:
     "[06 04 03 {e(data_31.l_0xc75929)}][06 49 00 {e(data_19.l_0xc635bd)}]{ctoarg}[1B 05]" newline
-    "[19 10 01]{result_is(1)}[1B 03 {e(l_0xc632c7)}]@Hello?" next
-    "@...Is that you, [1C 01 08]{pause(10)}?" next
-    "@Why are you disguising your voice like that?" next
-    "@Who are you pretending to be?" next
-    "@Oh, well.  It's not a big deal." next
-    "@I suppose you need to have a sense of humor at a time like this." next
+    "[19 10 01]{result_is(1)}[1B 03 {e(l_0xc632c7)}]@Saluton?" next
+    "@...Estas tio vi, [1C 01 08]{pause(10)}?" next
+    "@Kial are vi disguising via voice like tio?" next
+    "@Kiu are vi pretending al be?" next
+    "@Ho, well.  [B1]i's ne a granda deal." next
+    "@Mi suppose vi bezonas al havas a sense of humor at a tempo like [C0]i tiu." next
     goto(l_0xc632e2)
 
 l_0xc632c7:
-    "@[1C 02 01]?  It's your dad." next
+    "@[1C 02 01]?  [B1]i's via pa[C0]jo." next
     "{isset(flag 372)}[1F C0 01 {e(data_19.l_0xc6354b)}]" goto(l_0xc632e2)
 
 l_0xc632e2:
-    "[1D 24 01][1B 02 {e(l_0xc6333c)}]{swap}@I deposited $[1C 0A 00 00 00 00]" linebreak
-    "  into your bank account." next
-    "@Taking away what you've spent, you should now have" next
-    "@$[1C 01 07] in the bank." next
+    "[1D 24 01][1B 02 {e(l_0xc6333c)}]{swap}@Mi deposited $[1C 0A 00 00 00 00]" linebreak
+    "  into via banko account." next
+    "@Taking away kio vi've spent, vi should nun havas" next
+    "@$[1C 01 07] en la banko." next
     "[1D 24 02]" goto(l_0xc6333c)
 
 l_0xc6333c:
-    "{counter(1)}@Well, exp to get to the next level,[03]" goto(l_0xc63352)
+    "{counter(1)}@Well, exp al get al la next nivelo,[03]" goto(l_0xc63352)
 
 l_0xc63352:
     "{ctoarg}[1D 19 00][1B 03 {e(data_19.l_0xc633c9)}][19 10 00][1B 02 {e(data_19.l_0xc633c9)}]{rtoarg}[19 18 00][1B 02 {e(l_0xc63388)}]" newline
@@ -471,8 +471,8 @@ l_0xc63382:
 l_0xc63388:
     newline
     "@[1C 02 00]..." linebreak
-    "  has already reached {swap}" call(data_37.l_0xc7e660) " maximum level." next
-    "@That's just fine, but..." next
+    "  has already reached {swap}" call(data_37.l_0xc7e660) " Maksimuma nivelo." next
+    "@Tio's just bone, sed..." next
     next
     next
     goto(l_0xc63382)

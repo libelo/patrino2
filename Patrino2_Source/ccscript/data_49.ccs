@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -8,28 +8,28 @@ command e(label) "{long label}"
 
 // Text Data
 l_0xc913dd:
-    "[06 0A 00 {e(l_0xc91401)}]@If you are the patient, come into the back room." end
+    "[06 0A 00 {e(l_0xc91401)}]@Se vi are la patient, veni into la back [C0]ambro." end
 
 l_0xc91401:
-    "@You need to be examined?" linebreak
-    "  Then, you need to see the doctor... not me." end
+    "@Vi bezonas al be examined?" linebreak
+    "  Then, vi bezonas al vidi la doctor... ne mi." end
 
 l_0xc9142c:
-    "@I'm not busy right now." next
-    "@Shall I explain about the hospital system?" linebreak
+    "@Mi'm ne busy right nun." next
+    "@Shall Mi explain about la hospital system?" linebreak
     call(data_36.l_0xc7dd4f) call(data_36.l_0xc7dd5e) "[09 02 {e(l_0xc91486)} {e(l_0xc9146d)}]" goto(l_0xc9146d)
 
 l_0xc9146d:
-    "@Yeah, well, I am actually pretty busy." end
+    "@Ja, well, Mi am actually pretty busy." end
 
 l_0xc91486:
-    "@If a good friend of yours becomes unconscious," next
-    "@come to the hospital right away." next
-    "@As long as you have money for the doctor's fee," next
-    "@you'll be able to see your friend completely recovered in no time." next
+    "@Se a bona amiko of via becomes unconscious," next
+    "@veni al la hospital right away." next
+    "@As long as vi havas mono for la doctor's fee," next
+    "@vi'll be able al vidi via amiko completely recovered en ne tempo." next
     "@Besides being unconscious, whenever" next
-    "@you don't feel so well, come and talk to a doctor." next
-    "@Everything I just told you applies to hospitals all over the world." end
+    "@vi don't senti so well, veni kaj paroli al a doctor." next
+    "@[C0]io Mi just told vi applies al hospitals [C0]io over la mondo." end
 
 l_0xc9155b:
     "[1D 0D 01 01 02][1B 03 {e(l_0xc91581)}][1D 0D 02 01 02][1B 03 {e(l_0xc91581)}][1D 0D 03 01 02][1B 03 {e(l_0xc91581)}][1D 0D 04 01 02]" goto(l_0xc91581)
@@ -203,7 +203,7 @@ l_0xc9181f:
     call(data_36.l_0xc7dd4f) call(data_36.l_0xc7dd5e) "[09 02 {e(l_0xc91838)} {e(l_0xc919f6)}]" goto(l_0xc919f6)
 
 l_0xc91838:
-    "@What do you want me to do?" linebreak
+    "@Kio do vi volas mi al do?" linebreak
     "[18 02]{open_hp}{window_open(37)}[19 02]Soften" eob
 
 l_0xc91855:
@@ -213,18 +213,18 @@ l_0xc91867:
     "[19 02]Purify" eob
 
 l_0xc91870:
-    "[1C 0C 01][11][1B 05]{window_closetop}{window_switch(1)}[1B 06][1B 02 {e(l_0xc919f6)}][1F C0 03 {e(l_0xc91709)} {e(l_0xc9175d)} {e(l_0xc917b1)}]{ctoarg}@I need to charge you $[1C 0A 00 00 00 00]." linebreak
+    "[1C 0C 01][11][1B 05]{window_closetop}{window_switch(1)}[1B 06][1B 02 {e(l_0xc919f6)}][1F C0 03 {e(l_0xc91709)} {e(l_0xc9175d)} {e(l_0xc917b1)}]{ctoarg}@Mi bezonas al charge vi $[1C 0A 00 00 00 00]." linebreak
     call(data_36.l_0xc7dd4d) call(data_36.l_0xc7dd5e) "[09 02 {e(l_0xc918da)} {e(l_0xc918be)}]" goto(l_0xc918be)
 
 l_0xc918be:
     newline
-    "@Mmm, come back when necessary.{wait}" call(l_0xc91bae) eob
+    "@Mmm, veni back kie necessary.{wait}" call(l_0xc91bae) eob
 
 l_0xc918da:
     "[1D 14 00 00 00 00][1B 03 {e(l_0xc91a11)}][1D 19 02][1B 02 {e(l_0xc918f7)}][19 10 01]" goto(l_0xc9191e)
 
 l_0xc918f7:
-    "@Who needs healing?" goto(l_0xc91905)
+    "@Kiu needs healing?" goto(l_0xc91905)
 
 l_0xc91905:
     "[1A 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 01][1B 02 {e(l_0xc918be)}]" goto(l_0xc9191e)
@@ -255,25 +255,25 @@ l_0xc919b5:
 
 l_0xc919ce:
     "{swap}[1D 19 02][1B 03 {e(l_0xc919ef)}]" newline
-    "  Who needs to be healed?" goto(l_0xc91905)
+    "  Kiu needs al be healed?" goto(l_0xc91905)
 
 l_0xc919ef:
     "{wait}" call(l_0xc91bae) eob
 
 l_0xc919f6:
-    "@Mmm, come back when necessary.{wait}" call(l_0xc91bae) eob
+    "@Mmm, veni back kie necessary.{wait}" call(l_0xc91bae) eob
 
 l_0xc91a11:
     newline
-    "@If you don't have any money, you'll just have to keep on going in your current state.{wait}" call(l_0xc91bae) eob
+    "@Se vi don't havas ajn mono, vi'll just havas al keep on going en via current state.{wait}" call(l_0xc91bae) eob
 
 l_0xc91a47:
     call(data_50.l_0xc91c2e) goto(l_0xc9181f)
 
 l_0xc91a51:
     "[1D 09 00 00]{open_wallet}{load_registers}{sound(37)}{pause(30)}{swap}" newline
-    "@There!  You're already healed!" linebreak
-    "  Can I do my job well, or what!{wait}" call(l_0xc91bae) eob
+    "@Tia!  Vi're already healed!" linebreak
+    "  povas Mi do mia laboro well, a[C5] kio!{wait}" call(l_0xc91bae) eob
 
 l_0xc91a91:
     "[19 20]{counter(1)}" goto(l_0xc91a95)
@@ -288,25 +288,25 @@ l_0xc91abb:
     "{result_is(0)}" eob
 
 l_0xc91abe:
-    "@Hey, now that I notice," next
-    "@could you sell me the mushroom growing on top of your head?" next
-    "@Come on, let's make a deal." next
-    "[19 02]Sell" eob
+    "@Hey, nun tio Mi notice," next
+    "@could vi Vendi mi la mushroom growing on top of via head?" next
+    "@Veni on, let's fari a deal." next
+    "[19 02]Vendi" eob
 
 l_0xc91b0e:
-    "[19 02]No" eob
+    "[19 02]Ne" eob
 
 l_0xc91b13:
     "{open_wallet}[1C 07 02][11]{clearline}[09 02 {e(l_0xc91b3d)} {e(l_0xc91b24)}]" goto(l_0xc91b24)
 
 l_0xc91b24:
     "@Hmmmmm....." linebreak
-    "  That's too bad.[03]" eob
+    "  Tio's tro bad.[03]" eob
 
 l_0xc91b3d:
-    "@Thanks." linebreak
-    "  I'll pay you $50 for each mushroom." next
-    "@All right, let's do it![03]" call(l_0xc91b6f) eob
+    "@dankon." linebreak
+    "  Mi'll pay vi $50 for each mushroom." next
+    "@[B0]io right, let's do [C1]i![03]" call(l_0xc91b6f) eob
 
 l_0xc91b6f:
     "{counter(1)}" goto(l_0xc91b71)
@@ -325,18 +325,18 @@ l_0xc91bae:
     "{unset(flag 176)}{unset(flag 178)}{unset(flag 177)}" eob
 
 l_0xc91bb8:
-    "@Though you may not believe it, I'm a healer." next
-    "@If you have some illness that can not be treated at the hospital," next
-    "@it's my job to cure you." next
+    "@Though vi may ne believe [C1]i, Mi'm a healer." next
+    "@Se vi havas iom illness tio povas ne be treated at la hospital," next
+    "@[C1]i's mia laboro al cure vi." next
     eob
 
 l_0xc91c0f:
     newline
-    "@Do you need any help?" linebreak
+    "@Do vi bezonas ajn helpi?" linebreak
     eob
 
 l_0xc91c1b:
     newline
-    "@By the way, do you need any help?" linebreak
+    "@By la way, do vi bezonas ajn helpi?" linebreak
     eob
 

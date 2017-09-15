@@ -1,6 +1,6 @@
 /*
  * EarthBound Text Dump
- * Time: 21:34:20 - 24/01/2013
+ * Tempo: 21:34:20 - 24/01/2013
  * Generated using CCScriptWriter.
  */
 
@@ -92,232 +92,232 @@ l_0xc5197a:
     "[06 E2 00 {e(l_0xc51ec4)}][06 E3 00 {e(l_0xc51ca3)}][06 E4 00 {e(data_11.l_0xc5bc4c)}][06 E5 00 {e(data_11.l_0xc5bc4c)}][06 E6 00 {e(data_11.l_0xc5bb46)}][06 E7 00 {e(data_11.l_0xc5bc4c)}][06 E8 00 {e(data_11.l_0xc5bb46)}][06 E9 00 {e(l_0xc51ca3)}][06 EA 00 {e(data_01.l_0xc522ca)}][06 EB 00 {e(data_10.l_0xc5b86d)}][06 EC 00 {e(data_11.l_0xc5bd62)}][06 ED 00 {e(data_11.l_0xc5c03c)}][06 EE 00 {e(data_12.l_0xc5cdf2)}][06 EF 00 {e(l_0xc51ca3)}][06 F0 00 {e(l_0xc51ca3)}][06 F1 00 {e(l_0xc51ca3)}][06 F2 00 {e(l_0xc51ca3)}][06 F3 00 {e(data_02.l_0xc5307d)}][06 F4 00 {e(data_11.l_0xc5bb46)}][06 F5 00 {e(l_0xc51ca3)}][06 F6 00 {e(data_13.l_0xc5d1ed)}][06 F7 00 {e(data_12.l_0xc5c57b)}][06 F8 00 {e(data_02.l_0xc533e5)}][06 F9 00 {e(data_02.l_0xc533e5)}][06 FA 00 {e(data_02.l_0xc533e5)}][06 FB 00 {e(l_0xc51ca3)}][06 FC 00 {e(l_0xc51ca3)}][06 FD 00 {e(data_12.l_0xc5c80d)}][06 FE 00 {e(data_02.l_0xc5307d)}][06 FF 00 {e(data_11.l_0xc5bb46)}][06 00 01 {e(data_01.l_0xc522ca)}][06 01 01 {e(l_0xc51ca3)}][06 02 01 {e(data_11.l_0xc5bb46)}][06 03 01 {e(l_0xc51ca3)}][06 04 01 {e(l_0xc520fa)}][06 05 01 {e(data_11.l_0xc5bc4c)}][06 06 01 {e(data_13.l_0xc5cf3d)}][06 07 01 {e(data_02.l_0xc5307d)}][06 08 01 {e(data_11.l_0xc5c2e7)}][06 09 01 {e(data_01.l_0xc524d2)}][06 0A 01 {e(data_11.l_0xc5becd)}][06 0B 01 {e(data_01.l_0xc52796)}][06 0C 01 {e(data_13.l_0xc5d02d)}][06 0D 01 {e(data_12.l_0xc5cb88)}][06 0E 01 {e(data_12.l_0xc5c933)}][06 0F 01 {e(data_01.l_0xc52a92)}][06 44 01 {e(data_11.l_0xc5c1be)}][06 45 01 {e(data_01.l_0xc52d5f)}][06 46 01 {e(data_02.l_0xc5307d)}][06 DE 01 {e(data_11.l_0xc5c03c)}][06 55 02 {e(data_12.l_0xc5c6ec)}][06 56 02 {e(data_12.l_0xc5ccf5)}][06 57 02 {e(data_10.l_0xc5b5fe)}][06 58 02 {e(l_0xc51ca3)}][06 8D 02 {e(data_02.l_0xc5307d)}][06 DB 02 {e(data_02.l_0xc536e1)}][06 DC 02 {e(data_10.l_0xc5ba86)}][06 DD 02 {e(data_12.l_0xc5ca1e)}]" eob
 
 l_0xc51b12:
-    "@Hello there!" linebreak
-    "  How may I help you?" linebreak
+    "@Saluton tia!" linebreak
+    "  Kiel may Mi helpi vi?" linebreak
     eob
 
 l_0xc51b28:
-    "@Thank you very much." end
+    "@Dankon tre much." end
 
 l_0xc51b31:
-    "@Please come again." end
+    "@Please veni again." end
 
 l_0xc51b39:
-    "@Can I get you" linebreak
+    "@povas Mi get vi" linebreak
     "  anything?[03]" eob
 
 l_0xc51b49:
     "@[1C 05 00]?" linebreak
-    "  All right." next
+    "  [B0]io right." next
     eob
 
 l_0xc51b57:
-    "@Which of you will carry this?[03]" eob
+    "@Kiu of vi will carry [C0]i tiu?[03]" eob
 
 l_0xc51b6a:
-    "@Thank you.  Are you going to equip it here?" linebreak
+    "@Dankon.  Are vi going al equip [C1]i here?" linebreak
     eob
 
 l_0xc51b7e:
-    "@Would you like me to buy" linebreak
-    "  the [1C 05 00]" linebreak
+    "@Would vi like mi al A[C0]eti" linebreak
+    "  la [1C 05 00]" linebreak
     "  for {swap}$[1C 0A 00 00 00 00]?" next
     eob
 
 l_0xc51b9d:
-    "@[1C 02 00] cannot equip this." next
-    "@Do you still want to buy it?" linebreak
+    "@[1C 02 00] cannot equip [C0]i tiu." next
+    "@Do vi still volas al A[C0]eti [C1]i?" linebreak
     eob
 
 l_0xc51bb7:
-    "@Please come again." next
+    "@Please veni again." next
     eob
 
 l_0xc51bc0:
-    "@Excuse me, uhhh... you don't seem to have enough money." next
+    "@Excuse mi, uhhh... vi don't seem al havas enough mono." next
     eob
 
 l_0xc51bde:
-    "@I'm afraid you cannot carry anything else." next
-    "@Do you want to sell some things that you don't need?" linebreak
+    "@Mi'm timas vi cannot carry anything else." next
+    "@Do vi volas al Vendi iom a[C3]oj tio vi don't bezonas?" linebreak
     eob
 
 l_0xc51c03:
-    "@What do you want to sell?[03]" eob
+    "@Kio do vi volas al Vendi?[03]" eob
 
 l_0xc51c0e:
     "@[1C 05 00]?" linebreak
-    "  I can buy it" linebreak
+    "  Mi povas A[C0]eti [C1]i" linebreak
     "  for {swap}$[1C 0A 00 00 00 00]." next
-    "@Would you like to do that?" linebreak
+    "@Would vi like al do tio?" linebreak
     eob
 
 l_0xc51c38:
-    "@Please come again." next
+    "@Please veni again." next
     eob
 
 l_0xc51c41:
-    "@I don't think you have any thing that you can sell." next
+    "@Mi don't pensi vi havas ajn a[C3]o tio vi povas Vendi." next
     eob
 
 l_0xc51c56:
-    "@I am sorry, but we cannot buy the [1C 05 00]." next
+    "@Mi am sorry, sed ni cannot A[C0]eti la [1C 05 00]." next
     eob
 
 l_0xc51c6e:
-    "@Thank you very much." next
+    "@Dankon tre much." next
     eob
 
 l_0xc51c78:
-    "@Thank you for shopping here." next
+    "@Dankon for shopping here." next
     eob
 
 l_0xc51c87:
-    "@Can I get you anything else?" linebreak
+    "@povas Mi get vi anything else?" linebreak
     eob
 
 l_0xc51c95:
-    "@What would you like to get next?" linebreak
+    "@Kio would vi like al get next?" linebreak
     eob
 
 l_0xc51ca3:
-    "@It looks like [1C 02 00] can't carry any more stuff." next
-    "@Would someone else like to carry it?" linebreak
+    "@[B1]i looks like [1C 02 00] povas't carry ajn more stuff." next
+    "@Would iu else like al carry [C1]i?" linebreak
     eob
 
 l_0xc51ccb:
-    "@Hi, come in, come in!" next
-    "@What can I do for you today?" linebreak
+    "@Sal', veni en, veni en!" next
+    "@Kio povas Mi do for vi hodia[C5]?" linebreak
     eob
 
 l_0xc51cef:
-    "@Thanks a bunch!" end
+    "@dankon a bunch!" end
 
 l_0xc51cfa:
-    "@You don't want to buy anything from me?" next
-    "@Oh, you hurt my feelings." end
+    "@Vi don't volas al A[C0]eti anything from mi?" next
+    "@Ho, vi hurt mia feelings." end
 
 l_0xc51d20:
-    "@Can I help you find something?[03]" eob
+    "@povas Mi helpi vi trovi io?[03]" eob
 
 l_0xc51d31:
     "@[1C 05 00]?" next
     eob
 
 l_0xc51d39:
-    "@Who's going to carry it?[03]" eob
+    "@Kiu's going al carry [C1]i?[03]" eob
 
 l_0xc51d45:
-    "@Do you want to, like, <equip> it here?" linebreak
+    "@Do vi volas al, like, <equip> [C1]i here?" linebreak
     eob
 
 l_0xc51d5b:
-    "@I can buy your" linebreak
+    "@Mi povas A[C0]eti via" linebreak
     "  [1C 05 00]" linebreak
     "  for {swap}$[1C 0A 00 00 00 00]." next
     eob
 
 l_0xc51d7b:
-    "@[1C 02 00]  can't equip this." next
-    "@Do you still want to buy it?" linebreak
+    "@[1C 02 00]  povas't equip [C0]i tiu." next
+    "@Do vi still volas al A[C0]eti [C1]i?" linebreak
     eob
 
 l_0xc51d96:
-    "@So, you say you don't want it... Hmmmm..." next
+    "@So, vi say vi don't volas [C1]i... Hmmmm..." next
     eob
 
 l_0xc51db0:
-    "@Oh no!" linebreak
-    "  Don't tell me you don't have enough money!!" next
+    "@Ho ne!" linebreak
+    "  Don't tell mi vi don't havas enough mono!!" next
     eob
 
 l_0xc51dcb:
-    "@Oh, my!" next
-    "@I just don't think you can carry any more than what you already have." next
-    "@But you know, I might be able to buy some of the stuff you don't need." next
+    "@Ho, mia!" next
+    "@Mi just don't pensi vi povas carry ajn more ol kio vi already havas." next
+    "@Sed vi scii, Mi might be able al A[C0]eti iom of la stuff vi don't bezonas." next
     eob
 
 l_0xc51e14:
-    "@What do you want to sell?[03]" eob
+    "@Kio do vi volas al Vendi?[03]" eob
 
 l_0xc51e1f:
-    "@The [1C 05 00]?" linebreak
-    "  I'll buy it for {swap}$[1C 0A 00 00 00 00]." next
-    "@Do you wanna sell it?" linebreak
+    "@La [1C 05 00]?" linebreak
+    "  Mi'll A[C0]eti [C1]i for {swap}$[1C 0A 00 00 00 00]." next
+    "@Do vi volas Vendi [C1]i?" linebreak
     eob
 
 l_0xc51e4a:
-    "@Oh, so you don't want to do that?" linebreak
-    "  Well, all right." next
+    "@Ho, so vi don't volas al do tio?" linebreak
+    "  Well, [C0]io right." next
     eob
 
 l_0xc51e67:
-    "@Well, it looks like you don't have anything to sell to us." next
+    "@Well, [C1]i looks like vi don't havas anything al Vendi al ni." next
     eob
 
 l_0xc51e81:
-    "@Oh, no!" linebreak
-    "  You can't sell that here." next
+    "@Ho, ne!" linebreak
+    "  Vi povas't Vendi tio here." next
     eob
 
 l_0xc51e95:
-    "@Thanks a bunch!" next
+    "@dankon a bunch!" next
     eob
 
 l_0xc51ea1:
-    "@Thanks again." next
+    "@dankon again." next
     eob
 
 l_0xc51ea9:
-    "@Do you need anything else from me?" linebreak
+    "@Do vi bezonas anything else from mi?" linebreak
     eob
 
 l_0xc51eb6:
-    "@What can I do for you?" linebreak
+    "@Kio povas Mi do for vi?" linebreak
     eob
 
 l_0xc51ec4:
-    "@[1C 02 00] is already carrying too much stuff." next
-    "@Does anyone else want to carry it?" linebreak
+    "@[1C 02 00] estas already carrying tro much stuff." next
+    "@Does ajnulo else volas al carry [C1]i?" linebreak
     eob
 
 l_0xc51eea:
-    "@Hey dudes!  It's summer!" linebreak
-    "  It's the manly time of year!" linebreak
-    "  Time for sports, guys!" next
-    "@What can I do you for?" linebreak
+    "@Hey dudes!  [B1]i's summer!" linebreak
+    "  [B1]i's la manly tempo of jaro!" linebreak
+    "  Tempo for sports, guys!" next
+    "@Kio povas Mi do vi for?" linebreak
     eob
 
 l_0xc51f2c:
-    "@Hey buddy, thanks!" linebreak
-    "  See you around!" end
+    "@Hey buddy, dankon!" linebreak
+    "  Vidi vi around!" end
 
 l_0xc51f45:
-    "@If you ever need anything, come back here, and I'll set you up!" end
+    "@Se vi ever bezonas anything, veni back here, kaj Mi'll set vi up!" end
 
 l_0xc51f62:
-    "@So what'll it be today?[03]" eob
+    "@So kio'll [C1]i be hodia[C5]?[03]" eob
 
 l_0xc51f74:
     "@[1C 05 00]?" next
     eob
 
 l_0xc51f7c:
-    "@Which of you is going to carry this?[03]" eob
+    "@Kiu of vi estas going al carry [C0]i tiu?[03]" eob
 
 l_0xc51f91:
-    "@So, man, are you gonna equip it here?" linebreak
+    "@So, viro, are vi gonna equip [C1]i here?" linebreak
     eob
 
 l_0xc51fa7:
-    "@Can I buy your" linebreak
+    "@povas Mi A[C0]eti via" linebreak
     "  [1C 05 00]" linebreak
     "  for {swap}$[1C 0A 00 00 00 00]?" linebreak
     eob
 
 l_0xc51fc8:
-    "@[1C 02 00] can't equip this." next
-    "  Do ya still want to buy it?" linebreak
+    "@[1C 02 00] povas't equip [C0]i tiu." next
+    "  Do ya still volas al A[C0]eti [C1]i?" linebreak
     eob
 
 l_0xc51fe7:
@@ -325,23 +325,23 @@ l_0xc51fe7:
     eob
 
 l_0xc51ff8:
-    "@Oh, most heinous!" linebreak
-    "  You dudes don't have enough money for this." next
+    "@Ho, plej heinous!" linebreak
+    "  Vi dudes don't havas enough mono for [C0]i tiu." next
     eob
 
 l_0xc5201d:
     "@Dudes!" linebreak
-    "  You simply have too much stuff in your kit!" next
-    "@But don't sweat it, I can buy some stuff you don't need." linebreak
+    "  Vi simply havas tro much stuff en via kit!" next
+    "@Sed don't sweat [C1]i, Mi povas A[C0]eti iom stuff vi don't bezonas." linebreak
     eob
 
 l_0xc52059:
-    "@Now, you're sure you want to sell this to me...[03]" eob
+    "@Nun, vi're sure vi volas al Vendi [C0]i tiu al mi...[03]" eob
 
 l_0xc5206d:
-    "@The [1C 05 00]?" linebreak
-    "  I'll buy it for {swap}$[1C 0A 00 00 00 00]." next
-    "@You positive you want to sell it?" linebreak
+    "@La [1C 05 00]?" linebreak
+    "  Mi'll A[C0]eti [C1]i for {swap}$[1C 0A 00 00 00 00]." next
+    "@Vi positive vi volas al Vendi [C1]i?" linebreak
     eob
 
 l_0xc5209b:
@@ -349,84 +349,84 @@ l_0xc5209b:
     eob
 
 l_0xc520a2:
-    "@Man, you don't have anything to sell me!" next
+    "@Viro, vi don't havas anything al Vendi mi!" next
     eob
 
 l_0xc520b9:
-    "@Sorry dude, but I can't buy that." next
+    "@Sorry dude, sed Mi povas't A[C0]eti tio." next
     eob
 
 l_0xc520cf:
-    "@Thanks!" next
+    "@dankon!" next
     eob
 
 l_0xc520d5:
-    "@Thanks, buddy!" next
+    "@dankon, buddy!" next
     eob
 
 l_0xc520e1:
-    "@Is there anything else I can do for you?" linebreak
+    "@Estas tia anything else Mi povas do for vi?" linebreak
     eob
 
 l_0xc520f1:
-    "@What is it?" linebreak
+    "@Kio estas [C1]i?" linebreak
     eob
 
 l_0xc520fa:
-    "@[1C 02 00] has too many things." next
-    "@Does somebody else want to carry it?" linebreak
+    "@[1C 02 00] has tro many a[C3]oj." next
+    "@Does somebody else volas al carry [C1]i?" linebreak
     eob
 
 l_0xc5211e:
-    "@Hi!" next
-    "@Can I help you?" linebreak
+    "@Sal'!" next
+    "@povas Mi helpi vi?" linebreak
     eob
 
 l_0xc52130:
-    "@Thanks so much!" end
+    "@dankon so much!" end
 
 l_0xc52139:
-    "@Are you here just to say <Hi>?  What a loser!" end
+    "@Are vi here just al say <Sal'>?  Kio a loser!" end
 
 l_0xc52154:
-    "@So, what are you going to buy?[03]" eob
+    "@So, kio are vi going al A[C0]eti?[03]" eob
 
 l_0xc52163:
     "@[1C 05 00]?" next
     eob
 
 l_0xc5216b:
-    "@Who's going to carry this?[03]" eob
+    "@Kiu's going al carry [C0]i tiu?[03]" eob
 
 l_0xc5217a:
-    "@Would you like to equip it here?" linebreak
+    "@Would vi like al equip [C1]i here?" linebreak
     eob
 
 l_0xc52189:
-    "@Do you want me to buy" linebreak
-    "  your [1C 05 00]" linebreak
+    "@Do vi volas mi al A[C0]eti" linebreak
+    "  via [1C 05 00]" linebreak
     "  for {swap}$[1C 0A 00 00 00 00]?" next
     eob
 
 l_0xc521aa:
-    "@Even though [1C 02 00] can't equip this," next
-    "@do you still want to purchase it?" linebreak
+    "@E[C0] though [1C 02 00] povas't equip [C0]i tiu," next
+    "@do vi still volas al purchase [C1]i?" linebreak
     eob
 
 l_0xc521d3:
-    "@Please come again." next
+    "@Please veni again." next
     eob
 
 l_0xc521dc:
-    "@I'm sorry, but you don't have enough money." next
+    "@Mi'm sorry, sed vi don't havas enough mono." next
     eob
 
 l_0xc521ec:
-    "@Oh, how are you planning to carry this?  You've got too much stuff!" next
-    "@Well, I guess I could buy the stuff you don't need." next
-    "@Do you want to sell anything?" linebreak
+    "@Ho, kiel are vi planning al carry [C0]i tiu?  Vi've got tro much stuff!" next
+    "@Well, Mi guess Mi could A[C0]eti la stuff vi don't bezonas." next
+    "@Do vi volas al Vendi anything?" linebreak
     eob
 
 l_0xc5222e:
-    "@What can you sell me?[03]" eob
+    "@Kio povas vi Vendi mi?[03]" eob
 
