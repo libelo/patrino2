@@ -271,7 +271,7 @@ l_0xc8b3f8:
     "[06 D9 00 {e(l_0xc8b460)}]@Al iri al Scarabi,{pause(15)} vi bezonas al cross la sea." next
     "@However a monster named Kraken lives en la open sea." next
     "@Li atakas ships tio pass through." next
-    "@Are vi scared?" end
+    "@Are vi timigita?" end
 
 l_0xc8b460:
     "@Mi'm a mighty sailor viro" next

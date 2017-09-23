@@ -81,7 +81,7 @@ l_0xc577d8:
     "[06 DA 00 {e(l_0xc57911)}]@A scary place called Deep Darkness estas on la alia side of la river." next
     "@La monsters are tre Forta kaj vi povas lose via health" next
     "@just by wandering en la swamp." next
-    "@Do vi volas al cross la river,{pause(15)} e[C0] though vi scii [C1]i's a stupid idea?" next
+    "@Do vi volas al cross la river,{pause(15)} e[C0] though vi scii [C1]i's a stupid ideo?" next
     "[19 02]Jes" eob
 
 l_0xc57864:

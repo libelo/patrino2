@@ -271,7 +271,7 @@ l_0xc9a757:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc9a766)} {e(l_0xc9a766)}]" goto(l_0xc9a766)
 
 l_0xc9a766:
-    "@Mi asked vi <Kiu unu do vi like?>...{wait}{window_closeall}" eob
+    "@Mi dimandis vi <Kiu unu do vi like?>...{wait}{window_closeall}" eob
 
 l_0xc9a783:
     "{sound(111)}{pause(40)}{window_open(1)}[06 47 00 {e(l_0xc9a7c8)}]@Vi a zombie?" next

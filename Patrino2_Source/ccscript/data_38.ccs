@@ -45,7 +45,7 @@ l_0xc7f8c7:
     "  Zooooom!{wait}{font_normal}" eob
 
 l_0xc7f921:
-    "{font_saturn}@Estis scared." next
+    "{font_saturn}@Estis timigita." next
     "@Nun kay-o." linebreak
     "  Mi Forta." next
     "@Boing!{font_normal}" end

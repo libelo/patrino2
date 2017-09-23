@@ -314,7 +314,7 @@ l_0xc7d36e:
     "@Vi've been out tia for a long tempo nun..." next
     "@[B1]i may be none of mia" linebreak
     "  business," next
-    "@sed don't vi pensi [C1]i would be a bona idea se vi took a break?" next
+    "@sed don't vi pensi [C1]i would be a bona ideo se vi took a break?" next
     "[19 02]Jes" eob
 
 l_0xc7d3de:
@@ -338,7 +338,7 @@ l_0xc7d4af:
     "{window_open(1)}@Saluton, [C1]i's via pa[C0]jo." next
     "@Vi've been out tia for a long tempo nun..." next
     "@[B1]i may be none of mia business," next
-    "@sed don't vi pensi [C1]i would be a bona idea se vi took a break?" next
+    "@sed don't vi pensi [C1]i would be a bona ideo se vi took a break?" next
     "[19 02]Jes" eob
 
 l_0xc7d510:
@@ -366,7 +366,7 @@ l_0xc7d630:
     "{window_open(1)}[19 10 01]@Saluton, [C1]i's via pa[C0]jo." next
     "@Vi've been out tia for a long tempo nun..." next
     "@[B1]i may be none of mia business," next
-    "@sed don't vi pensi [C1]i would be a bona idea se vi took a break?" next
+    "@sed don't vi pensi [C1]i would be a bona ideo se vi took a break?" next
     "[19 02]Jes" eob
 
 l_0xc7d694:
@@ -384,7 +384,7 @@ l_0xc7d6aa:
 
 l_0xc7d748:
     "@Ahhh... kaj [C0]i tiu would be...?  So, [C0]i tiu isn't [1C 01 08]." next
-    "@Whoever vi are, Dankon for watching after mia son, [1C 01 08]." next
+    "@Whoever vi are, dankon for watching after mia son, [1C 01 08]." next
     "@Mi just wish tio vi guys would take a break." next
     "@Vi'd senti so much more refreshed later on." next
     "@Vi'd anka[C5] eble havas much better [C4]an[C0]o on via adventure." next
@@ -428,7 +428,7 @@ l_0xc7d92a:
 
 l_0xc7d947:
     newline
-    "@Tiu [C0]i estas [1C 05 00] ene![03]" eob
+    "@Tiu [C0]i ene estas [1C 05 00]![03]" eob
 
 l_0xc7d958:
     newline
@@ -437,7 +437,7 @@ l_0xc7d958:
 l_0xc7d967:
     "[19 10 01]{swap}" newline
     "@[1C 02 00] added la{load_registers} [1C 05 00] " linebreak
-    " al {swap}[1C 02 00]'s stuff.{swap}" end
+    " al {swap}[1C 02 00] de a[C3]oj.{swap}" end
 
 l_0xc7d991:
     newline

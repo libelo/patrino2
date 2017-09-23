@@ -45,23 +45,23 @@ l_0xc66d2b:
     "@[B1]i seems vi havas tro many items al carry!" end
 
 l_0xc66d3e:
-    "[06 EE 02 {e(l_0xc66e13)}][06 D7 01 {e(l_0xc66df2)}]@Kio estis tio noise?" next
-    "@[1C 02 01],{pause(15)} vi don't seem scared.{pause(20)}  Are vi nuts?" next
-    "@Kaj nun vi volas al iri check [C1]i out?{pause(15)}  ...ho{pause(15)} ...okej." next
-    "@Vi'll sneak out of via [C0]ambro anyway,{pause(15)} e[C0] se Mi asked vi ne al." next
-    "@At least change out of via jammies before vi iri.[03]{window_closeall}{pause(1)}{set(flag 471)}{unset(flag 749)}[1F 21 C4]" eob
+    "[06 EE 02 {e(l_0xc66e13)}][06 D7 01 {e(l_0xc66df2)}]@Kio estis tio bruo?" next
+    "@[1C 02 01],{pause(15)} vi ne [C4]ajne timigita.{pause(20)}  [B0]u vi frenezas?" next
+    "@Kaj nun vi volas iri al rigardu [C1]in?{pause(15)}  ...ho{pause(15)} ...okej." next
+    "@Vi iel ekster[C4]teli[C1]os el via [C0]ambro,{pause(15)} e[C0] se mi dimandis vin ne." next
+    "@Almena[C5] [C4]an[C1]u el vian pi[C3]amon anta[C5] vi iru.[03]{window_closeall}{pause(1)}{set(flag 471)}{unset(flag 749)}[1F 21 C4]" eob
 
 l_0xc66df2:
-    "@Be careful!{pause(20)}  Veni hejmo as soon as vi povas." end
+    "@Atentu!{pause(20)}  Venu hejme kiel eble vi povas." end
 
 l_0xc66e13:
-    "@Kio estis tio noise?" next
-    "@Vi don't seem scared at all.{pause(20)}  Be careful!" end
+    "@Kio estis tio bruo?" next
+    "@Vi ne [C4]ajne tute timigita.{pause(20)}  Atentu!" end
 
 l_0xc66e40:
     "@Bonvenon hejmo,{pause(15)} [1C 02 01]." next
-    "@[B1]i's ne necessary al paroli about [C1]i tonight." next
-    "@[B1]i's malfrua,{pause(20)} scoot off al lito nun." linebreak
+    "@Ne estas necesa parolu pli [C1]in [C0]i-nokte." next
+    "@Estas malfrua,{pause(20)} scoot off al lito nun." linebreak
     "[19 02]Jes" eob
 
 l_0xc66e8a:
@@ -71,40 +71,40 @@ l_0xc66e90:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc66eca)} {e(l_0xc66e9f)}]" goto(l_0xc66e9f)
 
 l_0xc66e9f:
-    "@Ho,{pause(15)} [1C 02 01].{pause(20)}  Vi don't komprenas la importance of a bona nokto's dormi!" end
+    "@Ho,{pause(15)} [1C 02 01].{pause(20)}  Vi ne komprenas la gravo de bonan nokton dormi!" end
 
 l_0xc66eca:
     "{window_closeall}[1F 07 03]{set(flag 295)}{set(flag 469)}{set(flag 530)}{unset(flag 474)}{set(flag 473)}{set(flag 468)}{set(flag 749)}{unset(flag 11)}{unset(flag 517)}[1F 15 6A 00 79 02 01][1F 61]{pause(120)}[1F EB FF 06][1F 15 6A 00 FD 02 01][1F 61][1F 21 51]{pause(180)}[1F 15 B5 01 0B 03 FF][1F 21 C4][1F E5 FF]{pause(1)}[1F 1F B5 01 06][1F EC FF 01]" eob
 
 l_0xc66f20:
-    "@Don't vi scii kio tempo [C1]i estas?!{pause(20)}  Get via stumpo hejmo,{pause(15)} pronto!" end
+    "@[B0]u vi ne scias kiom da tempo [C1]i estas?!{pause(20)}  Igi vian stumpon hejme,{pause(15)} haste!" end
 
 l_0xc66f4a:
-    "@Mi volas al return hejmo,{pause(15)} sed la road estas closed." next
-    "@People are taking [C0]i tiu meteorite situation tro seriously!" end
+    "@Mi volas reveni hejme,{pause(15)} sed la vojon estas fermita." next
+    "@Homoj prenas [C0]i tiu situacio de meteorito tro serioze!" end
 
 l_0xc66f90:
-    "@Don't panic!{pause(20)}  [B1]i's just a...{pause(20)} kio?!... meteorite tio...{pause(20)} kiu?!... fell." next
-    "@Mi just volas...{pause(15)} kio?!{pause(20)} ...iri hejmo..." end
+    "@Ne paniku!{pause(20)}  [B1]i estas nur...{pause(20)} kio?!... meteorito ke...{pause(20)} kiu?!... falis." next
+    "@Mi nur volas...{pause(15)} kio?!{pause(20)} ...iru hejme..." end
 
 l_0xc66fe2:
-    "@Onett police are infamous for closing roads se io estas okazas." next
-    "@Ni are going for la Guiness record..." end
+    "@Onett polico estas fu[C4]renoma pro fermanta vojoj se io okazas." next
+    "@Ni iranta por la Guiness record..." end
 
 l_0xc67026:
-    "@Did vi a[C5]di la granda bang?{pause(20)}" linebreak
-    "  Mi pensi a meteorite landed nearby." next
-    "@Mi volas al be la first al vidi [C1]i.{pause(15)}  Okej?" next
-    "@Mi am going al try al be la first al get tia..." end
+    "@[B0]u vi a[C5]dis la krakegi?{pause(20)}" linebreak
+    "  Mi pensas meteorito alteri[C1]is proksima." next
+    "@Mi volas esti la unua ke vidos [C1]in.{pause(15)}  Okej?" next
+    "@Mi estos peni la unua alvenas tian..." end
 
 l_0xc67089:
-    "@A meteorite has landed,{pause(15)} la Sharks are running wild en town," next
-    "@vi kids are wandering around,{pause(15)} kaj,{pause(15)} Mi'm hungry...{pause(20)}" linebreak
+    "@Meteorito alteri[[C1]inta,{pause(15)} la [B4]arkoj senbridas en urbeton," next
+    "@vi idoj vagras [C0]irka[C5]e,{pause(15)} kaj,{pause(15)} mi malsatas...{pause(20)}" linebreak
     "  Mi malamas mia laboro!" end
 
 l_0xc670e6:
-    "[06 D8 01 {e(l_0xc67130)}]@[B1]i's dangerous al iri al la hilltop." next
-    "@E[C0] se Mi advise vi ne al iri,{pause(15)} [C1]i won't stop vi,{pause(15)} will [C1]i?" end
+    "[06 D8 01 {e(l_0xc67130)}]@Estas dan[C1]era pro iri al la montentsupro." next
+    "@E[C0] se mi deadmonu vin,{pause(15)} Ne estos halti vin,{pause(15)} [C0]u ne?" end
 
 l_0xc67130:
     "@A{pause(5)}a{pause(5)}a{pause(5)}a{pause(5)}a{pause(5)}h{pause(15)}--h..." next
@@ -113,22 +113,22 @@ l_0xc67130:
     "  ...jes,{pause(15)} [C1]i does..." end
 
 l_0xc67194:
-    "@Hey, vi!{pause(15)}  Don't vi scii kio tempo [C1]i estas?" end
+    "@Hej, vi!{pause(15)}  [B0]u vi ne scias kiom da tempo [C1]i estas?" end
 
 l_0xc671ad:
-    "@Clear out. Get out of mia way." linebreak
-    "  Clear out. Get out of mia way." linebreak
-    "  Clear out. Get out of mia way." next
-    "@Clear out. Of way out get mia" next
-    "@Whoops,{pause(15)} mia mistake...{pause(20)}" linebreak
-    "  Mi mean <get out of mia way!>" end
+    "@Transloki[C1]u. Eliri de mia vojo." linebreak
+    "  Transloki[C1]u. Eliri de mia vojo." linebreak
+    "  Transloki[C1]u. Eliri de mia vojo." next
+    "@Transloki[C1]u. De vojo el iri mia" next
+    "@Whoops,{pause(15)} mia eraro...{pause(20)}" linebreak
+    "  Mi signifas <eliri de mia vojo!>" end
 
 l_0xc67229:
     "@[B4][C4][C4].{pause(15)}  [B4][C4][C4]!" end
 
 l_0xc67237:
-    "@Nice timing,{pause(15)} [1C 02 01].{pause(20)}  Will vi do io about Porky?" next
-    "@Li's driving mi nuts.{pause(20)}  Are vi du amikoj?" linebreak
+    "@[B1]ustatempe,{pause(15)} [1C 02 01].{pause(20)}  [B0]u vi faros ion pri Porka?" next
+    "@Li's driving mi nuts.{pause(20)}  [B0]u ni amba[C5] amikoj?" linebreak
     "[19 02]Jes" eob
 
 l_0xc67286:
@@ -138,20 +138,20 @@ l_0xc6728c:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc672cc)} {e(l_0xc6729b)}]" goto(l_0xc6729b)
 
 l_0xc6729b:
-    "@Vi're ne amikoj,{pause(15)} sed aren't vi neighbors?" next
-    "@C'mon,{pause(15)} helpi mi out here!" end
+    "@Vi ne estas amikoj,{pause(15)} sed [C0]u vi ne najbaroj?" next
+    "@C'mon,{pause(15)} help me out here!" end
 
 l_0xc672cc:
-    "@Kaj vi live en la domo next al lia...{pause(20)}  Mi vidi..." end
+    "@Kaj vi lo[C1]as en la domo apud lian...{pause(20)}  Mi vidas..." end
 
 l_0xc672eb:
-    "@Tio meteorite looks diferenca ol kutima." next
-    "@[B1]i's strange kaj marvelous...{pause(20)} as well as mysterious..." linebreak
+    "@Tiun meteorito aspektas diferenca ol kutima." next
+    "@Estas stranga kaj mira...{pause(20)} kaj anka[C5] mistera..." linebreak
     "  {pause(20)}o{pause(5)}o{pause(5)}o{pause(5)}o{pause(5)}o!..." end
 
 l_0xc67349:
-    "[06 D8 01 {e(l_0xc6739f)}]@Hey,{pause(15)} [1C 02 01]." next
-    "@Don't be rubberneckin'.{pause(20)}  Vi're gettin' en la cops,{pause(15)} oops..." next
+    "[06 D8 01 {e(l_0xc6739f)}]@Hej,{pause(15)} [1C 02 01]." next
+    "@Ne estu ka[C5][C0]ukkolu.{pause(20)}  Vi're gettin' en la cops,{pause(15)} oops..." next
     "@Mi mean officer's way!" next
     "{set(flag 472)}{set(flag 474)}" goto(l_0xc6739f)
 
@@ -323,7 +323,7 @@ l_0xc67c98:
     "@Mi estis neither a murder suspect," next
     "@nor a target for an international spy organization." next
     "@Sed Mi drove a a[C5]to down la Jersey Turnpike at 80 mph." next
-    "@...A police officer pulled mi over kaj asked for mia driver's license." next
+    "@...A police officer pulled mi over kaj dimandis for mia driver's license." next
     "@Li said Mi estis going 20 mph over la Rapido limit." next
     "@Mi instantly pointed al mia edzino kaj said <Mi'm en a hurry,{pause(15)} mia edzino estas en labor.>" next
     "@Fortunately,{pause(15)} mia edzino actually havis a granda stomach." next
@@ -331,7 +331,7 @@ l_0xc67c98:
     "@<Ho,{pause(15)} since [C1]i's an emergency." next
     "@Mi'll lead vi al la hospital kun mia police a[C5]to,>{pause(15)} li said." next
     "@<Ne,{pause(15)} [C1]i's ne necessary.>{pause(20)}" linebreak
-    "  <Kial ne?>{pause(15)} asked la officer." next
+    "  <Kial ne?>{pause(15)} dimandis la officer." next
     "@<Uh...{pause(15)} well...>{pause(30)}" linebreak
     "  <Let's get going,>{pause(15)} said la officer..." next
     "@<Ne,{pause(15)} ne!{pause(20)}  Ni povas't!{pause(30)}  [B0]i tiu bebo estas a demon child!>" end

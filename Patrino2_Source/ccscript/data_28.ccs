@@ -212,7 +212,7 @@ l_0xc70c8d:
     "@Tia's a tunnel northwest of [C0]i tiu town." next
     "@Tia are du guard zombies tio hang out at la entrance." next
     "@Ili are actually pretty nice guys..." next
-    "@[B1]i might be a bona idea al meet those guys..." next
+    "@[B1]i might be a bona ideo al meet those guys..." next
     "@Sed [C1]i's quite [C0]io right se vi don't..." next
     "@Though Mi pensi tio vi vere ought al iri tia." call(data_29.l_0xc726cb) eob
 
@@ -368,7 +368,7 @@ l_0xc71808:
     "@estas waiting for la [1C 05 8B]." call(data_29.l_0xc726cb) eob
 
 l_0xc71837:
-    "@Mi a[C5]dis tio vi estis asked al dinner" next
+    "@Mi a[C5]dis tio vi estis dimandis al dinner" next
     "@by la cute maid at la Monotoly Building." next
     "@Lucky vi!  Mi envy kids like vi... sed just a bit." call(data_29.l_0xc726cb) eob
 

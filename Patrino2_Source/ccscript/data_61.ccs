@@ -273,7 +273,7 @@ l_0xef6446:
     "@Tia's a prophecy tio a knabo will destroy Master Gyiyg." next
     "@Heeg!  Heeg!  Heeg!" linebreak
     "  Vi fari mi laugh so hard..." next
-    "@Se Master Gyiyg estas scared of iu..." next
+    "@Se Master Gyiyg estas timigita of iu..." next
     "{sound(78)}@li would havas al be worse ol la greatest evil..." next
     "@Garg!  Ga!  Garg!  Ga!  Ga!  Ga!" next
     "@Mi'll take vi down granda tempo, so get ready for la worst fight of via vivo!" next
@@ -298,7 +298,7 @@ l_0xef66ca:
     "@Mi a[C5]dis tia's a prophecy tio li would defeat Master Gyiyg..." next
     "@Heeg Heeg Heeg" linebreak
     "  Vi fari mi laugh so hard!" next
-    "@Se Master Gyiyg estas scared of iu...{sound(78)}" next
+    "@Se Master Gyiyg estas timigita of iu...{sound(78)}" next
     "@li would havas al be worse ol la greatest evil..." next
     "@Mi'll take vi down granda tempo,{pause(15)} so get ready for la worst fight of via vivo!" next
     goto(l_0xef6569)

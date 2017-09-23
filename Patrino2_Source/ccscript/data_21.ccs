@@ -461,12 +461,12 @@ l_0xc66a83:
     "@(La Golden Statue estas glowing strangely...){sound(113)}" end
 
 l_0xc66aa4:
-    "[06 49 00 {e(data_31.l_0xc7625e)}][06 B4 02 {e(data_22.l_0xc66bc0)}][06 B5 02 {e(data_22.l_0xc66c7d)}][06 78 02 {e(l_0xc66b33)}][06 61 00 {e(data_31.l_0xc76112)}][06 D6 01 {e(l_0xc66afe)}]@Hej,{pause(10)} frat'.{pause(20)}  [B0]u la sound vekigis vin?" next
-    "@[B0]u vi frenezi[C1]estas?{wait}{set(flag 470)}" eob
+    "[06 49 00 {e(data_31.l_0xc7625e)}][06 B4 02 {e(data_22.l_0xc66bc0)}][06 B5 02 {e(data_22.l_0xc66c7d)}][06 78 02 {e(l_0xc66b33)}][06 61 00 {e(data_31.l_0xc76112)}][06 D6 01 {e(l_0xc66afe)}]@Hej,{pause(10)} frat'.{pause(20)}  [B0]u la sono vekigis vin?" next
+    "@[B0]u vi frenezi[C1]inta?{wait}{set(flag 470)}" eob
 
 l_0xc66afe:
     "@[B0]u vi pensas panjo lasos mi restvekas malfrue [C0]i-nokte?" next
-    "@Mi ne povas [C4]ajne re-ekdormi." end
+    "@Mi ne [C4]ajne povas re-ekdormi." end
 
 l_0xc66b33:
     "@Mi povas only helpi by keeping via items here..." next

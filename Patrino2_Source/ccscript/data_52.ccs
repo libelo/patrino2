@@ -88,7 +88,7 @@ l_0xc94fe8:
     "@Well, [C1]i's ne important." end
 
 l_0xc94ff9:
-    "@Okej,{pause(15)} vi asked for [C1]i..." next
+    "@Okej,{pause(15)} vi dimandis for [C1]i..." next
     "@ready?" next
     goto(l_0xc94f49)
 
@@ -410,15 +410,15 @@ l_0xc96479:
 
 l_0xc9649a:
     "[06 47 00 {e(l_0xc964d9)}]@Al take la bus, a[C5] ne al take la bus... hmmm." next
-    "@Mi get scared pretty easily..." end
+    "@Mi get timigita pretty easily..." end
 
 l_0xc964d9:
     "@Al take la bus, a[C5] ne al take la bus... hmm." next
     "@Mi get sick pretty easily..." end
 
 l_0xc9650f:
-    "@Mi estis en la last war,{pause(20)} so Mi'm ne scared of ghosts." next
-    "@Actually,{pause(15)} Mi'm more scared of mia old lady, ha!" end
+    "@Mi estis en la last war,{pause(20)} so Mi'm ne timigita of ghosts." next
+    "@Actually,{pause(15)} Mi'm more timigita of mia old lady, ha!" end
 
 l_0xc96552:
     "@[B0]i tiu town's bus system estas a little strange." next

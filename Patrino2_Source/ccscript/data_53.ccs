@@ -301,7 +301,7 @@ l_0xc9720d:
 l_0xc97289:
     "@9{pause(5)}  8{pause(5)}  7{pause(1)}  6  5  4  3  2  1  0..." linebreak
     "  Baboooooooom!!" next
-    "@Wow!{pause(20)}  Mi scared myself.{wait}{set(flag 168)}" eob
+    "@Wow!{pause(20)}  Mi timigita myself.{wait}{set(flag 168)}" eob
 
 l_0xc972d8:
     "@Mi got surprised." end

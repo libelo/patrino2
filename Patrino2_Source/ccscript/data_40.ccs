@@ -37,7 +37,7 @@ l_0xc82a04:
 
 l_0xc82a34:
     "@Kio did vi do dum la power outage?" next
-    "@Mi estis sitting here 'cause Mi estis scared." end
+    "@Mi estis sitting here 'cause Mi estis timigita." end
 
 l_0xc82a63:
     call(data_13.l_0xc5d401) eob
@@ -195,7 +195,7 @@ l_0xc8337e:
 
 l_0xc833b1:
     "[06 49 00 {e(l_0xc834a8)}][06 8F 00 {e(l_0xc83457)}]@Vi knaboj are sneaking around, looking for Mr. Monotoly, aren't vi?" next
-    "@Se Mi catch vi knaboj doing anything,{pause(15)} Mi'll arrest vi--ne questions asked!" next
+    "@Se Mi catch vi knaboj doing anything,{pause(15)} Mi'll arrest vi--ne questions dimandis!" next
     "@Be prepared!" next
     "[19 10 01]{rtoarg}@Got [C1]i, [1C 02 00]..." next
     "@Ha ha ha." next

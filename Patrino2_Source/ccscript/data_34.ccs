@@ -140,7 +140,7 @@ l_0xc7a300:
     "@Mi bet vi could get rid of [C0]io la zombies" next
     "@tio are terrorizing la area kun [C0]i tiu paper!" next
     "{pause(60)}" linebreak
-    "@Anyway, Mi just asked la Mach Pizza delivery viro" next
+    "@Anyway, Mi just dimandis la Mach Pizza delivery viro" next
     "@al deliver la Zombie Paper al vi, [1C 02 01]." next
     "@Vi should get [C1]i pretty soon." next
     "@Mi've neniam actually seen a zombie, sed se tia vere are ajn," next
@@ -149,7 +149,7 @@ l_0xc7a300:
     "@*Click!* Beeeeep!{wait}{sound(11)}{window_closeall}{music_resume}[1F D3 08]{set(flag 675)}{set(flag 754)}" eob
 
 l_0xc7a542:
-    "{window_open(1)}@While delivering pizza, [C0]i tiu weird guy asked mi al helpi lin out..." next
+    "{window_open(1)}@While delivering pizza, [C0]i tiu weird guy dimandis mi al helpi lin out..." next
     "@Li volis mi al deliver [C0]i tiu al iu named [1C 02 01]" next
     "@...kiu estas wandering around Threek." next
     "@Ne unu else knows about [C0]i tiu, right?" next

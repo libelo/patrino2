@@ -271,12 +271,12 @@ l_0xc692f7:
     "{music(115)}{pause(60)}{wait}[1F 01 00]{sound(11)}{window_open(1)}@Sorry al bother vi, granda bro..." next
     "@[B0]i tiu estas Escargo Express." next
     "@Mi havis a telefono call from a amiko of via recently." next
-    "[06 B3 02 {e(l_0xc69394)}]@[B4]i asked mi al hold onto la Octopus Eraser ma[C4]ino." next
+    "[06 B3 02 {e(l_0xc69394)}]@[B4]i dimandis mi al hold onto la Octopus Eraser ma[C4]ino." next
     "@Do vi scii anything about [C0]i tiu?" next
     "{set(flag 692)}" goto(l_0xc693be)
 
 l_0xc69394:
-    "@Li asked mi al hold onto la [1C 05 AF] for vi." next
+    "@Li dimandis mi al hold onto la [1C 05 AF] for vi." next
     "@Do vi scii anything about [C0]i tiu?" next
     "{set(flag 693)}" goto(l_0xc693be)
 

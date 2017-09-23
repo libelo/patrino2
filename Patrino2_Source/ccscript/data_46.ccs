@@ -19,7 +19,7 @@ l_0xc8db32:
     "@Ni may [C0]io get munched before ni havas a chance al do anything..." end
 
 l_0xc8db92:
-    "@Maybe a bona idea would be al try al get [C0]io la zombies into a single spot." end
+    "@Maybe a bona ideo would be al try al get [C0]io la zombies into a single spot." end
 
 l_0xc8dbbe:
     "@Hey!  Stupid zombies!{pause(20)}  Veni out, veni out wherever vi are!" next
@@ -210,7 +210,7 @@ l_0xc8e5a4:
     "@viziti Threek again!" end
 
 l_0xc8e5b1:
-    "[06 47 00 {e(l_0xc8e5f7)}][06 7D 00 {e(l_0xc8e5f7)}]@Mi'm so scared of la zombies, Mi spend [C0]io of mia tempo running from ilin." next
+    "[06 47 00 {e(l_0xc8e5f7)}][06 7D 00 {e(l_0xc8e5f7)}]@Mi'm so timigita of la zombies, Mi spend [C0]io of mia tempo running from ilin." next
     "@Mi povas't e[C0] get hejmo!" end
 
 l_0xc8e5f7:
@@ -358,7 +358,7 @@ l_0xc8ef99:
     "@Mi vidis a suspicious virino talking kun la zombies around here." end
 
 l_0xc8efb9:
-    "[06 47 00 {e(l_0xc8f0d2)}][06 7D 00 {e(l_0xc8f086)}][06 7C 00 {e(l_0xc8f066)}][06 28 02 {e(l_0xc8f031)}]@Frankly, Mi'm running scared." next
+    "[06 47 00 {e(l_0xc8f0d2)}][06 7D 00 {e(l_0xc8f086)}][06 7C 00 {e(l_0xc8f066)}][06 28 02 {e(l_0xc8f031)}]@Frankly, Mi'm running timigita." next
     "@Mi don't mean tio Mi actually run around.{pause(20)}  Mi just mean Mi am frightened." next
     "@Conditions en la town are getting worse." end
 

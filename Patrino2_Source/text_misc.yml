@@ -22,19 +22,19 @@ Battle Menu:
   Shoot: Pafi
   Spy: Spioni
 Equip Menu:
-  Arms: '   Brakoj'
+  Arms: '   `Brakoj'
   Arms Window Title: Brakoj
-  Body: '    Korpo'
+  Body: '    `Korpo'
   Body Window Title: Korpo
-  Defense: Defendo
+  Defense: Defenso
   No Equip: (Nenio)
-  Offense: '  Ataka'
-  Other: '      Alia'
-  Other Window Title: Aliaj
+  Offense: Ataka
+  Other: '  `[CE][BE]Alia'
+  Other Window Title: Alia
   To: Al
-  Unequip: Neniu
-  Weapon: '  Armiloj'
-  Weapon Window Title: Armiloj
+  Unequip: Nenio
+  Weapon: '   `Armilo'
+  Weapon Window Title: Armilo
 Item Menu:
   Drop: Fori
   Give: Doni

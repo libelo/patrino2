@@ -258,7 +258,7 @@ l_0xc7eb4c:
     "  Scary!{wait}{font_normal}" eob
 
 l_0xc7ebc3:
-    "@Ne scared.{wait}{font_normal}" eob
+    "@Ne timigita.{wait}{font_normal}" eob
 
 l_0xc7ebcf:
     "@Fari" linebreak

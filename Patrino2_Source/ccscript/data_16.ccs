@@ -64,7 +64,7 @@ l_0xc5e8a0:
     "[19 24 2D 00 01 01 00][1F E4 2D 00 00]@Ho!" next
     "@Vi veki[C1]is mi up..." next
     "@Porky!{pause(15)}  Mi've been looking [C0]io over for vi..." next
-    "@Vi vidi,{pause(15)} Porky got scared kaj ran away..." next
+    "@Vi vidi,{pause(15)} Porky got timigita kaj ran away..." next
     "@Well, Mi'm glad tio vi're okej at least..." next
     "@Let's iri hejmo nun.{pause(20)}  Mi bet Panjo kaj Pa[C0]jo are worried sick about ni." next
     "@Geez!{pause(15)}  Kelkfoje Mi wonder kiu unu of ni estas la vere granda frato.[03]{sound(16)}" call(data_22.l_0xc681f0) "{set(flag 20)}{set(flag 37)}{set(flag 742)}[1F 66 01 0F 45 EA C5 00]{set(flag 100)}{unset(flag 466)}{unset(flag 468)}{set(flag 11)}" eob
@@ -432,7 +432,7 @@ l_0xc60322:
 
 l_0xc60349:
     "[06 F5 02 {e(l_0xc6058f)}][06 5A 00 {e(l_0xc6058f)}][06 48 00 {e(l_0xc6050b)}][06 89 00 {e(l_0xc604db)}]@[B0]i tiu hole's bonega!{pause(20)}  Bona hole, bona hole, bona hole..." next
-    "@First,{pause(15)} iu asked mi al dig for buried gold." next
+    "@First,{pause(15)} iu dimandis mi al dig for buried gold." next
     "@Mi began al senti like Mi estis obligated al trovi [C1]i." next
     "@Viro, am Mi starving." next
     "@Do vi havas ajn food vi povas spare?" linebreak

@@ -210,11 +210,11 @@ l_0xc6b2f1:
     "[1C 07 02][11]{clearline}[09 02 {e(l_0xc6b317)} {e(l_0xc6b300)}]" goto(l_0xc6b300)
 
 l_0xc6b300:
-    "@Well, at least Mi asked..." next
+    "@Well, at least Mi dimandis..." next
     goto(l_0xc6b329)
 
 l_0xc6b317:
-    "@Well, at least Mi asked..." next
+    "@Well, at least Mi dimandis..." next
     goto(l_0xc6b329)
 
 l_0xc6b329:
@@ -465,7 +465,7 @@ l_0xc6c168:
     eob
 
 l_0xc6c1c3:
-    "@Mi estis scared, sed Mi sciis Mi'd be saved se Mi courageously" next
+    "@Mi estis timigita, sed Mi sciis Mi'd be saved se Mi courageously" next
     "@just sat here kaj waited long enough..." next
     "@Tio's kio Mi pensis, sed Mi began al lose hope..." next
     "@Mi'm so glad vi saved mi after [C0]io." end

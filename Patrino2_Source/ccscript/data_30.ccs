@@ -204,7 +204,7 @@ l_0xc7484f:
     "{counter(1)}" call(data_36.l_0xc7dc7f) "[1B 03 {e(l_0xc74802)}]@Kio a cute, yellow backpack.{wait}{set(flag 9)}" eob
 
 l_0xc74874:
-    "@[B1]i's a bona idea al paroli al lots of people." end
+    "@[B1]i's a bona ideo al paroli al lots of people." end
 
 l_0xc7488d:
     "[06 97 02 {e(l_0xc748be)}]@Se [C4]i's en a bona mood,{pause(15)} a lady en la library will kiss vi." end
@@ -391,7 +391,7 @@ l_0xc7533c:
     "[06 0A 00 {e(data_31.l_0xc7546f)}]@Ho,{pause(10)} [1C 02 01]!{pause(20)}  Vi finally showed up..." next
     "@Tia are plenty of creepy monsters running around Onett nun." next
     "@La townspeople are barricaded en ilia homes,{pause(15)} timas al iri out." next
-    "@Mi'm bone...{pause(20)}  Sed Mi am a bit scared." next
+    "@Mi'm bone...{pause(20)}  Sed Mi am a bit timigita." next
     "@[C0]io will be okej se ni just sit here quietly en la dark." next
     "@Are vi hungry?" next
     "@Do vi volas al eat iom" linebreak

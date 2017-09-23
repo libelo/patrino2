@@ -148,7 +148,7 @@ l_0xc9cd01:
     eob
 
 l_0xc9cd02:
-    "[06 DD 00 {e(data_23.l_0xc685cb)}][19 10 01]{rtoarg}@[1C 02 00] malfermi[C1]estas la donacon ." next
+    "[06 DD 00 {e(data_23.l_0xc685cb)}][19 10 01]{rtoarg}@[1C 02 00] malfermi[C1]is la donacon ." next
     "@Inside estis la [1C 05 64].{wait}[1D 03 FF][1B 02 {e(data_23.l_0xc685bb)}]{sound(116)}[1D 00 FF 64][19 10 01]{rtoarg}@[1C 02 00] got [C1]i.{wait}{set(flag 221)}" eob
 
 l_0xc9cd4f:
@@ -175,7 +175,7 @@ l_0xc9ce2c:
     "@Look around la domo as much as vi volas." end
 
 l_0xc9ce4d:
-    "[06 DE 00 {e(data_23.l_0xc685cb)}][19 10 01]{rtoarg}@[1C 02 00] malfermi[C1]estas la donacon ." next
+    "[06 DE 00 {e(data_23.l_0xc685cb)}][19 10 01]{rtoarg}@[1C 02 00] malfermi[C1]is la donacon ." next
     "@Inside estis a [1C 05 80]." next
     "[1D 03 FF][1B 02 {e(data_23.l_0xc685bb)}]{sound(116)}[1D 00 FF 80][19 10 01]{rtoarg}@[1C 02 00] got [C1]i.{wait}{set(flag 222)}" eob
 
